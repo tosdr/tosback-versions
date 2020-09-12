@@ -81,7 +81,7 @@ Category
 
 e.g.
 
-*   Title, first name and last name
+*   e.g. title, first name and last name
 *   Job title and company name
 *   Industry
 *   Place: City and country
@@ -120,7 +120,7 @@ e.g.
 
 Visibility
 
-Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
+Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
 
 If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
@@ -174,7 +174,7 @@ e.g.
 
 Visibility
 
-Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
+Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
 
 Period saved for
 

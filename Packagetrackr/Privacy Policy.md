@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last modified: April 1, 2015
+Last modified: September 15, 2020
 
 Thanks for visiting our site. Without your trust, we would have to just go back to tracking our own shipments. That would make us sad. So, this page explains how you can expect us to treat the information that you choose share with us, and what we collect when you track packages on our site.
 
@@ -13,5 +13,7 @@ We use the information collected from the online surveys to compile reports on c
 We compile data collected from its online surveys to produce benchmark reports for our customers as well as media and other interested parties. Such information is based on aggregated, anonymous information and does not include any personally identifiable information about Packagetrackr users.
 
 We do use cookies to make the site work harder for you, by remembering your preferences and session details. You may choose to reject these cookies, however, in doing so, you will reduce the functionality of the site. Additionally, Google, as a third party vendor, uses cookies to serve ads on this site. Google uses the DoubleClick DART cookie to serve ads to your users based on their visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+When you use our website, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our partner/service provider, LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click here (https://optout.liveramp.com/opt\_out).
 
 If you have questions about our privacy policy, please email us at privacy\[at\]packagetrackr.com

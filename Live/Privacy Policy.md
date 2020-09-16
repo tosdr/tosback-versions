@@ -8,7 +8,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataCalifornia Consumer Privacy ActAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usEnterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products Microsoft 365Microsoft TeamsOneDriveOutlookSkypeSurface DuoLinkedInSearch, Microsoft Edge, and artificial intelligence BingCortanaMicrosoft EdgeMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge Legacy and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightWindows Mixed RealityCookies
+Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataCalifornia Consumer Privacy ActAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usProduct-specific details:Enterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products Microsoft 365Microsoft TeamsOneDriveOutlookSkypeSurface DuoLinkedInSearch, Microsoft Edge, and artificial intelligence BingCortanaMicrosoft EdgeMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge Legacy and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNGroove Music and Movies &. TVSilverlightWindows Mixed RealityCookies
 
 Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
@@ -92,7 +92,7 @@ The data we collect can include the following:
 
 Product-specific sections below describe data collection practices applicable to use of those products.
 
-Learn MoreTop of page How we use personal dataHow we use personal data
+Learn moreTop of page How we use personal dataHow we use personal data
 
 Microsoft uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to:
 
@@ -143,7 +143,7 @@ When we process personal data about you, we do so with your consent and/or as re
 *   **Legal compliance.** We process data to comply with law. For example, we use the age of our customers to ensure we meet our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
 *   **Research.** With appropriate technical and organizational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including for public interest and scientific purposes.
 
-Learn MoreTop of page Reasons we share personal dataReasons we share personal data
+Learn moreTop of page Reasons we share personal dataReasons we share personal data
 
 We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Microsoft-controlled affiliates and subsidiaries. with vendors working on our behalf. when required by law or to respond to legal process. to protect our customers. to protect lives. to maintain the security of our products. and to protect the rights and property of Microsoft and its customers.
 
@@ -162,7 +162,7 @@ For more information about data we disclose in response to requests from law enf
 
 Please note that some of our products include links to or otherwise enable you to access products of third parties whose privacy practices differ from those of Microsoft. If you provide personal data to any of those products, your data is governed by their privacy policies.
 
-Learn MoreTop of page How to access and control your personal dataHow to access and control your personal data
+Learn moreTop of page How to access and control your personal dataHow to access and control your personal data
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
@@ -238,7 +238,7 @@ When you use a browser, you can control your personal data using certain feature
 *   **Tracking protections**. You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up) and Microsoft Edge. This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
 *   **Browser controls for "Do Not Track."** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals. We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above.
 
-Learn MoreTop of page Cookies and similar technologiesCookies and similar technologies
+Learn moreTop of page Cookies and similar technologiesCookies and similar technologies
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes. Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.
 
@@ -312,7 +312,7 @@ In addition to standard cookies and web beacons, our products can also use other
 
 **Silverlight Application Storage**. Websites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, see the Silverlight section of this privacy statement.
 
-Learn MoreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
+Learn moreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
 
 If you use a Microsoft product with an account provided by an organization you are affiliated with, such as your work or school account, that organization can:
 
@@ -373,11 +373,11 @@ If you sign in to Microsoft products with a work or school account, note:
 
 **Third-party accounts**. The data associated with a third-party Microsoft account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account. Your service provider has control over your account, including the ability to access or delete your account. **You should carefully review the terms the third party provided you to understand what it can do with your account.**
 
-Learn MoreTop of page Other important privacy informationOther important privacy information
+Learn moreTop of page Other important privacy informationOther important privacy information
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at Microsoft Privacy.
 
-Learn MoreTop of page Security of personal dataSecurity of personal data
+Learn moreTop of page Security of personal dataSecurity of personal data
 
 Microsoft is committed to protecting the security of your personal data. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure. For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential data (such as a credit card number or password) over the internet, we protect it through the use of encryption. Microsoft complies with applicable data protection laws, including applicable security breach notification laws.
 
@@ -530,7 +530,7 @@ Where French law applies, you can also send us specific instructions regarding t
 
 If you have a technical or support question, please visit Microsoft Support to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-Top of page Enterprise and developer productsEnterprise and developer products
+Top of page Product-specific details:Enterprise and developer productsEnterprise and developer products
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
@@ -556,7 +556,7 @@ If any of the terms below are not defined in this Privacy Statement or the OST, 
 
 The Enterprise and Developer Products enable you to purchase, subscribe to, or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services are governed by their respective privacy statements and policies.
 
-Learn MoreTop of page Enterprise online servicesEnterprise online services
+Learn moreTop of page Enterprise online servicesEnterprise online services
 
 To provide the Enterprise Online Services, Microsoft uses data you provide (including Customer Data, Personal Data, Administrator Data, Payment Data, and Support Data) and data Microsoft collects or generates associated with your use of the Enterprise Online Services. We process data as described in the Online Services Terms (OST) and the Microsoft Trust Center.
 
@@ -600,7 +600,7 @@ Top of page Productivity and communications productsProductivity and communicati
 
 Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.
 
-Learn MoreTop of page Microsoft 365Microsoft 365
+Learn moreTop of page Microsoft 365Microsoft 365
 
 Microsoft 365, previous versions called Office 365, is a collection of productivity services and Office applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Microsoft 365 is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Microsoft 365 services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. You can access the privacy controls within your Office apps by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
 
@@ -753,7 +753,7 @@ Top of page Search, Microsoft Edge, and artificial intelligenceSearch, Microsoft
 
 Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.
 
-Learn MoreTop of page BingBing
+Learn moreTop of page BingBing
 
 Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as Microsoft 365, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
@@ -882,7 +882,7 @@ Top of page WindowsWindows
 
 Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device. Additionally, your organization may use management tools provided by Microsoft or others to access and process your data from that device, including your interaction data, diagnostic data, and the contents of your communications and files. For more information about data collection and privacy in Windows, see Windows 10 and your online services. Earlier versions of Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are subject to their own privacy statements.
 
-Learn MoreTop of page ActivationActivation
+Learn moreTop of page ActivationActivation
 
 When you activate Windows, a specific product key is associated with the device on which your software is installed. The product key and data about the software and your device is sent to Microsoft to help validate your license to the software. This data may be sent again if there is a need to re-activate or validate your license. On phones running Windows, device and network identifiers, as well as device location at the time of the first power-up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.
 
@@ -1144,16 +1144,16 @@ Top of page Entertainment and related servicesEntertainment and related services
 
 Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.
 
-Learn MoreTop of page Xbox and Xbox LiveXbox and Xbox Live
+Learn moreTop of page Xbox and Xbox LiveXbox and Xbox Live
 
-Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
+Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs, and mobile devices.
 
 When you access an Xbox experience from a device, we assign you a unique device identifier. When your Xbox console is connected to the internet, we identify which console and which version of the Xbox operating system you are currently using. When you sign up for Xbox Live, we assign an Xbox user ID and a gamertag (a nickname) to identify you. Data we collect about your use of Xbox Live is stored with these unique identifier(s).
 
-We collect data about your use of the Xbox console, Xbox App, and Xbox Live such as:
+We collect data about your use of the Xbox console, Xbox App, Game Pass App, and Xbox Live, such as:
 
-*   When you sign in and sign out of Xbox Live, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
-*   Performance data about Xbox consoles, Xbox App and Xbox Live, connected devices, and your network connection, including software or hardware errors.
+*   When you sign in and sign out of Xbox Live and the Game Pass App, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
+*   Performance data about Xbox consoles, Xbox and Game Pass Apps, and Xbox Live, connected devices, and your network connection, including software or hardware errors.
 *   Content you add, upload, or share through Xbox Live, including text, images and video from within games or apps.
 *   Social activity, including your interactions with other gamers, and your connections, including friends and followers, on Xbox Live.
 *   If you use the Xbox console with Kinect, data about how you use Kinect. See below for more information about Kinect data collection.
@@ -1161,13 +1161,20 @@ We collect data about your use of the Xbox console, Xbox App, and Xbox Live such
 
 With your consent, we will collect information about videos you purchase or view through third-party apps on your Xbox console. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed in to Xbox Live on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign in.
 
-Microsoft uses the data we collect from your Xbox console, Xbox App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as number of unique users and playtime per game.
+Microsoft uses the data we collect from your Xbox console, Xbox App, Game Pass App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as the number of unique users and playtime per game.
 
 We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
 
+**Console Diagnostic Data**. Diagnostic data has two categories: required and optional. The Xbox console will send required data to Microsoft. Optional data is additional data that you choose to share with Microsoft.
+
+*   **Required**. The minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.
+*   **Optional**. Optional data includes additional details about your console, its settings, its health, its use, and enhanced error reporting to help us detect, diagnose, and remediate issues.
+
+See Diagnostic Data Collection for more information.
+
 **Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at xbox.com to limit or block sharing with the public or even with friends.
 
-**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
+**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
 
 **Linking your Xbox Live profile to non-Microsoft accounts**. Some games or apps available through Xbox Live, and some social features of Xbox Live, are delivered by third-party publishers or partner companies, which may require that you create a non-Microsoft account and sign-in credentials to use that game, app, or feature. If you choose to link your Xbox Live profile with an account of a third-party publisher or partner company, we will share with them limited account and profile information but will not include any credit card or other payment information.
 
@@ -1175,8 +1182,7 @@ We also use the data to improve and develop our products. As part of the Xbox Li
 
 *   If you choose, the camera can be used to sign you in to the service automatically using facial recognition. To do this, it takes an image of your face and measures distances between key points to create and store a numeric value that represents only you. This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time.
 *   For gameplay, Kinect will map distances between your body's joints to create a stick figure representation of you that helps Kinect enable gameplay. If you are playing online, we collect those numeric values to enable and improve gameplay and the gaming experience. Kinect also detects specific hand gestures intended to do simple system interactions (such as menu navigation, pan/zoom, and scroll).
-*   For some fitness games, Xbox can use the Kinect sensor to estimate your exercise data, including estimates such as your heart rate during a certain activity or the number of calories burned during a workout.
-*   Kinect's microphones enable voice chat between players during gameplay. They also enable voice commands for control of the console, game, or app, or to enter search terms. See below for additional details on voice data collection.
+*   Kinect's microphones enable voice chat between players during gameplay. They also enable voice commands for control of the console, game, or app, or to enter search terms.
 *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
 
 To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For Xbox One, see Kinect and Xbox One Privacy.
@@ -1184,8 +1190,6 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 **Captioning**. During Xbox Live real-time chat, players may activate a voice-to-text feature, which allows the user to view the audio in-game chat as text. If a user activates this feature, the other players will have no additional notice. Microsoft uses this data to provide captioning of chat for users who need it as well as the other purposes described in this privacy statement.
 
 **Communications monitoring**. Xbox Live includes communications features such as text and voice direct messaging and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the Microsoft Code of Conduct, we collect and monitor direct messaging, and text communications in live-hosted multiplayer gameplay sessions and other features of the service, such as activity feeds and clubs.
-
-**Voice data for service improvement**. We collect and use for service improvement voice search requests or samples of voice commands occurring while using Kinect or Cortana. This data is stored separately from your Xbox profile.
 
 **GameDVR**. Any player in a multiplayer game session can use GameDVR to record their view of the gameplay taking place in that session. The recording can capture your in-game character and gamertag in the game clips created by other players in the gameplay session. Note that if a player uses GameDVR on a PC, audio chat may also be captured in a game clip.
 
@@ -1218,12 +1222,6 @@ When you install MSN Apps, we collect data that tells us if the app was installe
 We also collect data about how you interact with MSN services, such as usage frequency and articles viewed, to provide you with relevant content. Some MSN services provide an enhanced experience when you sign in with your Microsoft account, including allowing you to customize your interests and favorites. You can manage personalization through MSN and Bing settings, as well as through settings in other Microsoft services that include MSN services. We also use the data we collect to provide you with advertisements that may be of interest to you. You can opt out of interest-based advertising through the advertising links within MSN services, or by visiting the Microsoft opt-out page.
 
 Previous versions of MSN Money allow you to access personal finance information from third-party financial institutions. MSN Money only displays this information and does not store it on our servers. Your sign-in credentials used to access your financial information from third parties are encrypted on your device and are not sent to Microsoft. These financial institutions, as well as any other third-party services you access through MSN services, are subject to their own terms and privacy policies.
-
-Top of page MixerMixer
-
-Mixer is an interactive, social, public online service for live streaming videos, videogames, and related content. Mixer collects account data, the information you provide for your public profile, content (such as chat and streams), and device and service usage data to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Your interactions with the service and with other users on the service are public and viewable by anyone, including chatting, following and subscribing to channels, and interacting with streamers, users, videos, and games. Additionally, if you chat or stream content on the service, any personal information you include will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct.
-
-Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) with your consent, the third party developer will have access to information about you that is not part of your public profile, such as your settings, email address and age range.
 
 Top of page Groove Music and Movies &. TVGroove Music and Movies &. TV
 
@@ -2401,14 +2399,14 @@ Entertainment and Related Services power rich experiences and enable you to acce
 
 Xbox and Xbox LiveXbox and Xbox LivemainxboxmoduleSummary
 
-Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
+Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs, and mobile devices.
 
 When you access an Xbox experience from a device, we assign you a unique device identifier. When your Xbox console is connected to the internet, we identify which console and which version of the Xbox operating system you are currently using. When you sign up for Xbox Live, we assign an Xbox user ID and a gamertag (a nickname) to identify you. Data we collect about your use of Xbox Live is stored with these unique identifier(s).
 
-We collect data about your use of the Xbox console, Xbox App, and Xbox Live such as:
+We collect data about your use of the Xbox console, Xbox App, Game Pass App, and Xbox Live, such as:
 
-*   When you sign in and sign out of Xbox Live, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
-*   Performance data about Xbox consoles, Xbox App and Xbox Live, connected devices, and your network connection, including software or hardware errors.
+*   When you sign in and sign out of Xbox Live and the Game Pass App, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
+*   Performance data about Xbox consoles, Xbox and Game Pass Apps, and Xbox Live, connected devices, and your network connection, including software or hardware errors.
 *   Content you add, upload, or share through Xbox Live, including text, images and video from within games or apps.
 *   Social activity, including your interactions with other gamers, and your connections, including friends and followers, on Xbox Live.
 *   If you use the Xbox console with Kinect, data about how you use Kinect. See below for more information about Kinect data collection.
@@ -2416,13 +2414,20 @@ We collect data about your use of the Xbox console, Xbox App, and Xbox Live such
 
 With your consent, we will collect information about videos you purchase or view through third-party apps on your Xbox console. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed in to Xbox Live on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign in.
 
-Microsoft uses the data we collect from your Xbox console, Xbox App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as number of unique users and playtime per game.
+Microsoft uses the data we collect from your Xbox console, Xbox App, Game Pass App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as the number of unique users and playtime per game.
 
 We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
 
+**Console Diagnostic Data**. Diagnostic data has two categories: required and optional. The Xbox console will send required data to Microsoft. Optional data is additional data that you choose to share with Microsoft.
+
+*   **Required**. The minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.
+*   **Optional**. Optional data includes additional details about your console, its settings, its health, its use, and enhanced error reporting to help us detect, diagnose, and remediate issues.
+
+See Diagnostic Data Collection for more information.
+
 **Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at xbox.com to limit or block sharing with the public or even with friends.
 
-**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
+**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
 
 **Linking your Xbox Live profile to non-Microsoft accounts**. Some games or apps available through Xbox Live, and some social features of Xbox Live, are delivered by third-party publishers or partner companies, which may require that you create a non-Microsoft account and sign-in credentials to use that game, app, or feature. If you choose to link your Xbox Live profile with an account of a third-party publisher or partner company, we will share with them limited account and profile information but will not include any credit card or other payment information.
 
@@ -2430,8 +2435,7 @@ We also use the data to improve and develop our products. As part of the Xbox Li
 
 *   If you choose, the camera can be used to sign you in to the service automatically using facial recognition. To do this, it takes an image of your face and measures distances between key points to create and store a numeric value that represents only you. This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time.
 *   For gameplay, Kinect will map distances between your body's joints to create a stick figure representation of you that helps Kinect enable gameplay. If you are playing online, we collect those numeric values to enable and improve gameplay and the gaming experience. Kinect also detects specific hand gestures intended to do simple system interactions (such as menu navigation, pan/zoom, and scroll).
-*   For some fitness games, Xbox can use the Kinect sensor to estimate your exercise data, including estimates such as your heart rate during a certain activity or the number of calories burned during a workout.
-*   Kinect's microphones enable voice chat between players during gameplay. They also enable voice commands for control of the console, game, or app, or to enter search terms. See below for additional details on voice data collection.
+*   Kinect's microphones enable voice chat between players during gameplay. They also enable voice commands for control of the console, game, or app, or to enter search terms.
 *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
 
 To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For Xbox One, see Kinect and Xbox One Privacy.
@@ -2439,8 +2443,6 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 **Captioning**. During Xbox Live real-time chat, players may activate a voice-to-text feature, which allows the user to view the audio in-game chat as text. If a user activates this feature, the other players will have no additional notice. Microsoft uses this data to provide captioning of chat for users who need it as well as the other purposes described in this privacy statement.
 
 **Communications monitoring**. Xbox Live includes communications features such as text and voice direct messaging and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the Microsoft Code of Conduct, we collect and monitor direct messaging, and text communications in live-hosted multiplayer gameplay sessions and other features of the service, such as activity feeds and clubs.
-
-**Voice data for service improvement**. We collect and use for service improvement voice search requests or samples of voice commands occurring while using Kinect or Cortana. This data is stored separately from your Xbox profile.
 
 **GameDVR**. Any player in a multiplayer game session can use GameDVR to record their view of the gameplay taking place in that session. The recording can capture your in-game character and gamertag in the game clips created by other players in the gameplay session. Note that if a player uses GameDVR on a PC, audio chat may also be captured in a game clip.
 
@@ -2473,12 +2475,6 @@ When you install MSN Apps, we collect data that tells us if the app was installe
 We also collect data about how you interact with MSN services, such as usage frequency and articles viewed, to provide you with relevant content. Some MSN services provide an enhanced experience when you sign in with your Microsoft account, including allowing you to customize your interests and favorites. You can manage personalization through MSN and Bing settings, as well as through settings in other Microsoft services that include MSN services. We also use the data we collect to provide you with advertisements that may be of interest to you. You can opt out of interest-based advertising through the advertising links within MSN services, or by visiting the Microsoft opt-out page.
 
 Previous versions of MSN Money allow you to access personal finance information from third-party financial institutions. MSN Money only displays this information and does not store it on our servers. Your sign-in credentials used to access your financial information from third parties are encrypted on your device and are not sent to Microsoft. These financial institutions, as well as any other third-party services you access through MSN services, are subject to their own terms and privacy policies.
-
-MixerMixermainmixermoduleSummary
-
-Mixer is an interactive, social, public online service for live streaming videos, videogames, and related content. Mixer collects account data, the information you provide for your public profile, content (such as chat and streams), and device and service usage data to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Your interactions with the service and with other users on the service are public and viewable by anyone, including chatting, following and subscribing to channels, and interacting with streamers, users, videos, and games. Additionally, if you chat or stream content on the service, any personal information you include will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct.
-
-Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) with your consent, the third party developer will have access to information about you that is not part of your public profile, such as your settings, email address and age range.
 
 Groove Music and Movies &. TVGroove Music and Movies &. TVmaingroovemusicmoviestvmoduleSummary
 
@@ -2517,7 +2513,7 @@ Mixed Reality also processes and collects data specifically related to the Mixed
 *   The headset's microphones enable voice commands to control games, apps, or to enter search terms. Learn more about voice data collection.
 *   Windows Mixed Reality can also be used for audio and video communications through services such as Skype.
 
-maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerprivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainteamsmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainsurfaceduomodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainmsedgemodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule,mainwindowsmixedrealitymodule mainenterprisedeveloperproductsmoduleCookies
+maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerprivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainteamsmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainsurfaceduomodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainmsedgemodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,maingroovemusicmoviestvmodule,mainsilverlightmodule,mainwindowsmixedrealitymodule mainenterprisedeveloperproductsmoduleCookies
 
 Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 

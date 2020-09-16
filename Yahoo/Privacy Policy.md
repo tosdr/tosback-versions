@@ -137,3 +137,9 @@ _Last updated: October 2019_
         Customer Care - Privacy Policy Issues  
         701 First Avenue  
         Sunnyvale, CA 94089
+        
+14.  **Recent Versions**
+    
+    1.  May 2018 - update to privacy notice;
+        
+    2.  October 2019 - Oath to Verizon Media name change

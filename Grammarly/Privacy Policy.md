@@ -20,19 +20,21 @@
     *   What happens if Grammarly closes my account?
 *   Will this Privacy Policy ever change?
 *   EU-U.S. &. Swiss-U.S. Privacy Shield
-*   For EEA and Swiss users
+*   For EEA, Swiss, and UK users
 *   *   What rights do I have, and how can I exercise them?
     *   Who is Grammarly’s EEA Representative?
+    *   Data transfers
 *   For California users
 *   *   Supplemental Privacy Notice for California residents
     *   Summary of information we collect
     *   Rights
     *   California Shine the Light
 *   For Nevada users
+*   For Brazil users
 *   For EDU users
 *   Contact us
 
-Privacy PolicyEffective as of June 24, 2020
+Privacy PolicyEffective as of September 18, 2020The previous version is here.
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why. We hope you will read it carefully.
 
@@ -176,7 +178,7 @@ Unless your Grammarly account is part of a Grammarly for Education (also known a
 
 Data storage, transfer, retention, and deletionWhere is my Information stored?
 
-Information submitted to Grammarly will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States.
+Information submitted to Grammarly will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States. Please note that the laws of the United States may be different from the privacy  laws applicable to the place where you are resident.
 
 How secure is my Information?
 
@@ -214,13 +216,13 @@ The Privacy Shield Principles describe Grammarly’s accountability for personal
 
 The Federal Trade Commission has jurisdiction over Grammarly’s compliance with the Privacy Shield.
 
-For EEA and Swiss users
+For EEA, Swiss, and UK users
 
 Grammarly uses, processes, and stores Personal Data, including what is listed in the “What Information does Grammarly collect about me?” section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, Grammarly may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
 
 What rights do I have, and how can I exercise them?
 
-Individuals located in the European Economic Area (EEA) and Switzerland have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA or Switzerland, you can:
+Individuals located in the European Economic Area (EEA), Switzerland, and the UK have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA, Switzerland, or the UK, you can:
 
 *   Request a Personal Data report by submitting a support ticket through this link. This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Grammarly account to submit this request. Please note that Grammarly may request additional information from you to verify your identity before we disclose any information.
     
@@ -244,6 +246,12 @@ North Point Business Park
 New Mallow Road  
 Cork T23AT2P  
 Ireland
+
+Data transfers
+
+As stated in the “Where is my Information stored?” section above, information submitted to Grammarly will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States. Please note that the privacy laws of the United States may be different from those in the place where you are a resident.
+
+Where required, we will use appropriate safeguards for transferring data outside of Europe, Switzerland, and the UK. This includes signing Standard Contractual Clauses that govern the transfers of such data, which may be used in conjunction with additional safeguards. For more information about these transfer mechanisms, please contact us as detailed in the “Contact us” section below.
 
 For California usersSupplemental Privacy Notice for California residents
 
@@ -291,11 +299,38 @@ California Shine the Light
 
 If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at support@grammarly.com.
 
-Updated: June 24, 2020
+Updated: September 18, 2020
 
 For Nevada users
 
 Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons. “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity. however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing support@grammarly.com. Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
+
+For Brazil users
+
+This Brazil Privacy Notice (“Notice”) applies to personal data processing activities under Brazilian law, and takes effect on the LGPD’s effective date.
+
+If you’re a resident of Brazil, you may have certain rights. Brazilian law may permit you to request that we:
+
+*   confirm whether we process your data;
+    
+*   provide access to and/or a copy of certain information we hold about you;
+    
+*   correct incomplete, inaccurate, and outdated data;
+    
+*   anonymize, block, or delete data that is unnecessary, excessive, or not being processed in accordance with Brazilian data protection law;
+    
+*   port your personal data to another service or product vendor;
+    
+*   delete personal data processed with your consent, when applicable;
+    
+*   provide you with information regarding the public and private entities with which we share data;
+    
+*   provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable. and
+    
+*   withdraw your consent.
+    
+
+You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Grammarly account settings. You can also submit requests by submitting a support ticket or emailing support@grammarly.com. You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
 
 For EDU users
 
@@ -304,5 +339,7 @@ If your Grammarly account is part of a Grammarly for Education (also known as Gr
 Contact us
 
 You may contact us with any questions relating to this Privacy Policy by submitting a help desk request here or by contacting us at privacy@grammarly.com.
+
+For the purposes of this Policy, when we say “Grammarly,” “we,” or “us,” we mean Grammarly, Inc., 548 Market Street, #35410 San Francisco, CA 94104, USA.
 
 ProductPlansGrammarly PremiumGrammarly BusinessGrammarly @eduGrammarly Desktop AppsThe Grammarly KeyboardGrammarly for MS OfficeCompanyAboutCareers &. CultureBlogTech BlogPressAffiliatesContact UsFeaturesProduct Feature NewsTone DetectorGrammar CheckerPlagiarism CheckerSupportHelp CenterPrivacy PolicyTerms of ServiceCA Privacy NoticeSecurityCommunityFacebookInstagramTwitterLinkedIn2020 © Grammarly Inc.

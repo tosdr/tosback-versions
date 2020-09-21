@@ -350,6 +350,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Reader
 *   Bing Rewards
 *   Bing Search app
+*   Bing Sportscaster
 *   Bing Toolbar
 *   Bing Torque
 *   Bing Translator
@@ -368,6 +369,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Face Swap
 *   Forms.microsoft.com
 *   Forzamotorsport.net
 *   Groove Music Pass
@@ -376,6 +378,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   HealthVault
 *   Home
 *   LineBack
+*   Manufacturers.bing.com
 *   Maps App
 *   Microsoft Academic
 *   Microsoft account
@@ -435,7 +438,9 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Skype.com
 *   Skype
 *   Smart Search
+*   Snip Insights
 *   Spreadsheet Keyboard
+*   Sprinkles
 *   Store
 *   Sway.com
 *   to-do.microsoft.com
@@ -806,6 +811,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Reader
 *   Bing Rewards
 *   Bing Search app
+*   Bing Sportscaster
 *   Bing Toolbar
 *   Bing Torque
 *   Bing Translator
@@ -824,6 +830,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Face Swap
 *   Forms.microsoft.com
 *   Forzamotorsport.net
 *   Groove Music Pass
@@ -832,6 +839,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   HealthVault
 *   Home
 *   LineBack
+*   Manufacturers.bing.com
 *   Maps App
 *   Microsoft Academic
 *   Microsoft account
@@ -891,7 +899,9 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Skype.com
 *   Skype
 *   Smart Search
+*   Snip Insights
 *   Spreadsheet Keyboard
+*   Sprinkles
 *   Store
 *   Sway.com
 *   to-do.microsoft.com

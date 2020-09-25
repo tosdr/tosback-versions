@@ -6,7 +6,7 @@ Your Privacy Matters
 
 LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful. Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared.
 
-This Privacy Policy applies when you use our Services (described below). We offer our users choices about the data we collect, use and share as described in this Privacy Policy, Cookie Policy, SettingsSettings are available to Members of LinkedIn, Settings for Slideshare Registered Users can be accessed by logging in and going to Account Settings, and Visitors are provided controls. Learn More and our Help Center.
+This Privacy Policy applies when you use our Services (described below). We offer our users choices about the data we collect, use and share as described in this Privacy Policy, Cookie Policy, SettingsSettings are available to Members of LinkedIn and Visitors are provided controls. Learn More and our Help Center.
 
 View our Privacy Policy videoTable of Contents:
 

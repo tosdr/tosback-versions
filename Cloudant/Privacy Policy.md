@@ -1,12 +1,12 @@
 IBM Privacy Statement
 
-**This Privacy Statement is effective as of 3 August 2020.**
+**This Privacy Statement is effective as of 21 September 2020.**
 
 The previous version of this Statement is available here (PDF, 173 KB).
 
 At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about our clients, business partners, supplier and other organisations with which IBM has or contemplates a business relationship as well as the individuals working for them.
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship as well as the individuals working for them.
 
 This Privacy Statement is supplemented by the IBM Online Privacy Statement, which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
@@ -19,7 +19,8 @@ We may collect your personal information as an individual for various purposes, 
 *   **Responding to your request for information, order, or support**  
     When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you.  
       
-    When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
+    When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.  
+     
 *   **Your use of IBM Cloud services**  
     We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the IBM Online Privacy Statement.
 *   **Contacting employees of our clients, prospects, partners and suppliers**  
@@ -27,7 +28,7 @@ We may collect your personal information as an individual for various purposes, 
 *   **Visitor information**  
     We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
 *   **Marketing**  
-    Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication from IBM by submitting an opt-out request form. For subscriptions, please follow the unsubscribe instructions provided at the bottom of each email. More information can be found in the IBM Online Privacy Statement.
+    Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services. When visiting our websites or using our services we may provide you with personalized information. You can always opt out from receiving personalized communication from IBM by submitting an opt-out request form. For subscriptions, please follow the unsubscribe instructions provided at the bottom of each email. More information can be found in the IBM Online Privacy Statement.
 
 Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
@@ -51,7 +52,8 @@ The international footprint of IBM involves a large number of transfers of perso
 
 *   Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses here.
 *   IBM complies with the APEC Cross Border Privacy Rules  (CBPR) system.
-*   IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found here.
+*   IBM certified to the Swiss-U.S. Privacy Shield Framework.   
+    While the EU-U.S. Privacy Shield Framework may no longer be used or relied upon for transfer of personal information, IBM continues to comply with all EU-U.S. Privacy Shield Framework obligations. More information can be found here: IBM Privacy Shield Privacy Policy andUS Department of Commerce.
 
 Back to top
 
@@ -61,7 +63,7 @@ We intend to protect your personal information and to maintain its accuracy. IBM
 
 **Retention Period**  
   
-We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defence of legal claims in the countries where we do business.
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
 
 Because the circumstances may vary depending on the context and the services, the information provided in Online Privacy Statement or provided in a specific notice may provide more detailed information on applicable retention terms.
 
@@ -75,7 +77,7 @@ Where this is relevant, the controller of your personal information is Internati
 
 IBM Corp. is not the controller in situations such as:
 
-*   Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific. IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+*   Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
 *   Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
 
 Your Rights

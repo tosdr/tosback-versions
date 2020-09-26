@@ -1,4 +1,6 @@
-Effective June 30, 2020 | Download PDF Select languageEnglishEspañol Table of Contents
+State Laws:
+
+California Maine Effective June 30, 2020 | Download PDF Select languageEnglishEspañol Table of Contents
 
 Introduction
 
@@ -21,6 +23,8 @@ How to Access and Correct the Information in our Records
 Your Rights and Our Limitations Under Federal Laws
 
 Special Information Regarding Individual State Laws
+
+California Maine
 
 Changes to this Privacy Policy
 

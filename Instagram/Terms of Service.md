@@ -5,7 +5,9 @@ Welcome to Instagram!
   
 These Terms of Use govern your use of Instagram and provide information about the Instagram Service, outlined below. When you create an Instagram account or use Instagram, you agree to these terms.  
   
-The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook Ireland Limited. These Terms of Use therefore constitute an agreement between you and Facebook Ireland Limited.  
+The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook, Inc. These Terms of Use therefore constitute an agreement between you and Facebook, Inc.  
+  
+**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. WE EXPLAIN SOME EXCEPTIONS AND HOW YOU CAN OPT OUT OF ARBITRATION BELOW.**  
   
 
 ### **The Instagram Service**
@@ -38,7 +40,7 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 
 ### **The Data Policy**
 
-Providing our Service requires collecting and using your information. The [Data Policy](http://help.instagram.com/519522125107875?helpref=page_content) explains how we collect, use, and share information across the [Facebook Products](https://www.facebook.com/help/1561485474074139?helpref=page_content). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](http://help.instagram.com/285881641526716?helpref=page_content).
+Providing our Service requires collecting and using your information. The [Data Policy](http://help.instagram.com/519522125107875?helpref=page_content) explains how we collect, use, and share information across the [Facebook Products](https://www.facebook.com/help/1561485474074139?helpref=page_content). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](http://help.instagram.com/285881641526716?helpref=page_content). You must agree to the Data Policy to use Instagram.
 
   
 
@@ -107,7 +109,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 ### **Content Removal and Disabling or Terminating Your Account**
 
-*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your account) immediately if you: clearly, seriously or repeatedly violate these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people's intellectual property rights, or where we are required to do so by law. If we take action to remove your content for violating our Community Guidelines, or disable or terminate your account, we will notify you where appropriate. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/).
+*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are permitted or required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your account) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/).
     
 *   Content you delete may persist for a limited period of time in backup copies and will still be visible where others have shared it. This paragraph, and the section below called "Our Agreement and What Happens if We Disagree," will still apply even after your account is terminated or deleted.
     
@@ -138,14 +140,35 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Who Is Responsible if Something Happens.**
 
-*   We will use reasonable skill and care in providing our Service to you and in keeping a safe, secure, and error-free environment, but we cannot guarantee that our Service will always function without disruptions, delays, or imperfections. Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content posted by others that you may encounter on our Service; and events beyond our reasonable control.
+*   Our Service is provided "as is," and we can't guarantee it will be safe and secure or will work perfectly all the time. TO THE EXTENT PERMITTED BY LAW, WE ALSO DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
     
-*   The above does not exclude or limit our liability for death, personal injury, or fraudulent misrepresentation caused by our negligence. It also does not exclude or limit our liability for any other things where the law does not permit us to do so.
+*   We also don’t control what people and others do or say, and we aren’t responsible for their (or your) actions or conduct (whether online or offline) or content (including unlawful or objectionable content). We also aren’t responsible for services and features offered by other people or companies, even if you access them through our Service.
+    
+*   Our responsibility for anything that happens on the Service (also called "liability") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible ("liable") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account. Our aggregate liability arising out of or relating to these Terms will not exceed the greater of $100 or the amount you have paid us in the past twelve months.
+    
+*   You agree to defend (at our request), indemnify and hold us harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable attorney's fees and costs, arising out of or in any way connected with these Terms or your use of the Service. You will cooperate as required by us in the defense of any claim. We reserve the right to assume the exclusive defense and control of any matter subject to indemnification by you, and you will not in any event settle any claim without our prior written consent.
     
 
 **How We Will Handle Disputes.**
 
-> If you are a consumer and habitually reside in a Member State of the European Union, the laws of that Member State will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms ("claim"), and you may resolve your claim in any competent court in that Member State that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved in a competent court in the Republic of Ireland and that Irish law will govern these Terms and any claim, without regard to conflict of law provisions.
+*   Except as provided below, you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram ("claim(s)") must be resolved by arbitration on an individual basis. Class actions and class arbitrations are not permitted; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users. If there is a final judicial determination that any particular claim (or a request for particular relief) cannot be arbitrated in accordance with this provision's limitations, then only that claim (or only that request for relief) may be brought in court. All other claims (or requests for relief) remain subject to this provision.
+    
+*   Instead of using arbitration, you or we can bring claims in your local "small claims" court, if the rules of that court will allow it. If you don't bring your claims in small claims court (or if you or we appeal a small claims court judgment to a court of general jurisdiction), then the claims must be resolved by binding, individual arbitration. The American Arbitration Association will administer all arbitrations under its Consumer Arbitration Rules. You and we expressly waive a trial by jury.
+    
+    The following claims don't have to be arbitrated and may be brought in court: disputes related to intellectual property (like copyrights and trademarks), violations of our Platform Policy, or efforts to interfere with the Service or engage with the Service in unauthorized ways (for example, automated ways). In addition, issues relating to the scope and enforceability of the arbitration provision are for a court to decide.
+    
+    This arbitration provision is governed by the Federal Arbitration Act.
+    
+    You can opt out of this provision within 30 days of the date that you agreed to these Terms. To opt out, you must send your name, residence address, username, email address or phone number you use for your Instagram account, and a clear statement that you want to opt out of this arbitration agreement, and you must send them here: Facebook, Inc. ATTN: Instagram Arbitration Opt-out, 1601 Willow Rd., Menlo Park, CA 94025.
+    
+*   Before you commence arbitration of a claim, you must provide us with a written Notice of Dispute that includes your name, residence address, username, email address or phone number you use for your Instagram account, a detailed description of the dispute, and the relief you seek. Any Notice of Dispute you send to us should be mailed to Facebook, Inc., ATTN: Instagram Arbitration Filing, 1601 Willow Rd. Menlo Park, CA 94025. Before we commence arbitration, we will send you a Notice of Dispute to the email address you use with your Instagram account, or other appropriate means. If we are unable to resolve a dispute within thirty (30) days after the Notice of Dispute is received, you or we may commence arbitration.
+    
+*   We will pay all arbitration filing fees, administration and hearing costs, and arbitrator fees for any arbitration we bring or if your claims seek less than $75,000 and you timely provided us with a Notice of Dispute. For all other claims, the costs and fees of arbitration shall be allocated in accordance with the arbitration provider's rules, including rules regarding frivolous or improper claims.
+    
+*   For any claim that is not arbitrated or resolved in small claims court, you agree that it will be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim.
+    
+*   The laws of the State of California, to the extent not preempted by or inconsistent with federal law, will govern these Terms and any claim, without regard to conflict of law provisions.
+    
 
 **Unsolicited Material.**
 
@@ -155,6 +178,6 @@ In return for our commitment to provide the Service, we require you to make the 
 
 ### **Updating These Terms**
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
 Revised: April 19, 2018

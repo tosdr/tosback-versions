@@ -1,3 +1,248 @@
+[](https://www.twitch.tv/p/about)
+
+*   [Following](https://www.twitch.tv/following)
+*   [Browse](https://www.twitch.tv/directory)
+*   [{{ display\_name }}](https://www.twitch.tv/settings/profile)
+
+*   [Browse](https://www.twitch.tv/)
+
+*   [
+    
+    Following
+    =========
+    
+    ](https://www.twitch.tv/following)
+*   [
+    
+    Browse
+    ======
+    
+    ](https://www.twitch.tv/directory)
+*   [
+    
+    {{ display\_name }}
+    ===================
+    
+    ](https://www.twitch.tv/settings/profile)
+
+*   [
+    
+    Browse
+    ======
+    
+    ](https://www.twitch.tv/)
+
+[
+
+#### Terms of service
+
+](https://www.twitch.tv/p/legal/terms-of-service/)[
+
+#### Privacy Notice
+
+](https://www.twitch.tv/p/legal/privacy-notice/)[
+
+#### Ad Choices
+
+](https://www.twitch.tv/p/legal/ad-choices/)[
+
+#### Cookie Policy
+
+](https://www.twitch.tv/p/legal/cookie-policy/)[
+
+#### Partners
+
+](https://www.twitch.tv/p/partners/)[
+
+#### Affiliates
+
+](https://affiliate.twitch.tv/)
+
+*   [
+    
+    About
+    =====
+    
+    ](https://www.twitch.tv/p/about/)
+*   [
+    
+    Careers
+    =======
+    
+    ](https://www.twitch.tv/jobs/)
+*   [
+    
+    Blog
+    ====
+    
+    ](https://blog.twitch.tv/)
+*   [
+    
+    Press
+    =====
+    
+    ](https://www.twitch.tv/p/about/press-releases/)
+*   [
+    
+    Brand
+    =====
+    
+    ](https://www.twitch.tv/p/brand/)
+*   [
+    
+    Developers
+    ==========
+    
+    ](https://dev.twitch.tv/)
+*   [
+    
+    Platforms
+    =========
+    
+    ](https://www.twitch.tv/p/platforms/)
+*   [
+    
+    Prime
+    =====
+    
+    ](https://twitch.amazon.com/prime)
+*   [
+    
+    Bits
+    ====
+    
+    ](https://twitch.amazon.com/bits)
+*   [
+    
+    Extensions
+    ==========
+    
+    ](https://www.twitch.tv/p/extensions)
+*   [
+    
+    Advertise
+    =========
+    
+    ](http://twitchadvertising.tv/)
+*   [
+    
+    Gift Card
+    =========
+    
+    ](https://www.twitch.tv/p/giftcard/buy/?utm_source=footer)
+*   [
+    
+    Following
+    =========
+    
+    ](https://www.twitch.tv/following)
+*   [
+    
+    Browse
+    ======
+    
+    ](https://www.twitch.tv/directory)
+
+[Brand](https://www.twitch.tv/p/brand/)
+
+[Advertise](https://www.twitch.tv/p/advertise/)
+
+[Partners](https://www.twitch.tv/p/partners/)
+
+[Jobs](https://www.twitch.tv/p/jobs/)
+
+[Security](https://www.twitch.tv/p/security/)
+
+[Platforms](https://www.twitch.tv/p/platforms/)
+
+[Help](https://www.twitch.tv/p/help/)
+
+[Developers](https://www.twitch.tv/p/developers/)
+
+[Blog](https://www.twitch.tv/p/blog/)
+
+[Students](https://www.twitch.tv/p/students/)
+
+[Extensions](https://www.twitch.tv/p/extensions/)
+
+[Legal](https://www.twitch.tv/p/legal/)
+
+[Terms of Service](https://www.twitch.tv/p/legal/terms-of-service/)
+
+[Privacy Notice](https://www.twitch.tv/p/legal/privacy-notice/)
+
+[California Privacy Disclosure](https://www.twitch.tv/p/legal/california-privacy-disclosure/)
+
+[Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/)
+
+[DMCA Guidelines](https://www.twitch.tv/p/legal/dmca-guidelines/)
+
+[Trademark Policy](https://www.twitch.tv/p/legal/trademark-policy/)
+
+[Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/)
+
+[Trademark Guidelines](https://www.twitch.tv/p/legal/trademark/)
+
+[Terms of Sale](https://www.twitch.tv/p/legal/terms-of-sale/)
+
+[Developer Agreement](https://www.twitch.tv/p/legal/developer-agreement/)
+
+[Affiliate Program Agreement](https://www.twitch.tv/p/legal/affiliate-agreement/)
+
+[Supplemental Fees Statement](https://www.twitch.tv/p/legal/supplemental-fees-statement/)
+
+[Ad Choices](https://www.twitch.tv/p/legal/ad-choices/)
+
+[Channel Points Acceptable Use Policy](https://www.twitch.tv/p/legal/channel-points-acceptable-use-policy/)
+
+[Bits Acceptable Use Policy](https://www.twitch.tv/p/legal/bits-acceptable-use/)
+
+[Cookie Policy](https://www.twitch.tv/p/legal/cookie-policy/)
+
+[Photosensitive Seizure Warning](https://www.twitch.tv/p/legal/seizure-warning/)
+
+[Modern Day Slavery Statement](https://www.twitch.tv/p/legal/modern-day-slavery-statement/)
+
+[Events Code Of Conduct](https://www.twitch.tv/p/legal/events-code-of-conduct/)
+
+[Accessibility Statement](https://www.twitch.tv/p/legal/accessibility/)
+
+Languages
+
+*   [Български](https://www.twitch.tv/p/bg-bg/legal/privacy-notice/)
+*   [Català](https://www.twitch.tv/p/ca-es/legal/privacy-notice/)
+*   [中文 简体](https://www.twitch.tv/p/zh-cn/legal/privacy-notice/)
+*   [中文 繁體](https://www.twitch.tv/p/zh-tw/legal/privacy-notice/)
+*   [Čeština](https://www.twitch.tv/p/cs-cz/legal/privacy-notice/)
+*   [Dansk](https://www.twitch.tv/p/da-dk/legal/privacy-notice/)
+*   [Nederlands](https://www.twitch.tv/p/nl-nl/legal/privacy-notice/)
+*   **English**
+*   [English - Great Britain](https://www.twitch.tv/p/en-gb/legal/privacy-notice/)
+*   [Suomi](https://www.twitch.tv/p/fi-fi/legal/privacy-notice/)
+*   [Français - Canada](https://www.twitch.tv/p/fr-ca/legal/privacy-notice/)
+*   [Français](https://www.twitch.tv/p/fr-fr/legal/privacy-notice/)
+*   [Deutsch](https://www.twitch.tv/p/de-de/legal/privacy-notice/)
+*   [Ελληνικά](https://www.twitch.tv/p/el-gr/legal/privacy-notice/)
+*   [Magyar](https://www.twitch.tv/p/hu-hu/legal/privacy-notice/)
+*   [Italiano](https://www.twitch.tv/p/it-it/legal/privacy-notice/)
+*   [日本語](https://www.twitch.tv/p/ja-jp/legal/privacy-notice/)
+*   [한국어](https://www.twitch.tv/p/ko-kr/legal/privacy-notice/)
+*   [Norsk](https://www.twitch.tv/p/no-no/legal/privacy-notice/)
+*   [Polski](https://www.twitch.tv/p/pl-pl/legal/privacy-notice/)
+*   [Português Brasileiro](https://www.twitch.tv/p/pt-br/legal/privacy-notice/)
+*   [Português](https://www.twitch.tv/p/pt-pt/legal/privacy-notice/)
+*   [Română](https://www.twitch.tv/p/ro-ro/legal/privacy-notice/)
+*   [Русский](https://www.twitch.tv/p/ru-ru/legal/privacy-notice/)
+*   [Slovenčina](https://www.twitch.tv/p/sk-sk/legal/privacy-notice/)
+*   [Español - Latinoamérica](https://www.twitch.tv/p/es-mx/legal/privacy-notice/)
+*   [Español](https://www.twitch.tv/p/es-es/legal/privacy-notice/)
+*   [Svenska](https://www.twitch.tv/p/sv-se/legal/privacy-notice/)
+*   [ภาษาไทย](https://www.twitch.tv/p/th-th/legal/privacy-notice/)
+*   [Türkçe](https://www.twitch.tv/p/tr-tr/legal/privacy-notice/)
+*   [Tiếng Việt](https://www.twitch.tv/p/vi-vn/legal/privacy-notice/)
+
+last modified on 01/22/2020
+
 **Privacy Notice**
 ------------------
 
@@ -160,3 +405,44 @@ Twitch will delete your personal information in accordance with Twitch’s data 
 Deletion of Personal Information 
 
 When deleting personal information, Twitch will take standard commercially reasonable measures to make the personal information irrecoverable or irreproducible. The specific manner of deletion will depend on the information being deleted and the type of Twitch Services that you used. Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable. Non-electronic documents or files containing personal information will be shredded, incinerated or both.
+
+(function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', '', 'auto'); ga('send', 'pageview');
+
+[About](https://www.twitch.tv/p/about/) [Careers](https://www.twitch.tv/jobs/) [Blog](https://blog.twitch.tv/) [Press](https://www.twitch.tv/p/about/press-releases/) [Brand](https://www.twitch.tv/p/brand/) [Developers](https://dev.twitch.tv/) [Platforms](https://www.twitch.tv/p/platforms/) [Prime](https://twitch.amazon.com/prime) [Bits](https://twitch.amazon.com/bits) [Extensions](https://www.twitch.tv/p/extensions) [Advertise](http://twitchadvertising.tv/) [Gift Card](https://www.twitch.tv/p/giftcard/buy/?utm_source=footer)
+
+[Terms of service](https://www.twitch.tv/p/legal/terms-of-service/) [Privacy Notice](https://www.twitch.tv/p/legal/privacy-notice/) [Ad Choices](https://www.twitch.tv/p/legal/ad-choices/) [Cookie Policy](https://www.twitch.tv/p/legal/cookie-policy/) [Partners](https://www.twitch.tv/p/partners/) [Affiliates](https://affiliate.twitch.tv/)
+
+Languages
+
+*   [Български](https://www.twitch.tv/p/bg-bg/legal/privacy-notice/)
+*   [Català](https://www.twitch.tv/p/ca-es/legal/privacy-notice/)
+*   [中文 简体](https://www.twitch.tv/p/zh-cn/legal/privacy-notice/)
+*   [中文 繁體](https://www.twitch.tv/p/zh-tw/legal/privacy-notice/)
+*   [Čeština](https://www.twitch.tv/p/cs-cz/legal/privacy-notice/)
+*   [Dansk](https://www.twitch.tv/p/da-dk/legal/privacy-notice/)
+*   [Nederlands](https://www.twitch.tv/p/nl-nl/legal/privacy-notice/)
+*   **English**
+*   [English - Great Britain](https://www.twitch.tv/p/en-gb/legal/privacy-notice/)
+*   [Suomi](https://www.twitch.tv/p/fi-fi/legal/privacy-notice/)
+*   [Français - Canada](https://www.twitch.tv/p/fr-ca/legal/privacy-notice/)
+*   [Français](https://www.twitch.tv/p/fr-fr/legal/privacy-notice/)
+*   [Deutsch](https://www.twitch.tv/p/de-de/legal/privacy-notice/)
+*   [Ελληνικά](https://www.twitch.tv/p/el-gr/legal/privacy-notice/)
+*   [Magyar](https://www.twitch.tv/p/hu-hu/legal/privacy-notice/)
+*   [Italiano](https://www.twitch.tv/p/it-it/legal/privacy-notice/)
+
+*   [日本語](https://www.twitch.tv/p/ja-jp/legal/privacy-notice/)
+*   [한국어](https://www.twitch.tv/p/ko-kr/legal/privacy-notice/)
+*   [Norsk](https://www.twitch.tv/p/no-no/legal/privacy-notice/)
+*   [Polski](https://www.twitch.tv/p/pl-pl/legal/privacy-notice/)
+*   [Português Brasileiro](https://www.twitch.tv/p/pt-br/legal/privacy-notice/)
+*   [Português](https://www.twitch.tv/p/pt-pt/legal/privacy-notice/)
+*   [Română](https://www.twitch.tv/p/ro-ro/legal/privacy-notice/)
+*   [Русский](https://www.twitch.tv/p/ru-ru/legal/privacy-notice/)
+*   [Slovenčina](https://www.twitch.tv/p/sk-sk/legal/privacy-notice/)
+*   [Español - Latinoamérica](https://www.twitch.tv/p/es-mx/legal/privacy-notice/)
+*   [Español](https://www.twitch.tv/p/es-es/legal/privacy-notice/)
+*   [Svenska](https://www.twitch.tv/p/sv-se/legal/privacy-notice/)
+*   [ภาษาไทย](https://www.twitch.tv/p/th-th/legal/privacy-notice/)
+*   [Türkçe](https://www.twitch.tv/p/tr-tr/legal/privacy-notice/)
+*   [Tiếng Việt](https://www.twitch.tv/p/vi-vn/legal/privacy-notice/)

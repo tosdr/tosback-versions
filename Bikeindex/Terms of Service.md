@@ -1,0 +1,82 @@
+[](#terms-of-service)Terms of Service
+=====================================
+
+Last updated July 29th, 2017. Previous versions and the change history is [available here](https://github.com/bikeindex/bike_index/tree/main/app/views/info/_terms_text.html.erb).
+
+* * *
+
+[](#about-our-terms-of-service)About our Terms of Service
+---------------------------------------------------------
+
+**Welcome to Bike Index**, a 501(c)(3) nonprofit. We've developed a publicly-accessible bike registration service (the "Service") that gives you the ability to save and share your bikes on the internet.
+
+By giving bike shops, biking organizations and police departments the ability to register bikes directly for their constituents we aim to incentivize bike registration, support local cycling culture and ensure accurate registrations. We have tried to draft this Terms of Service to be as simple and comprehensible as possible. Unfortunately, the realities of the legal world make that a very difficult task. So, should you have any questions or concerns, or simply want to better understand how we do things at Bike Index, please do not hesitate to [contact us](https://www.bikeindex.org/contact_us).
+
+[](#section-a-acceptance-of-terms)Section A: User's Acknowledgment and Acceptance of Terms
+==========================================================================================
+
+1.  By creating an "Account" and using the BikeIndex.org web site ("Service"), or any services of Bike Index, NFP ("Bike Index"), you are agreeing to be bound by the following terms and conditions ("Terms of Service"). IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY, ITS AFFILIATES AND ALL USERS WHO ACCESS OUR SERVICES THROUGH YOUR ACCOUNT TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY, ITS AFFILIATES AND USERS ASSOCIATED WITH IT. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
+    
+2.  If Bike Index makes material changes to these Terms, we will notify you by email or by posting a notice on our site before the changes are effective. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: [bikeindex.org/terms](https://www.bikeindex.org/terms).
+    
+3.  Content" on the Service is defined by any information Users input into the service. Users are defined as those who utilize the Bike Index Service and agree to the Terms of Service. While Bike Index prohibits some conduct and Content on the Service, you understand and agree that Bike Index cannot be responsible for the Content posted on the Service and you nonetheless may be exposed to such materials. you agree to use the Service at your own risk. Violation of any of the terms below will result in the termination of your Account.
+    
+
+[](#section-b-account-terms)Section B: Account Terms
+====================================================
+
+1.  You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
+    
+2.  You must provide a valid email address in order to complete the signup process.
+    
+3.  You are responsible for maintaining the security of your account and password. Bike Index cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+    
+4.  You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account or access to your account).
+    
+5.  You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
+    
+
+[](#section-c-modifications-to-the-service)Section C: Modifications to the service
+==================================================================================
+
+1.  Bike Index reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+    
+2.  Bike Index shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+    
+
+[](#section-d-copyright-and-content-ownership)Section D: Copyright and content ownership
+========================================================================================
+
+1.  We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, Content that you upload about your bikes can be viewed publicly, and setting your profile to be public will allow information you add to it to be viewed publicly. You agree to allow others to view this Content.
+    
+2.  Bike Index does not pre-screen Content, but Bike Index and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.
+    
+3.  You shall defend Bike Index against any claim, demand, suit or proceeding made or brought against Bike Index by a third party alleging that your Content, or your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law, and shall indemnify Bike Index for any damages finally awarded against, and for reasonable attorney’s fees incurred by, Bike Index in connection with any such claim, demand, suit or proceeding; provided, that Bike Index (a) promptly gives you written notice of the claim, demand, suit or proceeding; (b) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that tou may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bike Index of all liability); and (c) provides to you all reasonable assistance, at your expense.
+    
+
+[](#section-e-general-conditions)Section E: General Conditions
+==============================================================
+
+1.  Your use of the Service is at your sole risk. The service is provided on an "as is" and "as available" basis.
+    
+2.  Support for Bike Index services is currently only available in English, via email.
+    
+3.  You understand that Bike Index uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+    
+4.  You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, Bike Index, or any other Bike Index service.
+    
+5.  You agree not to sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by Bike Index.
+    
+6.  We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service.
+    
+7.  Verbal, physical, written or other abuse (including threats of abuse or retribution) of any Bike Index customer, employee, member, or officer will result in immediate account termination.
+    
+8.  You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+    
+9.  You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" messages.
+    
+10.  Bike Index does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
+    
+11.  The failure of Bike Index to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and Bike Index and govern your use of the Service, superseding any prior agreements between you and Bike Index (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and your use of the Service are governed under Illinois law.
+    
+12.  Questions about the Terms of Service should be sent to [contact@bikeindex.org](mailto:contact@bikeindex.org).

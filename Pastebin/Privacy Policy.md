@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/qThKf6D8)
+*   [Untitled](https://pastebin.com/MWn7q7za)
     
-    JavaScript | 5 min ago
+    Python | 1 min ago
     
-*   [PBO-C 6 : Command()](https://pastebin.com/yMmqDsD3)
+*   [facebook token](https://pastebin.com/r1wtseux)
     
-    Java | 11 min ago
+    JavaScript | 9 min ago
     
-*   [PBO-C 6 : Game()](https://pastebin.com/P5xYKKcP)
+*   [Untitled](https://pastebin.com/HMXnAeQ1)
     
-    Java | 13 min ago
+    Python | 12 min ago
     
-*   [Untitled](https://pastebin.com/1RsM2Hh6)
+*   [C++ script](https://pastebin.com/5XGqCUAk)
     
-    C++ | 13 min ago
+    C++ | 49 min ago
     
-*   [Untitled](https://pastebin.com/zgPRactE)
+*   [NFA](https://pastebin.com/hGZxuXSu)
     
-    C# | 17 min ago
+    Python | 52 min ago
     
-*   [matrice\_patrat](https://pastebin.com/t8fhMGA8)
+*   [xmltodict](https://pastebin.com/uieQqgJp)
     
-    C++ | 39 min ago
+    Python | 53 min ago
     
-*   [wth](https://pastebin.com/bqbL8tC8)
+*   [ElementTree](https://pastebin.com/hDTB71Yr)
     
-    PHP | 57 min ago
+    Python | 53 min ago
     
-*   [Contacts](https://pastebin.com/LnTL182D)
+*   [Untitled](https://pastebin.com/X7rGv0db)
     
-    PHP | 58 min ago
+    HTML | 53 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

@@ -1,9 +1,13 @@
 Terms of Use
 ------------
 
+  
+
+These terms will be updated effective December 20, 2020. To preview the new version prior to its effective date, click [here](http://help.instagram.com/1215086795543252?helpref=page_content).
+
 Welcome to Instagram!  
   
-These Terms of Use govern your use of Instagram and provide information about the Instagram Service, outlined below. When you create an Instagram account or use Instagram, you agree to these terms.  
+These Terms of Use ("or Terms") govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the "Service"), outlined below. When you create an Instagram account or use Instagram, you agree to these terms. The Facebook Terms of Service do not apply to this Service.  
   
 The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook, Inc. These Terms of Use therefore constitute an agreement between you and Facebook, Inc.  
   
@@ -84,7 +88,7 @@ In return for our commitment to provide the Service, we require you to make the 
 **Permissions You Give to Us.** As part of our agreement, you also give us permissions that we need to provide the Service.
 
 *   **We do not claim ownership of your content, but you grant us a license to use it.**  
-    Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service. Instead, when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). You can end this license anytime by deleting your content or account. However, content will continue to appear if you shared it with others and they have not deleted it. To learn more about how we use information, and how to control or delete your content, review the [Data Policy](http://help.instagram.com/519522125107875) and visit the [Instagram Help Center](http://help.instagram.com/).
+    Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service and you are free to share your content with anyone else, wherever you want. However, we need certain legal permissions from you (known as a “license”) to provide the Service. When you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). This license will end when your content is deleted from our systems. You can delete content individually or all at once by deleting your account. To learn more about how we use information, and how to control or delete your content, review the [Data Policy](http://help.instagram.com/519522125107875) and visit the [Instagram Help Center](http://help.instagram.com/).
     
 *   **Permission to use your username, profile picture, and information about your relationships and actions with accounts, ads, and sponsored content.**  
     You give us permission to show your username, profile picture, and information about your actions (such as likes) or relationships (such as follows) next to or in connection with accounts, ads, offers, and other sponsored content that you follow or engage with that are displayed on Facebook Products, without any compensation to you. For example, we may show that you liked a sponsored post created by a brand that has paid us to display its ads on Instagram. As with actions on other content and follows of other accounts, actions on sponsored content and follows of sponsored accounts can be seen only by people who have permission to see that content or follow. We will also respect your ad settings. You can learn more [here](http://help.instagram.com/615366948510230) about your ad settings.
@@ -109,9 +113,29 @@ In return for our commitment to provide the Service, we require you to make the 
 
 ### **Content Removal and Disabling or Terminating Your Account**
 
-*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are permitted or required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your account) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/).
+*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are permitted or required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your your access to the Facebook Products and Facebook Company Products) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/).When you request to delete content or your account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete content after the deletion process begins. While the deletion process for such content is being undertaken, the content is no longer visible to other users, but remains subject to these Terms of Use and our Data Policy. After the content is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery systems.
     
-*   Content you delete may persist for a limited period of time in backup copies and will still be visible where others have shared it. This paragraph, and the section below called "Our Agreement and What Happens if We Disagree," will still apply even after your account is terminated or deleted.
+*   Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
+    
+    *   where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted); or
+        
+    *   where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
+        
+    *   where deletion would restrict our ability to:
+        
+        *   investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our products or systems);
+            
+        *   protect the safety and security of our products, systems, and users;
+            
+        *   comply with a legal obligation, such as the preservation of evidence; or
+            
+        *   comply with a request of a judicial or administrative authority, law enforcement or a government agency;
+            
+        
+    *   in which case, the content will be retained for no longer than is necessary for the purposes for which it has been retained (the exact duration will vary on a case-by-case basis).
+        
+    
+*   If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but this section and the section below called "Our Agreement and What Happens if We Disagree" will still apply even after your account is terminated, disabled, or deleted.
     
 
   
@@ -120,7 +144,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Our Agreement.**
 
-*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Platform Policy](https://www.instagram.com/about/legal/terms/api/). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
+*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Facebook Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
     
 *   If any aspect of this agreement is unenforceable, the rest will remain in effect.
     
@@ -151,9 +175,9 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **How We Will Handle Disputes.**
 
-*   Except as provided below, you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram ("claim(s)") must be resolved by arbitration on an individual basis. Class actions and class arbitrations are not permitted; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users. If there is a final judicial determination that any particular claim (or a request for particular relief) cannot be arbitrated in accordance with this provision's limitations, then only that claim (or only that request for relief) may be brought in court. All other claims (or requests for relief) remain subject to this provision.
+*   Except as provided below, **you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram ("claim(s)") must be resolved by arbitration on an individual basis. Class actions and class arbitrations are not permitted**; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users. If there is a final judicial determination that any particular claim (or a request for particular relief) cannot be arbitrated in accordance with this provision's limitations, then only that claim (or only that request for relief) may be brought in court. All other claims (or requests for relief) remain subject to this provision.
     
-*   Instead of using arbitration, you or we can bring claims in your local "small claims" court, if the rules of that court will allow it. If you don't bring your claims in small claims court (or if you or we appeal a small claims court judgment to a court of general jurisdiction), then the claims must be resolved by binding, individual arbitration. The American Arbitration Association will administer all arbitrations under its Consumer Arbitration Rules. You and we expressly waive a trial by jury.
+*   Instead of using arbitration, you or we can bring claims in your local "small claims" court, if the rules of that court will allow it. If you don't bring your claims in small claims court (or if you or we appeal a small claims court judgment to a court of general jurisdiction), then the claims must be resolved by binding, individual arbitration. The American Arbitration Association will administer all arbitrations under its Consumer Arbitration Rules. **You and we expressly waive a trial by jury.**
     
     The following claims don't have to be arbitrated and may be brought in court: disputes related to intellectual property (like copyrights and trademarks), violations of our Platform Policy, or efforts to interfere with the Service or engage with the Service in unauthorized ways (for example, automated ways). In addition, issues relating to the scope and enforceability of the arbitration provision are for a court to decide.
     

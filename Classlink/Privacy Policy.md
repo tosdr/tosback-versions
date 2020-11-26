@@ -46,6 +46,76 @@ Contact
 
 [Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[Support Docs](https://support.classlink.com/hc/en-us)
 
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd926fb452e689_usa-flag.svg)
+
+EN
+
+[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922e8e52e68a_spain-flag.svg)
+
+ES
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd923c0e52e691_saudi-arabia-flag.svg)
+
+AR
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92224052e68b_japan-flag.svg)
+
+JA
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922f9952e690_portugal-flag.svg)
+
+PT
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92c57052e68f_china-flag.svg)
+
+TW
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92107a52e68c_france-flag.svg)
+
+FR
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd9258d052e68e_germany-flag.svg)
+
+DE
+
+
+
+](#)[
+
+![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92dd4b52e68d_indonesia-flag.svg)
+
+ID
+
+
+
+](#)
+
 Contact Us
 
 [Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[Support Docs](https://support.classlink.com/hc/en-us)
@@ -60,7 +130,7 @@ Privacy Statement
 
 ====================
 
-Updated July 24, 2020  
+Updated November 24, 2020  
 
 ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our [security protocols](https://www.classlink.com/company/security).  
 
@@ -180,7 +250,7 @@ GDPR includes 11 chapters and nearly 100 articles. Below are some of the most re
     
 *   Article 37: “Designation of a data protection officer”: ClassLink maintains a designated data protection officer who is authorized to engage security reviews and impact product development.  
     
-*   Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers are always in control over the storage and transmission of their personal data. Customers located in the EU or UK have the option to host a dedicated ClassLink data server either within their internal data center or utilize a secure data center located within the EU zone (Frankfurt, Germany). No servers, outside of these options, are used to store data for EU or UK based customers.  
+*   Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers are always in control over the storage and transmission of their personal data. Customers located in the EU or UK utilize a secure data center located within the EU zone (Frankfurt, Germany). No servers, outside of these options, are used to store data for EU or UK based customers.  
     
 
 ![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e4426017d75d60b0ce839_privacy_shield.png)
@@ -431,4 +501,4 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ![](https://px.ads.linkedin.com/collect/?pid=1918746&fmt=gif)
 
-// on Weglot init Weglot.on('initialized', ()=>{ // get the current active language const currentLang = Weglot.getCurrentLang(); // call updateFlagDropdownLinks function updateSW6FlagDropdownLinks(currentLang); }); // for each of the .wg-element-wrapper language links document.querySelectorAll('.wg-element-wrapper.sw6 \[lang\]').forEach((link)=>{ // add a click event listener link.addEventListener('click', function(e){ // prevent default e.preventDefault(); // switch to the current active language Weglot.switchTo(this.getAttribute('lang')); // call updateDropdownLinks function updateSW6FlagDropdownLinks(this.getAttribute('lang')); }); }); // updateFlagDropdownLinks function function updateSW6FlagDropdownLinks(currentLang){ // get the wrapper element const $wrapper = document.querySelector('.wg-element-wrapper.sw6'); // if the .w-dropdown-toggle is not the current active language if($wrapper.querySelector('.w-dropdown-toggle').getAttribute('lang') !== currentLang){ // swap the dropdown toggle's innerHTML with the current active language link innerHTML const $activeLangLink = $wrapper.querySelector('\[lang='+currentLang+'\]'); const childDiv = $activeLangLink.innerHTML; const $toggle = $wrapper.querySelector('.w-dropdown-toggle'); const toggleDiv = $toggle.innerHTML; $toggle.innerHTML = childDiv; $activeLangLink.innerHTML = toggleDiv; // swap the dropdown toggle's lang attr with the current active language link lang attr const lang = $activeLangLink.getAttribute('lang'); const toggleLang = $toggle.getAttribute('lang'); $toggle.setAttribute('lang', lang); $activeLangLink.setAttribute('lang', toggleLang); } }
+Weglot.initialize({ api\_key: 'wg\_7cef0644f793e52ea36311b11ee4bcdc8', translate\_iframes: \["#sizetracker"\] }); // on Weglot init Weglot.on('initialized', ()=>{ // get the current active language const currentLang = Weglot.getCurrentLang(); // call updateFlagDropdownLinks function updateSW6FlagDropdownLinks(currentLang); }); // for each of the .wg-element-wrapper language links document.querySelectorAll('.wg-element-wrapper.sw6 \[lang\]').forEach((link)=>{ // add a click event listener link.addEventListener('click', function(e){ // prevent default e.preventDefault(); // switch to the current active language Weglot.switchTo(this.getAttribute('lang')); // call updateDropdownLinks function updateSW6FlagDropdownLinks(this.getAttribute('lang')); }); }); // updateFlagDropdownLinks function function updateSW6FlagDropdownLinks(currentLang){ // get the wrapper element const $wrapper = document.querySelector('.wg-element-wrapper.sw6'); // if the .w-dropdown-toggle is not the current active language if($wrapper.querySelector('.w-dropdown-toggle').getAttribute('lang') !== currentLang){ // swap the dropdown toggle's innerHTML with the current active language link innerHTML const $activeLangLink = $wrapper.querySelector('\[lang='+currentLang+'\]'); const childDiv = $activeLangLink.innerHTML; const $toggle = $wrapper.querySelector('.w-dropdown-toggle'); const toggleDiv = $toggle.innerHTML; $toggle.innerHTML = childDiv; $activeLangLink.innerHTML = toggleDiv; // swap the dropdown toggle's lang attr with the current active language link lang attr const lang = $activeLangLink.getAttribute('lang'); const toggleLang = $toggle.getAttribute('lang'); $toggle.setAttribute('lang', lang); $activeLangLink.setAttribute('lang', toggleLang); } }

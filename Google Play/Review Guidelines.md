@@ -1,5 +1,5 @@
-Developer Program Policy (effective October 1, 2020)
-====================================================
+Developer Program Policy (effective October 21, 2020)
+=====================================================
 
 Let's build the world's most trusted source for apps and games
 ==============================================================
@@ -168,10 +168,12 @@ We allow real-money gambling apps, ads related to real-money gambling, and daily
 
 ### Gambling Apps
 
-**(Currently permitted in the UK, Ireland, and France only)**  
-For all other locations, we don’t allow apps containing content or services that facilitate online gambling. 
+We only allow content and services that facilitate online gambling in: 
 
-We allow content and services that facilitate online gambling, as long as they meet the following requirements:
+*   the UK, Ireland, and France
+*   Brazil (limited to approved apps published by Caixa Economica Federal)
+
+These apps must meet the following requirements: 
 
 *   Developer must successfully [complete the application process](https://support.google.com/googleplay/android-developer/contact/gambling) in order to distribute the app on Play;
 *   App must comply with all applicable laws and industry standards for each country in which it is distributed;
@@ -182,6 +184,8 @@ We allow content and services that facilitate online gambling, as long as they m
 *   App must be free to download and install from the Store;
 *   App must be rated AO (Adult Only) or IARC equivalent; and
 *   App and its app listing must clearly display information about responsible gambling.
+
+For all other locations, we don't allow content or services that facilitate online gambling, including, but not limited to, online casinos, sports betting and lotteries, and games of skill that offer prizes of cash or other real world value.
 
 ### Other Real-Money Games, Contests, and Tournament Apps 
 
@@ -580,7 +584,11 @@ Apps that manipulate or alter media, beyond conventional and editorially accepta
 Misrepresentation
 -----------------
 
-We do not allow apps or developer accounts that impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. We do not allow apps or developer accounts that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
+We do not allow apps or developer accounts that:
+
+*   impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. 
+*   that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
+*   coordinate with other apps, sites, developers, or other accounts to conceal or misrepresent developer or app identity or other material details, where app content relates to politics, social issues or matters of public concern.
 
 Malware
 -------
@@ -1199,20 +1207,22 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 News 
 -----
 
-Apps that select the ‘News’ category but exhibit content that does not meet these requirements are not permitted in the News category of the Play Store. News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
+An app that declares itself as a "News" app on Google Play must meet all of the following requirements.
+
+News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
 
 News apps MUST:
 
-*   provide adequate information about the news publisher and its contributors including clear ownership, and 
+*   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
 *   have a website or in-app page that provides valid contact information for the news publisher.
 
 News apps MUST NOT:
 
-*   contain significant spelling & grammar errors,
-*   contain only static content, and 
+*   contain significant spelling & or grammatical errors,
+*   contain only static content (e.g., content that is several months old), and 
 *   have affiliate marketing or ad revenue as its primary purpose.  
 
-News aggregator apps must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
+News apps that aggregate content from different publishing sources must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
 
 Spam and Minimum Functionality
 ==============================

@@ -57,7 +57,7 @@ Mortgages
 *   [FHA loan rates](http://www.bankrate.com/mortgages/fha-loan-rates/)
 *   [VA loan rates](http://www.bankrate.com/mortgages/va-loan-rates/)
 *   [Jumbo loan rates](http://www.bankrate.com/mortgages/jumbo-loan-rates/)
-*   [ARM loan rates](http://www.bankrate.com/mortgages/arm-loan-rates/)
+*   [Mortgage rate news](http://www.bankrate.com/mortgages/daily-rates/)
 
 *   Refinance your mortgage
     -----------------------
@@ -87,14 +87,14 @@ Mortgages
 *   Lender Reviews
     --------------
     
-*   [Amerisave Mortgage Corporation](http://www.bankrate.com/mortgages/reviews/amerisave-mortgage-corporation/)
-*   [Wells Fargo Home Mortgage](http://www.bankrate.com/mortgages/reviews/wells-fargo-home-mortgage/)
-*   [Better Mortgage](http://www.bankrate.com/mortgages/reviews/better/)
 *   [Quicken Loans Mortgage](http://www.bankrate.com/mortgages/reviews/quicken-loans/)
 *   [Loandepot Mortgage](http://www.bankrate.com/mortgages/reviews/loandepot/)
-*   [Citi Bank Mortgage](http://www.bankrate.com/mortgages/reviews/citibank-na/)
-*   [Sebonic Financial Mortgage](http://www.bankrate.com/mortgages/reviews/sebonic-financial/)
+*   [Mr. Cooper Mortgage](http://www.bankrate.com/mortgages/reviews/mr.-cooper/)
+*   [Amerisave Mortgage Corporation](http://www.bankrate.com/mortgages/reviews/amerisave-mortgage-corporation/)
+*   [Freedom Mortgage](http://www.bankrate.com/mortgages/reviews/freedom-mortgage/)
+*   [United Wholesale Mortgage](http://www.bankrate.com/mortgages/reviews/united-wholesale-mortgage/)
 *   [Sage Mortgage](http://www.bankrate.com/mortgages/reviews/sage-mortgage/)
+*   [PennyMac Mortgage](http://www.bankrate.com/mortgages/reviews/pennymac/)
 *   [All mortgage lender reviews](http://www.bankrate.com/mortgages/reviews/)
 
 Elevate your Bankrate experience
@@ -506,7 +506,7 @@ Submit
 
 settings = "eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC5vbmV0cnVzdC5jb20vcmVxdWVzdC92MS9wcml2YWN5Tm90aWNlcy9zdGF0cy92aWV3cyJ9"; OneTrust.NoticeApi.Initialized.then(function() { OneTrust.NoticeApi.LoadNotices(\["https://appds8093.blob.core.windows.net/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/privacy-notices/250d0faf-aa37-492a-a504-82487768c73d.json"\]); });
 
-svg4everybody(); baseUrl = "https://www.bankrate.com"; (function() { function injectEmailSignup() { const script = document.createElement('script'); const prior = document.getElementsByTagName('script')\[0\]; script.async = true; script.defer = true; script.src = "https://www.bankrate.com/v1.109.2/js/opt-in-monster/email-signup.js"; prior.parentNode.insertBefore(script, prior); } function injectOIM() { const script = document.createElement("script"); const prior = document.getElementsByTagName("script")\[0\]; script.async = true; script.defer = true; script.src = "https://a.omappapi.com/app/js/api.min.js"; script.dataset.account = "74974"; script.dataset.user = "66676"; prior.parentNode.insertBefore(script, prior); } if (window.oimInjected) { return; } window.oimInjected = true; injectEmailSignup(); injectOIM(); })() 
+svg4everybody(); baseUrl = "https://www.bankrate.com"; (function() { function injectEmailSignup() { const script = document.createElement('script'); const prior = document.getElementsByTagName('script')\[0\]; script.async = true; script.defer = true; script.src = "https://www.bankrate.com/v1.118.1/js/opt-in-monster/email-signup.js"; prior.parentNode.insertBefore(script, prior); } function injectOIM() { const script = document.createElement("script"); const prior = document.getElementsByTagName("script")\[0\]; script.async = true; script.defer = true; script.src = "https://a.omappapi.com/app/js/api.min.js"; script.dataset.account = "74974"; script.dataset.user = "66676"; prior.parentNode.insertBefore(script, prior); } if (window.oimInjected) { return; } window.oimInjected = true; injectEmailSignup(); injectOIM(); })() 
 
 [Bankrate](https://www.bankrate.com/)
 -------------------------------------

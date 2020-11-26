@@ -336,7 +336,7 @@ Email  Subscribe
 ### Company
 
 *   [About Us](https://www.sketch.com/about-us/)
-*   [Jobs 2](https://www.sketch.com/jobs/)
+*   [Jobs 3](https://www.sketch.com/jobs/)
 *   [Press](https://www.sketch.com/press/)
 *   [Labs](https://www.sketch.com/labs/)
 
@@ -357,5 +357,6 @@ Email  Subscribe
     
 *   [Developer Platform](https://developer.sketchapp.com/)
 *   [Terms & Policies](https://www.sketch.com/legal/)
+*   [Status](https://status.sketch.com/)
 
 © 2020 Sketch B.V.

@@ -50,7 +50,7 @@ Sharing Decks
 *   You may elect to remove the shared deck from our servers at any time. This will stop us from providing the deck for download. We do not store records of who has downloaded a certain deck, so we can not retroactively remove a deck from users who have already downloaded it. Due to caching, there may be a small delay between when you remove a deck and when it becomes unavailable to others.
 *   In addition to the license you grant us above, you may optionally grant users extra rights by specifying so in your deck's description, such as allowing them to redistribute modified versions of your deck. You may not impose any extra restrictions.
 *   When you share a deck, you will be required to assert that it is entirely your own work, or that you have obtained a license from the intellectual property holder to share the material here. If we suspect that material has been uploaded in violation of intellectual property rights, we will remove it from the shared deck list, and may remove your ability to share decks in the future.
-*   The system will automatically removed shared decks that receive very few downloads after 3 months.
+*   The system will automatically remove shared decks that receive very few downloads after 3 months.
 *   While we do not have the resources to manually check decks that are uploaded to our website, we reserve the right to remove any we come across that we deem inappropriate, including but not limited to ones with poor quality descriptions or content, and ones that are only useful to a small group of people (such as lecture notes for a specific class).
 
 ### Shared Deck License
@@ -61,7 +61,7 @@ Sharing Decks
 
 ### Intellectual Property Violations
 
-Each time users share a deck, they're required to state under penalty of perjury that the content is entirely their own work, or that they have obtained a license from the intellectual property holder. If you believe someone has violated your intellectual property rights, please post a private message on our [support site](http://help.ankisrs.net/) to let us know. Please provide us with a link to the offending content, and a link to your site, book or other original content that the material has been taken from. If you are writing on behalf of another, you must have the authority to act on their behalf. Please be advised that if you make a false report, you may place yourself open to legal action.
+Each time users share a deck, they're required to confirm that the content is entirely their own work, or that they have obtained a license from the intellectual property holder. If you believe someone has violated your intellectual property rights, please post a private message on our [support site](http://help.ankisrs.net/) to let us know. Please provide us with a link to the offending content, and a link to your site, book or other original content that the material has been taken from. If you are writing on behalf of another, you must have the authority to act on their behalf. Please be advised that if you make a false report, you may place yourself open to legal action.
 
 Sharing Add-ons
 ---------------

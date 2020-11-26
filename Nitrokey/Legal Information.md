@@ -1,0 +1,35 @@
+Legal Information
+=================
+
+Nitrokey GmbH
+
+**No personal pick-up possible**
+
+Rheinstr. 10 C  
+14513 Teltow  
+Germany
+
+CEO: Jan Suhr
+
+dom='nitrokey.com'; e=('info' + '@' + dom); s='<p><a href="mailto:'+e+'">'+e+'</a>'; document.write(s);
+
+_Email address protected by JavaScript.  
+Please enable JavaScript to contact us._
+
+, OpenPGP key: 5EEB A73B 1DC5 EC00 C4AE 7EFA CB03 9DE5 DE17 F3E7  
+Phone: +493012053434
+
+Commercial registry court: Amtsgericht Potsdam  
+Register Record: HRB 32882 P
+
+VAT identification number: DE300136599
+
+**This imprint applies to the following services and its sub-services**:
+
+*   [nitrokey.com](https://www.nitrokey.com/)
+*   [dongleauth.info](https://www.dongleauth.info/)
+*   [nitro.chat](https://nitro.chat/)
+
+**Online dispute resolution according to article 14 section 1 ODR-VO**:
+
+The European Commission provides a platform for online dispute resolution, which you can find at [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).

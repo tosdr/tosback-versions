@@ -6,7 +6,7 @@
 
 [Apply to college](https://www.commonapp.org/apply)
 
-[First-time applicant guide](https://www.commonapp.org/apply/first-time-students)[First-year essay prompts](https://www.commonapp.org/apply/essay-prompts)[Transfer applicant guide](https://www.commonapp.org/apply/transfer-students)
+[First-time applicant guide](https://www.commonapp.org/apply/first-time-students)[First-year essay prompts](https://www.commonapp.org/apply/essay-prompts)[Transfer applicant guide](https://www.commonapp.org/apply/transfer-students)[Download mobile app](https://www.commonapp.org/mobile)
 
 [Support your students](https://www.commonapp.org/counselors-and-recommenders)
 

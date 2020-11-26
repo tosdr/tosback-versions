@@ -38,7 +38,7 @@ MobileUtils.setupMobileClass(); var gg = NOLCMB.getInstance(\_nolggGlobalParams.
 
 ![](https://i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png)
 
-**Thursday, Nov 26th 2020** [5AM **31°F** 8AM **31°F** 5-Day Forecast](http://www.dailymail.co.uk/home/weather/index.html)
+**Thursday, Nov 26th 2020** [8AM **31°F** 11AM **38°F** 5-Day Forecast](http://www.dailymail.co.uk/home/weather/index.html)
 
 [show ad](#)
 
@@ -795,9 +795,9 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/11/17/13/35773546-0-image-a-15_1605619142114.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/11/25/16/36088338-0-image-m-7_1606322109408.jpg)
     
-    **"It's a happy place. It's a bit of warmth and normality!": The local causes making their communities a better place (and how YOU can help by shopping!)** Ad Feature](http://www.dailymail.co.uk/femail/article-8910215/The-local-causes-making-communities-better-place-help-shopping.html) 
+    **Want to save money AND wow your family this Christmas? How going homemade could make your festive season more magical than ever** Ad Feature](http://www.dailymail.co.uk/femail/article-8928825/How-going-homemade-make-festive-season-magical-ever.html) 
 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -888,6 +888,11 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Zara McDermott hits back at 'vile and toxic' trolls who accuse her of 'having an eating disorder' and insists her 3st weight loss was 'slow and healthy'**](http://www.dailymail.co.uk/tvshowbiz/article-8989413/Zara-McDermott-hits-vile-toxic-trolls-accuse-having-eating-disorder.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
+    ![](https://i.dailymail.co.uk/1s/2020/11/19/08/35736004-0-image-a-1_1605775573195.jpg)
+    
+    **Worried what lockdown #2 is doing to your figure before Christmas? Real women are shaping up with THIS 7 Day weight loss challenge and you could too! (PLUS there are HUGE savings this Black Friday!)** Ad Feature](http://www.dailymail.co.uk/femail/article-8953477/Real-women-shaping-7-Day-weight-loss-challenge-too.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
     ![](https://i.dailymail.co.uk/1s/2020/11/26/12/36136698-0-image-m-53_1606394639568.jpg)
     
     **His Royal Spine-ness! Prince Charles adopts three baby HEDGEHOGS to keep down slugs at Dumfries House** Sweet](http://www.dailymail.co.uk/news/article-8990017/His-Royal-Spine-ness-Prince-Charles-adopts-three-baby-HEDGEHOGS.html) 
@@ -908,9 +913,9 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Chloe Ferry puts on an eye-popping display in skimpy white lace lingerie after confirming her return to Celebs Go Dating** Crikey](http://www.dailymail.co.uk/tvshowbiz/article-8989415/Chloe-Ferry-puts-eye-popping-display-skimpy-white-lace-lingerie.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/11/19/08/35736004-0-image-a-1_1605775573195.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/11/19/12/35737348-0-image-a-4_1605790755290.jpg)
     
-    **Worried what lockdown #2 is doing to your figure before Christmas? Real women are shaping up with THIS 7 Day weight loss challenge and you could too! (PLUS there are HUGE savings this Black Friday!)** Ad Feature](http://www.dailymail.co.uk/femail/article-8953477/Real-women-shaping-7-Day-weight-loss-challenge-too.html) 
+    **You're not alone: From financial worries to loneliness, here's how one bank can support you and your loved ones this winter** Ad Feature](http://www.dailymail.co.uk/news/article-8953653/Youre-not-Heres-one-bank-support-loved-ones-winter.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/26/11/36134244-0-image-a-39_1606391089865.jpg)
@@ -921,12 +926,12 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/11/26/11/36133764-0-image-m-23_1606388888238.jpg)
     
     **I'm A Celebrity SPOILER: Shane Richie splutters as he crawls through a stinking sewer with Hollie Arnold during Wicked Waterways trial**](http://www.dailymail.co.uk/tvshowbiz/celebrity/article-8989811/Im-Celebrity-Shane-Richie-crawls-sewer-Hollie-Arnold-Wicked-Waterways-trial.html) 
+
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/25/18/36106818-0-image-a-118_1606328153642.jpg)
     
     **Diego Maradona's lawyer demands investigation into the player's death, accusing medics of 'criminal idiocy' as thousands of fans stream past**](http://www.dailymail.co.uk/sport/sportsnews/article-8989197/Diego-Maradonas-coffin-arrives-Argentinian-presidents-mansion.html) 
-
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/26/12/36135348-0-image-a-74_1606392197485.jpg)
@@ -934,9 +939,9 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **The hills are alive! Rebel Wilson hits the slopes in Austria and has a Sound of Music moment as she flaunts her 18kg weight loss**  Loving life](http://www.dailymail.co.uk/tvshowbiz/article-8989925/Rebel-Wilson-hits-slopes-Austria-Sound-Music-moment.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/11/19/12/35737348-0-image-a-4_1605790755290.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/11/25/13/36092932-0-image-m-19_1606309993648.jpg)
     
-    **You're not alone: From financial worries to loneliness, here's how one bank can support you and your loved ones this winter** Ad Feature](http://www.dailymail.co.uk/news/article-8953653/Youre-not-Heres-one-bank-support-loved-ones-winter.html) 
+    **From Lululemon to Sweaty Betty, the best workout leggings to snap up in the early Black Friday sales - with prices starting from just £16** Promoted](http://www.dailymail.co.uk/femail/article-8982935/The-best-workout-leggings-Black-Friday-sale-including-Lululemon-Sweaty-Betty.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/26/11/36133306-0-image-a-21_1606388470351.jpg)
@@ -964,11 +969,6 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Rebekah Vardy shows off her impressive flexibility as she rolls around dance studio with her legs akimbo during DOI training** Wow](http://www.dailymail.co.uk/tvshowbiz/article-8989655/Rebekah-Vardy-shows-impressive-flexibility.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/11/25/13/36092932-0-image-m-19_1606309993648.jpg)
-    
-    **From Lululemon to Sweaty Betty, the best workout leggings to snap up in the early Black Friday sales - with prices starting from just £16** Promoted](http://www.dailymail.co.uk/femail/article-8982935/The-best-workout-leggings-Black-Friday-sale-including-Lululemon-Sweaty-Betty.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
     ![](https://i.dailymail.co.uk/1s/2020/11/26/10/36133424-0-image-m-54_1606388312140.jpg)
     
     **I'm A Celeb's Ant and Dec reveal the campmates' biggest struggle as Giovanna's brother Mario Falcone praises her leadership skills**](http://www.dailymail.co.uk/tvshowbiz/article-8989791/Im-Celebs-Ant-Dec-reveal-campmates-biggest-struggle.html) 
@@ -989,6 +989,11 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Amanda Holden wears lilac pencil skirt with matching shirt and coat as she leaves the Heart FM studios** Amanda put on a stunning sartorial display](http://www.dailymail.co.uk/tvshowbiz/article-8989877/Amanda-Holden-wears-lilac-pencil-skirt-matching-shirt-coat.html)
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
+    ![](https://i.dailymail.co.uk/1s/2020/11/25/10/30180770-0-image-m-18_1606300417568.jpg)
+    
+    **Amazon shoppers say this light-blocking eye mask is perfect for getting more shut-eye - and it's now reduced to just £7 (that's 42% off)** Promoted](http://www.dailymail.co.uk/health/article-8985479/Save-42-bestselling-light-blocking-eye-mask-Amazon.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
     ![](https://i.dailymail.co.uk/1s/2020/11/26/11/36133510-0-image-m-54_1606388476200.jpg)
     
     **Kate Garraway wraps up in a knitted jumper as she heads to work after admitting she feels 'sick' at facing first Christmas without her husband Derek**](http://www.dailymail.co.uk/tvshowbiz/article-8989805/Kate-Garraway-wraps-knitted-jumper-heads-work.html) 
@@ -997,12 +1002,12 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/11/26/09/36129904-0-image-a-38_1606381237238.jpg)
     
     **Terrifying moment Arsenal star Joe Willock loses control of £140k Mercedes G-Wagon, cutting across THREE lanes on the M25**](http://www.dailymail.co.uk/news/article-8989321/Moment-young-50-000-week-Arsenal-star-Joe-Willock-loses-control-Mercedes-G-Wagon.html) 
+
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/26/10/36131992-0-image-m-47_1606385544150.jpg)
     
     **Lily Allen and husband David Harbour mark her daughter Ethel's 9th birthday with a party at home complete with balloons, fairy lights, and cacti cakes**](http://www.dailymail.co.uk/tvshowbiz/article-8989653/Lily-Allen-husband-David-Harbour-mark-daughter-Ethels-9th-birthday-party-home.html)
-
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/26/10/36132394-0-image-m-39_1606386527760.jpg)
@@ -1013,11 +1018,6 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/11/26/10/36132292-0-image-m-12_1606387680317.jpg)
     
     **'I really hope she'd be proud': Alexandra Burke reveals she's released a new version of Silent Night featuring her late mum Melissa Bell** Candid](http://www.dailymail.co.uk/tvshowbiz/article-8989705/Alexandra-Burke-releases-new-version-Silent-Night-featuring-late-mum-Melissa-Bell.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/11/25/10/30180770-0-image-m-18_1606300417568.jpg)
-    
-    **Amazon shoppers say this light-blocking eye mask is perfect for getting more shut-eye - and it's now reduced to just £7 (that's 42% off)** Promoted](http://www.dailymail.co.uk/health/article-8985479/Save-42-bestselling-light-blocking-eye-mask-Amazon.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/11/25/21/36114736-0-image-a-7_1606341338311.jpg)

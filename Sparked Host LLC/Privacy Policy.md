@@ -1,0 +1,24 @@
+Privacy Policy
+==============
+
+Introduction
+============
+
+We, Sparked Host LLC, know that protecting your private information is our priority. For the purposes of this Privacy Policy, unless otherwise noted, all references to Sparked Host include www.sparkedhost.us. By using the SparkedHost website, you consent to the data practices described in this statement.
+
+View our Privacy Policy
+=======================
+
+You can visit our Privacy Policy by clicking [here](https://sparkedhost.com/Privacy-Policy.pdf)
+
+Data Protection Officer
+=======================
+
+Our Data Protection Officer is Mr. Jake W. Contactable via: [\[email protected\]](https://sparkedhost.us/cdn-cgi/l/email-protection)
+
+Disclaimer
+==========
+
+Our Data Protection Officer is Mr. Jake W. Contactable via: [\[email protected\]](https://sparkedhost.us/cdn-cgi/l/email-protection)
+
+Last date Modified: 07/10/2020 at 04:00 AM EST

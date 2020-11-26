@@ -99,7 +99,7 @@ Any of the information we collect from you may be used in one of the following w
       
     While you grant us a lifetime royalty free licenses to publish your posts on this website under certain circumstance we will delete the IP address or any other "personal data" associated with a user id number or post from our data base. If you feel you have submitted "personal data" to this website in the form of a post you can edit that post at any time by logging into your account.  
       
-    If you do not have an account on this website and feel information you or others have submitted amounts to "personal data" as defined by GDPR such as a name, a home address, a photo, an email address, bank details, medical information, IP address, etc. you may request removal and get immediate attention by using the "report abusive post" feature located next to each post on our website or contact our Data Protection Officer by emailing godli[\[email protected\]](http://www.godlikeproductions.com/cdn-cgi/l/email-protection) with the subject "ATTN: Data Protection Officer" to address your concerns.  
+    If you do not have an account on this website and feel information you or others have submitted amounts to "personal data" as defined by GDPR such as a name, a home address, a photo, an email address, bank details, medical information, IP address, etc. you may request removal and get immediate attention by using the "report abusive post" feature located next to each post on our website or contact our Data Protection Officer by emailing [\[email protected\]](http://www.godlikeproductions.com/cdn-cgi/l/email-protection) with the subject "ATTN: Data Protection Officer" to address your concerns.  
       
     **Terms and Conditions**  
       

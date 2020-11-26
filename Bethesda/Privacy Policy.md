@@ -1,6 +1,8 @@
 var newPDP = true
 
-.site-header .site-header-logo { max-width: 100px; flex-basis: 100px; } .logo > svg { width: 100px; } @media only screen and (max-width: 639px) { .logo > svg { width: 100%; max-width: 100px; } } .site-header, .show-for-large .topbar-nav > li { height: 60px; } @media only screen and (max-width: 639px) { .site-header, .show-for-large .topbar-nav > li { height: 60px; } } @media only screen and (min-width: 640px) { .header-searchbar .search-form .input-search.ss-ac-open + div\[ss-autocomplete\] { top: 60px; } } body > main { padding-top: 60px; } @media only screen and (max-width: 639px) { body > main { padding-top: 60px; } } .site-header .show-for-large .topbar-nav > li > a { font-family: Trade Gothic; color: #ffffff } .site-header .show-for-large .topbar-nav > li > a:hover, .site-header .show-for-large .topbar-nav > li > a.show { color: #ffffff; }
+.site-header .site-header-logo { max-width: 100px; flex-basis: 100px; } .logo > svg { width: 100px; } @media only screen and (max-width: 639px) { .logo > svg { width: 100%; max-width: 100px; } } .site-header, .show-for-large .topbar-nav > li { height: 60px; } @media only screen and (max-width: 639px) { .site-header, .show-for-large .topbar-nav > li { height: 60px; } } @media only screen and (min-width: 640px) { .header-searchbar .search-form .input-search.ss-ac-open + div\[ss-autocomplete\] { top: 60px; } } body > main { padding-top: 60px; padding-top: calc(60px + 24px); } @media only screen and (max-width: 639px) { body > main { padding-top: 60px; padding-top: calc(60px + 24px); } } .site-header .show-for-large .topbar-nav > li > a { font-family: Trade Gothic; color: #ffffff } .site-header .show-for-large .topbar-nav > li > a:hover, .site-header .show-for-large .topbar-nav > li > a.show { color: #ffffff; }
+
+[Review the **Holiday Shipping** cutoff dates](https://gear.bethesda.net/pages/holiday-shipping-information)
 
 *   [Holiday Shopping](https://gear.bethesda.net/collections/holiday-gift-center)
     
@@ -73,18 +75,18 @@ var newPDP = true
     
 *   [Shop By Brand](https://gear.bethesda.net/collections)
     
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0000_Fallout_30x.png?v=1574279620)](https://gear.bethesda.net/collections/fallout) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0001_The-Elder-Scrolls_30x.png?v=1574279631)](https://gear.bethesda.net/collections/the-elder-scrolls) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0014_Rage-2_30x.png?v=1574279686)](https://gear.bethesda.net/collections/rage-2) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0009_DOOM_30x.png?v=1574279693)](https://gear.bethesda.net/collections/doom) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0012_WOLF_30x.png?v=1574279700)](https://gear.bethesda.net/collections/wolfenstein) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0010_Dishonored_30x.png?v=1574279709)](https://gear.bethesda.net/collections/dishonored) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0008_Quake_30x.png?v=1574279717)](https://gear.bethesda.net/collections/quake) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0011_EVILWITHIN_30x.png?v=1574279725)](https://gear.bethesda.net/collections/the-evil-within) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0015_PREY_30x.png?v=1574279737)](https://gear.bethesda.net/collections/prey) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0004_Commander-Keen_30x.png?v=1574279744)](https://gear.bethesda.net/products/commander-keen-logo-tee) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0003_Deathloop_30x.png?v=1574279755)](https://gear.bethesda.net/collections/deathloop) 
-    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0002_Ghost-Wire_30x.png?v=1574279775)](https://gear.bethesda.net/collections/ghostwire-tokyo) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0000_Fallout_420x.png?v=1574279620)](https://gear.bethesda.net/collections/fallout) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0001_The-Elder-Scrolls_420x.png?v=1574279631)](https://gear.bethesda.net/collections/the-elder-scrolls) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0014_Rage-2_420x.png?v=1574279686)](https://gear.bethesda.net/collections/rage-2) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0009_DOOM_420x.png?v=1574279693)](https://gear.bethesda.net/collections/doom) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0012_WOLF_420x.png?v=1574279700)](https://gear.bethesda.net/collections/wolfenstein) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0010_Dishonored_420x.png?v=1574279709)](https://gear.bethesda.net/collections/dishonored) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0008_Quake_420x.png?v=1574279717)](https://gear.bethesda.net/collections/quake) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0011_EVILWITHIN_420x.png?v=1574279725)](https://gear.bethesda.net/collections/the-evil-within) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0015_PREY_420x.png?v=1574279737)](https://gear.bethesda.net/collections/prey) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0004_Commander-Keen_420x.png?v=1574279744)](https://gear.bethesda.net/products/commander-keen-logo-tee) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0003_Deathloop_420x.png?v=1574279755)](https://gear.bethesda.net/collections/deathloop) 
+    *    [![](//cdn.shopify.com/s/files/1/3045/2256/files/bethesda-logo-knockout-pngs_0000s_0002_Ghost-Wire_420x.png?v=1574279775)](https://gear.bethesda.net/collections/ghostwire-tokyo) 
     
 
  

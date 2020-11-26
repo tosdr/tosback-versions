@@ -519,6 +519,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
 *   MileIQ
+*   Minecraft games
 *   Minecraft Realms Plus and Minecraft Realms
 *   Mixer
 *   MSN Dial Up

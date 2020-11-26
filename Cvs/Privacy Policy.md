@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective Date: July 31, 2020
+Effective Date: November 20, 2020
 
   
 
@@ -356,14 +356,23 @@ We do not sell personal information or otherwise provide personal information to
 
   
 
+As with other companies that conduct digital marketing, we do share a limited set of data that is gathered when you visit our Websites and other web-based services, such as cookies and pixels, with third parties in order to allow you to see tailored digital advertisements about our products and services. We may also share certain information to enhance our ability to communicate with you and provide you with promotional information. To the extent this activity is interpreted as included in California law's broad definition of "data sale," we have provided you with opt-out rights as to that activity as further described in Section G below.
+
+  
+
 We may share your personal information with the following categories of third parties:
 
   
 
-*   Affiliates
+Affiliates
+
 *   Advertising and marketing companies
 *   Social media companies
 *   Technology companies
+
+We do not knowingly sell the personal information of minors under 16 years of age.
+
+  
 
 **E. Your Privacy Rights**
 
@@ -373,6 +382,7 @@ If you are a California resident, subject to applicable law, you have the follow
 
 *   **Right to Know.** You have the right to request what personal information we collect, use, disclose, and/or sell, as applicable.
 *   **Right to Delete.** You have the right to request the deletion of your personal information that is collected or maintained by us.
+*   **Right to Opt-Out of Sales.** You have the right to opt-out of the sale of your personal information by us. You may access our Notice of Right to Opt-Out by clicking [here](#noticeoo).
 *   **Right to Non-Discrimination.** We may not discriminate against you because you have exercised any of the privacy rights described above. This right may be subject to the offers described in our Notice of Financial Incentives, which you may access by clicking [here](#noticefi).
 
 You may also authorize someone to exercise the above rights on your behalf. Documentation will need to be provided that reflects that you have requested an authorized agent to make a request on your behalf. This may include a Power of Attorney document or other signed document. If we have collected information on your minor child, you may exercise the above rights on behalf of your minor child.
@@ -387,9 +397,17 @@ If you are a California resident and wish to seek to exercise these rights, plea
 
   
 
-*   [Interactive webform (ExtraCare)](http://www.cvs.com/extracare/ccpa)
+Right to Know / Right to Delete:
+
+  
+
+*   [Interactive webform (ExtraCare)](http://www.cvs.com/extracare/ccpa) or
 *   Password-protected web portal: [Sign in here](http://www.cvs.com/account/login/)
 *   1-800-SHOP-CVS (1-800-746-7287)
+
+See Section G for instructions on how to Opt-Out of [Sale](#noticeoo).
+
+  
 
 For more information regarding this Privacy Policy, or if you have any questions or concerns, please [Contact Us](http://www.cvs.com/help/help_contact_us.jsp).
 
@@ -412,6 +430,28 @@ To withdraw from the program, you must request deletion of your personal informa
 
   
 
+**G. Notice of Right to Opt-Out of Sales**
+
+If you wish to opt-out of our sharing of the limited data that is gathered when you visit our Websites and other web-based services for purposes of targeted digital advertising, you may do so in one of the following ways:
+
+  
+
+*   Filling out [this interactive webform](https://www.cvs.com/ccpa-compliance)
+*   Contacting us at 1-800-SHOP-CVS (1-800-746-7287)
+
+Please note that the effectiveness of your opt-out request may be limited by our ability to associate the cookies and/or pixels that we may collect from your web session with your identity, browser, device, and/or browsing session. As a result, your opt-out request will be more effective for future visits to the Websites if you:
+
+  
+
+*   Utilize the same device that was used to exercise the opt-out request;
+*   Have not cleared cookies from your web browser; and
+*   Are not using a private or "do not track" mode in your web browser;
+*   Provide the same personal information that you provided previously
+
+We encourage you to re-submit opt-out requests from any other devices that you may be utilizing to visit our Websites. If you sign up and are logged in to your CVS.com account, we will be able to more easily associate you with your Website visits and apply a more persistent opt-out request across devices, browsers, and browsing sessions, subject to the above limitations.
+
+  
+
 **California Shine the Light Law**
 
   
@@ -425,11 +465,12 @@ If you have any questions or concerns about this statement, or about the way you
 
   
 
-If you have any questions about the content of this Privacy Policy, please contact the CVS Health Corporation Privacy Office at the following address:
+If you have any questions about the content of this Privacy Policy, please contact the CVS Health Privacy Office at the following address:
 
   
 
-CVS Health Corporation  
+CVS Health  
+Attn: Privacy Office  
 1 CVS Drive  
 Woonsocket, R.I. 02895  
 (888) 607-4287

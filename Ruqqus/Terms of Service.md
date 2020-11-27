@@ -28,7 +28,7 @@ In the event that your ruqqus.com account is accessed by a third party anyways, 
 Liability
 ---------
 
-Under no theory of liability shall Ruqqus LLC be liable for your damages arising from any of the following:
+Ruqqus LLC shall not be liable for your damages arising from any of the following:
 
 *   Use of the ruqqus.com platform
 *   Technical failure of ruqqus.com
@@ -57,6 +57,8 @@ You will not use ruqqus.com as a means to support any other website or service w
 
 You will not attempt to gain access to a Ruqqus account that does not belong to you.
 
+You will not use ruqqus.com to engage in child sexual abuse activities. More information about this is available in the [CSAM Policy](https://ruqqus.com/help/csam). The CSAM Policy is incorporated into these terms by this reference.
+
 API Terms
 ---------
 
@@ -74,6 +76,19 @@ Ruqqus provides you with the ability to create, manage, and moderate communities
 *   Accept payment, gifts, or other compensation in exchange for performing Guildmaster actions. You may execute Guildmaster actions as part of employment duties, (for example, as a social media representative for your employer), but that fact must be plainly disclosed in the description of your Guild.
 *   Penalize users for content or conduct outside of your Guild
 *   Require integration with any third-party platform or service as a prerequisite for user participation in the Guild.
+
+Multiple Accounts
+-----------------
+
+You are permitted to create and use multiple ruqqus.com accounts.
+
+You will not use multiple accounts to circumvent per-user limits. Examples of such limits include, but are not limited to:
+
+*   Maximum one upvote or downvote per post or comment
+*   Maximum ten Guilds moderated at one time
+*   Maximum two Guilds created per day
+
+Additionally, these terms apply to all of your accounts, which may exist now or in the future. Ruqqus LLC reserves the right to take administrative action against all of your accounts in the event of a terms of service violation on any of your accounts.
 
 Your Privacy
 ------------

@@ -44,6 +44,8 @@ Browse all medications: [a](http://www.drugs.com/alpha/a.html) [b](http://www.dr
 *   [Pro Edition](http://www.drugs.com/professionals.html)
 *   [More Resources](#)
 
+Close
+
 1.  [Support](http://www.drugs.com/support/)
 2.  Privacy Policy
 
@@ -356,7 +358,7 @@ The easiest way to lookup drug information, identify pills, check interactions a
 
 [Explore Apps](http://www.drugs.com/apps/)
 
-![Drugs.com](/img/pixel.gif)
+![Drugs.com logo symbol](/img/pixel.gif)
 
 #### Support
 

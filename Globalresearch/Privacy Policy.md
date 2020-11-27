@@ -22,4 +22,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of GlobalResearch.ca then you may contact us at [\[email protected\]](http://www.globalresearch.ca/cdn-cgi/l/email-protection)alresearch.ca
+If you have any questions regarding the privacy policy of GlobalResearch.ca then you may contact us at [\[email protected\]](http://www.globalresearch.ca/cdn-cgi/l/email-protection)

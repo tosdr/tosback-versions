@@ -57,6 +57,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Coronavirus infection in Israel passes 1,000 for second day](https://www.debka.com/mivzak/coronavirus-infection-in-israel-passes-1000-for-second-day/)
+    
+    Nov 27, 2020 @ 14:13
+    
 *   [Iran releases Kylie-Moore Gilbert for three Iranians held abroad](https://www.debka.com/mivzak/iran-releases-kylie-moore-gilbert-for-three-iranians-held-abroad/)
     
     Nov 26, 2020 @ 12:57
@@ -80,12 +84,12 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Another turnup in new coronavirus cases](https://www.debka.com/mivzak/another-turnup-in-new-coronavirus-cases/)
     
     Nov 25, 2020 @ 11:57
-    
-*   [Trump allows presidency transition to start, refuses to concede](https://www.debka.com/mivzak/trump-allows-presidency-transition-to-start-refuses-to-concede/)
-    
-    Nov 24, 2020 @ 09:55
     
 
+*   [Coronavirus infection in Israel passes 1,000 for second day](https://www.debka.com/mivzak/coronavirus-infection-in-israel-passes-1000-for-second-day/)
+    
+    Nov 27, 2020 @ 14:13
+    
 *   [Iran releases Kylie-Moore Gilbert for three Iranians held abroad](https://www.debka.com/mivzak/iran-releases-kylie-moore-gilbert-for-three-iranians-held-abroad/)
     
     Nov 26, 2020 @ 12:57
@@ -109,10 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Another turnup in new coronavirus cases](https://www.debka.com/mivzak/another-turnup-in-new-coronavirus-cases/)
     
     Nov 25, 2020 @ 11:57
-    
-*   [Trump allows presidency transition to start, refuses to concede](https://www.debka.com/mivzak/trump-allows-presidency-transition-to-start-refuses-to-concede/)
-    
-    Nov 24, 2020 @ 09:55
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

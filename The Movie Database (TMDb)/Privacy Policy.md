@@ -288,6 +288,10 @@ If you have any questions about this policy, please send an email to [privacy@ti
 
 Build d8fe330 (623)
 
+Have a few minutes to participate in a survey? We're interested to hear what you think about TMDb.
+
+[Complete Survey](#) [No thanks](#)
+
 Can't find a movie or TV show? Login to create it.
 
 [Login](https://www.themoviedb.org/login)

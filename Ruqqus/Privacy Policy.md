@@ -16,6 +16,7 @@ We collect basic information in order to operate the platform, and to mitigate a
 *   Your email address, if you choose to provide it.
 *   The IP address from which content is submitted.
 *   Whether or not you have indicated that you are 18 years of age.
+*   Other saved personal preferances.
 
 We use - and then promptly forget - the following information about you from third parties:
 
@@ -25,6 +26,7 @@ We use - and then promptly forget - the following information about you from thi
 Ruqqus will not release your information to third parties, except:
 
 *   As required by United States law
+*   At our discretion, Ruqqus may share your information with United States law enforcement in the event of an emergency, if we have good cause to believe that doing so would avert or mitigate the emergency.
 *   At our discretion, Ruqqus may share your information with United States law enforcement in the event of an emergency, if we have good cause to believe that doing so would avert or mitigate the emergency.
 
 ##

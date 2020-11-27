@@ -1,6 +1,6 @@
  [![](/static/img/brand.4907487bf70f.png) Mullvad VPN](https://mullvad.net/en/)  
 
-[Help](https://mullvad.net/en/help/) [Servers](https://mullvad.net/en/servers/) [Blog](https://mullvad.net/en/blog/) [Policies](https://mullvad.net/en/help/tag/policies/) [About](https://mullvad.net/en/what-is-privacy/)
+[Help](https://mullvad.net/en/help/) [Servers](https://mullvad.net/en/servers/) [Pricing](https://mullvad.net/en/pricing/) [Blog](https://mullvad.net/en/blog/) [Policies](https://mullvad.net/en/help/tag/policies/) [About](https://mullvad.net/en/what-is-privacy/)
 
 [My account](https://mullvad.net/en/account/) [Download](https://mullvad.net/en/download/)
 
@@ -241,6 +241,7 @@ Mullvad
 
 *   [Help](https://mullvad.net/en/help/)
 *   [Servers](https://mullvad.net/en/servers/)
+*   [Pricing](https://mullvad.net/en/pricing/)
 *   [Blog](https://mullvad.net/en/blog/)
 *   [What is a VPN?](https://mullvad.net/en/what-is-vpn/)
 *   [What is privacy?](https://mullvad.net/en/what-is-privacy/)

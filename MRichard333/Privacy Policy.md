@@ -158,13 +158,14 @@ By using our website you agree to our [Terms of services](https://mrichard333.co
 
 I reserve for me the right of editing the terms of service, privacy policy, and GDPR declaration: It might be required for future expend perhaps we will make sure to let you know of the update.  
 
-[**Terms of Service**](https://mrichard333.com/ToS "Terms of Service (ToS)")
-============================================================================
+###  [Privacy policy](https://mrichard333.com/Privacy-policy "Privacy policy")  
 
-[**Report a Bug**](https://mrichard333.com/contact "Report a Bug")
-==================================================================
+###  [**Inquiry**](https://mrichard333.com/contact "Contact us")
 
-[**Became Affiliate**](https://mrichard333.com/affiliate "Became Affiliate")
-============================================================================
+###  [](https://mrichard333.com/affiliate "Became Affiliate") [Affiliate Program](https://mrichard333.com/affiliate "Became Affiliate")
+
+###  [Terms of service](https://mrichard333.com/ToS "Terms of Service (ToS)")
+
+[![Digital Millennium Copyright Act](gallery_gen/7f3eda5f286c1b88e5da8d039e75304d.png)](https://www.dmca.com/ "Digital Millennium Copyright Act")
 
 $(function() { var footer = $(".wb\_footer"); var html = (footer.html() + "").replace(/^\\s+|\\s+$/g, ""); if (!html) { footer.parent().remove(); footer = $("#wb\_footer, #wb\_footer .wb\_cont\_inner"); footer.css({height: ""}); } });

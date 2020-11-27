@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
+*   [hmmm](https://pastebin.com/1tEPekMZ)
+    
+    Java | 12 min ago
+    
+*   [Transfer function to steady state](https://pastebin.com/En7Q2qKU)
+    
+    MatLab | 14 min ago
+    
+*   [Untitled](https://pastebin.com/hKzXVryb)
+    
+    HTML | 15 min ago
+    
+*   [\[CL\] AimBot](https://pastebin.com/0qmdcWgQ)
+    
+    Lua | 17 min ago
+    
 *   [hmm](https://pastebin.com/jW2v0mPT)
     
-    Java | 46 sec ago
+    Java | 25 min ago
     
 *   [PasswordGenerator](https://pastebin.com/QYz6mXUG)
     
-    Java | 11 min ago
+    Java | 36 min ago
     
 *   [Untitled](https://pastebin.com/ej0eCf5z)
     
-    C++ | 13 min ago
+    C++ | 37 min ago
     
 *   [Untitled](https://pastebin.com/CL4PKRCq)
     
-    C++ | 17 min ago
-    
-*   [Untitled](https://pastebin.com/r5AxQmS0)
-    
-    Bash | 33 min ago
-    
-*   [Untitled](https://pastebin.com/FVk81V6k)
-    
-    Python | 38 min ago
-    
-*   [My Log File](https://pastebin.com/euc0iRNH)
-    
-    HTML 5 | 52 min ago
-    
-*   [noc ipam post fail](https://pastebin.com/vA7RBaKD)
-    
-    Bash | 1 hour ago
+    C++ | 42 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

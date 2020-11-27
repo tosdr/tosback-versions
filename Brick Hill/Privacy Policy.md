@@ -11,6 +11,8 @@
 
 (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
+Get 50% off your buck purchases until December 1st!
+
 .card .content { padding: 0 10px; } h5 { margin: 5px; }
 
 Privacy Policy

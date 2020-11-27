@@ -147,7 +147,7 @@ Austrian Data Protection Authority
 Wickenburggasse 8  
 1080 Vienna  
 Telephone: +43 1 52 152-0  
-E-mail: [\[email protected\]](https://www.remove.bg/cdn-cgi/l/email-protection).at
+E-mail: [\[email protected\]](https://www.remove.bg/cdn-cgi/l/email-protection)
 
 We require the data that we ask you to provide to perform our services within the contractual relationship, to provide information that you have requested from us and to send our newsletters and other information. If you do not provide the data we collect, we will not be able to perform our services.
 

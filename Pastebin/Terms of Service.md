@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
+*   [Untitled](https://pastebin.com/s93dTbXN)
+    
+    HTML | 47 sec ago
+    
+*   [Untitled](https://pastebin.com/BK2q01vL)
+    
+    C++ | 19 min ago
+    
+*   [New](https://pastebin.com/QL5BSvXu)
+    
+    C++ | 24 min ago
+    
+*   [C++ script](https://pastebin.com/9kQVULUc)
+    
+    C++ | 25 min ago
+    
+*   [Untitled](https://pastebin.com/FgfGj3NC)
+    
+    Lua | 30 min ago
+    
+*   [Untitled](https://pastebin.com/YvfuSrUx)
+    
+    C++ | 45 min ago
+    
+*   [Untitled](https://pastebin.com/eykniM1t)
+    
+    HTML | 50 min ago
+    
 *   [hmmm](https://pastebin.com/1tEPekMZ)
     
-    Java | 12 min ago
-    
-*   [Transfer function to steady state](https://pastebin.com/En7Q2qKU)
-    
-    MatLab | 14 min ago
-    
-*   [Untitled](https://pastebin.com/hKzXVryb)
-    
-    HTML | 15 min ago
-    
-*   [\[CL\] AimBot](https://pastebin.com/0qmdcWgQ)
-    
-    Lua | 17 min ago
-    
-*   [hmm](https://pastebin.com/jW2v0mPT)
-    
-    Java | 25 min ago
-    
-*   [PasswordGenerator](https://pastebin.com/QYz6mXUG)
-    
-    Java | 36 min ago
-    
-*   [Untitled](https://pastebin.com/ej0eCf5z)
-    
-    C++ | 37 min ago
-    
-*   [Untitled](https://pastebin.com/CL4PKRCq)
-    
-    C++ | 42 min ago
+    Java | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

@@ -265,4 +265,4 @@ This wiki is hosted by [ShoutWiki](http://www.shoutwiki.com/) • [Staff Blog](h
 
 ![](//piwik.staff.shoutwiki.com/piwik.php?idsite=5)
 
-(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgBackendResponseTime":321,"wgHostname":"bellow.shoutwiki-servers.com"});});
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"bellow.shoutwiki-servers.com"});});

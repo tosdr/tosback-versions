@@ -2,7 +2,7 @@
 
 [Rogerty](https://rogerty.com/)
 
-Awesome indie games!
+Awesome indie games by Roger de Boef
 
 Menu
 
@@ -32,4 +32,4 @@ The following WordPress plugins are active:
 
  ![](https://rogerty.com/wp-content/plugins/wp-dark-mode/assets/images/btn-1/light.png) ![](https://rogerty.com/wp-content/plugins/wp-dark-mode/assets/images/btn-1/dark.png) 
 
-var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; var wpDarkModeFrontend = {"is\_elementor\_editor":""}; var wpDarkModeFrontend = {"excludes":".wp-dark-mode-ignore \*","is\_excluded":"","enable\_frontend":"1","enable\_os\_mode":"1","is\_elementor\_editor":"","is\_pro\_active":"","is\_ultimate\_active":"","enable\_backend":"","is\_block\_editor":"","pro\_version":"0"}; var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; var wpDarkModeFrontend = {"excludes":".wp-dark-mode-ignore, .wp-dark-mode-ignore \*, .video-js, .select2, .owl-nav, .owl-dots, .google-map","is\_excluded":"","enable\_frontend":"1","enable\_os\_mode":"1","is\_elementor\_editor":"","is\_pro\_active":"","is\_ultimate\_active":"","enable\_backend":"","default\_mode":"","is\_block\_editor":"","pro\_version":"0"}; var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};

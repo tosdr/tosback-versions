@@ -286,7 +286,7 @@ If you have any questions about this policy, please send an email to [privacy@ti
 *   [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use)
 *   [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 
-Build d8fe330 (623)
+Build 1d63da6 (635)
 
 Have a few minutes to participate in a survey? We're interested to hear what you think about TMDb.
 

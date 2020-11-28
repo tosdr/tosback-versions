@@ -9,7 +9,7 @@ Date: October 14, 2020.
 
 ### 1\. Introduction
 
-These terms and conditions of use, together with our [privacy policy](https://www.jagex.com/en-GB/terms/privacy), [rules of conduct](https://www.runescape.com/game-guide/rules), [end-user licence agreements for authorised software](https://www.jagex.com/en-GB/legal/eula-runescape-oldschool) ("EULA") and all supplemental terms (as amended from time to time), other documents and policies that are expressly referenced in these terms and conditions (the "Terms"), govern your use of any Jagex Products (as defined below) made available by Jagex to you ("you"/"yours").
+These terms and conditions of use, together with our [privacy policy](https://www.jagex.com/en-GB/terms/privacy), [rules of conduct](https://www.jagex.com/en-GB/terms/rules-of-runescape), [end-user licence agreements for authorised software](https://www.jagex.com/en-GB/legal/eula-runescape-oldschool) ("EULA") and all supplemental terms (as amended from time to time), other documents and policies that are expressly referenced in these terms and conditions (the "Terms"), govern your use of any Jagex Products (as defined below) made available by Jagex to you ("you"/"yours").
 
 The Jagex Product (as defined) is made available to you in accordance with these Terms by Jagex Limited ("Jagex", “we”, “our”, “us”), a company registered in England and Wales (registered number 3982706), and whose registered office is at 220 Science Park, Cambridge, CB4 0WA, United Kingdom. Our VAT number is 791 951 784.
 
@@ -107,9 +107,9 @@ Jagex reserves the right to stop offering a Jagex Product or a particular part o
 
 You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which for each Jagex Product are linked below (“Game Rules”). The Game Rules are expressly incorporated into these Terms. Any use of a Jagex Product not in accordance with the Game Rules exceeds the scope of the license granted by these Terms and is prohibited.
 
-RuneScape Rules are [here](https://www.runescape.com/game-guide/rules)
+RuneScape Rules are [here](https://www.jagex.com/en-GB/terms/rules-of-runescape)
 
-Old School RuneScape Rules are [here](https://www.oldschool.runescape.com/game-guide/rules)
+Old School RuneScape Rules are [here](https://www.jagex.com/en-GB/terms/rules-of-old-school-runescape)
 
 ### 9\. User Content
 

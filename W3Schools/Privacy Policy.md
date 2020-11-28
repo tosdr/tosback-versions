@@ -1,3 +1,5 @@
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422003450156-2'); });
+
 About Privacy
 =============
 

@@ -211,7 +211,11 @@ This Agreement was last updated on: July 26, 2019.
 *   [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use)
 *   [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 
-Build d8fe330 (623)
+Build 1d63da6 (635)
+
+Have a few minutes to participate in a survey? We're interested to hear what you think about TMDb.
+
+[Complete Survey](#) [No thanks](#)
 
 Can't find a movie or TV show? Login to create it.
 

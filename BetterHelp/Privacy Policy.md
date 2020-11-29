@@ -303,6 +303,12 @@ If you are in a crisis or any other person may be in danger - don't use this sit
 
 [*   Terms & Conditions](https://www.betterhelp.com/terms/)[*   Privacy Policy](https://www.betterhelp.com/privacy/)[*   Web Accessibility](https://www.betterhelp.com/accessibility/)*   © 2020 BetterHelp
 
+We use BetterHelp and third-party cookies and web beacons to help the site function properly, analyze usage, and measure the effectiveness of our ads. Read our [Privacy Policy](https://www.betterhelp.com/privacy/) to learn more.
+
+[OK](#)
+
+[×](#)
+
 window.TrackJS && TrackJS.install({ token: "8e343f2dd24f4a45bf5e416e9c3b37e4", userId: '' }); jQuery.fn.bootstrap\_tooltip = jQuery.fn.tooltip; // Fix for android app trying to use sockets on pause/resume events without checking whether sockets are available on the given page var socket = { on: function() { return false; }, disconnect: function () { return false; }, emit: function () { return false; } }; var reconnectSocket = function() { return false; } (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)\[0\]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en\_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
 
 function addFormNonces() { var forms = document.querySelectorAll('form'); for (var i = 0; i < forms.length; i++) { addFormNonce(forms\[i\]); } } function addFormNonce(form) { // Nonce unique per user per form with random identifier var nonce = page\_info.user\_type + ":" + page\_info.user\_id + ":" + form.getAttribute('id') + ":" + Date.now(), nonce\_el = form.querySelector('\[name=nonce\]'); if (nonce\_el) { nonce\_el.value = nonce; } else { nonce\_el = document.createElement('input'); nonce\_el.type = 'hidden'; nonce\_el.name = 'nonce'; nonce\_el.value = nonce; form.appendChild(nonce\_el); } } addFormNonces(); if (mixpanel && false) { mixpanel.single\_domain.track("Viewed privacy Template"); }

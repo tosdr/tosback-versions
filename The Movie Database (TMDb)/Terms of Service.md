@@ -213,10 +213,6 @@ This Agreement was last updated on: July 26, 2019.
 
 Build 1d63da6 (635)
 
-Have a few minutes to participate in a survey? We're interested to hear what you think about TMDb.
-
-[Complete Survey](#) [No thanks](#)
-
 Can't find a movie or TV show? Login to create it.
 
 [Login](https://www.themoviedb.org/login)

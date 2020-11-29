@@ -200,13 +200,13 @@ This document was last updated on January 1, 2014
 
 Recent parts by keyword  
 
+*   [epon](https://aerobasegroup.com/search/?term=epon)
+*   [AS28431 TY1CL5](https://aerobasegroup.com/search/?term=AS28431+TY1CL5)
+*   [C8825](https://aerobasegroup.com/search/?term=C8825)
 *   [SRC-18](https://aerobasegroup.com/search/?term=SRC-18)
 *   [AS568-210](https://aerobasegroup.com/search/?term=AS568-210)
 *   [nc-1357](https://aerobasegroup.com/search/?term=nc-1357)
 *   [hl328](https://aerobasegroup.com/search/?term=hl328)
-*   [hl329](https://aerobasegroup.com/search/?term=hl329)
-*   [bacr13ce2](https://aerobasegroup.com/search/?term=bacr13ce2)
-*   [aircraft](https://aerobasegroup.com/search/?term=aircraft)
 
 The AeroBase Group Family ..
 

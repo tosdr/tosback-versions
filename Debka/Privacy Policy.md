@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Sunday, November 29, 2020  
+Monday, November 30, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [No date set for coronavirus cabinet session on rising infection](https://www.debka.com/mivzak/no-date-set-for-coronavirus-cabinet-session-on-rising-infection/)
+    
+    Nov 30, 2020 @ 09:20
+    
+*   [The UAE condemns killing of Iranian scientist](https://www.debka.com/mivzak/the-uae-condemns-killing-of-iranian-scientist/)
+    
+    Nov 30, 2020 @ 09:03
+    
+*   [Iranian investigators: Scientist killed by remote-controlled machine gun](https://www.debka.com/mivzak/iranian-investigators-scientist-killed-by-remote-controlled-machine-gun/)
+    
+    Nov 29, 2020 @ 23:17
+    
+*   [Three golds won by Israeli athletes at European Championships](https://www.debka.com/mivzak/three-golds-won-by-israeli-athletes-at-european-championships/)
+    
+    Nov 29, 2020 @ 18:31
+    
 *   [High schools reopen despite high 3.3pc covid contagion rate](https://www.debka.com/mivzak/high-schools-reopen-despite-high-3-3pc-covid-contagion-rate/)
     
     Nov 29, 2020 @ 09:19
@@ -68,24 +84,24 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [The carrier Nimitz is being deployed to the Persian Gulf](https://www.debka.com/mivzak/the-carrier-nimitz-is-being-deployed-to-the-persian-gulf/)
     
     Nov 28, 2020 @ 11:35
-    
-*   [Iran’s president accuses Israel of killing top nuclear scientist](https://www.debka.com/mivzak/174137/)
-    
-    Nov 28, 2020 @ 11:22
-    
-*   [Coronavirus infection in Israel passes 1,000 for second day](https://www.debka.com/mivzak/coronavirus-infection-in-israel-passes-1000-for-second-day/)
-    
-    Nov 27, 2020 @ 14:13
-    
-*   [Iran releases Kylie-Moore Gilbert for three Iranians held abroad](https://www.debka.com/mivzak/iran-releases-kylie-moore-gilbert-for-three-iranians-held-abroad/)
-    
-    Nov 26, 2020 @ 12:57
-    
-*   [Flydubai launches first scheduled Dubai-Tel Aviv flight](https://www.debka.com/mivzak/flydubai-launches-first-scheduled-dubai-tel-aviv-flight/)
-    
-    Nov 26, 2020 @ 12:42
     
 
+*   [No date set for coronavirus cabinet session on rising infection](https://www.debka.com/mivzak/no-date-set-for-coronavirus-cabinet-session-on-rising-infection/)
+    
+    Nov 30, 2020 @ 09:20
+    
+*   [The UAE condemns killing of Iranian scientist](https://www.debka.com/mivzak/the-uae-condemns-killing-of-iranian-scientist/)
+    
+    Nov 30, 2020 @ 09:03
+    
+*   [Iranian investigators: Scientist killed by remote-controlled machine gun](https://www.debka.com/mivzak/iranian-investigators-scientist-killed-by-remote-controlled-machine-gun/)
+    
+    Nov 29, 2020 @ 23:17
+    
+*   [Three golds won by Israeli athletes at European Championships](https://www.debka.com/mivzak/three-golds-won-by-israeli-athletes-at-european-championships/)
+    
+    Nov 29, 2020 @ 18:31
+    
 *   [High schools reopen despite high 3.3pc covid contagion rate](https://www.debka.com/mivzak/high-schools-reopen-despite-high-3-3pc-covid-contagion-rate/)
     
     Nov 29, 2020 @ 09:19
@@ -97,22 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [The carrier Nimitz is being deployed to the Persian Gulf](https://www.debka.com/mivzak/the-carrier-nimitz-is-being-deployed-to-the-persian-gulf/)
     
     Nov 28, 2020 @ 11:35
-    
-*   [Iran’s president accuses Israel of killing top nuclear scientist](https://www.debka.com/mivzak/174137/)
-    
-    Nov 28, 2020 @ 11:22
-    
-*   [Coronavirus infection in Israel passes 1,000 for second day](https://www.debka.com/mivzak/coronavirus-infection-in-israel-passes-1000-for-second-day/)
-    
-    Nov 27, 2020 @ 14:13
-    
-*   [Iran releases Kylie-Moore Gilbert for three Iranians held abroad](https://www.debka.com/mivzak/iran-releases-kylie-moore-gilbert-for-three-iranians-held-abroad/)
-    
-    Nov 26, 2020 @ 12:57
-    
-*   [Flydubai launches first scheduled Dubai-Tel Aviv flight](https://www.debka.com/mivzak/flydubai-launches-first-scheduled-dubai-tel-aviv-flight/)
-    
-    Nov 26, 2020 @ 12:42
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

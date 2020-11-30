@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [cpp\_course1\_theme2\_lesson3](https://pastebin.com/waySPLSg)
+*   [Duplicate a Scheduled Task](https://pastebin.com/auFr3XZ5)
     
-    C++ | 12 min ago
+    PowerShell | 6 min ago
     
-*   [Program Diskon](https://pastebin.com/K7Xk2ZqN)
+*   [GameController](https://pastebin.com/wmh4LSVs)
     
-    XML | 16 min ago
+    C# | 30 min ago
     
-*   [Trait](https://pastebin.com/0b3089M6)
+*   [Untitled](https://pastebin.com/1e1XqZ65)
     
-    PHP | 38 min ago
+    C# | 42 min ago
     
-*   [contractor viewer](https://pastebin.com/y7Yzbf2u)
+*   [Untitled](https://pastebin.com/TnVXE0NM)
     
-    PHP | 40 min ago
+    Java | 43 min ago
     
-*   [contractors](https://pastebin.com/MLuSsCS8)
+*   [enum\_process](https://pastebin.com/eGq3xNGX)
     
-    PHP | 41 min ago
+    C++ | 43 min ago
     
-*   [Untitled](https://pastebin.com/BnwwtUN4)
+*   [HeapQueue](https://pastebin.com/kxV6uSq1)
     
-    C | 48 min ago
+    C# | 46 min ago
     
-*   [Untitled](https://pastebin.com/9KSEuM3F)
+*   [02-MQTT PUB AND multiple SUB arduino](https://pastebin.com/3a7dxBDd)
     
-    Bash | 54 min ago
+    Arduino | 49 min ago
     
-*   [Untitled](https://pastebin.com/GNEuyrwP)
+*   [Health](https://pastebin.com/kzkb4CD7)
     
-    C | 54 min ago
+    C# | 51 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

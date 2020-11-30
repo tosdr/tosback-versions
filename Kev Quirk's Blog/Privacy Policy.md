@@ -91,7 +91,8 @@ All public content on this site is published under the Creative Commons Share Al
 > — Stephen King
 
 All work licensed under **CC BY-SA 4.0** unless otherwise stated.  
-[Disclaimer](https://kevq.uk/disclaimer) | [License Info](https://kevq.uk/license-information) | [Privacy](https://kevq.uk/privacy) | [Coffee?](https://kevq.uk/buy-me-a-coffee)
+[Disclaimer](https://kevq.uk/disclaimer) | [License Info](https://kevq.uk/license-information) | [Privacy](https://kevq.uk/privacy) | [Coffee?](https://kevq.uk/buy-me-a-coffee)  
+[🙌 I'm a proud member of The 512KB Club 🙌](https://512kb.club/)
 
 [🔝](#top)
 

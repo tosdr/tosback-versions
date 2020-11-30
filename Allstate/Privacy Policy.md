@@ -590,4 +590,4 @@ var ua = window.navigator.userAgent; var trident = ua.indexOf('Trident/'); if (t
 
 var digitalData = {'page': {'id': '/about/privacy-statement-aic.aspx','server': 'www.allstate.com','channel': 'about','isOverlay': false},'ctaResponse': {'message': 'SUCCESS','eventSource': 'button','eventAction': '','errorCode': ''},'userInfo': {'type': 'b','bType': 'U','bID': 'github\_9AEB85F606C6282CFE9AB582A2E16A04','bAction': 'd','location': 'MST:0|GDC:0|PAG:0|LNG:|CTY:ENGLEWOOD|STC:CO|ZPC:80110|CNT:|CRT:|HA:0|HP:0','policy': 'HAP:0|HWRVP:0|HBP:0|HHOP:0|HRFP:0|HLP:0|HANP:0|HSAP:0|HMHP:0|HMCP:0|HTP:0|HLIP:0|HRVP:0|HRNP:0|HLLPP:0|HCNP:0|HMOHP:0|HPUP:0|HFLP:0|HORVP:0|HMC:0','classification': '0'}}; \_satellite.track('pageLoaded');
 
-ECC Monitor: OK var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resources/36affa5e85rn1886cb5168dac838777e'\]);
+ECC Monitor: OK var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resources/f988f778f1rn1886cb5168dac838777e'\]);

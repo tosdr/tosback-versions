@@ -1,4 +1,4 @@
-var bodyCacheable = true; var exclusionReason = {"shouldRender":true,"forced":false}; var ssrInfo = {"renderBodyTime":150} window.clientSideRender = false;       
+var bodyCacheable = true; var exclusionReason = {"shouldRender":true,"forced":false}; var ssrInfo = {"renderBodyTime":36} window.clientSideRender = false;       
 
 [Wix](https://www.wix.com/)
 

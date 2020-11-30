@@ -16,7 +16,7 @@ FREE STANDARD SHIPPING FOR ORDERS OF $50 OR MORE, AND FREE RETURN SHIPPING
 
 Quick links
 
-[Black Friday](https://www.bose.com/en_us/black_friday.html "Black Friday") [Bose QuietComfort Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds.html "Bose QuietComfort Earbuds") [Bose Sleepbuds™ II](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html "Bose Sleepbuds™ II") [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html "Bose Noise Cancelling Headphones 700") [Bose Frames](https://www.bose.com/en_us/products/frames.html "Bose Frames") [Bose Sport Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html "Bose Sport Earbuds") [Headphones Product Finder](https://www.bose.com/en_us/landing_pages/headphone-assistant.html "Headphones Product Finder")
+[Cyber Monday](https://www.bose.com/en_us/black_friday.html "Cyber Monday") [Bose QuietComfort Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds.html "Bose QuietComfort Earbuds") [Bose Sleepbuds™ II](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html "Bose Sleepbuds™ II") [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html "Bose Noise Cancelling Headphones 700") [Bose Frames](https://www.bose.com/en_us/products/frames.html "Bose Frames") [Bose Sport Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html "Bose Sport Earbuds") [Headphones Product Finder](https://www.bose.com/en_us/landing_pages/headphone-assistant.html "Headphones Product Finder")
 
   Search    close 
 
@@ -27,7 +27,7 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
 
   [](https://www.bose.com/en_us/myaccount/registration.html)  [ Stores ](https://www.bose.com/en_us/store_locator.html)    [Cart](https://www.bose.com/en_us/my-cart.html) 
 
-*   [Black Friday](https://www.bose.com/en_us/black_friday.html "Black Friday")
+*   [Cyber Monday](https://www.bose.com/en_us/black_friday.html "Cyber Monday")
     
     *   [View all deals](https://www.bose.com/en_us/black_friday.html "View all deals")
     

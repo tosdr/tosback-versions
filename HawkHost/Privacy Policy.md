@@ -1,4 +1,4 @@
-BLACK FRIDAY SALE UP TO 70% OFF [Click Here](https://www.hawkhost.com/web-hosting-specials)
+CYBER MONDAY SALE UP TO 70% OFF [Click Here](https://www.hawkhost.com/web-hosting-specials)
 
 [![Hawk Host logo](https://www.hawkhost.com/img/logo.png)](https://www.hawkhost.com/)
 
@@ -167,7 +167,7 @@ var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.crea
 
 ![Modal Logo](https://www.hawkhost.com/img/logo.png)
 
-BLACK FRIDAY SALE
+CYBER MONDAY SALE
 -----------------
 
 Our biggest sale of the year is now live!

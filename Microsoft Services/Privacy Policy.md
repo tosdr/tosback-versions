@@ -26,7 +26,7 @@ Privacy
         *   [Windows](https://www.microsoft.com/en-us/windows/)
         *   [Surface](https://www.microsoft.com/en-us/surface)
         *   [Xbox](https://www.xbox.com/)
-        *   [Cyber Monday deals](https://www.microsoft.com/en-us/store/b/cyber-monday?icid=gm_nav_L0_CMdeals)
+        *   [Deals](https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage)
         *   [Support](https://support.microsoft.com/en-us)
     *   Software
         *   [Windows Apps](https://www.microsoft.com/en-us/store/apps/windows?icid=CNavAppsWindowsApps)

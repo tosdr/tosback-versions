@@ -15,35 +15,35 @@
     *   EXPERIENCES
     *   [Setup Process](https://help.fitbit.com/articles/en_US/Help_article/1873.htm)
     
-    [](https://www.fitbit.com/global/us/products.max_price---100)
-    
-    Deals under $100
-    
-    [
-    
-    Shop Black Friday Sale
-    
-    ](https://www.fitbit.com/global/us/products.max_price---100)
-    
     [](https://www.fitbit.com/global/us/products.for-her)
     
-    Deals for her
+    Gifts for her
     
     [
     
-    Shop Black Friday Sale
+    Shop now
     
     ](https://www.fitbit.com/global/us/products.for-her)
     
     [](https://www.fitbit.com/global/us/products.for-him)
     
-    Deals for him
+    Gifts for him
     
     [
     
-    Shop Black Friday Sale
+    Shop now
     
     ](https://www.fitbit.com/global/us/products.for-him)
+    
+    [](https://www.fitbit.com/global/us/products.gifts-under-250)
+    
+    Gifts under $250
+    
+    [
+    
+    Shop now
+    
+    ](https://www.fitbit.com/global/us/products.gifts-under-250)
     
 *   [TECHNOLOGY](https://www.fitbit.com/global/us/technology)
     

@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Monday, November 30, 2020  
+Tuesday, December 1, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Specter of third lockdown as coronavirus jumps again](https://www.debka.com/mivzak/specter-of-third-lockdown-as-coronavirus-jumps-again/)
+    
+    Dec 01, 2020 @ 10:51
+    
+*   [Iran vows to double spending on nuclear program](https://www.debka.com/mivzak/iran-vows-to-double-spending-on-nuclear-program/)
+    
+    Nov 30, 2020 @ 19:38
+    
+*   [Russia and Bahrain denounce Fakhrizadeh killing](https://www.debka.com/mivzak/russia-and-bahrain-denounce-fakhrizadeh-killing/)
+    
+    Nov 30, 2020 @ 19:28
+    
+*   [Riyadh to permit Israel flights to cut through Saudi airspace](https://www.debka.com/mivzak/riyadh-to-permit-israel-flights-to-cut-through-saudi-airspace/)
+    
+    Nov 30, 2020 @ 19:14
+    
+*   [Shamkhani says scientist killed by “electronic equipment"](https://www.debka.com/mivzak/shamkhani-says-scientist-killed-by-electronic-equipment/)
+    
+    Nov 30, 2020 @ 18:10
+    
 *   [No date set for coronavirus cabinet session on rising infection](https://www.debka.com/mivzak/no-date-set-for-coronavirus-cabinet-session-on-rising-infection/)
     
     Nov 30, 2020 @ 09:20
@@ -64,28 +84,28 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [The UAE condemns killing of Iranian scientist](https://www.debka.com/mivzak/the-uae-condemns-killing-of-iranian-scientist/)
     
     Nov 30, 2020 @ 09:03
-    
-*   [Iranian investigators: Scientist killed by remote-controlled machine gun](https://www.debka.com/mivzak/iranian-investigators-scientist-killed-by-remote-controlled-machine-gun/)
-    
-    Nov 29, 2020 @ 23:17
-    
-*   [Three golds won by Israeli athletes at European Championships](https://www.debka.com/mivzak/three-golds-won-by-israeli-athletes-at-european-championships/)
-    
-    Nov 29, 2020 @ 18:31
-    
-*   [High schools reopen despite high 3.3pc covid contagion rate](https://www.debka.com/mivzak/high-schools-reopen-despite-high-3-3pc-covid-contagion-rate/)
-    
-    Nov 29, 2020 @ 09:19
-    
-*   [Israel embassies in high alert](https://www.debka.com/mivzak/israel-embassies-in-high-alert/)
-    
-    Nov 28, 2020 @ 20:26
-    
-*   [The carrier Nimitz is being deployed to the Persian Gulf](https://www.debka.com/mivzak/the-carrier-nimitz-is-being-deployed-to-the-persian-gulf/)
-    
-    Nov 28, 2020 @ 11:35
     
 
+*   [Specter of third lockdown as coronavirus jumps again](https://www.debka.com/mivzak/specter-of-third-lockdown-as-coronavirus-jumps-again/)
+    
+    Dec 01, 2020 @ 10:51
+    
+*   [Iran vows to double spending on nuclear program](https://www.debka.com/mivzak/iran-vows-to-double-spending-on-nuclear-program/)
+    
+    Nov 30, 2020 @ 19:38
+    
+*   [Russia and Bahrain denounce Fakhrizadeh killing](https://www.debka.com/mivzak/russia-and-bahrain-denounce-fakhrizadeh-killing/)
+    
+    Nov 30, 2020 @ 19:28
+    
+*   [Riyadh to permit Israel flights to cut through Saudi airspace](https://www.debka.com/mivzak/riyadh-to-permit-israel-flights-to-cut-through-saudi-airspace/)
+    
+    Nov 30, 2020 @ 19:14
+    
+*   [Shamkhani says scientist killed by “electronic equipment"](https://www.debka.com/mivzak/shamkhani-says-scientist-killed-by-electronic-equipment/)
+    
+    Nov 30, 2020 @ 18:10
+    
 *   [No date set for coronavirus cabinet session on rising infection](https://www.debka.com/mivzak/no-date-set-for-coronavirus-cabinet-session-on-rising-infection/)
     
     Nov 30, 2020 @ 09:20
@@ -93,26 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [The UAE condemns killing of Iranian scientist](https://www.debka.com/mivzak/the-uae-condemns-killing-of-iranian-scientist/)
     
     Nov 30, 2020 @ 09:03
-    
-*   [Iranian investigators: Scientist killed by remote-controlled machine gun](https://www.debka.com/mivzak/iranian-investigators-scientist-killed-by-remote-controlled-machine-gun/)
-    
-    Nov 29, 2020 @ 23:17
-    
-*   [Three golds won by Israeli athletes at European Championships](https://www.debka.com/mivzak/three-golds-won-by-israeli-athletes-at-european-championships/)
-    
-    Nov 29, 2020 @ 18:31
-    
-*   [High schools reopen despite high 3.3pc covid contagion rate](https://www.debka.com/mivzak/high-schools-reopen-despite-high-3-3pc-covid-contagion-rate/)
-    
-    Nov 29, 2020 @ 09:19
-    
-*   [Israel embassies in high alert](https://www.debka.com/mivzak/israel-embassies-in-high-alert/)
-    
-    Nov 28, 2020 @ 20:26
-    
-*   [The carrier Nimitz is being deployed to the Persian Gulf](https://www.debka.com/mivzak/the-carrier-nimitz-is-being-deployed-to-the-persian-gulf/)
-    
-    Nov 28, 2020 @ 11:35
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

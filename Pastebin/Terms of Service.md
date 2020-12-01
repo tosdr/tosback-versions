@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Duplicate a Scheduled Task](https://pastebin.com/auFr3XZ5)
+*   [elevator](https://pastebin.com/Qa7v7QbE)
     
-    PowerShell | 6 min ago
+    JavaScript | 6 min ago
     
-*   [GameController](https://pastebin.com/wmh4LSVs)
+*   [Crossword puzzle generator in C](https://pastebin.com/Z3RYynAr)
     
-    C# | 30 min ago
+    C | 17 min ago
     
-*   [Untitled](https://pastebin.com/1e1XqZ65)
+*   [морской бой. 2 группа. часть 5](https://pastebin.com/YkHKxNij)
     
-    C# | 42 min ago
+    Python | 27 min ago
     
-*   [Untitled](https://pastebin.com/TnVXE0NM)
+*   [CountTimeFSM](https://pastebin.com/068B6B2S)
     
-    Java | 43 min ago
+    SystemVerilog | 36 min ago
     
-*   [enum\_process](https://pastebin.com/eGq3xNGX)
+*   [BTC Checker](https://pastebin.com/8R0s7vdC)
     
-    C++ | 43 min ago
+    Lua | 41 min ago
     
-*   [HeapQueue](https://pastebin.com/kxV6uSq1)
+*   [index1](https://pastebin.com/UvhfHzbR)
     
-    C# | 46 min ago
+    HTML | 41 min ago
     
-*   [02-MQTT PUB AND multiple SUB arduino](https://pastebin.com/3a7dxBDd)
+*   [fix for AbstractEnchant and Kaliel enchant limit](https://pastebin.com/FSxHvws0)
     
-    Arduino | 49 min ago
+    Diff | 50 min ago
     
-*   [Health](https://pastebin.com/kzkb4CD7)
+*   [Untitled](https://pastebin.com/XkJnqVGw)
     
-    C# | 51 min ago
+    Java | 53 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

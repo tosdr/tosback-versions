@@ -1,7 +1,7 @@
 Terms and Conditions
 ====================
 
-By using the protonmail.com web site and making use of ProtonMail, a service offered by Proton Technologies AG ("the Company"), you are agreeing to be bound by the following Terms and Conditions. These Terms and Conditions cover all present and future features offered by your ProtonMail account, individually and collectively referred to as the "Service”.
+By using the protonmail.com web site and making use of ProtonMail, a service offered by Proton Technologies AG (“the Company”), you are agreeing to be bound by the following Terms and Conditions. These Terms and Conditions cover all present and future features provided by your ProtonMail account (including but not limited to ProtonMail, ProtonContacts, ProtonCalendar and ProtonDrive), individually and collectively referred to as the “Service”.
 
 If you are agreeing to these Terms and Conditions on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access the Service through your account to these Terms and Conditions. In the absence of such an authority, you may not use the Service.
 
@@ -15,25 +15,31 @@ Each user is solely responsible for all of his or her messages sent through the 
 
 ### Use of the Service
 
-You agree to not use this Service for any unlawful or prohibited activities. You also agree to not disrupt the ProtonMail networks and servers.
+You agree to not use this Service for any unlawful or prohibited activities. You also agree to not disrupt the Company’s networks and servers.
 
-You further agree to not use ProtonMail to send Spam, junk mail, bulk emails or mailing list emails that contain persons that have not specifically agreed to be included on that list. Any account found to be sending the aforementioned type of emails will be immediately suspended.
+For the purpose of these Terms and Conditions, Spam shall refer to irrelevant or unsolicited messages sent over the internet, typically to large numbers of users, for the purposes of advertising, phishing, spreading malware or virus (“Spam”).
 
-For the purpose of these Terms and Conditions, Spam shall refer to irrelevant or unsolicited messages sent over the internet, typically to large numbers of users, for the purposes of advertising, phishing, spreading malware or virus ("Spam").
+You agree to not use the Service to send Spam, junk mail, bulk emails or mailing list emails that contain persons that have not specifically agreed to be included on that list. You further agree to not use the Service to store or share unlawful content.
 
-Having multiple free accounts is an acceptable use of the service, as long as it is done in a proportionate and reasonable way (e.g. bulk sign-ups or large numbers of accounts created by a single organization or individual are not considered reasonable use of the service). Free accounts can also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in anyone else's name and later transfer credentials to that third party). The Company reserves the right to take action against any free account which it considers abusive in that regard.
+Any account found to be sending, storing or sharing the aforementioned type of emails or contents will be immediately suspended.
+
+Having multiple free accounts is an acceptable use of the Service, as long as it is done in a proportionate and reasonable way (e.g. bulk sign-ups or large numbers of accounts created by a single organization or individual are not considered reasonable use of the service). Free accounts can also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in anyone else’s name and later transfer credentials to that third party).
+
+The Company reserves the right to take actions against any free account considered abusive in that regard.
 
 Trading or selling a ProtonMail account to a third party is prohibited and the Company reserves the right to suspend infringing accounts. This rule does not apply to our Lifetime Accounts, which can be sold or traded exclusively through the Company.
 
-We may also terminate accounts which are being used for illegal activity, particularly in response to court orders from the competent authorities informing us of such illegal activity.
+We may also terminate accounts which are being used for illegal activities, particularly in response to court orders from the competent authorities informing us of such illegal activity.
 
-The Company has no obligation to store or forward the contents of terminated accounts. We also have no obligation to store messages for accounts that are over their storage quotas. Due to the encrypted nature of the Service, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your decryption password.
+The Company has no obligation to store or forward the contents of terminated accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas.
+
+Due to the encrypted nature of the Service, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your decryption password.
 
 Although it is not the current practice, we reserve the right to suspend or delete accounts that are inactive for over three months. Paid accounts with active paid status are not subject to this measure.
 
 ### Limited Warranties and Liability
 
-The Company cannot make any warranty about the reliability of the Service or guarantee the security of user data despite best efforts. The Service is provided “as is” and you agree to not hold the Company responsible nor to seek indemnification for any damages that may arise as a result of the loss of use, data, or profits connected to the performance of the Service or failure in such performance.
+The Company cannot make any warranty about the reliability of the Service or guarantee the security of user data, despite best efforts. The Service is provided “as is” and you agree to not hold the Company responsible nor to seek indemnification for any damages that may arise as a result of the loss of use, data, or profits connected to the performance of the Service or failure in such performance.
 
 Furthermore, you will not hold the Company liable or seek indemnification if confidential material is unintentionally released as the result of a security failure or vulnerability in the performance of the Service.
 
@@ -52,13 +58,13 @@ Some performance issues are excluded from downtime calculations, such as:
 
 *   Issues caused by factors outside of the Company’s reasonable control.
 *   Issues that resulted from any actions or inaction by a user or a third-party.
-*   Issues that resulted from the user's equipment and/or third-party equipment (not within the primary control of the Company). For the avoidance of any doubt, the Company does not provide any internet or network services and any performance issues related to that type of services shall be deemed not in the primary control of the Company.
+*   Issues that resulted from the user’s equipment and/or third-party equipment (not within the primary control of the Company). For the avoidance of any doubt, the Company does not provide any internet or network services and any performance issues related to that type of services shall be deemed not in the primary control of the Company.
 *   Issues that arise from the Company’s suspension or termination of rights to use the Service in accordance with our Terms of Service.
 *   Downtime caused by reasonable scheduled maintenance that is announced in advance.
 
 ### Indemnification
 
-You agree that the Company, and any parents, subsidiaries, officers, employees, or third party contractors cannot be held responsible for any third party claim, demand, or damages, including reasonable attorneys' fees, arising out of your use of this Service.
+You agree that the Company, and any parents, subsidiaries, officers, employees, or third party contractors cannot be held responsible for any third party claim, demand, or damages, including reasonable attorneys’ fees, arising out of your use of this Service.
 
 ### Privacy
 

@@ -40,5 +40,4 @@ Contacting us
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at info \[at\] playlectric \[dot\] com.
 
 Author: [Playlectric](http://plus.google.com/b/103860925340944119582)  
-Page last updated: 24.06.2018  
-[Playlectric on Google+](http://plus.google.com/b/103860925340944119582?rel=author)
+Page last updated: 24.06.2018

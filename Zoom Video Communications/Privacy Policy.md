@@ -391,7 +391,7 @@ Summary of Updates Made:
 
 [About](https://zoom.us/about)
 
-*   [Zoom Blo](http://blog.zoom.us/)
+*   [Zoom Blo](https://blog.zoom.us/)
 *   [Customer](https://zoom.us/customer/all)
 *   [Our Tea](https://zoom.us/team)
 *   [Career](https://zoom.us/careers)

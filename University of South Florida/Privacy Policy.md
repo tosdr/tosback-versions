@@ -7,7 +7,7 @@
 
 Search
 
-Search for:   
+Search for:    
 
 Main Navigation
 ---------------

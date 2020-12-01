@@ -216,7 +216,7 @@ This Exhibit A to the TOS describes the further provisions which apply to the Bi
 
 [About](https://zoom.us/about)
 
-*   [Zoom Blog](http://blog.zoom.us/)
+*   [Zoom Blog](https://blog.zoom.us/)
 *   [Customers](https://zoom.us/customer/all)
 *   [Our Team](https://zoom.us/team)
 *   [Careers](https://zoom.us/careers)
@@ -246,11 +246,11 @@ This Exhibit A to the TOS describes the further provisions which apply to the Bi
 *   [Request a Demo](https://zoom.us/livedemo)
 *   [Webinars and Events](https://zoom.us/events)
 
-[Support](http://support.zoom.us/)
+[Support](https://support.zoom.us/)
 
 *   [Test Zoom](https://zoom.us/test)
 *   [Account](https://zoom.us/account)
-*   [Support Center](http://support.zoom.us/)
+*   [Support Center](https://support.zoom.us/)
 *   [Live Training](https://zoom.us/livetraining)
 *   [Feedback](https://zoom.us/feed)
 *   [Contact Us](https://zoom.us/contact)

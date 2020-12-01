@@ -109,7 +109,7 @@ Google Ads conversion tracking is an analytics service provided by Google LLC or
 
 Personal Data processed: Cookies; Usage Data.
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant.
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
 
 #### Google Analytics with anonymized IP (Google Inc.)
 
@@ -208,7 +208,7 @@ Remarketing with Google Analytics is a remarketing and behavioral targeting serv
 
 Personal Data processed: Cookies; Usage Data.
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant.
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout).
 
 ### SPAM protection
 
@@ -325,9 +325,13 @@ The service provided by Planio as described in the relative terms (if available)
 
 Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
-#### Cookies
+#### Cookie
 
-Small sets of data stored in the User's device.
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+
+#### Tracker
+
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
 
 #### Legal information
 

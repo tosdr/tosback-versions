@@ -1,5 +1,11 @@
 var utag\_data = {};
 
+YOU ARE LEAVING THE SITE
+
+You are about to leave a GSK website. By clicking this link, you will be taken to a website that is independent from GSK. The site you are linking to is not controlled or endorsed by GSK and GSK is not responsible for the content provided on that site.
+
+Accept Cancel
+
  [![](/content/dam/common-framework/digital-delivery/images/GSK_RGB_2013.png)](http://www.gsk.com/) 
 
 *   [Home](http://www.imgw.com/content/cf-common-framework/digital-delivery/en_GB/home.html "Home")

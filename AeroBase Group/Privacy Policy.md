@@ -198,15 +198,38 @@ This document was last updated on January 1, 2014
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/Nx130xAS9120_Aerospace_RED_RGB.png.pagespeed.ic.QqHf81ltBK.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
+#### Defense News
+
+*   [Boeing starts production of T-7 training jet simulators](http://feedproxy.google.com/~r/defense-news/air/~3/ftlUJNAT9jI/)  
+    12/01/20 05:18pm  
+    
+    A Boeing test pilot flies the T-7A ground-based flight simulator. (Boeing)
+    
+*   [A new design is almost ready for the KC-46′s most troubled system](http://feedproxy.google.com/~r/defense-news/air/~3/RXM8OwJOmHs/)  
+    11/30/20 04:30pm  
+    
+    Once the Remote Vision System is overhauled, the KC-46 will be cleared for combat operations. (Staff Sgt. Victoria Nelson/U.S. Air Force)
+    
+*   [Aircraft makers sweeten their offers in high-stakes Swiss warplane race](http://feedproxy.google.com/~r/defense-news/air/~3/1AkoocxdOM4/)  
+    11/29/20 08:00pm  
+    
+    A Swiss Air Force F/A-18 is seen in front of a church on Feb. 20, 2013, at Payerne airport. The Swiss government is expected to make a decision in 2021 about the aircraft type to replace the aging fleet. (Fabrice Croffrini/AFP)
+    
+*   [House Democrats see political motive in Air Force decision to base C-130s in Georgia](http://feedproxy.google.com/~r/defense-news/air/~3/_AUE9tWb8SY/)  
+    11/25/20 09:43pm  
+    
+    A C130 with the 136th Air Lift Wing, Texas Air National Guard, sit on the flight line as personnel depart at Volk Field Air National Guard Base during PATRIOT North 19 on July 12, 2019 in Camp Douglas, Wis. (Master Sgt. Kellen Kroening/U.S. Air National Guard)
+    
+
 Recent parts by keyword  
 
-*   [GLD4](https://aerobasegroup.com/search/?term=GLD4)
-*   [cs-2729](https://aerobasegroup.com/search/?term=cs-2729)
-*   [tectyl 891d](https://aerobasegroup.com/search/?term=tectyl+891d)
-*   [RNF-100-3/8-0](https://aerobasegroup.com/search/?term=RNF-100-3%2F8-0)
-*   [7101TZQ](https://aerobasegroup.com/search/?term=7101TZQ)
-*   [AS1037](https://aerobasegroup.com/search/?term=AS1037)
-*   [DeWalt](https://aerobasegroup.com/search/?term=DeWalt)
+*   [60A89D500](https://aerobasegroup.com/search/?term=60A89D500)
+*   [0159-](https://aerobasegroup.com/search/?term=0159-)
+*   [MS20426T3-3](https://aerobasegroup.com/search/?term=MS20426T3-3)
+*   [3200\*](https://aerobasegroup.com/search/?term=3200%2A)
+*   [BACS12ER08K9](https://aerobasegroup.com/search/?term=BACS12ER08K9)
+*   [HST12AG5-](https://aerobasegroup.com/search/?term=HST12AG5-)
+*   [801A50-0006A](https://aerobasegroup.com/search/?term=801A50-0006A)
 
 The AeroBase Group Family ..
 
@@ -221,7 +244,7 @@ The AeroBase Group Family ..
 
 © Copyright 2020 AeroBase Group, Inc. | Cage: 74B05
 
-Any and all trademark rights associated with the manufacturers names and products are owned by the respective manufacturers.
+All product and company names are trademarks ™ or registered ® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
 v5.2.0
 

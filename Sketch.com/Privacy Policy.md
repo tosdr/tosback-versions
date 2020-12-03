@@ -29,18 +29,18 @@ Menu
         
         Discover and join your local Sketch community.
         
-        1.  [Nov 30 \[Online\] Sketch Assistants, Color Variables & Components](https://www.sketch.com/community/groups/johannesburg/?event=2020-11-30)
-        2.  [Dec 4 Sketch 70 - What's around the corner](https://www.sketch.com/community/groups/beirut/?event=2020-12-04)
-        3.  [Dec 8 UXW for better products with Yvonne Gando of Google](https://www.sketch.com/community/groups/santa-clara/?event=2020-12-08)
+        1.  [Dec 4 Sketch 70 - What's around the corner](https://www.sketch.com/community/groups/beirut/?event=2020-12-04)
+        2.  [Dec 8 UXW for better products with Yvonne Gando of Google](https://www.sketch.com/community/groups/santa-clara/?event=2020-12-08)
+        3.  [Dec 9 From agency to startup with Kevin Cannon Designer at Pitch.com](https://www.sketch.com/community/groups/munich/?event=2020-12-09)
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)
         
         Get updates, articles and insights from the team.
         
-        1.  [Nov 24 Switching Silicon: How Sketch performs on Apple’s new hardware](https://www.sketch.com/blog/2020/11/24/how-sketch-performs-on-apple-M1-silicon/)
-        2.  [Nov 18 Yes Sur: Behind the scenes of Sketch’s macOS makeover](https://www.sketch.com/blog/2020/11/18/yes-sur-behind-the-scenes-of-sketchs-macos-makeover/)
-        3.  [Nov 18 A Big Sur UI refresh, new ways to manage Data and improved grids — what’s new in Sketch?](https://www.sketch.com/blog/2020/11/18/a-big-sur-ui-refresh-new-ways-to-manage-data-and-improved-grids-what-s-new-in-sketch/)
+        1.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
+        2.  [Nov 24 Switching Silicon: How Sketch performs on Apple’s new hardware](https://www.sketch.com/blog/2020/11/24/how-sketch-performs-on-apple-M1-silicon/)
+        3.  [Nov 18 Yes Sur: Behind the scenes of Sketch’s macOS makeover](https://www.sketch.com/blog/2020/11/18/yes-sur-behind-the-scenes-of-sketchs-macos-makeover/)
     
 *   [Pricing](https://www.sketch.com/pricing/)
 
@@ -173,7 +173,7 @@ Email  Subscribe
 ### Company
 
 *   [About Us](https://www.sketch.com/about-us/)
-*   [Jobs 3](https://www.sketch.com/jobs/)
+*   [Jobs 4](https://www.sketch.com/jobs/)
 *   [Press](https://www.sketch.com/press/)
 *   [Labs](https://www.sketch.com/labs/)
 

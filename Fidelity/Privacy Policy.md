@@ -54,6 +54,7 @@ Search fidelity.com or get a quote
     *   [Building Savings](https://www.fidelity.com/building-savings/overview)
     *   [Digital Investing & Advice](https://www.fidelity.com/digital-investing-and-advice/hybrid-robo-advisor/overview)
     *   [Wealth Management](https://www.fidelity.com/wealth-management/overview)
+    *   [Find an advisor](https://digital.fidelity.com/prgw/digital/faa/0/connect-with-an-advisor)
     *   [Retirement](https://www.fidelity.com/retirement-planning/overview)
     *   [Life Events](https://myguidance.fidelity.com/ftgw/pna/public/lifeevents/content/uncertain-times-guidance)
     
@@ -72,7 +73,7 @@ Search fidelity.com or get a quote
     *   [Markets & Sectors](https://eresearch.fidelity.com/eresearch/goto/markets_sectors/landing.jhtml)
     *   [IPOs](https://brokerage.fidelity.com/ftgw/brkg/ipo/calendar)
     *   [Annuities](https://www.fidelity.com/research-annuities/overview)
-    *   [Learning Center](https://www.fidelity.com/learning-center)
+    *   [Learning Center](https://www.fidelity.com/learning-center/overview)
     *   [Notebook](https://www.fidelity.com/go/notebook)
     *   [Notebook](https://dpcs.fidelity.com/ftgw/dpcs/notebook/#?channel=nav)
     
@@ -89,6 +90,7 @@ Search fidelity.com or get a quote
     *   [Cash Management & Credit Cards](https://www.fidelity.com/cash-management/overview)
     *   [Managed Accounts](https://www.fidelity.com/managed-accounts/overview)
     *   [529 College Savings](https://www.fidelity.com/529-plans/overview)
+    *   [Health Savings Account](https://www.fidelity.com/go/hsa/why-hsa)
     *   [Annuities](https://www.fidelity.com/annuities/overview)
     *   [Life Insurance & Long Term Care](https://www.fidelity.com/life-insurance/overview)
     *   [Charitable Giving](https://www.fidelity.com/building-savings/charitable-giving)

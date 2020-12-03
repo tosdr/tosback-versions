@@ -58,4 +58,4 @@ support@packvel.com | +88-0187-0186-017
 
  
 
-\_stq = window.\_stq || \[\]; \_stq.push(\[ 'view', {v:'ext',j:'1:9.1',blog:'159855440',post:'3',tz:'0',srv:'www.packvel.com'} \]); \_stq.push(\[ 'clickTrackerInit', '159855440', '3' \]);
+\_stq = window.\_stq || \[\]; \_stq.push(\[ 'view', {v:'ext',j:'1:9.2',blog:'159855440',post:'3',tz:'0',srv:'www.packvel.com'} \]); \_stq.push(\[ 'clickTrackerInit', '159855440', '3' \]);

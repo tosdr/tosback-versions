@@ -92,7 +92,7 @@ Submit
     *   *   [3D Printers](https://store.makerbot.com/3d-printers "Link to 3D Printers")
         *   [Extruders](https://store.makerbot.com/3d-printers-extruders "Link to Extruders")
         *   [Materials](https://store.makerbot.com/3d-printers-materials "Link to Materials")
-        *   [Black Friday](https://store.makerbot.com/3d-printers/method-black-friday "Link to Black Friday")
+        *   [Holiday Promo](https://store.makerbot.com/3d-printers/method-holiday-promo "Link to Holiday Promo")
     *   *   [Request a Quote](https://www.makerbot.com/contact-us/)
         *   [Buy](https://store.makerbot.com/)
 
@@ -103,7 +103,7 @@ Submit
 *   [My Cart](https://store.makerbot.com/checkout/cart)
 *   *   [![en](https://3qcbdntxdyb43ubh6h0b0qgz-wpengine.netdna-ssl.com/wp-content/uploads/flags/us-flag.png "English")English](#)
     
-*   [Log In](https://login.makerbot.com/)
+*   [Log In](https://login.makerbot.com/login?redirect=https://cloudprint.makerbot.com)
 *   You
     *   [View/Edit Your Profile](https://cloudprint.makerbot.com/settings/account/info)
         
@@ -191,7 +191,7 @@ Submit
     *   [3D Printers](https://store.makerbot.com/3d-printers)
     *   [Extruders](https://store.makerbot.com/3d-printers-extruders)
     *   [Materials](https://store.makerbot.com/3d-printers-materials)
-    *   [Black Friday](https://store.makerbot.com/3d-printers/method-black-friday)
+    *   [Holiday Promo](https://store.makerbot.com/3d-printers/method-holiday-promo)
 
  
 

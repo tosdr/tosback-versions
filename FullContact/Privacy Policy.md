@@ -1004,8 +1004,8 @@ As an Apps user in the EU, you can alter how FullContact uses your data at any t
 
 ### [From Our Blog](https://www.fullcontact.com/blog/)
 
+*   [The Fight For Control](https://www.fullcontact.com/blog/2020/12/01/fight-for-control/) December 1, 2020
 *   [What’s in a Name: How We Overcame the Challenges of Matching Names and Addresses](https://www.fullcontact.com/blog/2020/11/20/whats-in-a-name-how-we-overcame-the-challenges-of-matching-names-and-addresses/) November 20, 2020
-*   [Takeaways from KNOW Identity’s Don’t Track Me Bro’](https://www.fullcontact.com/blog/2020/11/11/takeaways-from-know-identitys-dont-track-me-bro/) November 11, 2020
 
 ### Menu
 

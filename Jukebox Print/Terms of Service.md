@@ -57,9 +57,9 @@ function toggleMobileNav(el) { var toggleElements = document.querySelectorAll('b
 
 [
 
-#### \*25% Off Vinyl Stickers!\*
+#### High Quality Vinyl Stickers
 
-For 1 week only, get 25% off vinyl stickers. Exclusions apply.
+Printed in any shape and size, and most importantly, in 1 business day!
 
 ](https://www.jukeboxprint.com/custom-printed-stickers)
 
@@ -206,8 +206,6 @@ Promote safety in your business with social distancing stickers.
 [Letterpress](https://www.jukeboxprint.com/letterpress-business-cards)
 
 [Wooden](https://www.jukeboxprint.com/wooden-business-cards)
-
-[3D Embossed](https://www.jukeboxprint.com/3d-embossed-business-cards)
 
 [Colorplan](https://www.jukeboxprint.com/colorplan-business-cards)
 
@@ -410,7 +408,6 @@ EUR
     *   Business Cards
     *   [Letterpress](https://www.jukeboxprint.com/letterpress-business-cards)
     *   [Wooden](https://www.jukeboxprint.com/wooden-business-cards)
-    *   [3D Embossed](https://www.jukeboxprint.com/3d-embossed-business-cards)
     *   [Colorplan](https://www.jukeboxprint.com/colorplan-business-cards)
     *   [Cork](https://www.jukeboxprint.com/cork-business-cards)
     *   [Cotton](https://www.jukeboxprint.com/cotton-business-cards)

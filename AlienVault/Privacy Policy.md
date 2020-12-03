@@ -586,13 +586,13 @@ ul.faq > li { margin-top: 20px; } $(function() { function scrollToAnchor(aid) { 
 
 From the Blog
 
-![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Chuck Brooks](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theodoros Karasavvas
+#### Chuck Brooks
 
-Dec 1, 2020
+Dec 3, 2020
 
-### [What is Vizom malware? Everything you need to know](https://cybersecurity.att.com/blogs/security-essentials/what-is-vizom-malware-everything-you-need-to-know)
+### [Two cybersecurity hygiene actions to improve your digital life in 2021](https://cybersecurity.att.com/blogs/security-essentials/two-cybersecurity-hygiene-actions-to-improve-your-digital-life-in-2021)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -657,8 +657,10 @@ Customer Success
 *   [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
 *   [Do Not Sell My Personal Information](https://about.att.com/csr/home/privacy/rights_choices.html)
 
-Hello! We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) & [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018).
+AlienVault is now governed by the AT&T Communications Privacy Policy. You can read the new policy at [att.com/privacy](https://www.att.com/privacy), and learn more [here](https://www.alienvault.com/legal/privacy-policy#faq).
+
+By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) & [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018).
 
 [](#)
 
-if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingHeader() { ddo.disableAutoPageLoad(); ddo.setVar('page.location.url','/legal/privacy-policy'); ddo.setVar('page.pageInfo.pageTitle', document.title.trim()); ddo.setVar('page.pageInfo.friendlyPageName','CYB '+ document.title.trim() +' Pg'); ddo.setVar('page.category.siteSubSection1','legal'); ddo.setVar('page.category.siteSubSection2','privacy-policy'); } if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingFooter() { ddo.setVar('page.pageInfo.language','EN'); ddo.setVar('page.pageInfo.lineOfBusiness','Business Solutions'); ddo.setVar('page.category.pageFunction','Learn'); ddo.setVar('page.category.pageOwnership','Business'); ddo.setVar('page.attributes.applicationName','CYB'); ddo.setVar('page.pageInfo.appCode','ACS'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.media.class','text'); ddo.setVar('page.media.objective','Awareness'); ddo.setVar('page.media.category','Security'); ddo.setVar('page.location.domain','cybersecurity.att.com'); ddo.pushEvent('pageLoad', 'Page\_Load'); } var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/public/2e360c318no231cb04ec29a3f526cb4'\]);
+if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingHeader() { ddo.disableAutoPageLoad(); ddo.setVar('page.location.url','/legal/privacy-policy'); ddo.setVar('page.pageInfo.pageTitle', document.title.trim()); ddo.setVar('page.pageInfo.friendlyPageName','CYB '+ document.title.trim() +' Pg'); ddo.setVar('page.category.siteSubSection1','legal'); ddo.setVar('page.category.siteSubSection2','privacy-policy'); } if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingFooter() { ddo.setVar('page.pageInfo.language','EN'); ddo.setVar('page.pageInfo.lineOfBusiness','Business Solutions'); ddo.setVar('page.category.pageFunction','Learn'); ddo.setVar('page.category.pageOwnership','Business'); ddo.setVar('page.attributes.applicationName','CYB'); ddo.setVar('page.pageInfo.appCode','ACS'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.media.class','text'); ddo.setVar('page.media.objective','Awareness'); ddo.setVar('page.media.category','Security'); ddo.setVar('page.location.domain','cybersecurity.att.com'); ddo.pushEvent('pageLoad', 'Page\_Load'); } window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5e0811a5f1","applicationID":"481746640","transactionName":"NV1WMBcHXkNZUENYCwwXYRYMSW9DTFJDWAc9W1UHDQNvWFldU10BEBZEDBU=","queueTime":0,"applicationTime":0,"atts":"GRpVRl8dTU0=","errorBeacon":"bam.nr-data.net","agent":""}var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/public/2e360c318no231cb04ec29a3f526cb4'\]);

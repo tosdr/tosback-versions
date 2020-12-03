@@ -1,4 +1,4 @@
-[![CBS Privacy Logo](/_i/logo-privacy-CBS.png)](#) 
+[![CBS Privacy Logo](https://privacy.cbs/_i/logo-privacy-CBS.png)](#) 
 
  Search
 
@@ -209,7 +209,7 @@ CBS Interactive Inc. 235 Second Street San Francisco, CA 94105 USA Attn: Legal D
 
 We are committed to working with you to obtain a fair resolution of any privacy concerns.
 
-![Brand Logos: CBS, CBS Local, CBS Interactive, Pop, Showtime, Simon and Schuster, Smithsonian Channel](/_i/logo-brands.png)
+![Brand Logos: CBS, CBS Local, CBS Interactive, Pop, Showtime, Simon and Schuster, Smithsonian Channel](https://privacy.cbs/_i/logo-brands.png)
 
 **[Terms of Use](https://www.cbsinteractive.com/legal/cbsi/terms-of-use)**  
 

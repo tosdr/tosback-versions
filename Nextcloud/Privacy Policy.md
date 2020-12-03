@@ -365,7 +365,7 @@ Resources
 *   [Download](https://nextcloud.com/install)
 *   [App Store](https://apps.nextcloud.com/)
 *   [Admin manual](https://docs.nextcloud.com/server/20/admin_manual/)
-*   [User manual](https://docs.nextcloud.com/server/latest/user_manual/)
+*   [User manual](https://docs.nextcloud.com/server/latest/user_manual/en/)
 *   [Developer program](https://nextcloud.com/developer)
 *   [Security](https://nextcloud.com/security)
 *   [Code on GitHub](https://github.com/nextcloud)

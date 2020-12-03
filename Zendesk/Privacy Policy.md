@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective as of September 17, 2020, Zendesk, Inc. (“Zendesk”), and its subsidiaries (collectively, the “Zendesk Group” or “we” or “us” or “our”), have updated our Privacy Policy (“Policy”). For a prior version of our Policy, click [here](https://www.zendesk.com/company/customers-partners/privacy-policy-2019-12-02/).
+Effective as of December 1, 2020, Zendesk, Inc. (“Zendesk”), and its subsidiaries (collectively, the “Zendesk Group” or “we” or “us” or “our”), have updated our Privacy Policy (“Policy”). For a prior version of our Policy, click [here](https://www.zendesk.com/company/customers-partners/privacy-policy-2020-09-17/).
 
 Table of Contents:
 
@@ -76,7 +76,7 @@ We ask for and may collect personal information such as your name, address, phon
 
 _Mobile Application:_
 
-When you download and use our Services, we automatically collect information on the type of device you use, and the operating system version, to perform our Service Agreement with you.
+When you or your Agents download and use our Services, we automatically collect information such as the type of device you use, the operating system version of the device, the cellular carrier facilitating connection to the mobile application, and the country the connection is arising from, to perform our obligations under our Master Subscription Agreement with our Subscribers.
 
 4\. Information That We Collect From You on our Websites
 --------------------------------------------------------
@@ -187,7 +187,7 @@ We have implemented safeguards to ensure an adequate level of data protection wh
 
 (c) Zendesk has Binding Corporate Rules in place which guarantee an adequate level of data protection wherever your data is physically kept; or
 
-(d) Zendesk participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework; however, we do not rely on the Privacy Shield as a lawful mechanism to transfer personal information from the EU, United Kingdom, or Switzerland. Where the recipient is located in the United States, it may be a certified participant of the EU-US Privacy Shield or Swiss Privacy Shield Framework;
+(d) Zendesk participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework; however, we do not rely on the Privacy Shield as a lawful mechanism to transfer personal information from the EU, United Kingdom, or Switzerland. Where the recipient is located in the United States, it may be a certified participant of the EU-US Privacy Shield or Swiss Privacy Shield Framework.
 
 You can obtain more details of the protection given to your personal information when it is transferred outside Europe (including a sample copy of the model contractual clauses) by contacting us using the details set out at Clause 15 below.
 
@@ -267,19 +267,23 @@ We may assign or transfer this Policy, as well as your account and related infor
 13\. Supplemental Terms and Conditions for Certain Regions
 ----------------------------------------------------------
 
-_Japan:_
-
-If you are a Subscriber to our Services, you agree that you are responsible for notifying your customers using our Services about how the Zendesk Group may use your customers’ personal information as described in this Policy and for obtaining prior consent from your customers to disclose their personal information to us.
-
-_Brazil:_
-
-Personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, is collected, stored, used and/or processed in accordance with Brazilian Law No. 12,965/2014. Those individuals who use or access our Website or Services expressly consent to the collection, use, storage and processing of their personal information by us for the purposes described in this Policy.
-
 _Australia:_
 
 Personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, is collected, stored, used and/or processed in compliance with the Australian Privacy Act 1988 (Commonwealth) and the Australia Privacy Principles as we further detail [here](https://www.zendesk.com/company/anz-privacy/).
 
-If you are dissatisfied with our handling of a complaint or do not agree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (“OAIC”) by contacting the OAIC using the methods listed on their website at [http://www.oaic.gov.au](http://www.oaic.gov.au/). Alternatively, you may request that we pass on the details of your complaint to the OAIC directly.
+If you are dissatisfied with our handling of a complaint or do not agree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (“OAIC”) by contacting the OAIC using the methods listed on their website at http://www.oaic.gov.au. Alternatively, you may request that we pass on the details of your complaint to the OAIC directly.
+
+_Brazil:_
+
+Personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, is collected, stored, used and/or processed in accordance with Brazilian Law No. 13,709/2018, as amended (LGPD). Those individuals who use or access our Website or Services expressly consent to the collection, use, storage and processing of their personal information by us for the purposes described in this Policy.
+
+_Canada:_
+
+Personal information (as the term is defined in the Personal Information Protection and Electronic Documents Act of Canada (“PIPEDA”)) will be collected, stored, used and/or processed by the Zendesk Group in compliance with the Zendesk Group’s obligations under PIPEDA.
+
+_Japan:_
+
+If you are a Subscriber to our Services, you agree that you are responsible for notifying your customers using our Services about how the Zendesk Group may use your customers’ personal information as described in this Policy and for obtaining prior consent from your customers to disclose their personal information to us.
 
 _New Zealand:_
 
@@ -288,10 +292,6 @@ Personal information collected, stored, used and/or processed by the Zendesk Gro
 _Singapore:_
 
 Personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, is collected, stored, used and/or processed in compliance with the Zendesk Group’s obligations under the Personal Data Protection Act 2012 of Singapore (“PDPA”) as we further detail [here](https://www.zendesk.com/company/singapore-pdpa/).
-
-_Canada:_
-
-Personal information (as the term is defined in the Personal Information Protection and Electronic Documents Act of Canada (“PIPEDA”)) will be collected, stored, used and/or processed by the Zendesk Group in compliance with the Zendesk Group’s obligations under PIPEDA.
 
 _Zendesk Supplemental Privacy Policy for California Residents:_
 
@@ -353,8 +353,8 @@ _Contact:_
 If you have questions regarding this Policy or about the Zendesk Group’s privacy practices, please contact us by email at [privacy@zendesk.com](mailto:privacy@zendesk.com), or at:
 
 Zendesk, Inc.  
-Attn: Hasani Caraway, General Counsel & Chief Privacy Officer  
-1019 Market Street  
+Attn: Jason Robman, Associate General Counsel  
+989 Market Street  
 San Francisco, CA 94103, United States
 
 14\. Changes To This Policy
@@ -373,8 +373,8 @@ If you have questions or complaints regarding this Policy or about the Zendesk G
 
 Zendesk’s United States Representative:  
 Zendesk, Inc.  
-Attn: Hasani Caraway, General Counsel & Chief Privacy Officer  
-1019 Market Street  
+Attn: Jason Robman, Associate General Counsel  
+989 Market Street  
 San Francisco, CA 94103, United States  
 [privacy@zendesk.com](mailto:privacy@zendesk.com)
 

@@ -578,4 +578,4 @@ footer navigation links
 
 © British Airways - all rights reserved
 
-![British Airways logo.](/assets/images/global/site/brandsLogo/footer_speedmarque.png)[![One World Logo.](/cms/global/assets/images/site/icon/oneworldlrg.png)](https://www.britishairways.com/en-ch/information/flight-information/oneworld)
+![British Airways Home](/assets/images/global/site/brandsLogo/footer_speedmarque.png)[![One World Logo](/cms/global/assets/images/site/icon/oneworldlrg.png)](https://www.britishairways.com/en-ch/information/flight-information/oneworld)

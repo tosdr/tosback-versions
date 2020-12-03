@@ -37,8 +37,15 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
     *   [Contact Us](https://www.teksavvy.com/company/contact/)
     *   [Frequently Asked Questions](https://www.teksavvy.com/support/)
     *   [Network Status](https://www.teksavvy.com/network-status/)
+*   [News & Views](#) [ ]  Open Menu
+    
+    *   [Choice Words Blog](https://blogs.teksavvy.com/topic/choice-words)
+    *   [Services Blog](https://blogs.teksavvy.com/)
+    
+    New
+    
 
-[Sign In / Register](https://mysavvy.teksavvy.com/ "MySavvy")[](https://www.teksavvy.com/shop/)
+[Sign In / Register](https://mysavvy.teksavvy.com/ "MySavvy")
 
 *   [Shop](#) [ ]  Open Shop Menu
     *   [Internet](https://www.teksavvy.com/services/internet/)
@@ -61,6 +68,13 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
     *   [Contact Us](https://www.teksavvy.com/company/contact/)
     *   [Frequently Asked Questions](https://www.teksavvy.com/support/)
     *   [Network Status](https://www.teksavvy.com/network-status/)
+*   [News & Views](#)
+    
+    New
+    
+    [ ]  Open Menu
+    *   [Choice Words Blog](https://blogs.teksavvy.com/topic/choice-words)
+    *   [Services Blog](https://blogs.teksavvy.com/)
 *   [Business Solutions](https://business.teksavvy.com/)
 *   [Policies](https://www.teksavvy.com/policies/) [ ]  Open Policies Menu
     *   [Privacy Policy](https://www.teksavvy.com/policies/legal-stuff/privacy-policy/)

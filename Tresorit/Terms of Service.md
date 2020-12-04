@@ -3,7 +3,7 @@
 *   [Business](https://tresorit.com/business)
 *   Products
     
-    *   [Tresorit Enterprise A solution tailored for enterprises of 50+ users](https://tresorit.com/enterprise)
+    *   [Tresorit Enterprise A solution tailored for enterprises. Starts from 50 licenses.](https://tresorit.com/enterprise)
     *   [Tresorit Business Safe collaboration with enhanced control and security](https://tresorit.com/business)
     *   [Tresorit Personal Secure storage & sync for personal & work files](https://tresorit.com/solo)
     *   [Tresorit Basic Secure file sync & sharing for FREE](https://tresorit.com/pricing/basic)
@@ -38,7 +38,7 @@
     
 *   [Pricing](https://tresorit.com/pricing)
 *   [GDPR Compliance](https://tresorit.com/gdpr)
-*   [Blog](https://blog.tresorit.com/)
+*   [Blog](https://tresorit.com/blog/)
 *   [Security](https://tresorit.com/security)
 *   [Personal](https://tresorit.com/solo)
 
@@ -1022,7 +1022,7 @@ Version: 24/10/2017
 
 *   [Knowledge Base](https://support.tresorit.com/hc/en-us)
 *   [Resources](https://tresorit.com/resources)
-*   [Blog](https://blog.tresorit.com/)
+*   [Blog](https://tresorit.com/blog/)
 *   [FAQ](https://support.tresorit.com/hc/en-us/articles/216113777-Crash-course-on-Tresorit)
 *   [Service Status](https://status.tresorit.com/)
 

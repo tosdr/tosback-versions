@@ -840,15 +840,11 @@ You are now being directed to the AMA site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
 
-[Read more](#) [Read less](#)
-
 [Continue](#)
 
 You are now being directed to the Give an Hour site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
-
-[Read more](#) [Read less](#)
 
 [Continue](#)
 
@@ -856,15 +852,11 @@ You are now being directed to the CVS Pharmacy site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
 
-[Read more](#) [Read less](#)
-
 [Continue](#)
 
 You are now being directed to the CDC site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
-
-[Read more](#) [Read less](#)
 
 [Continue](#)
 
@@ -872,15 +864,11 @@ You are now being directed to the CVS Health site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-[Read more](#) [Read less](#)
-
 [Continue](#)
 
 You are now being directed to the Apple.com COVID-19 Screening Tool
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
-
-[Read more](#) [Read less](#)
 
 [Continue](#)
 
@@ -888,15 +876,11 @@ You are now being directed to the US Department of Health and Human Services sit
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-[Read more](#) [Read less](#)
-
 [Continue](#)
 
 You are now being directed to the CVS Health COVID-19 testing site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
-
-[Read more](#) [Read less](#)
 
 [Continue](#)
 
@@ -905,8 +889,6 @@ You are now being directed to
 The Fight Is In Us site 
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
-
-[Read more](#) [Read less](#)
 
 [Continue](#)
 

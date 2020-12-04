@@ -49,9 +49,7 @@ By using remove.bg you agree to the use of cookies. You can find details on how 
     ](https://www.remove.bg/g/car-dealerships)
     
 *   [Tools & API](https://www.remove.bg/tools-api)
-*   [Pricing
-    
-    Black Friday](https://www.remove.bg/pricing)
+*   [Pricing](https://www.remove.bg/pricing)
 
 [Remove Background](https://www.remove.bg/upload)
 

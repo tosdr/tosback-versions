@@ -7,7 +7,7 @@
 *   [Contact Us](https://support.bitchute.com/contact-us)
 *   [Day/Night](#)
 
-Popular topics: [Community Guidelines](https://support.bitchute.com/policy/guidelines), [Cookie Policy](https://support.bitchute.com/policy/cookie)
+Popular topics: [Community Guidelines](https://support.bitchute.com/policy/guidelines), [Terms & Conditions](https://support.bitchute.com/policy/terms)
 
 Sorry, we didn't find any relevant articles for you.
 
@@ -152,7 +152,7 @@ The Terms, and your relationship with BitChute under the Terms, shall be governe
 
 #### Was this article helpful?
 
-[1656](#) [156](#)
+[1682](#) [158](#)
 
 #### Related Questions:
 

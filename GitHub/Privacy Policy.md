@@ -411,7 +411,7 @@ Or, [learn how to contribute.](https://github.com/github/docs/blob/main/CONTRIBU
 
 [Ask the GitHub community](https://github.community/) [Contact support](https://support.github.com/contact)
 
-*   2020 GitHub, Inc.
+*   © 2020 GitHub, Inc.
 *   [Terms](https://help.github.com/github/site-policy/github-terms-of-service)
 *   [Privacy](https://help.github.com/github/site-policy/github-privacy-statement)
 *   [Security](https://github.com/security)

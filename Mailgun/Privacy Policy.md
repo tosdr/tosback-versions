@@ -1,4 +1,4 @@
-Last revised and updated 10/29/2020. To review a changelog and see the previous version, [click here](https://www.mailgun.com/privacy-policy-old).
+Last revised and updated 12/3/2020. To review a changelog and see the previous version, [click here](https://www.mailgun.com/privacy-policy-old).
 
 Your privacy and security is of the utmost importance to us. We describe in this policy how we collect and use information about you in your use of our services, including our platform and the website. If you are one of our customers, you should read this policy in conjunction with our [Terms of Service](https://www.mailgun.com/terms).
 
@@ -12,7 +12,7 @@ When collecting information about our customers or visitors of our website, we a
 
 We collect information about you when you fill in a sign up or contact form on our website or send us an email. We may also receive your personal data from third parties, when you express your interest for our services to them.
 
-We collect information by automated means. When you visit our website, view one of our advertisements on a third party-owned website, or read our marketing email, we automatically collect information about you via cookies, web beacons and other similar technologies. These are small files associated with information that your browser or our servers will save and return as part of your use of the website and the services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the website. For more information on our use of cookies, read [our cookies notice](https://www.mailgun.com/cookie-policy).
+We collect information by automated means. When you visit our website, view one of our advertisements on a third party-owned website, or read our marketing email, we automatically collect information about you via cookies, web beacons and other similar technologies. These are small files associated with information that your browser or our servers will save and return as part of your use of the website and the services for purposes such as saving your login session between visits, remembering your display preferences, tracking your use of the website, and for audience measurement purposes. For more information on our use of cookies, read [our cookies notice](https://www.mailgun.com/cookie-policy).
 
 ### 3\. What data do we collect?
 

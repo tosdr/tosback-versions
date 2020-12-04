@@ -67,7 +67,13 @@ Or browse results titled :
 *   [sign up](#)
 *   [log in](https://bandcamp.com/login)
 
+[We’re hiring!](https://www.bandcamp.com/jobs)
+
+[We’re hiring!](https://www.bandcamp.com/jobs)
+
 Hey! Please verify your email by clicking the link we sent to . [Change email / Send again](#)
+
+[We’re hiring!](https://www.bandcamp.com/jobs)
 
 ×
 

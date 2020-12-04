@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+*   [The US Air Force wants to buy a big robot to help with bomb disposal](http://feedproxy.google.com/~r/defense-news/air/~3/ouHOCZsvRwk/)  
+    12/03/20 03:43pm  
+    
+    EOD experts from Mountain Home Air Force Base visit the Ford Center in Idaho during the Robot Convention on March 29, 2019. This event was held to showcase the abilities of robotics. (Senior Airman Tyrell Hall/U.S. Air Force)
+    
 *   [Boeing starts production of T-7 training jet simulators](http://feedproxy.google.com/~r/defense-news/air/~3/ftlUJNAT9jI/)  
     12/01/20 05:18pm  
     
@@ -215,21 +220,16 @@ This document was last updated on January 1, 2014
     
     A Swiss Air Force F/A-18 is seen in front of a church on Feb. 20, 2013, at Payerne airport. The Swiss government is expected to make a decision in 2021 about the aircraft type to replace the aging fleet. (Fabrice Croffrini/AFP)
     
-*   [House Democrats see political motive in Air Force decision to base C-130s in Georgia](http://feedproxy.google.com/~r/defense-news/air/~3/_AUE9tWb8SY/)  
-    11/25/20 09:43pm  
-    
-    A C130 with the 136th Air Lift Wing, Texas Air National Guard, sit on the flight line as personnel depart at Volk Field Air National Guard Base during PATRIOT North 19 on July 12, 2019 in Camp Douglas, Wis. (Master Sgt. Kellen Kroening/U.S. Air National Guard)
-    
 
 Recent parts by keyword  
 
-*   [MS171444](https://aerobasegroup.com/search/?term=MS171444)
-*   [ms171465](https://aerobasegroup.com/search/?term=ms171465)
-*   [BLBPW19-18P](https://aerobasegroup.com/search/?term=BLBPW19-18P)
-*   [pr-1776 b1/2](https://aerobasegroup.com/search/?term=pr-1776+b1%2F2)
-*   [K-2015](https://aerobasegroup.com/search/?term=K-2015)
-*   [M83](https://aerobasegroup.com/search/?term=M83)
-*   [MS21209C0610](https://aerobasegroup.com/search/?term=MS21209C0610)
+*   [347R](https://aerobasegroup.com/search/?term=347R)
+*   [ca8100f17925](https://aerobasegroup.com/search/?term=ca8100f17925)
+*   [F292110](https://aerobasegroup.com/search/?term=F292110)
+*   [ms25017](https://aerobasegroup.com/search/?term=ms25017)
+*   [MS21984](https://aerobasegroup.com/search/?term=MS21984)
+*   [MS21983](https://aerobasegroup.com/search/?term=MS21983)
+*   [D6760-1-7](https://aerobasegroup.com/search/?term=D6760-1-7)
 
 The AeroBase Group Family ..
 

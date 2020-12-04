@@ -218,7 +218,7 @@ This Privacy Policy discloses how we collect, use, and share data that we gather
           
         The CCPA defines the terms “sell” and “sale” broadly to include the sharing of Personal Information with third parties for something of value, even if no money is exchanged. We do not sell users’ Personal Information as the term “sell” is commonly understood. However, we do allow advertising vendors to use your Personal Information for certain purposes other than providing and improving advertising services for our apps and websites (described in [Section 3.D](javascript:;) of our Privacy Policy), which is considered a sale under CCPA. This is the only way that we sell Personal Information under the CCPA, and we do not engage in any other sales of Personal Information under the CCPA.  
           
-        In the past twelve months, we have sold the following categories of Personal Information as defined by the CCPA to our [Advertising Vendors](javascript:;):  
+        In the past twelve months, we have sold the following categories of Personal Information as defined by the CCPA to our [Advertising Vendors](https://weather.com/data-partners):  
          
         
         *   Identifiers such as an online identifier or IP address;

@@ -7,7 +7,7 @@
 *   [Contact Us](https://support.bitchute.com/contact-us)
 *   [Day/Night](#)
 
-Popular topics: [Community Guidelines](https://support.bitchute.com/policy/guidelines), [Cookie Policy](https://support.bitchute.com/policy/cookie)
+Popular topics: [Community Guidelines](https://support.bitchute.com/policy/guidelines), [Terms & Conditions](https://support.bitchute.com/policy/terms)
 
 Sorry, we didn't find any relevant articles for you.
 
@@ -162,7 +162,7 @@ Misuse of the platform and/or the functionality provided is not permitted and sh
 
 #### Was this article helpful?
 
-[2084](#) [279](#)
+[2124](#) [286](#)
 
 #### Related Questions:
 

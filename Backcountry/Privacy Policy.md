@@ -1,7 +1,7 @@
 BACKCOUNTRY PRIVACY POLICY
 ==========================
 
-**Last Updated:** 8/19/2020
+**Last Updated:** 12/03/2020
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Backcountry.com, LLC and its subsidiaries (“**Backcountry**” or “**we**”). This Privacy Policy applies to information we collect when you use our websites, mobile apps and other online products and services (collectively, the “**Services**”), including Backcountry.com, SteepandCheap.com, Competitivecyclist.com, and Motosport.com, or when you otherwise interact with us. This policy does not apply to products or services with separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -25,7 +25,7 @@ When you use our Services, we automatically collect certain information, includi
 *   **Device Information** We collect information about the mobile device you use to access our mobile apps, including the hardware model, operating system and version, unique device identifiers and mobile network information.
 *   **Location Information:** We may collect precise location of your mobile device via our mobile apps in accordance with the permission process established by your mobile device operating system. We may also collect the approximate location of your device based the device’s IP address.
 *   **Stored Information:** We may access information you have stored on your mobile device via our mobile app in accordance with the permission process established by your mobile device operating system. For example, with your permission, we may access photos or videos from your mobile device photo gallery.
-*   **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information from the computer or device you use to access our Services, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. We do not alter or change your experience, or otherwise respond to, “DNT” or “do not track” signals. 
+*   **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information from the computer or device you use to access our Services, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. We do not alter or change your experience, or otherwise respond to, “DNT” or “do not track” signals. One of the cookies we use to monitor performance and use of our Services is provided by Google Analytics. We use Google Analytics to analyze users’ browsing history, search history, and user generated-activity (e.g., reviews, shared photos, and comments) as well as interactions with our sites, advertisements, and apps. For more information about how Google Analytics processes information, please see https://policies.google.com/privacy. By using our Services, you are consenting to the use of the Google Analytics cookie.
 
 ### Information We Collect From Other Sources
 
@@ -131,11 +131,11 @@ Subject to certain limitations, the CCPA provides California consumers the right
 
 In the last 12 months, we collected the following categories of personal information: identifiers (such as name and contact information), characteristics of protected classifications (such as age and gender), commercial information (such as products purchased), internet or other electronic network activity information (such as browsing behavior), geolocation data, audio, electronic, visual or similar information (such as profile pictures or customer support call information), and inferences we make (such as preferred activities). For more details about the personal information we collect, including the categories of sources, please see the [“Collection of Information”](#collection) section above. We collect this information for the business and commercial purposes described in the [“Use of Information”](#use) section above. We share this information with the categories of third parties described in the [“Sharing of Information”](#sharing) section above.
 
-California consumers may make a rights request by visiting this portal: [Rights Request](https://www.requesteasy.com/5dfe-0287). In the portal, we will require that you provide additional information in order to verify your request.
+California consumers may make a rights request by visiting this portal: [Rights Request](https://privacyportal.onetrust.com/webform/78ce4d69-6668-4330-98ea-9f2ae2f26860/6da6b4d2-04fd-4eeb-9048-0875e64ff650). In the portal, we will require that you provide additional information in order to verify your request.
 
 ### Non-California Privacy Rights
 
-Residents of any state may make a privacy-related rights request by visiting this portal: [Rights Request](https://www.requesteasy.com/5dfe-0287). In the portal, we will require that you provide additional information in order to verify your request.
+Residents of any state may make a privacy-related rights request by visiting this portal: [Rights Request](https://privacyportal.onetrust.com/webform/78ce4d69-6668-4330-98ea-9f2ae2f26860/6da6b4d2-04fd-4eeb-9048-0875e64ff650). In the portal, we will require that you provide additional information in order to verify your request.
 
 Contact Us
 ----------

@@ -99,7 +99,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Personal Data processed: Cookies; Usage Data.
     
-    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant.
+    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
 *   ### Contacting the User
     
@@ -213,7 +213,7 @@ Such broader protection standards apply when the processing:
 Cookie Policy
 -------------
 
-This Website uses Cookies and other Identifiers. To learn more, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/gdpr/31079721/cookie-policy "Cookie Policy").
+This Website uses Trackers. To learn more, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/gdpr/31079721/cookie-policy "Cookie Policy").
 
 Additional information about Data collection and processing
 -----------------------------------------------------------
@@ -284,9 +284,13 @@ The service provided by this Website as described in the relative terms (if avai
 
 Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
-#### Cookies
+#### Cookie
 
-Small sets of data stored in the User's device.
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+
+#### Tracker
+
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
 
 * * *
 

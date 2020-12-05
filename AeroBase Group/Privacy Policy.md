@@ -200,8 +200,18 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+*   [The Air Force wanted to mothball over 100 planes. Here’s what Congress says it will permit.](http://feedproxy.google.com/~r/defense-news/air/~3/QHEtsNwItrk/)  
+    12/04/20 11:08am  
+    
+    A B-1B Lancer from the 37th Expeditionary Bomb Squadron returns to mission after receiving fuel from a KC-135 Stratotanker. (Master Sgt. William Greer/U.S. Air Force)
+    
+*   [Pilots, maintainers are worn out and under-trained, aviation safety commission says](http://feedproxy.google.com/~r/defense-news/air/~3/tjWmgnzJCfQ/)  
+    12/04/20 11:06am  
+    
+    Aviation Structural Mechanic (Safety Equipment) 2nd Class Frank McMahon performs maintenance in the cockpit of an F/A-18E Super Hornet. (MC3 Bryan Mai/Navy)
+    
 *   [The US Air Force wants to buy a big robot to help with bomb disposal](http://feedproxy.google.com/~r/defense-news/air/~3/ouHOCZsvRwk/)  
-    12/03/20 03:43pm  
+    12/04/20 04:13pm  
     
     EOD experts from Mountain Home Air Force Base visit the Ford Center in Idaho during the Robot Convention on March 29, 2019. This event was held to showcase the abilities of robotics. (Senior Airman Tyrell Hall/U.S. Air Force)
     
@@ -210,26 +220,16 @@ This document was last updated on January 1, 2014
     
     A Boeing test pilot flies the T-7A ground-based flight simulator. (Boeing)
     
-*   [A new design is almost ready for the KC-46′s most troubled system](http://feedproxy.google.com/~r/defense-news/air/~3/RXM8OwJOmHs/)  
-    11/30/20 04:30pm  
-    
-    Once the Remote Vision System is overhauled, the KC-46 will be cleared for combat operations. (Staff Sgt. Victoria Nelson/U.S. Air Force)
-    
-*   [Aircraft makers sweeten their offers in high-stakes Swiss warplane race](http://feedproxy.google.com/~r/defense-news/air/~3/1AkoocxdOM4/)  
-    11/29/20 08:00pm  
-    
-    A Swiss Air Force F/A-18 is seen in front of a church on Feb. 20, 2013, at Payerne airport. The Swiss government is expected to make a decision in 2021 about the aircraft type to replace the aging fleet. (Fabrice Croffrini/AFP)
-    
 
 Recent parts by keyword  
 
-*   [347R](https://aerobasegroup.com/search/?term=347R)
-*   [ca8100f17925](https://aerobasegroup.com/search/?term=ca8100f17925)
-*   [F292110](https://aerobasegroup.com/search/?term=F292110)
-*   [ms25017](https://aerobasegroup.com/search/?term=ms25017)
-*   [MS21984](https://aerobasegroup.com/search/?term=MS21984)
-*   [MS21983](https://aerobasegroup.com/search/?term=MS21983)
-*   [D6760-1-7](https://aerobasegroup.com/search/?term=D6760-1-7)
+*   [NAS559](https://aerobasegroup.com/search/?term=NAS559)
+*   [MIL-H-8796](https://aerobasegroup.com/search/?term=MIL-H-8796)
+*   [hmv-4](https://aerobasegroup.com/search/?term=hmv-4)
+*   [13211E9006](https://aerobasegroup.com/search/?term=13211E9006)
+*   [qrp3](https://aerobasegroup.com/search/?term=qrp3)
+*   [c 635](https://aerobasegroup.com/search/?term=c+635)
+*   [NF53100‐03B](https://aerobasegroup.com/search/?term=NF53100%E2%80%9003B)
 
 The AeroBase Group Family ..
 

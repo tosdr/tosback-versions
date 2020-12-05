@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Friday, December 4, 2020  
+Saturday, December 5, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Moderna to supply Israel an additional 4 million covid vaccine doses](https://www.debka.com/mivzak/moderna-to-supply-israel-an-additional-4-million-covid-vaccine-doses/)
+    
+    Dec 04, 2020 @ 18:24
+    
+*   [Another 1,434 new coronavirus cases reported on Friday](https://www.debka.com/mivzak/another-1434-new-coronavirus-cases-reported-on-friday/)
+    
+    Dec 04, 2020 @ 18:23
+    
 *   [Israel’s former nuclear research scientists warned to watch out](https://www.debka.com/mivzak/israels-former-nuclear-research-scientists-warned-to-watch-out/)
     
     Dec 04, 2020 @ 09:22
@@ -76,16 +84,16 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Another 1,523 coronavirus cases tallied](https://www.debka.com/mivzak/another-1523-coronavirus-cases-tallied/)
     
     Dec 03, 2020 @ 09:18
-    
-*   [Hackers demand $1m from Shirbit insurance firm](https://www.debka.com/mivzak/hackers-demand-1m-from-shirbit-insurance-firm/)
-    
-    Dec 03, 2020 @ 08:55
-    
-*   [UK first to approve Pfizer/BioNTech covid vaccine](https://www.debka.com/mivzak/uk-first-to-approve-pfizer-biontech-covid-vaccine/)
-    
-    Dec 02, 2020 @ 13:42
     
 
+*   [Moderna to supply Israel an additional 4 million covid vaccine doses](https://www.debka.com/mivzak/moderna-to-supply-israel-an-additional-4-million-covid-vaccine-doses/)
+    
+    Dec 04, 2020 @ 18:24
+    
+*   [Another 1,434 new coronavirus cases reported on Friday](https://www.debka.com/mivzak/another-1434-new-coronavirus-cases-reported-on-friday/)
+    
+    Dec 04, 2020 @ 18:23
+    
 *   [Israel’s former nuclear research scientists warned to watch out](https://www.debka.com/mivzak/israels-former-nuclear-research-scientists-warned-to-watch-out/)
     
     Dec 04, 2020 @ 09:22
@@ -105,14 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Another 1,523 coronavirus cases tallied](https://www.debka.com/mivzak/another-1523-coronavirus-cases-tallied/)
     
     Dec 03, 2020 @ 09:18
-    
-*   [Hackers demand $1m from Shirbit insurance firm](https://www.debka.com/mivzak/hackers-demand-1m-from-shirbit-insurance-firm/)
-    
-    Dec 03, 2020 @ 08:55
-    
-*   [UK first to approve Pfizer/BioNTech covid vaccine](https://www.debka.com/mivzak/uk-first-to-approve-pfizer-biontech-covid-vaccine/)
-    
-    Dec 02, 2020 @ 13:42
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

@@ -439,6 +439,10 @@ Your privacy and data protection rights are important to RTÉ. As described in t
 
 This is the data and document Retention Policy of RTÉ and forms part of RTÉ’s General Data Protection Regulation (“GDPR”) compliance project. To view, [click here](https://about.rte.ie/wp-content/uploads/2019/07/RTE-Data-Retention-Policy-2018.pdf).
 
+#### RTÉ Energy Policy
+
+As an organisation and individually, RTÉ is committed to managing its energy consumption and continuously improving its energy management system. To view our Energy Policy, [click here](https://about.rte.ie/wp-content/uploads/2020/12/Energy-Policy-2020.pdf).
+
 #### RTÉ Environmental Property
 
 Mindful of our public service obligations, RTÉ has put in place an Environmental Policy. To view, [click here](https://about.rte.ie/wp-content/uploads/2020/08/RT%C3%89-Environmental-Policy.pdf).

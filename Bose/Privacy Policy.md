@@ -29,15 +29,17 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
 
 *   [Holiday gifts](https://www.bose.com/en_us/products/gift_ideas.html "Holiday gifts")
     
+    *   [Special offers](https://www.bose.com/en_us/special_offers.html "Special offers")
+    *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
+    
     *   [FOR STUDENTS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_students.html "FOR STUDENTS")
     *   [FOR HIM](https://www.bose.com/en_us/products/gift_ideas/gifts_for_him.html "FOR HIM")
     *   [FOR HER](https://www.bose.com/en_us/products/gift_ideas/gifts_for_her.html "FOR HER")
     *   [SPORTS AND OUTDOORS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_fitness_and_sports.html "SPORTS AND OUTDOORS")
-    
     *   [HOME](https://www.bose.com/en_us/products/gift_ideas/gifts_for_home.html "HOME")
+    
     *   [TRAVELERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_travelers.html "TRAVELERS")
     *   [TECH LOVERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_technology_lovers.html "TECH LOVERS")
-    
     *   [FOR FAMILIES](https://www.bose.com/en_us/products/gift_ideas/gifts_for_families.html "FOR FAMILIES")
     *   [AFFORDABLE GIFTS](https://www.bose.com/en_us/products/gift_ideas/affordable_gifts.html "AFFORDABLE GIFTS")
     *   [THANKSGIVING](https://www.bose.com/en_us/products/gift_ideas/gifts_for_thanksgiving.html "THANKSGIVING")

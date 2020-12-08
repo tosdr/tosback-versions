@@ -1,12 +1,6 @@
-[![Join MRichard333 Hub](gallery_gen/81e2816437ea0eb92a04d96ab42f1070_200x200.png)](https://chat.mrichard333.com/ "Join MRichard333 Hub!")
+[![Join MRichard333 Hub](gallery/blogging(4)-ts1607293427.svg)](https://chat.mrichard333.com/ "Join MRichard333 Hub!")
 
-[![Discord Server](gallery_gen/b4c4f1fbb9e600c7c36920529fd13584_160x160.png)](https://discord.gg/KH8tx2a "Join us on Discord")
-
-[![Get merch and support me](gallery_gen/d8ba39ad5bdd30e5b0d3f7bf803639dc_314.14634146342x184.png)](https://patreon.com/MRichard333 "Support us and get Merch")
-
-[![Youtube Channel](gallery_gen/77caeb2b53b5cec175b502c573d179fc_160x160.png)](https://youtube.com/c/MRichard333 "Scammers Exposing and Tech Guide")
-
-[![](https://mrichard333.com/MRichard333.com.png)](https://mrichard333.com/)
+[![Online Computer Classes](gallery/online-course-ts1607296260.svg)](https://mrichard333.com/Course "Online Computer Course")
 
 *   [Home](https://mrichard333.com/)
 *   [Videos](https://mrichard333.com/videos)
@@ -14,21 +8,23 @@
 *   [Course](https://mrichard333.com/Course)
 *   [Affiliate](https://mrichard333.com/affiliate)
 
-[The amounts of scams have risen since the pandemic](https://mrichard333.com/ "Read my fraud prevention guide")
+[![](https://mrichard333.com/MRichard333.com.png)](https://mrichard333.com/)
 
-#### MRICHARD333
+[For each mask purchase here 1$ will be donated to the children in need!](https://teespring.com/face-mask-design-MRichard333 "Buy MRichard333 Mask")
+
+#### **MRICHARD333**
 
 CYBERSECURITY NEWS
 ------------------
 
-Signal a fraud
---------------
+Report Scammers
+---------------
 
 ##### Mathieu Richard | Course instructor
 
-##### |Scammer Exposer|
+##### | Scammer Exposer |
 
-##### Information Technology| Fraud prevention
+##### Information Technology | Fraud prevention
 
 **COMPUTER SCIENCE COURSE**
 ---------------------------
@@ -50,49 +46,19 @@ MRichard333
 
 You take the entire legal responsibility for your actions and post.
 
-  
-
-  
-
 You are responsible for the personal information that you send or/and publish publicly.
-
-  
-
-  
 
 Our service comes "as is" and is still in development.
 
-  
-
-  
-
 But stay assured that we value your privacy & security and are doing our best to offer you premium security and experience.
 
-  
-
-  
-
-  
-
-Transactions and sensitive data are handled by reputed companies like Paypal.  
-
-  
-
-  
-
-  
-
-  
-
-  
+Transactions and sensitive data are handled by reputed companies like Paypal.
 
 ![](https://mrichard333.com/MRichard333.com.png)
 
-##### "I have read and agree to the terms" is the biggest lie on the web, At MRichard333 we have choices to make a _**Simple and Clear**_ ToS!  
+##### "I have read and agree to the terms" is the biggest lie on the web, At MRichard333 we have chooses to make a _**Simple and Clear**_ ToS!
 
-#####   
-
-Your privacy is very important to us. Data are anonymized and local data are shredded on a regular basis.  
+Your privacy is very important to us. Data are anonymized and useless data are shredded on a regular basis.
 
 **Terms of Service**
 
@@ -158,14 +124,28 @@ By using our website you agree to our [Terms of services](https://mrichard333.co
 
 I reserve for me the right of editing the terms of service, privacy policy, and GDPR declaration: It might be required for future expend perhaps we will make sure to let you know of the update.  
 
-###  [Privacy policy](https://mrichard333.com/Privacy-policy "Privacy policy")  
+ [](https://mrichard333.com/ToS "Terms of Service (ToS)") [Privacy policy](https://mrichard333.com/Privacy-policy "Privacy policy")
 
-###  [**Inquiry**](https://mrichard333.com/contact "Contact us")
+ [Feedback](https://mrichard333.com/contact "Contact us")
 
-###  [](https://mrichard333.com/affiliate "Became Affiliate") [Affiliate Program](https://mrichard333.com/affiliate "Became Affiliate")
+ [](https://mrichard333.com/affiliate "Became Affiliate") [Affiliate Program](https://mrichard333.com/affiliate "Became Affiliate")
 
-###  [Terms of service](https://mrichard333.com/ToS "Terms of Service (ToS)")
+ **[Terms of service](https://mrichard333.com/ToS "Terms of Service (ToS)")**
 
 [![Digital Millennium Copyright Act](gallery_gen/7f3eda5f286c1b88e5da8d039e75304d.png)](https://www.dmca.com/ "Digital Millennium Copyright Act")
+
+Credits:
+
+Mask icon: [SmashIcons](https://www.flaticon.com/authors/smashicons "Icon Attribution") on [FlatIcon](https://www.flaticon.com/ "Flaticon")
+
+Blog icon: [Freepik](https://www.flaticon.com/authors/freepik "Freepik") on [Flaticon](https://www.flaticon.com/ "Flaticon")
+
+Courses icon: [xnimrodx](https://www.flaticon.com/authors/xnimrodx "xnimrodx") on [Flaticon](https://www.flaticon.com/ "Flaticon")
+
+[![Discord Server](gallery_gen/c19ba0a5ed630bcb2676dc327c9338e0_35x24.5.png)](https://discord.gg/KH8tx2a "Join us on Discord")
+
+[![Get merch and support me](gallery_gen/66f7e9af519c34982b8cacc5fae8ca2e_30x21.png)](https://patreon.com/MRichard333 "Support us and get Merch")
+
+[![Youtube Channel](gallery_gen/43257c1dcc46ae99bc12af3f2798991e.png)](https://youtube.com/c/MRichard333 "Scammers Exposing and Tech Guide")
 
 $(function() { var footer = $(".wb\_footer"); var html = (footer.html() + "").replace(/^\\s+|\\s+$/g, ""); if (!html) { footer.parent().remove(); footer = $("#wb\_footer, #wb\_footer .wb\_cont\_inner"); footer.css({height: ""}); } });

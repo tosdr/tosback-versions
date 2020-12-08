@@ -21,7 +21,7 @@
     
     [
     
-    Shop now
+    Shop sale
     
     ](https://www.fitbit.com/global/us/products.for-her)
     
@@ -31,7 +31,7 @@
     
     [
     
-    Shop now
+    Shop sale
     
     ](https://www.fitbit.com/global/us/products.for-him)
     
@@ -41,7 +41,7 @@
     
     [
     
-    Shop now
+    Shop sale
     
     ](https://www.fitbit.com/global/us/products.gifts-under-250)
     

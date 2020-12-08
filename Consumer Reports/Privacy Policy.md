@@ -751,7 +751,7 @@ Jump To:
 
 Section Navigation... Scope Information Collected How We Use Your Information Disclosure of Information Choice/Opt Out Editing Your Information Security / Protection Of Information Children's Privacy Third Party Sites and Services Your Privacy Rights and Choices Your California Privacy Rights Special Terms for Residents of the European Economic Area, Switzerland and the United Kingdom How to Contact Us Changes to this Privacy Policy
 
-**Last modified: July 10, 2020 (View [Archived Versions](https://www.consumerreports.org/cro/customerservice/privacy-policy/archives/index.htm))**
+**Last modified: December 7, 2020 (View [Archived Versions](https://www.consumerreports.org/cro/customerservice/privacy-policy/archives/index.htm))**
 
 What’s new?
 -----------
@@ -839,7 +839,7 @@ We will take reasonable steps to help ensure that where personal information is 
 We may share de-identified individual-level or aggregated information with manufacturers, regulators, researchers and other third parties for research purposes to help improve the marketplace. Information shared in this way will not identify you individually.  
 
 **Sharing For Consumer Policy and Mobilization Purposes**   
-When you participate in a consumer policy campaign such as by signing a petition or sending a message to a policy decision-maker or government entity, it may be necessary to include your name, address and/or other personal information with your submission. Petitions and comments filed with government entities, together with any included personal information, become a matter of public record and may be viewable online after submission. 
+When you participate in a consumer policy campaign such as by signing a petition or sending a message to a policy decision-maker or government entity, it may be necessary to include your name, address and/or other personal information with your submission. Petitions and comments filed with government entities, together with any included personal information, become a matter of public record and may be viewable online after submission. Sometimes CR works with other advocacy organizations to coordinate our shared policy efforts. If you provide your information to us as part of a joint-petition or other coordinated action, it may be shared with these other organizations.
 
 **Sharing For Fundraising Purposes**   
 We share certain donor data (such as full name, mailing address and donation information, but not your email address, telephone number(s) or any financial account information) with other organizations. 
@@ -1202,7 +1202,7 @@ We may change this Privacy Policy from time to time. When we do, we will let you
 
 ### Magazine & Books
 
-*   [Current Issue](https://www.consumerreports.org/content/cro/en/consumer-reports-magazine/z2020/November.html)
+*   [Current Issue](https://www.consumerreports.org/content/cro/en/consumer-reports-magazine/z2020/December.html)
 *   [CR Digital Archive](https://www.consumerreports.org/cro/magazine/index.htm)
 *   [5 Year Index](http://article.images.consumerreports.org/prod/content/dam/cro/corporate/customer-service/5-year-index.pdf)
 *   [CR Store](https://www.consumerreports.org/content/cro/en/consumer-reports-bookstore.html)

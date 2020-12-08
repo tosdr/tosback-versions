@@ -53,9 +53,11 @@ Note: the present document is a good faith translation of the official and enfor
 
 You are informed that the Services are operational 24 hours a day and 7 days a week, and you recognize that this accessibility may however be interrupted in case of _force majeure_ or technical difficulties. We shall not be held responsible for network or servers dysfunctions of any other event that is out of our control, which would impede or degrade access to our Services. We reserve the right to interrupt, suspend momentarily or modify without prior notice access to all or parts of the Services, in order to maintain or control them, or to do tests. Such interruption, suspension or modification can not be entitled to obligations or compensations. We will do our best to inform you beforehand. You agree not to use the Services in an inappropriate way (for instance, by unlawfully accessing the Services, servers, computers or databases attached to the Services, by launching saturating attacks or by planting malicious or harmful material…), under penalty of prosecution. We reserve the right to deny access to the Services to any user who does not respect the present Terms.
 
-### About the use of software
+### Software and APIs
 
 Some of our Services may require the use of downloadable software (such as our mobile app or various browser extensions). QWANT grants you, for free, a personal, non-transferable, non-exclusive worldwide license, to use the software delivered as part of our Services. This license is exclusively meant to use and benefit from our Services in accordance with the present Terms, excluding any right to copy, modify, distribute, sell, rent all or part of the software. It is the same with decompilation or source code extraction rights, except in cases where decompilation is authorized by law and within the boundaries of such law.
+
+Unless explicitly agreed otherwise, no licence to use the QWANT Application Programming Interfaces (API) is granted to the User for any use other than within the framework of the Services published by QWANT. Consequently, no collection and no reproduction of search results is authorised other than the exceptions provided for and strictly limited by law.
 
 ### Information made available through the services
 

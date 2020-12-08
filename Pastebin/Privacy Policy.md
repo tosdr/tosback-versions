@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Ёлка Бок](https://pastebin.com/t62N7fkx)
+*   [Untitled](https://pastebin.com/JBYBSsDy)
     
-    Lua | 5 min ago
+    jQuery | 4 min ago
     
-*   [stringpoin](https://pastebin.com/mZiZpCTn)
+*   [Get spec wow retail](https://pastebin.com/9t6d1eqE)
     
-    XML | 8 min ago
+    Lua | 10 min ago
     
-*   [Untitled](https://pastebin.com/KtBv3PvB)
+*   [file](https://pastebin.com/Cn9E7SuZ)
     
-    Python | 22 min ago
+    PHP | 19 min ago
     
-*   [Макрос удаления постов из инстаграмм](https://pastebin.com/Jb9VvADw)
+*   [Untitled](https://pastebin.com/m33UhJBV)
     
-    JavaScript | 27 min ago
+    C++ | 49 min ago
     
-*   [Example class with F4 and redefinition protect method](https://pastebin.com/q4mgvQMZ)
+*   [Untitled](https://pastebin.com/RNYJjamR)
     
-    ABAP | 31 min ago
+    C++ | 51 min ago
     
-*   [Untitled](https://pastebin.com/tTMES3sM)
+*   [деление 30](https://pastebin.com/4bzZibqM)
     
-    C++ | 35 min ago
+    C++ | 1 hour ago
     
-*   [ActivityMainPoin](https://pastebin.com/Bhg2fXSZ)
+*   [UVa 11526](https://pastebin.com/MpPBkciG)
     
-    Java | 41 min ago
+    C++ | 1 hour ago
     
-*   [My Log File](https://pastebin.com/Vb7KiGdY)
+*   [Untitled](https://pastebin.com/WnLNJLGD)
     
-    HTML 5 | 1 hour ago
+    Python | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

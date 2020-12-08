@@ -387,7 +387,7 @@ The easiest way to lookup drug information, identify pills, check interactions a
 
 [Subscribe](http://www.drugs.com/newsletters/) to Drugs.com newsletters for the latest medication news, new drug approvals, alerts and updates.
 
-**Drugs.com** provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines and natural products. This material is provided for educational purposes only and is not intended for medical advice, diagnosis or treatment. Data sources include IBM Watson Micromedex (updated 2 Nov 2020), Cerner Multum™ (updated 2 Nov 2020), ASHP (updated 23 Oct 2020) and others.
+**Drugs.com** provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines and natural products. This material is provided for educational purposes only and is not intended for medical advice, diagnosis or treatment. Data sources include IBM Watson Micromedex (updated 7 Dec 2020), Cerner Multum™ (updated 4 Dec 2020), ASHP (updated 3 Dec 2020) and others.
 
 *    [![TRUSTe](/img/pixel.gif)](http://privacy.truste.com/privacy-seal/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271) 
 *    [![AdChoices](/img/pixel.gif)  **Ad Choices**](http://www.drugs.com/support/privacy/advertising.html) 

@@ -1,4 +1,4 @@
-\>> [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full?locale.x=en_US "Legal Agreements")
+\>> [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full?locale.x=en_US "View all legal agreements")
 
 PayPal Privacy Statement
 ========================

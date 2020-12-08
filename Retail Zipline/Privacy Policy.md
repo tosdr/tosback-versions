@@ -1,3 +1,43 @@
+![](https://px.ads.linkedin.com/collect/?pid=65702&fmt=gif)
+
+About Us
+
+[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Customer Success](https://www.retailzipline.com/product/overview)
+
+[
+
+Solutions
+
+](https://www.retailzipline.com/product/overview)
+
+[Overview](https://www.retailzipline.com/product/overview)[Message & Tasks](https://www.retailzipline.com/product/retail-task-management)[Resources Library](https://www.retailzipline.com/product/retail-document-management)[Surveys](https://www.retailzipline.com/product/employee-engagement-surveys)[Groups](https://www.retailzipline.com/product/internal-retail-communication)[Assessments](https://www.retailzipline.com/product/retail-audit)
+
+Resources
+
+[Blog](https://www.retailzipline.com/resources/blog)[Case Studies](https://www.retailzipline.com/resources/case-studies)
+
+[Pricing](https://www.retailzipline.com/how-to-start/pricing)
+
+[**Request a Demo**](https://www.retailzipline.com/request-demo)[Login](https://service.retailzipline.com/account/reminders/new)
+
+About Us
+
+[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Customer Success](https://www.retailzipline.com/product/overview)
+
+[
+
+Products
+
+](https://www.retailzipline.com/product/overview)
+
+[Overview](https://www.retailzipline.com/product/overview)[Message & Tasks](https://www.retailzipline.com/product/retail-task-management)[Resource Library](https://www.retailzipline.com/product/retail-document-management)[Surveys](https://www.retailzipline.com/product/employee-engagement-surveys)[Groups](https://www.retailzipline.com/product/internal-retail-communication)[Assessments](https://www.retailzipline.com/product/retail-audit)
+
+Resources
+
+[Blog](https://www.retailzipline.com/resources/blog)[Case Studies](https://www.retailzipline.com/resources/case-studies)
+
+[Pricing](https://www.retailzipline.com/how-to-start/pricing)
+
 [![Zipline](https://uploads-ssl.webflow.com/5b890ab27f0a4a28449ea85a/5fa449521502d26471684cd2_Zipline-logo-dark.png)](https://www.retailzipline.com/)
 
 Policies
@@ -164,7 +204,7 @@ Zipline helps retailers coordinate their brick-and-mortar stores by streamlining
 [![](https://uploads-ssl.webflow.com/5b890ab27f0a4a28449ea85a/5fa442850c6b935ab332e903_facebook.svg)](https://www.facebook.com/retailzipline/)[![](https://uploads-ssl.webflow.com/5b890ab27f0a4a28449ea85a/5fa5691a0a7de7837e284d49_instagram-brands.svg)](https://www.instagram.com/retailzipline/)[![](https://uploads-ssl.webflow.com/5b890ab27f0a4a28449ea85a/5fa442850c6b93c88b32e905_linkedIn.svg)](https://www.linkedin.com/company/retail-zipline/)
 
 *   [Home](https://www.retailzipline.com/)
-*   [About US](#)
+*   [About Us](#)
     *   [Story](https://www.retailzipline.com/about-us/for-retail-by-retail)
     *   [Careers](https://www.retailzipline.com/about-us/careers)
     *   [Press](https://www.retailzipline.com/resources/press)

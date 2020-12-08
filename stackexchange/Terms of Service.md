@@ -433,7 +433,7 @@ Network](https://stackexchange.com/)
 *   [LinkedIn](https://linkedin.com/company/stack-overflow)
 *   [Instagram](https://www.instagram.com/thestackoverflow)
 
-site design / logo © 2020 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2020.12.3.38123
+site design / logo © 2020 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2020.12.8.38142
 
 StackExchange.ready(function () { StackExchange.responsiveness.addSwitcher(); })
 

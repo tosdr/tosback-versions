@@ -29,9 +29,9 @@ Menu
         
         Discover and join your local Sketch community.
         
-        1.  [Dec 4 Sketch 70 - What's around the corner](https://www.sketch.com/community/groups/beirut/?event=2020-12-04)
-        2.  [Dec 8 UXW for better products with Yvonne Gando of Google](https://www.sketch.com/community/groups/santa-clara/?event=2020-12-08)
-        3.  [Dec 9 From agency to startup with Kevin Cannon Designer at Pitch.com](https://www.sketch.com/community/groups/munich/?event=2020-12-09)
+        1.  [Dec 8 UXW for better products with Yvonne Gando of Google](https://www.sketch.com/community/groups/santa-clara/?event=2020-12-08)
+        2.  [Dec 9 From agency to startup with Kevin Cannon Designer at Pitch.com](https://www.sketch.com/community/groups/munich/?event=2020-12-09)
+        3.  [Dec 10 Introduction to Design Systems](https://www.sketch.com/community/groups/venice/?event=2020-12-10)
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)

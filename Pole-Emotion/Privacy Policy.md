@@ -246,20 +246,6 @@ Jan.
 
 2021
 
-##### Pole exotic avec Elea
-
-Monthey
-
-VOLUPTUEUSE ET SENSUELLE SONT LES MAÎTRES MOTS DE CE COURS. Noël s'annonce haut en couleur avec Elea!
-
-[Plus d'info](https://www.pole-emotion.ch/produit/pole-exotic-avec-elea/)
-
-31
-
-Jan.
-
-2021
-
 ##### Stage sur le planche pelvien avec Edith Crissier
 
 Crissier 2

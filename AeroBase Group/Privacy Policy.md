@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+*   [Counterterrorism setback: ‘Armed Overwatch’ is stalled again](http://feedproxy.google.com/~r/defense-news/air/~3/NffoQCYU5_I/)  
+    12/08/20 05:00am  
+    
+    A U.S. Air Force A-10 Thunderbolt II flies a mission over Afghanistan on May 28, 2018. The aircraft provides close-air support for coalition forces fighting terrorist groups. (Staff Sgt. Corey Hook/U.S. Air Force)
+    
+*   [These 3 companies will build prototypes for the Air Force’s Skyborg drone](http://feedproxy.google.com/~r/defense-news/air/~3/7uea6JdRAVg/)  
+    12/07/20 08:27pm  
+    
+    The XQ-58A Valkyrie demonstrator, a long-range, high subsonic unmanned air vehicle completed its inaugural flight March 5, 2019, at Yuma Proving Grounds, Ariz. (DoD)
+    
 *   [The Air Force wanted to mothball over 100 planes. Here’s what Congress says it will permit.](http://feedproxy.google.com/~r/defense-news/air/~3/QHEtsNwItrk/)  
     12/04/20 11:08am  
     
@@ -210,26 +220,16 @@ This document was last updated on January 1, 2014
     
     Aviation Structural Mechanic (Safety Equipment) 2nd Class Frank McMahon performs maintenance in the cockpit of an F/A-18E Super Hornet. (MC3 Bryan Mai/Navy)
     
-*   [The US Air Force wants to buy a big robot to help with bomb disposal](http://feedproxy.google.com/~r/defense-news/air/~3/ouHOCZsvRwk/)  
-    12/04/20 04:13pm  
-    
-    EOD experts from Mountain Home Air Force Base visit the Ford Center in Idaho during the Robot Convention on March 29, 2019. This event was held to showcase the abilities of robotics. (Senior Airman Tyrell Hall/U.S. Air Force)
-    
-*   [Boeing starts production of T-7 training jet simulators](http://feedproxy.google.com/~r/defense-news/air/~3/ftlUJNAT9jI/)  
-    12/01/20 05:18pm  
-    
-    A Boeing test pilot flies the T-7A ground-based flight simulator. (Boeing)
-    
 
 Recent parts by keyword  
 
-*   [NAS559](https://aerobasegroup.com/search/?term=NAS559)
-*   [MIL-H-8796](https://aerobasegroup.com/search/?term=MIL-H-8796)
-*   [hmv-4](https://aerobasegroup.com/search/?term=hmv-4)
-*   [13211E9006](https://aerobasegroup.com/search/?term=13211E9006)
-*   [qrp3](https://aerobasegroup.com/search/?term=qrp3)
-*   [c 635](https://aerobasegroup.com/search/?term=c+635)
-*   [NF53100‐03B](https://aerobasegroup.com/search/?term=NF53100%E2%80%9003B)
+*   [PR 9502A](https://aerobasegroup.com/search/?term=PR+9502A)
+*   [NAS7305](https://aerobasegroup.com/search/?term=NAS7305)
+*   [K/34](https://aerobasegroup.com/search/?term=K%2F34)
+*   [SMC-\*](https://aerobasegroup.com/search/?term=SMC-%2A)
+*   [plane naked](https://aerobasegroup.com/search/?term=plane+naked)
+*   [1400J16A](https://aerobasegroup.com/search/?term=1400J16A)
+*   [1400J16](https://aerobasegroup.com/search/?term=1400J16)
 
 The AeroBase Group Family ..
 

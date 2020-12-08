@@ -24,6 +24,7 @@ Navigation
 *   [Creating a Project](https://support.crowdin.com/creating-project/)
 *   [Supported Formats](https://support.crowdin.com/supported-formats/)
 *   [Crowdin Features](https://support.crowdin.com/features/)
+*   [Migrating to Crowdin](https://support.crowdin.com/migrating-to-crowdin/)
 
 ###### Payments
 

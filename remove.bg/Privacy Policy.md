@@ -2,7 +2,7 @@ Auth.attempt( "https://accounts.kaleido.ai", "/sso", "https://accounts.kaleido.a
 
 By using remove.bg you agree to the use of cookies. You can find details on how we use cookies in our [Privacy Policy](https://www.remove.bg/privacy).
 
- [![remove.bg](https://static.remove.bg/remove-bg-web/572016e70831c4523072ca970c4b5aa972a0081f/assets/logo-nav-22aab70183946de3d717620adef36247aca127c1a0f04885d786c6be1d2cf9fa.svg)](https://www.remove.bg/) 
+ [![remove.bg](https://static.remove.bg/remove-bg-web/2c3e817eac2bc43eca848062cef2538fe408b946/assets/logo-nav-22aab70183946de3d717620adef36247aca127c1a0f04885d786c6be1d2cf9fa.svg)](https://www.remove.bg/) 
 
 *   [How to use](#)
     
@@ -187,6 +187,8 @@ Learn more
 
 [Car Dealerships](https://www.remove.bg/g/car-dealerships)
 
+[Enterprise](https://www.remove.bg/enterprise)
+
 [Pricing](https://www.remove.bg/pricing)
 
 Tools & API
@@ -230,11 +232,11 @@ English
 
 [Privacy Policy](https://www.remove.bg/privacy) | [Terms of Service](https://www.remove.bg/tos) | [General Terms and Conditions](https://www.remove.bg/gtc) | [Imprint](https://www.remove.bg/imprint)
 
-![remove.bg](https://static.remove.bg/remove-bg-web/572016e70831c4523072ca970c4b5aa972a0081f/assets/logo-footer-4add5d6011751a7a224fa2f1e29859be3ac25d492d299a6c71c4b81e20719415.svg)  made with ♥ by  [![Kaleido](https://static.remove.bg/remove-bg-web/572016e70831c4523072ca970c4b5aa972a0081f/assets/logo-footer-kaleido-e1e7a09f241f4fc02fda8c2dd90701fe98ef328c3b1a94d513db891605e377ce.svg)](https://www.kaleido.ai/) 
+![remove.bg](https://static.remove.bg/remove-bg-web/2c3e817eac2bc43eca848062cef2538fe408b946/assets/logo-footer-4add5d6011751a7a224fa2f1e29859be3ac25d492d299a6c71c4b81e20719415.svg)  made with ♥ by  [![Kaleido](https://static.remove.bg/remove-bg-web/2c3e817eac2bc43eca848062cef2538fe408b946/assets/logo-footer-kaleido-e1e7a09f241f4fc02fda8c2dd90701fe98ef328c3b1a94d513db891605e377ce.svg)](https://www.kaleido.ai/) 
 
 Copyright 2018-2020 Kaleido AI GmbH - All rights reserved.
 
-All trademarks, service marks, trade names, product names, logos and trade dress appearing on our website are the property of their respective owners. Adobe, Creative Cloud and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. 572016e70831c4523072ca970c4b5aa972a0081f
+All trademarks, service marks, trade names, product names, logos and trade dress appearing on our website are the property of their respective owners. Adobe, Creative Cloud and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. 2c3e817eac2bc43eca848062cef2538fe408b946
 
 ### Thanks for your feedback!
 

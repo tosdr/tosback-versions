@@ -4,7 +4,7 @@
 
 GitHub.com
 
-[GitHub.com](https://help.github.com/en/free-pro-team@latest/github) [Enterprise Administrators](https://help.github.com/en/enterprise-server@2.22/admin) [GitHub Actions](https://help.github.com/en/free-pro-team@latest/actions) [GitHub Packages](https://help.github.com/en/free-pro-team@latest/packages) [Developers](https://help.github.com/en/free-pro-team@latest/developers) [REST API](https://help.github.com/en/free-pro-team@latest/rest) [GraphQL API](https://help.github.com/en/free-pro-team@latest/graphql) [GitHub Insights](https://help.github.com/en/enterprise-server@2.22/insights) [GitHub Desktop](https://help.github.com/en/free-pro-team@latest/desktop) [GitHub CLI](https://cli.github.com/manual) [Atom](https://atom.io/docs) [Electron](https://electronjs.org/docs)
+[GitHub.com](https://help.github.com/en/free-pro-team@latest/github) [Enterprise Administrators](https://help.github.com/en/enterprise-server@2.22/admin) [GitHub Discussions](https://help.github.com/en/free-pro-team@latest/discussions) [GitHub Actions](https://help.github.com/en/free-pro-team@latest/actions) [GitHub Packages](https://help.github.com/en/free-pro-team@latest/packages) [Developers](https://help.github.com/en/free-pro-team@latest/developers) [REST API](https://help.github.com/en/free-pro-team@latest/rest) [GraphQL API](https://help.github.com/en/free-pro-team@latest/graphql) [GitHub Insights](https://help.github.com/en/enterprise-server@2.22/insights) [GitHub Desktop](https://help.github.com/en/free-pro-team@latest/desktop) [GitHub CLI](https://cli.github.com/manual) [Atom](https://atom.io/docs) [Electron](https://electronjs.org/docs)
 
 English
 

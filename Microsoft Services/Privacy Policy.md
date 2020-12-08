@@ -73,6 +73,7 @@ Privacy
         *   [Virtual workshops and training](https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020)
         *   [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards)
         *   [Licensing](https://www.microsoft.com/licensing/default)
+        *   [Microsoft Experience Center](https://www.microsoft.com/en-us/store/locations/ny/new-york/fifth-avenue-/store-1087?ICID=uhf_h_mec)
     *   [View Sitemap](https://www.microsoft.com/en-us/sitemap.aspx)
     
 

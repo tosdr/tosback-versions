@@ -53,31 +53,33 @@ becomes VAT registered at a future point VAT will be added to the payable fees
    card, we will invoice you direct for the Fee which will be payable to us
    Order award;
    within 14 days. If this Fee is not paid by the deadline on the invoice, you
-4. Flat Justice will make its best efforts to submit applications and
+4. In the case of agreeing a  settleme nt  for multiple Applicants, an
    agree we may commence debt collection proceedings;
-   other documents on time but will not be liable for any late submissions
+   agr eement by half or more Applicants will count as an agreement by all
    1.5 Agree that we may act as your agent to negotiate and agree any
-5. Governing Law
+5. Flat Justice will make its best efforts to submit applications and
    settlement of your Rent Repayment Order application with the respondent
-   5.1 This contract is subject to the laws of England and Wales.
+   other documents on time but will not be liable for any late submissions
    at any stage in the application process;
+6. Governing Law
    1.6 Agree to pay back to us any monies properly incurred by us in seeking
+   6.1 This contract is subject to the laws of England and Wales.
    legal enforcement of these Terms and Conditions;
    1.7 Will still be liable for our Fee if any reasonable offer of settlement is
-   Declaration
    rejected by you;
-   I/We confirm that I/we have read and accept the Terms and Conditions
    1.8 Appoint us as your agent to cash or process cheques payable to
-   and by signing the Letter of Authority confirm acceptance of them and
+   Declaration
    you as part of (the Process) and you agree not to take any action
-   wish to enter into a binding contract with Flat Justice to act on my/our
+   I/We confirm that I/we have read and accept the Terms and Conditions
    to stop or interfere with the Process or make any legal or other claim (a
-   behalf.
+   and by signing the Letter of Authority confirm acceptance of them and
    Conversion Claim) in respect of the Process and to fully indemnify us
+   wish to enter into a binding contract with Flat Justice to act on my/our
    against all costs and damages arising out of a Conversion Claim;
-   Signature/s:
-6. Flat Justice will:
+   behalf.
+7. Flat Justice will:
    2.1 Rely on the information and documents provided by you to us as being
+   Signature/s:
    true, accurate and complete;
    2.2 Use our reasonable endeavours to obtain Compensation for the claims
    which are pursued including pre - payment of application fee and Tribunal
@@ -88,21 +90,21 @@ becomes VAT registered at a future point VAT will be added to the payable fees
    2.5 As soon as is reasonably practicable following the settlement of a
    claim and the payment of any Compensation to us, pay you any balance
    of Compensation after deducting the Fee and Application Costs;
-   Name (print in capitals):
    2.6 In the case of multiple applications, the balance of Compensation,
    after the aforementioned deductions, is distributed in proportion to each
+   Name (print in capitals):
    client’s application value;
    2.7 In case of non - payment of the award by the respondent, Flat Justice
    will assist in recovering the debt. In this case our fee is calculated on the
    balance recovered rather than the actual award sum.
-7. Cancellation terms
-   D ate:
+8. Cancellation terms
    3.1 You have 14 days (starting from the date you sign the Letter of
    Authority) to cancel. Cancellations are to be submitted either in writing to:
-   (filled automatically when signed electronically)
+   D ate:
    st
    Flat Justice CIC, Cancellations, 85 Great Portland Street, 1 Floor,
    London W1W 7LT or by email to office@flatjustice.org;
+   (filled automatically when signed electronically)
    3.2 If you cancel the contract after these 14 days we reserve the right
    to make a reasonable charge for the work undertaken and disbursements
    in pursuit of your application. In addition you may become liable to a claim

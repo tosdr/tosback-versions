@@ -73,7 +73,7 @@ Personal information collected by Yandex when you access, interact with or opera
 
 In addition, Yandex uses cookies and web beacons (including pixel tags) to collect your Personal information and associate this Personal information with your device and web browser (see Section 11 below).
 
-Yandex does not actively collect any sensitive personal data (such as racial origins, political opinions, health or biometric data) unless specified in Terms of Use of relevant Services. However, you may voluntarily provide us which such data and we may process it as part of providing you with our Services (e.g. if you perform search queries related to your health). As we do not know in advance the potentially sensitive nature of the personal data you may provide to us, you must be aware that we may not be able to request your consent with such processing.
+Yandex does not actively collect any sensitive personal data (such as racial origins, political opinions, health or biometric data) unless specified in Terms of Use of relevant Services. However, you may voluntarily provide us with such data and we may process it as part of providing you with our Services (e.g. if you perform search queries related to your health). As we do not know in advance the potentially sensitive nature of the personal data you may provide to us, you must be aware that we may not be able to request your consent with such processing.
 
 Yandex does not perform any form of profiling, which has the potential to significantly impact your rights and freedoms in accordance with applicable laws.
 

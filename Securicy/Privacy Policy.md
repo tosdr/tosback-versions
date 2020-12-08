@@ -23,7 +23,7 @@ The Securicy website, the Securicy web application and supporting applications c
 **Owner and Data Controller**
 -----------------------------
 
-Securicy Data Solutions Ltd. Suite 218, 309 Charlotte Street, Sydney, NS B1P 1C6 is the Data Owner and Data Controller  
+Securicy Data Solutions Ltd. 92 Hillcrest Ave, Sydney, NS B1R 1V2 is the Data Owner and Data Controller  
 **Owner and Data Controller contact email:** [info@securicy.com](mailto:info@securicy.com).
 
 **Types of Data Collected**
@@ -391,9 +391,9 @@ Latest update: March 24, 2020
 
 **Securicy Data Solutions Ltd.  
 **Attention: Laird Wilton  
-Suite 218 – 309 Charlotte Street  
+92 Hillcrest Ave  
 Sydney, Nova Scotia  
-Canada, B1P 1E1  
+Canada, B1R 1V2  
 Email: [info@securicy.com](mailto:info@securicy.com)
 
 ![Securicy Logo](https://www.securicy.com/wp-content/themes/ns_theme/images/securicy_logo.png)

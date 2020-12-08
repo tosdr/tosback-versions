@@ -182,9 +182,9 @@ Download WEBTOON now!
 
 [GET IT on Google Play](https://play.google.com/store/apps/details?id=com.naver.linewebtoon&referrer=utm_source%3Dlinewebtoon%26utm_medium%3Dmobileweb) [Download on the App Store](https://itunes.apple.com/app/line-webtoon/id894546091?mt=8)
 
-*   [facebook](https://www.facebook.com/LINEWEBTOON/)
+*   [facebook](https://www.facebook.com/webtoonofficial/)
 *   [instagram](https://www.instagram.com/webtoonofficial/)
-*   [twitter](https://twitter.com/webtoon)
+*   [twitter](https://twitter.com/webtoonofficial)
 *   [youtube](https://www.youtube.com/user/linewebtoon)
 
 *   [About](https://www.webtoons.com/en/about)

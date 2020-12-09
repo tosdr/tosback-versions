@@ -79,7 +79,7 @@ Ad services use your IP address to track your behaviour across sites. TunnelBear
 
 Play on new game servers, prevent speed throttling, and unblock apps and websites on school and work networks.
 
-Browse the internet from 23 countries
+Browse the internet from 26 countries
 =====================================
 
 Discover something new, or tunnel back home to enjoy your favourite websites and apps while travelling or living abroad.
@@ -129,6 +129,12 @@ Discover something new, or tunnel back home to enjoy your favourite websites and
 *   Finland
     
 *   Argentina
+    
+*   Peru
+    
+*   Colombia
+    
+*   Chile
     
 
 Everything a VPN should have (and more)

@@ -3,7 +3,11 @@ Terms of Service
 
   
 
-Last Modified: March 9, 2020
+Last Modified: December 8, 2020
+
+Dear user,
+
+Please note that our Terms of Service are amended to reflect the contents of our announcement made on December 8th, 2020 [https://help.pornhub.com/hc/en-us/categories/360002934613](https://help.pornhub.com/hc/en-us/categories/360002934613). As such, users will have to respect the contents of the announcement, which officially prevail over the Terms of Service in the event of contradiction, effective immediately.
 
 Acceptance of the Terms of Service
 

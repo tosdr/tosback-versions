@@ -267,7 +267,7 @@ Certain Services are provided to you free of charge, while other Services, inclu
 *   [Mobile Terms](http://legalterms.cbsinteractive.com/eula)
 *   [Cookies](http://legalterms.cbsinteractive.com/cookies)
 *   [CA Privacy/Info We Collect](https://ca.privacy.cbs/)
-*   [CA Do Not Sell My Personal Information](https://ca.privacy.cbs/donotsell)
+*   [Do Not Sell My Personal Information](https://ca.privacy.cbs/donotsell)
 
 ##### Join the Conversation
 

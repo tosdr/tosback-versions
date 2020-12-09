@@ -14,20 +14,22 @@
 
 #### **MRICHARD333**
 
-CYBERSECURITY NEWS
-------------------
+CYBERSECURITY NEWS  
+
+---------------------
 
 Report Scammers
 ---------------
 
-##### Mathieu Richard | Course instructor
+##### **7 Years of Autodidact Experience**
 
-##### | Scammer Exposer |
+##### **| Information & Technology |**
 
-##### Information Technology | Fraud prevention
+##### **Developer | Server Admin | Student**
 
-**COMPUTER SCIENCE COURSE**
----------------------------
+COMPUTER SCIENCE COURSE  
+
+--------------------------
 
 ![MRichard333 Logo](https://mrichard333.com/MRichard333.com.png)
 
@@ -142,10 +144,10 @@ Blog icon: [Freepik](https://www.flaticon.com/authors/freepik "Freepik") on [Fla
 
 Courses icon: [xnimrodx](https://www.flaticon.com/authors/xnimrodx "xnimrodx") on [Flaticon](https://www.flaticon.com/ "Flaticon")
 
-[![Discord Server](gallery_gen/c19ba0a5ed630bcb2676dc327c9338e0_35x24.5.png)](https://discord.gg/KH8tx2a "Join us on Discord")
+[![Discord Server](gallery_gen/b4c4f1fbb9e600c7c36920529fd13584_160x160.png)](https://discord.gg/KH8tx2a "Join us on Discord")
 
-[![Get merch and support me](gallery_gen/66f7e9af519c34982b8cacc5fae8ca2e_30x21.png)](https://patreon.com/MRichard333 "Support us and get Merch")
+[![Get merch and support me](gallery_gen/d8ba39ad5bdd30e5b0d3f7bf803639dc_288x180.png)](https://patreon.com/MRichard333 "Support us and get Merch")
 
-[![Youtube Channel](gallery_gen/43257c1dcc46ae99bc12af3f2798991e.png)](https://youtube.com/c/MRichard333 "Scammers Exposing and Tech Guide")
+[![Youtube Channel](gallery_gen/807d7526bd1044cc0e5c6429bb4305f6_176x120.png)](https://youtube.com/c/MRichard333 "Scammers Exposing and Tech Guide")
 
 $(function() { var footer = $(".wb\_footer"); var html = (footer.html() + "").replace(/^\\s+|\\s+$/g, ""); if (!html) { footer.parent().remove(); footer = $("#wb\_footer, #wb\_footer .wb\_cont\_inner"); footer.css({height: ""}); } });

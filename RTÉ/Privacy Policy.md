@@ -468,7 +468,7 @@ RTÉ respects the privacy of all visitors to our websites and our apps (our “S
 #### Other RTÉ Policies and Guidelines
 
 [Terms and Conditions for RTÉ.ie](https://about.rte.ie/wp-content/uploads/2019/07/Terms-and-Conditions-for-RTE.ie_.pdf)  
-[RTÉ Internal Audit Charter](https://about.rte.ie/wp-content/uploads/2019/07/rte-internal-audit-charter-2018.pdf)  
+[RTÉ Internal Audit Charter](https://about.rte.ie/wp-content/uploads/2020/12/RTE-Internal-Audit-Charter-Final-Dec-20.pdf)  
 [Diversity and Inclusion in RTÉ](https://about.rte.ie/wp-content/uploads/2019/07/rte-diversity-and-inclusion-charter-2018.pdf)  
 [RTÉ Fair Trading Policy & Procedures](https://about.rte.ie/wp-content/uploads/2017/06/rte-fair-trading-policy-and-procedures.pdf)  
 [RTÉ Fair Trading Complaints Policies](https://about.rte.ie/wp-content/uploads/2017/06/rte-fair-trading-complaints-procedures.pdf)  

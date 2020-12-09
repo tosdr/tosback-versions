@@ -1,5 +1,5 @@
 PRIVATE INTERNET ACCESS PRIVACY POLICY
---------------------------------------
+======================================
 
 This privacy policy (“Privacy Policy” or “Policy”) sets forth the privacy practices of Private Internet Access, Inc., (collectively, ‘We,’ ‘Us,’ ‘Data Controller,’ ‘Company,’ or 'PIA’) and applies to users (“User(s)” or “You”) of the PIA’s services, including, inter alia, the PIA VPN service (“Service”) and PIA website at www.privateinternetaccess.com (“Website”).
 

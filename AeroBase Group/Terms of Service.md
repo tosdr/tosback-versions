@@ -150,13 +150,18 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [British F-35 buy is still a moving target, defense ministry tells lawmakers](http://feedproxy.google.com/~r/defense-news/air/~3/vtYTr5yLbsg/)  
+    12/09/20 06:24am  
+    
+    A Marine with Marine Fighter Attack Squadron (VMFA) 211 launches an F-35B Lightning II Joint Strike Fighter from the deck aboard Her Majesty's Ship (HMS) Queen Elizabeth at sea on 10 October, 2020. (Photo by 1st Lt. Zachary Bodner, Marine Corps)
+    
 *   [Counterterrorism setback: ‘Armed Overwatch’ is stalled again](http://feedproxy.google.com/~r/defense-news/air/~3/NffoQCYU5_I/)  
     12/08/20 05:00am  
     
     A U.S. Air Force A-10 Thunderbolt II flies a mission over Afghanistan on May 28, 2018. The aircraft provides close-air support for coalition forces fighting terrorist groups. (Staff Sgt. Corey Hook/U.S. Air Force)
     
 *   [These 3 companies will build prototypes for the Air Force’s Skyborg drone](http://feedproxy.google.com/~r/defense-news/air/~3/7uea6JdRAVg/)  
-    12/07/20 08:27pm  
+    12/08/20 10:26am  
     
     The XQ-58A Valkyrie demonstrator, a long-range, high subsonic unmanned air vehicle completed its inaugural flight March 5, 2019, at Yuma Proving Grounds, Ariz. (DoD)
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     A B-1B Lancer from the 37th Expeditionary Bomb Squadron returns to mission after receiving fuel from a KC-135 Stratotanker. (Master Sgt. William Greer/U.S. Air Force)
     
-*   [Pilots, maintainers are worn out and under-trained, aviation safety commission says](http://feedproxy.google.com/~r/defense-news/air/~3/tjWmgnzJCfQ/)  
-    12/04/20 11:06am  
-    
-    Aviation Structural Mechanic (Safety Equipment) 2nd Class Frank McMahon performs maintenance in the cockpit of an F/A-18E Super Hornet. (MC3 Bryan Mai/Navy)
-    
 
 Recent parts by keyword  
 
-*   [PR 9502A](https://aerobasegroup.com/search/?term=PR+9502A)
-*   [NAS7305](https://aerobasegroup.com/search/?term=NAS7305)
-*   [K/34](https://aerobasegroup.com/search/?term=K%2F34)
-*   [SMC-\*](https://aerobasegroup.com/search/?term=SMC-%2A)
-*   [plane naked](https://aerobasegroup.com/search/?term=plane+naked)
-*   [1400J16A](https://aerobasegroup.com/search/?term=1400J16A)
-*   [1400J16](https://aerobasegroup.com/search/?term=1400J16)
+*   [P00846](https://aerobasegroup.com/search/?term=P00846)
+*   [NAS6306U6](https://aerobasegroup.com/search/?term=NAS6306U6)
+*   [AN3CH3A](https://aerobasegroup.com/search/?term=AN3CH3A)
+*   [LS3859R7](https://aerobasegroup.com/search/?term=LS3859R7)
+*   [b1831a](https://aerobasegroup.com/search/?term=b1831a)
+*   [NAS1515A3H](https://aerobasegroup.com/search/?term=NAS1515A3H)
+*   [a-a-52094a](https://aerobasegroup.com/search/?term=a-a-52094a)
 
 The AeroBase Group Family ..
 

@@ -1,6 +1,6 @@
 [](https://about.gitlab.com/)
 
-[Get free trial](https://about.gitlab.com/free-trial)
+[Get free trial](https://about.gitlab.com/free-trial/)
 
 *   [Product](https://about.gitlab.com/stages-devops-lifecycle/)
     

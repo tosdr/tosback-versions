@@ -64,13 +64,13 @@ You still own any content you upload. We just use it for the purposes of running
 
 All Price Data on the site is sole ownership of PriceCharting. You may not republish, redistribute, or reuse the price data without explicitly citing PriceCharting as the source.
 
-PriceCharting price data may not be integrated with a POS (Point of Sale) system that is marketed, sold, or distributed to third parties. The price data may be integrated with POS systems meant for internal use only.
+PriceCharting price data may be integrated with POS (Point of Sale) systems that and marketed, sold, and distributed to third parties. POS integrations must verify that each store location accessing the data has a valid and current PriceCharting premium subscription.
 
 ### Summary,
 
 You can use the price data for your personal needs or internal business purposes. You cannot resell the data or redistribute the data unless you cite us as the source.
 
-You can't use our price data with any POS (Point of Sale) system that used by 3rd parties.
+You can use our price data with any POS (Point of Sale) system but each store location using the POS must have PriceCharting subscription.
 
 ### Payment
 

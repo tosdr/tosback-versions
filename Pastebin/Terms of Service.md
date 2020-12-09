@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/JBYBSsDy)
+*   [Untitled](https://pastebin.com/q11u3fEs)
     
-    jQuery | 4 min ago
+    YAML | 32 min ago
     
-*   [Get spec wow retail](https://pastebin.com/9t6d1eqE)
+*   [My Log File](https://pastebin.com/vZZX4wY8)
     
-    Lua | 10 min ago
+    HTML 5 | 39 min ago
     
-*   [file](https://pastebin.com/Cn9E7SuZ)
+*   [Merge templates](https://pastebin.com/nXpnbtkc)
     
-    PHP | 19 min ago
+    HTML 5 | 49 min ago
     
-*   [Untitled](https://pastebin.com/m33UhJBV)
+*   [Moveable DOM](https://pastebin.com/fPCqcqQK)
     
-    C++ | 49 min ago
+    HTML | 1 hour ago
     
-*   [Untitled](https://pastebin.com/RNYJjamR)
+*   [03\. Heroes Of Code And Logic VII 2](https://pastebin.com/sQXdfSTy)
     
-    C++ | 51 min ago
+    Java | 1 hour ago
     
-*   [деление 30](https://pastebin.com/4bzZibqM)
+*   [Табличные данные Лаба 4.1](https://pastebin.com/Bi7Uc7m4)
+    
+    C# | 1 hour ago
+    
+*   [remove lottery JS on all pages except product page](https://pastebin.com/rcEcH7kA)
+    
+    PHP | 1 hour ago
+    
+*   [choinka](https://pastebin.com/JvuPNEbn)
     
     C++ | 1 hour ago
-    
-*   [UVa 11526](https://pastebin.com/MpPBkciG)
-    
-    C++ | 1 hour ago
-    
-*   [Untitled](https://pastebin.com/WnLNJLGD)
-    
-    Python | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

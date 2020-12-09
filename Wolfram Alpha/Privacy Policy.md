@@ -321,8 +321,8 @@ Revised September 29, 2020
 *   License Agreements
 *   *   [Wolfram Mathematica](http://www.wolframalpha.com/legal/agreements/wolfram-mathematica/)
     *   [Wolfram Desktop](http://www.wolframalpha.com/legal/agreements/wolfram-desktop/)
-    *   [Wolfram SystemModeler](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler/)
-    *   [Wolfram SystemModeler Library](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler-library/)
+    *   [Wolfram System Modeler](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler/)
+    *   [Wolfram System Modeler Library](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler-library/)
     *   [Wolfram Finance Platform](http://www.wolframalpha.com/legal/agreements/wolfram-finance-platform/)
     *   [Wolfram|Alpha Notebook Edition](http://www.wolframalpha.com/legal/agreements/wolfram-alpha-notebook-edition/)
     *   [Wolfram Raspberry Pi Bundle](http://www.wolframalpha.com/legal/agreements/wolfram-mathematica-raspberry-pi/)
@@ -352,7 +352,7 @@ Revised September 29, 2020
 *   Accessibility
 *   *   [Wolfram Mathematica](http://www.wolframalpha.com/legal/accessibility/wolfram-mathematica/)
     *   [Wolfram CDF Player (desktop deployment)](http://www.wolframalpha.com/legal/accessibility/wolfram-cdf-player.html)
-    *   [Wolfram SystemModeler](http://www.wolframalpha.com/legal/accessibility/wolfram-system-modeler/)
+    *   [Wolfram System Modeler](http://www.wolframalpha.com/legal/accessibility/wolfram-system-modeler/)
     
 
 ![](/legal/images/sidebarBottom.gif)

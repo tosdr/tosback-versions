@@ -68,7 +68,7 @@
 .privacy-policy h2 { text-align: center; margin-bottom: 1em; } .privacy-policy h2, .privacy-policy h3, b { font-weight: bold; } .privacy-policy section { margin-top: 2em; } .privacy-policy p { text-align: justify; margin-bottom: 1.5em; } .privacy-policy ul { padding-left: 2.2em; margin-bottom: 2em; } .privacy-policy li { padding-left: 1.5em; } address { padding-left: 2em; font-style: normal; } #last\_revised { margin-top: 3em; margin-bottom: 1em; color: #999; }
 
 PRIVATE INTERNET ACCESS PRIVACY POLICY
---------------------------------------
+======================================
 
 This privacy policy (“Privacy Policy” or “Policy”) sets forth the privacy practices of Private Internet Access, Inc., (collectively, ‘We,’ ‘Us,’ ‘Data Controller,’ ‘Company,’ or 'PIA’) and applies to users (“User(s)” or “You”) of the PIA’s services, including, inter alia, the PIA VPN service (“Service”) and PIA website at www.privateinternetaccess.com (“Website”).
 

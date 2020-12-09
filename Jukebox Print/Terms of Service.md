@@ -281,6 +281,8 @@ Add class with our most popular business card
 
 [Tissue](https://www.jukeboxprint.com/creator/custom-tissue-maker)
 
+[Coaster](https://www.jukeboxprint.com/creator/custom-coaster-maker)
+
 ##### Tools
 
 [Shipping Calculator](https://www.jukeboxprint.com/shipping/calculator)

@@ -27,11 +27,11 @@ A legal description of the services included in the Ubuntu Advantage support pac
 
 ### [Modern slavery statement](https://assets.ubuntu.com/v1/47d72a70-Modern+Slavery+Statement+2019.pdf)
 
-This is Canonical’s modern slavery statement.
+This is Canonical's modern slavery statement.
 
 ### [Service terms ›](http://www.ubuntu.com/legal/ubuntu-advantage-service-terms)
 
-This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Managed Services customers.
+This agreement sets out Canonical's standard service terms for both Ubuntu Advantage and Managed Services customers.
 
 ### Want fully managed private cloud?
 

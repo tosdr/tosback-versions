@@ -652,7 +652,7 @@ We may need to change our Privacy Policy from time-to-time and all updates will 
 
 We welcome your thoughts and feedback.
 
-©2020 TunnelBear Inc.
+©2020 TunnelBear LLC.
 
 π
 

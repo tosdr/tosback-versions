@@ -128,6 +128,7 @@ Stack Overflow for Teams is a private, secure spot for you and your coworkers to
         
         *   [Jira - Teams, Enterprise](https://stackoverflow.com/legal/privacy-policy/integrations/jira/teams-enterprise)
 *   [General Data Protection Regulation (GDPR)](https://stackoverflow.com/legal/gdpr)
+    *   [GDPR Subprocessors](https://stackoverflow.com/legal/gdpr/subprocessors)
 *   [Cookie Policy](https://stackoverflow.com/legal/cookie-policy)
 *   [Acceptable Use Policy](https://stackoverflow.com/legal/acceptable-use-policy)
 *   [Trademark Guidance](https://stackoverflow.com/legal/trademark-guidance)
@@ -433,7 +434,7 @@ Network](https://stackexchange.com/)
 *   [LinkedIn](https://linkedin.com/company/stack-overflow)
 *   [Instagram](https://www.instagram.com/thestackoverflow)
 
-site design / logo © 2020 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2020.12.8.38142
+site design / logo © 2020 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2020.12.8.38145
 
 StackExchange.ready(function () { StackExchange.responsiveness.addSwitcher(); })
 

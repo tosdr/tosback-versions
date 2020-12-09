@@ -463,7 +463,7 @@ function headerToggle(header) { var text = $(header); var ele = text.parentsUnti
 *   [Car Comparisons](https://www.carsales.com.au/editorial/car-comparisons/?ret=carsales-desktop-footer&utm_source=carsales-desktop-footer&utm_medium=referral-internal "Use the search options provided to research detailed specifications for most makes and models")
 *   [Car Inspection](https://www.redbook.com.au/inspect/?ret=carsales-desktop-footer&utm_source=carsales-desktop-footer&utm_medium=referral-internal)
 *   [carsales FACTS+](https://www.carsales.com.au/facts?ret=carsales-desktop-footer&utm_source=carsales-desktop-footer&utm_medium=referral-internal)
-*   [Car Finance](https://www.strattonfinance.com.au/?ret=carsales-desktop-footer&utm_source=carsales-desktop-footer&utm_medium=referral-internal)
+*   [Car Finance](https://www.carsales.com.au/car-finance?ret=carsales-desktop-footer&utm_source=carsales-desktop-footer&utm_medium=referral-internal)
 
 ### News & Reviews
 

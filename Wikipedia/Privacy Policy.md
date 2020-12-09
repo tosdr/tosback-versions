@@ -1,6 +1,7 @@
 *   [العربية](https://meta.wikimedia.org/wiki/Privacy_policy/ar "m:Privacy policy/ar")
 *   [azərbaycanca](https://meta.wikimedia.org/wiki/Privacy_policy/az "m:Privacy policy/az")
 *   [تۆرکجه](https://meta.wikimedia.org/wiki/Privacy_policy/azb "m:Privacy policy/azb")
+*   [беларуская (тарашкевіца)‎](https://meta.wikimedia.org/wiki/Privacy_policy/be-tarask "m:Privacy policy/be-tarask")
 *   [български](https://meta.wikimedia.org/wiki/Privacy_policy/bg "m:Privacy policy/bg")
 *   [روچ کپتین بلوچی](https://meta.wikimedia.org/wiki/Privacy_policy/bgn "m:Privacy policy/bgn")
 *   [বাংলা](https://meta.wikimedia.org/wiki/Privacy_policy/bn "m:Privacy policy/bn")

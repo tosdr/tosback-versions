@@ -35,7 +35,7 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
 *   [Support](#) [ ]  Open Menu
     *   [TekSavvy Community](https://community.teksavvy.com/)
     *   [Contact Us](https://www.teksavvy.com/company/contact/)
-    *   [Frequently Asked Questions](https://www.teksavvy.com/support/)
+    *   [Frequently Asked Questions](https://community.teksavvy.com/kb/support?utm_source=resweb&utm_medium=link&utm_campaign=community_kb)
     *   [Network Status](https://www.teksavvy.com/network-status/)
 *   [News & Views](#) [ ]  Open Menu
     
@@ -66,7 +66,7 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
 *   [Support](#) [ ]  Open Support Menu
     *   [TekSavvy Community](https://community.teksavvy.com/)
     *   [Contact Us](https://www.teksavvy.com/company/contact/)
-    *   [Frequently Asked Questions](https://www.teksavvy.com/support/)
+    *   [Frequently Asked Questions](https://community.teksavvy.com/kb/support?utm_source=resweb&utm_medium=link&utm_campaign=community_kb)
     *   [Network Status](https://www.teksavvy.com/network-status/)
 *   [News & Views](#)
     

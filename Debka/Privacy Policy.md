@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Wednesday, December 9, 2020  
+Thursday, December 10, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,18 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Two British recipients suffer allergic reaction to Pfizer vaccine](https://www.debka.com/mivzak/two-british-recipients-suffer-allergic-reaction-to-pfizer-vaccine/)
+    
+    Dec 09, 2020 @ 21:27
+    
+*   [The coronavirus cabinet to consider a downsized curfew for Hanukkah](https://www.debka.com/mivzak/the-coronavirus-cabinet-to-consider-a-downsized-curfew-for-hanukkah/)
+    
+    Dec 09, 2020 @ 21:12
+    
+*   [Covid vaccine inoculations begin in Israel on Dec. 27](https://www.debka.com/mivzak/covid-vaccine-inoculations-begin-in-israel-on-dec-27/)
+    
+    Dec 09, 2020 @ 21:01
+    
 *   [The first Pfizer covid vaccines land in Israel](https://www.debka.com/mivzak/the-first-pfizer-covid-vaccines-land-in-israel/)
     
     Dec 09, 2020 @ 13:50
@@ -72,20 +84,20 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [MK Gideon Saar to quit Likud and form new right-wing party](https://www.debka.com/mivzak/mk-gideon-saar-to-quit-likud-and-form-new-right-wing-party/)
     
     Dec 08, 2020 @ 18:38
-    
-*   [The FDA confirms safety and efficacy of Pfizer covid vaccine](https://www.debka.com/mivzak/the-fda-confirms-safety-and-efficacy-of-pfizer-covid-vaccine/)
-    
-    Dec 08, 2020 @ 17:01
-    
-*   [Biden picks retired Gen Lloyd Austin as defense secretary](https://www.debka.com/mivzak/biden-picks-retired-gen-lloyd-austin-as-defense-secretary/)
-    
-    Dec 08, 2020 @ 16:33
-    
-*   [The UK first in the world to inoculate Pfizer covid vaccine](https://www.debka.com/mivzak/the-uk-first-in-the-world-to-inoculate-pfizer-covid-vaccine/)
-    
-    Dec 08, 2020 @ 11:59
     
 
+*   [Two British recipients suffer allergic reaction to Pfizer vaccine](https://www.debka.com/mivzak/two-british-recipients-suffer-allergic-reaction-to-pfizer-vaccine/)
+    
+    Dec 09, 2020 @ 21:27
+    
+*   [The coronavirus cabinet to consider a downsized curfew for Hanukkah](https://www.debka.com/mivzak/the-coronavirus-cabinet-to-consider-a-downsized-curfew-for-hanukkah/)
+    
+    Dec 09, 2020 @ 21:12
+    
+*   [Covid vaccine inoculations begin in Israel on Dec. 27](https://www.debka.com/mivzak/covid-vaccine-inoculations-begin-in-israel-on-dec-27/)
+    
+    Dec 09, 2020 @ 21:01
+    
 *   [The first Pfizer covid vaccines land in Israel](https://www.debka.com/mivzak/the-first-pfizer-covid-vaccines-land-in-israel/)
     
     Dec 09, 2020 @ 13:50
@@ -101,18 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [MK Gideon Saar to quit Likud and form new right-wing party](https://www.debka.com/mivzak/mk-gideon-saar-to-quit-likud-and-form-new-right-wing-party/)
     
     Dec 08, 2020 @ 18:38
-    
-*   [The FDA confirms safety and efficacy of Pfizer covid vaccine](https://www.debka.com/mivzak/the-fda-confirms-safety-and-efficacy-of-pfizer-covid-vaccine/)
-    
-    Dec 08, 2020 @ 17:01
-    
-*   [Biden picks retired Gen Lloyd Austin as defense secretary](https://www.debka.com/mivzak/biden-picks-retired-gen-lloyd-austin-as-defense-secretary/)
-    
-    Dec 08, 2020 @ 16:33
-    
-*   [The UK first in the world to inoculate Pfizer covid vaccine](https://www.debka.com/mivzak/the-uk-first-in-the-world-to-inoculate-pfizer-covid-vaccine/)
-    
-    Dec 08, 2020 @ 11:59
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

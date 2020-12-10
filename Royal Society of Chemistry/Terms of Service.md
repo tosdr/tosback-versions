@@ -52,7 +52,7 @@ You may use Our Websites only for lawful purposes. You must not use Our Websites
 
 Some of Our Websites provide Interactive Services which include the option to contact and connect to other users, or make a Contribution by publishing information on Our Websites. Please note that further terms and conditions may apply when using our Interactive Services. These terms and conditions and policies may reference each other and are not mutually exclusive.
 
-In addition to the Terms set out above in respect to ��Prohibited uses’, you must comply with the spirit of the following standards as well as the letter when using our Interactive Services. These additional standards apply to each part of any Contribution, as well as to its whole.
+In addition to the Terms set out above in respect to ‘Prohibited uses’, you must comply with the spirit of the following standards as well as the letter when using our Interactive Services. These additional standards apply to each part of any Contribution, as well as to its whole.
 
 A Contribution must:
 

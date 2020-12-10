@@ -546,4 +546,4 @@ Follow RTÉ
 
 © RTÉ 2020. RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Media. RTÉ is not responsible for the content of external internet sites.
 
-/\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/about.rte.ie\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"}; /\* \]\]> \*/
+/\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/about.rte.ie\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 \* 1000 ); document.cookie = "pll\_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax"; }());

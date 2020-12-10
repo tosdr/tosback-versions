@@ -328,35 +328,35 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/q11u3fEs)
+*   [Ventana](https://pastebin.com/x0b40geq)
     
-    YAML | 32 min ago
+    Java | 2 min ago
     
-*   [My Log File](https://pastebin.com/vZZX4wY8)
+*   [Saw-Vip-10-12-2020](https://pastebin.com/4ymrV0jg)
     
-    HTML 5 | 39 min ago
+    Lua | 33 min ago
     
-*   [Merge templates](https://pastebin.com/nXpnbtkc)
+*   [10-12-2020 lesson](https://pastebin.com/fBhDfp6J)
     
-    HTML 5 | 49 min ago
+    Python | 40 min ago
     
-*   [Moveable DOM](https://pastebin.com/fPCqcqQK)
+*   [Пример работы с линейными списками](https://pastebin.com/iMtZUJ9P)
     
-    HTML | 1 hour ago
+    C | 49 min ago
     
-*   [03\. Heroes Of Code And Logic VII 2](https://pastebin.com/sQXdfSTy)
+*   [new-batch](https://pastebin.com/rAYTjv7w)
     
     Java | 1 hour ago
     
-*   [Табличные данные Лаба 4.1](https://pastebin.com/Bi7Uc7m4)
+*   [Untitled](https://pastebin.com/iPWWpNJz)
     
-    C# | 1 hour ago
+    Java | 1 hour ago
     
-*   [remove lottery JS on all pages except product page](https://pastebin.com/rcEcH7kA)
+*   [zapros-01](https://pastebin.com/zxrD1Ni2)
     
-    PHP | 1 hour ago
+    Python | 1 hour ago
     
-*   [choinka](https://pastebin.com/JvuPNEbn)
+*   [6.25](https://pastebin.com/10XjKc54)
     
     C++ | 1 hour ago
     

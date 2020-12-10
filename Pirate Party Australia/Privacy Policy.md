@@ -4,7 +4,7 @@
 
 ![](https://pirateparty.org.au/wordpress/wp-content/uploads/opengraph_fds_centred_bw-auth.png)
 
-**Last updated:** 20 March, 2019
+**Last updated:** 10 December, 2020
 
 ### All Pirate Party websites and services
 
@@ -24,7 +24,7 @@ Pirate Party Australia will not sell or otherwise share any information collecte
 
 The Party Secretary currently maintains the membership list as per the Constitution, and is the only person with access to the personal information of Pirate Party Australia’s members that is collected during the membership application process.
 
-The Party Secretary may divulge names and telephone numbers to other trusted members for the purposes of verifying membership when other reasonable attempts to contact members have been unsuccessful.
+The Party Secretary may divulge names and telephone numbers to other trusted members for the purposes of verifying or renewing membership when other reasonable attempts to contact members have been unsuccessful.
 
 If you consent, your contact details may be shared with Pirate Party Australia coordinators in your area for the sole purpose of organising events, campaigns or other related party business such as sharing news with you relevant to our platform. Such coordinators are vetted by the National Council and appointed at their discretion.
 

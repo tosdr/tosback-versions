@@ -14,9 +14,8 @@
 
 #### **MRICHARD333**
 
-CYBERSECURITY NEWS  
-
----------------------
+CYBERSECURITY NEWS
+------------------
 
 Report Scammers
 ---------------
@@ -27,9 +26,8 @@ Report Scammers
 
 ##### **Developer | Server Admin | Student**
 
-COMPUTER SCIENCE COURSE  
-
---------------------------
+COMPUTER SCIENCE COURSE
+-----------------------
 
 ![MRichard333 Logo](https://mrichard333.com/MRichard333.com.png)
 

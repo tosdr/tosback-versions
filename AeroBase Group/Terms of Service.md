@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [The B-1B just launched a cruise missile externally. Hypersonic missiles could be next.](http://feedproxy.google.com/~r/defense-news/air/~3/O6DUnTo9v3M/)  
+    12/09/20 05:23pm  
+    
+    A B-1B Lancer launches an intert AGM-158 Joint Air-to-Surface Standoff Missile, or JASSM, from an external pylon on its fuselage during tests Dec. 4, 2020 at Holloman Air Force Base, N.M. (Air Force)
+    
+*   [Despite progress, industry faces ‘very tough roadmap’ to field FCAS by 2040](http://feedproxy.google.com/~r/defense-news/air/~3/PbHmO_ZKB0s/)  
+    12/09/20 12:47pm  
+    
+    Officials present a cockpit prototype, pitched by Airbus as an element of the envisioned Future Combat Air System, at the Spanish FEINDEF defense expo in Madrid on May 30, 2019. (Sebastian Sprenger/staff photo)
+    
 *   [British F-35 buy is still a moving target, defense ministry tells lawmakers](http://feedproxy.google.com/~r/defense-news/air/~3/vtYTr5yLbsg/)  
     12/09/20 06:24am  
     
@@ -160,26 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     A U.S. Air Force A-10 Thunderbolt II flies a mission over Afghanistan on May 28, 2018. The aircraft provides close-air support for coalition forces fighting terrorist groups. (Staff Sgt. Corey Hook/U.S. Air Force)
     
-*   [These 3 companies will build prototypes for the Air Force’s Skyborg drone](http://feedproxy.google.com/~r/defense-news/air/~3/7uea6JdRAVg/)  
-    12/08/20 10:26am  
-    
-    The XQ-58A Valkyrie demonstrator, a long-range, high subsonic unmanned air vehicle completed its inaugural flight March 5, 2019, at Yuma Proving Grounds, Ariz. (DoD)
-    
-*   [The Air Force wanted to mothball over 100 planes. Here’s what Congress says it will permit.](http://feedproxy.google.com/~r/defense-news/air/~3/QHEtsNwItrk/)  
-    12/04/20 11:08am  
-    
-    A B-1B Lancer from the 37th Expeditionary Bomb Squadron returns to mission after receiving fuel from a KC-135 Stratotanker. (Master Sgt. William Greer/U.S. Air Force)
-    
 
 Recent parts by keyword  
 
-*   [P00846](https://aerobasegroup.com/search/?term=P00846)
-*   [NAS6306U6](https://aerobasegroup.com/search/?term=NAS6306U6)
-*   [AN3CH3A](https://aerobasegroup.com/search/?term=AN3CH3A)
-*   [LS3859R7](https://aerobasegroup.com/search/?term=LS3859R7)
-*   [b1831a](https://aerobasegroup.com/search/?term=b1831a)
-*   [NAS1515A3H](https://aerobasegroup.com/search/?term=NAS1515A3H)
-*   [a-a-52094a](https://aerobasegroup.com/search/?term=a-a-52094a)
+*   [vibra tite](https://aerobasegroup.com/search/?term=vibra+tite)
+*   [65-95466-](https://aerobasegroup.com/search/?term=65-95466-)
+*   [M83248/1-028](https://aerobasegroup.com/search/?term=M83248%2F1-028)
+*   [P/N: 3-605-2](https://aerobasegroup.com/search/?term=P%2FN%3A%C2%A03-605-2)
+*   [ms90728-58](https://aerobasegroup.com/search/?term=ms90728-58)
+*   [DIN7980](https://aerobasegroup.com/search/?term=DIN7980)
+*   [D16426](https://aerobasegroup.com/search/?term=D16426)
 
 The AeroBase Group Family ..
 

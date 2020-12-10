@@ -23,7 +23,7 @@ You agree to not use the Service to send Spam, junk mail, bulk emails or mailing
 
 Any account found to be sending, storing or sharing the aforementioned type of emails or contents will be immediately suspended.
 
-Having multiple free accounts is an acceptable use of the Service, as long as it is done in a proportionate and reasonable way (e.g. bulk sign-ups or large numbers of accounts created by a single organization or individual are not considered reasonable use of the service). Free accounts can also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in anyone else’s name and later transfer credentials to that third party).
+Having multiple free accounts is not considered an acceptable use of our service (e.g. bulk-signups, large number of free accounts created by a single organization or individual). Free accounts can also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in anyone else’s name and later transfer credentials to that third party).
 
 The Company reserves the right to take actions against any free account considered abusive in that regard.
 

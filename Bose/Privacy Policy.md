@@ -41,7 +41,7 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [TRAVELERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_travelers.html "TRAVELERS")
     *   [TECH LOVERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_technology_lovers.html "TECH LOVERS")
     *   [FOR FAMILIES](https://www.bose.com/en_us/products/gift_ideas/gifts_for_families.html "FOR FAMILIES")
-    *   [AFFORDABLE GIFTS](https://www.bose.com/en_us/products/gift_ideas/affordable_gifts.html "AFFORDABLE GIFTS")
+    *   [GIFTS UNDER $250](https://www.bose.com/en_us/products/gift_ideas/affordable_gifts.html "GIFTS UNDER $250")
     *   [THANKSGIVING](https://www.bose.com/en_us/products/gift_ideas/gifts_for_thanksgiving.html "THANKSGIVING")
     
 *   [Headphones](https://www.bose.com/en_us/products/headphones.html "Headphones")
@@ -487,6 +487,7 @@ You may also contact our Data Protection Officer by using the email address abov
 *   [SOUNDCOMM B40 HEADSET](https://www.bose.com/en_us/products/headphones/professional_communications/soundcomm-b40-headset.html "SOUNDCOMM B40 HEADSET")
 *   [BOSE WORK](https://pro.bose.com/en_us/solutions/bose-work.html "BOSE WORK")
 
+*   [Support](https://www.bose.com/en_us/support.html "Support")
 *   [Contact Us](https://www.bose.com/en_us/contact_us.html "Contact Us")
 *   [Find a Store](https://www.bose.com/en_us/store_locator.html "Find a Store")
 *   [About Us](https://www.bose.com/en_us/about_bose.html "About Us")

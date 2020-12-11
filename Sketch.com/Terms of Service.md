@@ -29,9 +29,9 @@ Menu
         
         Discover and join your local Sketch community.
         
-        1.  [Dec 9 From agency to startup with Kevin Cannon Designer at Pitch.com](https://www.sketch.com/community/groups/munich/?event=2020-12-09)
-        2.  [Dec 10 Introduction to Design Systems](https://www.sketch.com/community/groups/venice/?event=2020-12-10)
-        3.  [Dec 10 \[Online\] Sketch Seoul & Tokyo 2020](https://www.sketch.com/community/groups/seoul/?event=2020-12-10)
+        1.  [Dec 10 Introduction to Design Systems](https://www.sketch.com/community/groups/venice/?event=2020-12-10)
+        2.  [Dec 10 \[Online\] Sketch Seoul & Tokyo 2020](https://www.sketch.com/community/groups/seoul/?event=2020-12-10)
+        3.  [Dec 10 \[Online\] Sketch Seoul & Tokyo 2020](https://www.sketch.com/community/groups/tokyo/?event=2020-12-10)
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)
@@ -305,7 +305,7 @@ Email  Subscribe
 ### Company
 
 *   [About Us](https://www.sketch.com/about-us/)
-*   [Jobs 4](https://www.sketch.com/jobs/)
+*   [Jobs 5](https://www.sketch.com/jobs/)
 *   [Press](https://www.sketch.com/press/)
 *   [Labs](https://www.sketch.com/labs/)
 

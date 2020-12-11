@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Ventana](https://pastebin.com/x0b40geq)
+*   [12.I Dolgozat C# Segítség](https://pastebin.com/48GADx9W)
     
-    Java | 2 min ago
+    C# | 18 min ago
     
-*   [Saw-Vip-10-12-2020](https://pastebin.com/4ymrV0jg)
+*   [num15.1](https://pastebin.com/2xBiNZpz)
     
-    Lua | 33 min ago
+    C++ | 38 min ago
     
-*   [10-12-2020 lesson](https://pastebin.com/fBhDfp6J)
+*   [body scale](https://pastebin.com/LvhfPZQW)
     
-    Python | 40 min ago
+    Lua | 1 hour ago
     
-*   [Пример работы с линейными списками](https://pastebin.com/iMtZUJ9P)
+*   [Append VK Groups in left row](https://pastebin.com/vdVwdGzb)
     
-    C | 49 min ago
+    JavaScript | 1 hour ago
     
-*   [new-batch](https://pastebin.com/rAYTjv7w)
+*   [PermSort](https://pastebin.com/K476d2kC)
     
-    Java | 1 hour ago
+    C++ | 1 hour ago
     
-*   [Untitled](https://pastebin.com/iPWWpNJz)
+*   [My Log File](https://pastebin.com/sHwkpB0y)
     
-    Java | 1 hour ago
+    HTML 5 | 1 hour ago
     
-*   [zapros-01](https://pastebin.com/zxrD1Ni2)
+*   [avitoParser](https://pastebin.com/dfFkEQN5)
     
     Python | 1 hour ago
     
-*   [6.25](https://pastebin.com/10XjKc54)
+*   [Faren to celsius xml](https://pastebin.com/jk2cWnma)
     
-    C++ | 1 hour ago
+    XML | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

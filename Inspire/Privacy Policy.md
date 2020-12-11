@@ -3,7 +3,7 @@ Inspire Energy Privacy Policy
 
 ### Last Updated: 11/10/20
 
-Inspire Energy Holdings, LLC, Inspire Digital Services USA, LLC, and their affiliates (“**Inspire**,” “**we**,” “**our**,” and/or “**us**”) value the privacy of individuals who use our websites, mobile applications, and services (collectively, our “**Services**”). This privacy policy (the “**Privacy Policy**”) explains how we collect, use, and share information from users of our Services (“**Users**By using or accessing our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://www.helloinspire.com/policies/terms-of-use/) (https://www.inspirecleanenergy.com/policies/terms-of-use/).
+Inspire Energy Holdings, LLC, Inspire Digital Services USA, LLC, and their affiliates (“**Inspire**,” “**we**,” “**our**,” and/or “**us**”) value the privacy of individuals who use our websites, mobile applications, and services (collectively, our “**Services**”). This privacy policy (the “**Privacy Policy**”) explains how we collect, use, and share information from users of our Services (“**Users**”). By using or accessing our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://www.helloinspire.com/policies/terms-of-use/) (https://www.inspirecleanenergy.com/policies/terms-of-use/).
 
 Click on the links below to jump to each section:
 

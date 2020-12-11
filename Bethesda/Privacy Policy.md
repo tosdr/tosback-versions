@@ -474,7 +474,9 @@ Find Us On The Web
 © 2019 Development Plus Inc. All Rights Reserved  
 The Bethesda Gear Store is operated by Development Plus Inc. Trademarks property of their respective owners.
 
-### Sign In X
+X
+
+### Sign In
 
 Email 
 

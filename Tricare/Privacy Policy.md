@@ -366,7 +366,7 @@ Footer Navigation
 -----------------
 
 *   [Privacy Policy](https://www.tricare.mil/Privacy "Go to Privacy Policy")
-*   [Privacy Program](https://defense.gov/privacy "Go to DoD Privacy Program page")
+*   [Privacy Program](https://dpcld.defense.gov/Privacy.aspx "Go to DoD Privacy Program page")
 *   [Information Quality](https://dod.defense.gov/Resources/DoD-Information-Quality-Guidelines "Go to DoD Information Quality Guidelines page")
 *   [Open Government](https://open.defense.gov/ "Goes to DoD Open Government page")
 *   [Plain Writing](http://www.esd.whs.mil/DD/plainlanguage "Goes to DoD Plain Language page")

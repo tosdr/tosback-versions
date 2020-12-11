@@ -1,6 +1,6 @@
 [![Join MRichard333 Hub](gallery/blogging(4)-ts1607293427.svg)](https://chat.mrichard333.com/ "Join MRichard333 Hub!")
 
-[![Online Computer Classes](gallery/online-course-ts1607296260.svg)](https://mrichard333.com/Course "Online Computer Course")
+[![Free computer science video](gallery/online-course-ts1607296260.svg)](https://mrichard333.com/videos "Free Computer science video")
 
 *   [Home](https://mrichard333.com/)
 *   [Videos](https://mrichard333.com/videos)
@@ -14,20 +14,18 @@
 
 #### **MRICHARD333**
 
-CYBERSECURITY NEWS
-------------------
+**CYBERSECURITY NEWS**
+----------------------
 
-Report Scammers
----------------
+**Report Scammers**
+-------------------
 
-##### **7 Years of Autodidact Experience**
+##### Information & Technology | 7 Years of Autodidact Experience
 
-##### **| Information & Technology |**
+##### Developer | Server Admin | Student
 
-##### **Developer | Server Admin | Student**
-
-COMPUTER SCIENCE COURSE
------------------------
+**COMPUTER SCIENCE COURSE**
+---------------------------
 
 ![MRichard333 Logo](https://mrichard333.com/MRichard333.com.png)
 

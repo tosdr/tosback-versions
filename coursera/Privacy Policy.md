@@ -422,7 +422,7 @@ Revisions
 
 Below is a list of all the revisions made to our Privacy Policies, with links to view the difference between each revision.
 
-*   2020-08-28: Added Standard Contractual Clauses
+*   [2020-08-28: Added Standard Contractual Clauses](https://www.diffchecker.com/GpyThNvz)
 *   [2019-12-20: Updated to incorporate CCPA and increase transparency of data handling practices.](https://www.diffchecker.com/scEvtqHA)
 *   [2019-03-19: Updated to include EU Representative contact info](https://www.diffchecker.com/NHzlNDxU)
 *   [2018-12-11: Updated contact ICDR link](https://www.diffchecker.com/633RrCzZ)

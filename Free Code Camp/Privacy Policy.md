@@ -4,13 +4,13 @@
 
 [![freeCodeCamp.org](/news/content/images/2019/11/fcc_primary_large_24X210.svg)](https://www.freecodecamp.org/news)
 
-[Forum](https://forum.freecodecamp.org/) [Donate](https://www.freecodecamp.org/donate/)
+[Forum](https://forum.freecodecamp.org/) [Curriculum](https://www.freecodecamp.org/learn)
 
 [
 
-Learn to code — free 3,000-hour curriculum
+Help our nonprofit pay for servers. Donate Now.
 
-](https://www.freecodecamp.org/)
+](https://www.freecodecamp.org/donate/)// Conditionally load stripe const loadStripeList = \['en'\]; if (loadStripeList.includes(\`en\`)) { // Set keys based on environment const stripePublicKey = location.hostname === "www.freecodecamp.org" ? "pk\_live\_E6Z6xPM8pEsJziHW905zpAvF" : "pk\_test\_xM2wpbgtyotYqFCK6Ss6noxP008nxRyaE9"; const donatePageUrl = 'https://www.freecodecamp.org/donate/'; const successUrl = 'https://www.freecodecamp.org/news/thank-you-for-donating/'; let stripe; const onClick = (e) => { e.preventDefault(); if (window.Stripe) { handleStripeCheckoutRedirect(); } else if (document.querySelector('#stripe-js')) { document .querySelector('#stripe-js') .addEventListener('load', handleStripeLoadAndRedirect); } else { stripeScriptLoader(loadStripeAndRedirect); } } const stripeScriptLoader = onload => { let s = document.createElement('script'); s.type = 'text/javascript'; s.id = 'stripe-js'; s.key = 'stripe-js'; s.async = true; s.src = 'https://js.stripe.com/v3/'; s.onload = onload; document.getElementsByTagName('head')\[0\].appendChild(s); }; const loadAndInitializeStripe = () => stripeScriptLoader(() => { handleStripeLoad(); }); const handleStripeLoad = () => { stripe = window.Stripe(stripePublicKey); } const handleStripeLoadAndRedirect = () => { handleStripeLoad(); handleStripeCheckoutRedirect(); } const loadStripeAndRedirect = () => { loadAndInitializeStripe(); handleStripeCheckoutRedirect(); } const handleStripeCheckoutRedirect = async () => { const item = \[{ plan: \`monthly-donation-500\`, quantity: 1 }\]; const { error } = await stripe.redirectToCheckout({ items: item, successUrl: 'https://www.freecodecamp.org/news/thank-you-for-donating/', cancelUrl: donatePageUrl }); if (error) { location.href = donatePageUrl; } } document.getElementById("donation-banner-link").addEventListener("click", onClick); loadAndInitializeStripe(); }
 
 May 25, 2018 / [#freeCodeCamp](https://privacy-policy.freecodecamp.org/news/tag/freecodecamp/)
 

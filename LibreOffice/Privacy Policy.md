@@ -577,5 +577,5 @@ The supervisory authority to which the complaint has been submitted shall inform
 *   [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/ "LibreOffice Timeline")
 *   [Privacy Policy](https://www.libreoffice.org/about-us/privacy/ "Privacy Policy")
 *   [Foundation's Reports](https://www.documentfoundation.org/foundation/financials/ "Foundation's Reports")
-*   [Merchandise](https://shop.spreadshirt.de/documentfoundation/ "Merchandise")
+*   [Merchandise](https://www.libreoffice.org/about-us/merchandise/ "Merchandise")
 *   [Read our blog](https://blog.documentfoundation.org/ "Read our blog")

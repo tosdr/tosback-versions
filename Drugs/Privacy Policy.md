@@ -1,6 +1,6 @@
 [Skip to Content](#content)
 
- [![Drugs.com](/img/layout/ddc-logo-retina.png)](http://www.drugs.com/) 
+ [![Drugs.com](/img/logo/drugscom-logo.png)](http://www.drugs.com/) 
 
 Search Drugs.com 
 
@@ -16,7 +16,7 @@ Browse all medications: [a](http://www.drugs.com/alpha/a.html) [b](http://www.dr
 
 [Menu](#)
 
- [![](/img/layout/ddc-logo-retina.png)  Close](#) 
+ [![Drugs.com](/img/logo/drugscom-logo.png)  Close](#) 
 
 *   [Account](http://www.drugs.com/account/)
     *   [Sign In](http://www.drugs.com/account/login/)
@@ -357,8 +357,6 @@ Drugs.com Mobile Apps
 The easiest way to lookup drug information, identify pills, check interactions and set up your own personal medication records. Available for Android and iOS devices.
 
 [Explore Apps](http://www.drugs.com/apps/)
-
-![Drugs.com logo symbol](/img/pixel.gif)
 
 #### Support
 

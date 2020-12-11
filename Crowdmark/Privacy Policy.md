@@ -155,7 +155,7 @@ If Crowdmark has disclosed your personal information to a third party in accorda
 
 #### Amending and updating your personal information and your consents
 
-By sending Crowdmark an e-mail to [privacy@crowdmark.com](mailto:privacy@crowdmark.com), mailing Crowdmark at 101 College Street, Suite 402, Toronto, Ontario, M5G 1L7, or calling Crowdmark at 416-887-4833 you can quickly, at no cost, and at any time:
+By sending Crowdmark an e-mail to [privacy@crowdmark.com](mailto:privacy@crowdmark.com), mailing Crowdmark at 101 College Street, Suite 402, Toronto, Ontario, M5G 1L7 you can quickly, at no cost, and at any time:
 
 *   review the personal information provided to Crowdmark through your account;
 *   review the personal information provided to Crowdmark in connection with your Content and your account;
@@ -201,7 +201,6 @@ Crowdmark Inc.
 101 College Street, Suite 402  
 Toronto, Ontario, M5G 1L7  
 Attention: Privacy Officer  
-Telephone: 206-681-5984  
 E-mail: [privacy@crowdmark.com](mailto:privacy@crowdmark.com)
 
 **Privacy Policy last updated: August 30, 2018**

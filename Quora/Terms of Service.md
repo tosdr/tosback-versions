@@ -17,7 +17,7 @@ We are pleased that you want to join the Quora platform and encourage you to rea
 
 **Quora Terms of Service**
 
-_Last Updated: December 10, 2020_
+_Last Updated: December 11, 2020_
 
 Welcome to Quora! Quora is a platform to gain and share knowledge, empowering people to learn from others and better understand the world.
 

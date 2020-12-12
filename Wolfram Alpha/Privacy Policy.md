@@ -425,7 +425,7 @@ Revised September 29, 2020
 *   Connect
 *   [Wolfram Community](http://community.wolfram.com/?source=footer)
 *   [Wolfram Blog](http://blog.wolfram.com/?source=footer)
-*   [Newsletter](https://www.wolframcloud.com/objects/forms/wolfram-insider/)
+*   [Newsletter](https://www.wolfram.com/newsletters/)
 
 © 2020 [Wolfram](http://www.wolfram.com/?source=footer). All rights reserved.
 

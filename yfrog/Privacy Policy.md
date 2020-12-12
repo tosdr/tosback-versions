@@ -35,4 +35,4 @@ Unlimited uploads. Unlimited space. Safeguard your high-res photos in the cloud.
 *   [FAQ](http://yfrog.com/faq)
 *   [HELP](http://yfrog.com/help)
 
-window.fbAsyncInit = function () { FB.init({ appId: '124304810915979', autoLogAppEvents: true, xfbml: true, version: 'v7.0' }); }; IS.CONS.BROWSER="ie"; IS.logger.REMOTE\_DEBUG = false; IS.logger.DEBUG = false; IS.logger.REMOTE\_ERROR = true; IS.logger.setup(); $(function() { IS.start({ 'static': true }); window.homepageView = new IS.Views.Homepage; });
+window.fbAsyncInit = function () { FB.init({ appId: '124304810915979', autoLogAppEvents: true, xfbml: true, version: 'v7.0' }); }; IS.logger.REMOTE\_DEBUG = false; IS.logger.DEBUG = false; IS.logger.REMOTE\_ERROR = true; IS.logger.setup(); $(function() { IS.start({ 'static': true }); window.homepageView = new IS.Views.Homepage; });

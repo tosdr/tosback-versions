@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=262137580944682&ev=PageView&noscript=1)   window.cookieConsentVisible= false;  
-
 *   [United States](https://www.terracycle.com/en-US/select-country)
 *   [Sign up](https://www.terracycle.com/en-US/account/sign_up)
 *   [Sign in](https://www.terracycle.com/en-US/account/sign_in)

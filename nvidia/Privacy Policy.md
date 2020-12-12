@@ -37,7 +37,7 @@ other links
 
 *   [Developers](https://developer.nvidia.com/)
 *   [Industries](https://www.nvidia.com/en-us/industries/)
-*   [Shop](https://www.nvidia.com/en-us/shop/)
+*   [Shop](https://shop.nvidia.com/en-us/)
 *   [Drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 *   [Support](https://www.nvidia.com/object/support.html)
 *   [About NVIDIA](https://www.nvidia.com/en-us/about-nvidia/)
@@ -262,7 +262,7 @@ other links
 
 .cls-1 { fill: #79b600; } .cls-2 { fill: #fff; } Back to top
 
-NVIDIAGDC.funcQueue.addToQueue({ id : "navigation769131ab\_3734\_4ac1\_a300\_b4e1df08dbaa", method : "navigation", params : \[{ globalSite:false, breadCrumbAdded: true, enableSearchLibrary: false, searchOptions: { destination: "https://www.nvidia.com/en-us/search/", apiUrl: "https://app.nvidia.com/search/graphql", triggerId: 'nvidia-search-box-link', referenceId: 'nvidia-search-box-link' } }\] });
+NVIDIAGDC.funcQueue.addToQueue({ id : "navigation0c71cf5f\_7444\_4d9b\_89b6\_fa7df062e1c1", method : "navigation", params : \[{ globalSite:false, breadCrumbAdded: true, enableSearchLibrary: false, searchOptions: { destination: "https://www.nvidia.com/en-us/search/", apiUrl: "https://app.nvidia.com/search/graphql", triggerId: 'nvidia-search-box-link', referenceId: 'nvidia-search-box-link' } }\] });
 
 This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the [instructions how to enable JavaScript in your web browser.](http://www.enable-javascript.com/)
 

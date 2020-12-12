@@ -1,4 +1,4 @@
-[Headline of the Year 2020 Final Voting. Links to the voting threads for all nine tabs. Everyone can vote! Enjoy the best Farking headlines!](https://www.fark.com/comments/11040767/130622847#c130622847)
+[Headline of the year voting!](https://www.fark.com/comments/11040767/130622847#c130622847)
 
 > Contents
 > --------

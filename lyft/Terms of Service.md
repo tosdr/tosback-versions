@@ -581,7 +581,7 @@ DRIVER
 *   [Express Drive](https://www.lyft.com/expressdrive)
 *   [Application Requirements](https://www.lyft.com/driver-application-requirements)
 *   [Insurance](https://www.lyft.com/driver/insurance)
-*   [Earnings](https://www.lyft.com/driver-pay)
+*   [Earnings](https://www.lyft.com/driver/pay)
 *   [Bonus](https://www.lyft.com/driver/bonus)
 *   [Lyft Rewards](https://www.lyft.com/driver/rewards)
 *   [Jobs](https://www.lyft.com/driving-jobs)

@@ -2,13 +2,13 @@ Yo.sequence.node(document.body);
 
 By using this site, you acknowledge we use cookies to enhance your experience. Learn more or change settings [here](https://www.bose.com/en_us/support/cookie_policy.html).  
 
-Order by 11 AM, Dec 11 EST with free shipping for delivery by Dec 24. In-stock items only.
+Order by 11 AM, Dec 15 EST with free shipping for delivery by Dec 24. In-stock items only.
 
 play\_pause
 
 close banner
 
-Order by 11 AM, Dec 11 EST with free shipping for delivery by Dec 24. In-stock items only.
+Order by 11 AM, Dec 15 EST with free shipping for delivery by Dec 24. In-stock items only.
 
 [Skip to content](#mainContent "Skip to content") [![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_logo.png) ![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_mobile_logo.png)](https://www.bose.com/en_us/index.html "Bose") 
 

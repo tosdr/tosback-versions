@@ -1,76 +1,76 @@
-プライバシーポリシー
-----------
+Privacy Policy
+--------------
 
-### どのような情報を収集しますか？
+### What information do we collect?
 
-*   _基本的なアカウント情報_: 当サイトに登録すると、ユーザー名・メールアドレス・パスワードの入力を求められることがあります。また表示名や自己紹介・プロフィール画像・ヘッダー画像といった追加のプロフィールを登録できます。ユーザー名・表示名・自己紹介・プロフィール画像・ヘッダー画像は常に公開されます。
-*   _投稿・フォロー・その他公開情報_: フォローしているユーザーの一覧は一般公開されます。フォロワーも同様です。メッセージを投稿する際、日時だけでなく投稿に使用したアプリケーション名も記録されます。メッセージには写真や動画といった添付メディアを含むことがあります。「公開」や「未収載」の投稿は一般公開されます。プロフィールに投稿を載せるとそれもまた公開情報となります。投稿はフォロワーに配信されます。場合によっては他のサーバーに配信され、そこにコピーが保存されることを意味します。投稿を削除した場合も同様にフォロワーに配信されます。他の投稿をリブログやお気に入り登録する行動は常に公開されます。
-*   _「ダイレクト」と「フォロワー限定」投稿_: すべての投稿はサーバーに保存され、処理されます。「フォロワー限定」投稿はフォロワーと投稿に書かれたユーザーに配信されます。「ダイレクト」投稿は投稿に書かれたユーザーにのみ配信されます。場合によっては他のサーバーに配信され、そこにコピーが保存されることを意味します。私たちはこれらの閲覧を一部の許可された者に限定するよう誠意を持って努めます。しかし他のサーバーにおいても同様に扱われるとは限りません。したがって、相手の所属するサーバーを吟味することが重要です。設定で新しいフォロワーの承認または拒否を手動で行うよう切り替えることもできます。_サーバー管理者は「ダイレクト」や「フォロワー限定」投稿も閲覧する可能性があることを忘れないでください。_また受信者がスクリーンショットやコピー、もしくは共有する可能性があることを忘れないでください。_いかなる危険な情報もMastodon上で共有しないでください。_
-*   _IPアドレスやその他メタデータ_: ログインする際IPアドレスだけでなくブラウザーアプリケーション名を記録します。ログインしたセッションはすべてユーザー設定で見直し、取り消すことができます。使用されている最新のIPアドレスは最大12ヵ月間保存されます。またサーバーへのIPアドレスを含むすべてのリクエストのログを保持することがあります。
-
-* * *
-
-### 情報を何に使用しますか？
-
-収集した情報は次の用途に使用されることがあります:
-
-*   Mastodonのコア機能の提供: ログインしている間にかぎり他の人たちと投稿を通じて交流することができます。例えば自分専用のホームタイムラインで投稿をまとめて読むために他の人たちをフォローできます。
-*   コミュニティ維持の補助: 例えばIPアドレスを既知のものと比較し、BAN回避目的の複数登録者やその他違反者を判別します。
-*   提供されたメールアドレスはお知らせの送信・投稿に対するリアクションやメッセージ送信の通知・お問い合わせやその他要求や質問への返信に使用されることがあります。
+*   _Basic account information_: If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography, profile picture and header image are always listed publicly.
+*   _Posts, following and other public information_: The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted posts are available publicly. When you feature a post on your profile, that is also publicly available information. Your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete posts, this is likewise delivered to your followers. The action of reblogging or favouriting another post is always public.
+*   _Direct and followers-only posts_: All posts are stored and processed on the server. Followers-only posts are delivered to your followers and users who are mentioned in them, and direct posts are delivered only to users mentioned in them. In some cases it means they are delivered to different servers and copies are stored there. We make a good faith effort to limit the access to those posts only to authorized persons, but other servers may fail to do so. Therefore it's important to review servers your followers belong to. You may toggle an option to approve and reject new followers manually in the settings. _Please keep in mind that the operators of the server and any receiving server may view such messages_, and that recipients may screenshot, copy or otherwise re-share them. _Do not share any dangerous information over Mastodon._
+*   _IPs and other metadata_: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
 
 * * *
 
-### 情報をどのように保護しますか？
+### What do we use your information for?
 
-私たちはあなたが入力・送信する際や自身の情報にアクセスする際に個人情報を安全に保つため、さまざまなセキュリティ上の対策を実施します。特にブラウザーセッションだけでなくアプリケーションとAPI間の通信もSSLによって保護されます。またパスワードは強力な不可逆アルゴリズムでハッシュ化されます。二段階認証を有効にし、アカウントへのアクセスをさらに安全にすることができます。
+Any of the information we collect from you may be used in the following ways:
 
-* * *
-
-### データ保持方針はどうなっていますか？
-
-私たちは次のように誠意を持って努めます:
-
-*   当サイトへのIPアドレスを含むすべての要求に対するサーバーログを90日以内のできるかぎりの間保持します。
-*   登録されたユーザーに関連付けられたIPアドレスを12ヵ月以内の間保持します。
-
-あなたは投稿・添付メディア・プロフィール画像・ヘッダー画像を含む自身のデータのアーカイブを要求し、ダウンロードすることができます。
-
-あなたはいつでもアカウントの削除を要求できます。削除は取り消すことができません。
+*   To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
+*   To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.
+*   The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.
 
 * * *
 
-### クッキーを使用していますか？
+### How do we protect your information?
 
-はい。クッキーは (あなたが許可した場合に) WebサイトやサービスがWebブラウザーを介してコンピューターに保存する小さなファイルです。使用することでWebサイトがブラウザーを識別し、登録済みのアカウントがある場合関連付けます。
-
-私たちはクッキーを将来の訪問のために設定を保存し呼び出す用途に使用します。
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Among other things, your browser session, as well as the traffic between your applications and the API, are secured with SSL, and your password is hashed using a strong one-way algorithm. You may enable two-factor authentication to further secure access to your account.
 
 * * *
 
-### なんらかの情報を外部に提供していますか？
+### What is our data retention policy?
 
-私たちは個人を特定できる情報を外部へ販売・取引・その他方法で渡すことはありません。これには当サイトの運営・業務遂行・サービス提供を行ううえで補助する信頼できる第三者をこの機密情報の保護に同意するかぎり含みません。法令の遵守やサイトポリシーの施行、権利・財産・安全の保護に適切と判断した場合、あなたの情報を公開することがあります。
+We will make a good faith effort to:
 
-あなたの公開情報はネットワーク上の他のサーバーにダウンロードされることがあります。相手が異なるサーバーに所属する場合、「公開」と「フォロワー限定」投稿はフォロワーの所属するサーバーに配信され、「ダイレクト」投稿は受信者の所属するサーバーに配信されます。
+*   Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
+*   Retain the IP addresses associated with registered users no more than 12 months.
 
-あなたがアカウントの使用をアプリケーションに許可すると、承認した権限の範囲内で公開プロフィール情報・フォローリスト・フォロワー・リスト・すべての投稿・お気に入り登録にアクセスできます。アプリケーションはメールアドレスやパスワードに決してアクセスできません。
+You can request and download an archive of your content, including your posts, media attachments, profile picture, and header image.
 
-* * *
-
-### 児童によるサイト利用について
-
-サーバーがEUまたはEEA圏内にある場合: 当サイト・製品・サービスは16歳以上の人を対象としています。あなたが16歳未満の場合、GDPR ([General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) - EU一般データ保護規則) により当サイトを使用できません。
-
-サーバーが米国にある場合: 当サイト・製品・サービスは13歳以上の人を対象としています。あなたが13歳未満の場合、COPPA ([Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act) - 児童オンラインプライバシー保護法) により当サイトを使用できません。
-
-サーバーが別の管轄区域にある場合、法的要件は異なることがあります。
+You may irreversibly delete your account at any time.
 
 * * *
 
-### プライバシーポリシーの変更
+### Do we use cookies?
 
-プライバシーポリシーの変更を決定した場合、このページに変更点を掲載します。
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
 
-この文章のライセンスはCC-BY-SAです。最終更新日は2018年3月7日です。
+We use cookies to understand and save your preferences for future visits.
 
-オリジナルの出典: [Discourse privacy policy](https://github.com/discourse/discourse)
+* * *
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+Your public content may be downloaded by other servers in the network. Your public and followers-only posts are delivered to the servers where your followers reside, and direct messages are delivered to the servers of the recipients, in so far as those followers or recipients reside on a different server than this.
+
+When you authorize an application to use your account, depending on the scope of permissions you approve, it may access your public profile information, your following list, your followers, your lists, all your posts, and your favourites. Applications can never access your e-mail address or password.
+
+* * *
+
+### Site usage by children
+
+If this server is in the EU or the EEA: Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR ([General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)) do not use this site.
+
+If this server is in the USA: Our site, products and services are all directed to people who are at least 13 years old. If you are under the age of 13, per the requirements of COPPA ([Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)) do not use this site.
+
+Law requirements can be different if this server is in another jurisdiction.
+
+* * *
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This document is CC-BY-SA. It was last updated March 7, 2018.
+
+Originally adapted from the [Discourse privacy policy](https://github.com/discourse/discourse).

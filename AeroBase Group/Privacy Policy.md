@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+*   [The first 9 attempts to retrieve swarming Gremlins drones failed. Here’s what’s next.](http://feedproxy.google.com/~r/defense-news/air/~3/ycItD_zPfjo/)  
+    12/11/20 01:53pm  
+    
+    A C-130 flies next to a X-61A Gremlins drone. (DARPA)
+    
 *   [The B-1B just launched a cruise missile externally. Hypersonic missiles could be next.](http://feedproxy.google.com/~r/defense-news/air/~3/O6DUnTo9v3M/)  
     12/09/20 05:23pm  
     
@@ -215,21 +220,16 @@ This document was last updated on January 1, 2014
     
     A Marine with Marine Fighter Attack Squadron (VMFA) 211 launches an F-35B Lightning II Joint Strike Fighter from the deck aboard Her Majesty's Ship (HMS) Queen Elizabeth at sea on 10 October, 2020. (Photo by 1st Lt. Zachary Bodner, Marine Corps)
     
-*   [Counterterrorism setback: ‘Armed Overwatch’ is stalled again](http://feedproxy.google.com/~r/defense-news/air/~3/NffoQCYU5_I/)  
-    12/08/20 05:00am  
-    
-    A U.S. Air Force A-10 Thunderbolt II flies a mission over Afghanistan on May 28, 2018. The aircraft provides close-air support for coalition forces fighting terrorist groups. (Staff Sgt. Corey Hook/U.S. Air Force)
-    
 
 Recent parts by keyword  
 
-*   [21C2664](https://aerobasegroup.com/search/?term=21C2664)
-*   [21C3110](https://aerobasegroup.com/search/?term=21C3110)
-*   [MS-3126F14-12S](https://aerobasegroup.com/search/?term=MS-3126F14-12S)
-*   [ms21046c9](https://aerobasegroup.com/search/?term=ms21046c9)
-*   [MS21046-C](https://aerobasegroup.com/search/?term=MS21046-C)
-*   [h22](https://aerobasegroup.com/search/?term=h22)
-*   [JSFB05V1](https://aerobasegroup.com/search/?term=JSFB05V1)
+*   [M910](https://aerobasegroup.com/search/?term=M910)
+*   [F16](https://aerobasegroup.com/search/?term=F16)
+*   [dm53740-5001](https://aerobasegroup.com/search/?term=dm53740-5001)
+*   [f200](https://aerobasegroup.com/search/?term=f200)
+*   [ms14181h03](https://aerobasegroup.com/search/?term=ms14181h03)
+*   [NSN)-:5-365-0154](https://aerobasegroup.com/search/?term=NSN%29%3A+5365-01-543-0466)
+*   [MILS18729](https://aerobasegroup.com/search/?term=MILS18729)
 
 The AeroBase Group Family ..
 

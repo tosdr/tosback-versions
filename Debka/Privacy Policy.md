@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Friday, December 11, 2020  
+Saturday, December 12, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,18 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [US Supreme Court nixes Trump’s bid to disqualify four state election results](https://www.debka.com/mivzak/us-supreme-court-nixes-trumps-bid-to-disqualify-four-state-election-results/)
+    
+    Dec 12, 2020 @ 13:31
+    
+*   [Iran executes journalist accused of stirring up unrest](https://www.debka.com/mivzak/iran-executes-journalist-accused-of-stirring-up-unrest/)
+    
+    Dec 12, 2020 @ 13:19
+    
+*   [Pfizer vaccine jabs in five days’ time for 160,00 elderly Israelis](https://www.debka.com/mivzak/pfizer-vaccine-jabs-in-five-days-time-for-16000-elderly-israelis/)
+    
+    Dec 12, 2020 @ 13:05
+    
 *   [FDA panel clears Pfizer covid vaccine for emergency use](https://www.debka.com/mivzak/fda-panel-clears-pfizer-covid-vaccine-for-emergency-use/)
     
     Dec 11, 2020 @ 07:53
@@ -72,20 +84,20 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Two British recipients suffer allergic reaction to Pfizer vaccine](https://www.debka.com/mivzak/two-british-recipients-suffer-allergic-reaction-to-pfizer-vaccine/)
     
     Dec 09, 2020 @ 21:27
-    
-*   [The coronavirus cabinet to consider a downsized curfew for Hanukkah](https://www.debka.com/mivzak/the-coronavirus-cabinet-to-consider-a-downsized-curfew-for-hanukkah/)
-    
-    Dec 09, 2020 @ 21:12
-    
-*   [Covid vaccine inoculations begin in Israel on Dec. 27](https://www.debka.com/mivzak/covid-vaccine-inoculations-begin-in-israel-on-dec-27/)
-    
-    Dec 09, 2020 @ 21:01
-    
-*   [The first Pfizer covid vaccines land in Israel](https://www.debka.com/mivzak/the-first-pfizer-covid-vaccines-land-in-israel/)
-    
-    Dec 09, 2020 @ 13:50
     
 
+*   [US Supreme Court nixes Trump’s bid to disqualify four state election results](https://www.debka.com/mivzak/us-supreme-court-nixes-trumps-bid-to-disqualify-four-state-election-results/)
+    
+    Dec 12, 2020 @ 13:31
+    
+*   [Iran executes journalist accused of stirring up unrest](https://www.debka.com/mivzak/iran-executes-journalist-accused-of-stirring-up-unrest/)
+    
+    Dec 12, 2020 @ 13:19
+    
+*   [Pfizer vaccine jabs in five days’ time for 160,00 elderly Israelis](https://www.debka.com/mivzak/pfizer-vaccine-jabs-in-five-days-time-for-16000-elderly-israelis/)
+    
+    Dec 12, 2020 @ 13:05
+    
 *   [FDA panel clears Pfizer covid vaccine for emergency use](https://www.debka.com/mivzak/fda-panel-clears-pfizer-covid-vaccine-for-emergency-use/)
     
     Dec 11, 2020 @ 07:53
@@ -101,18 +113,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Two British recipients suffer allergic reaction to Pfizer vaccine](https://www.debka.com/mivzak/two-british-recipients-suffer-allergic-reaction-to-pfizer-vaccine/)
     
     Dec 09, 2020 @ 21:27
-    
-*   [The coronavirus cabinet to consider a downsized curfew for Hanukkah](https://www.debka.com/mivzak/the-coronavirus-cabinet-to-consider-a-downsized-curfew-for-hanukkah/)
-    
-    Dec 09, 2020 @ 21:12
-    
-*   [Covid vaccine inoculations begin in Israel on Dec. 27](https://www.debka.com/mivzak/covid-vaccine-inoculations-begin-in-israel-on-dec-27/)
-    
-    Dec 09, 2020 @ 21:01
-    
-*   [The first Pfizer covid vaccines land in Israel](https://www.debka.com/mivzak/the-first-pfizer-covid-vaccines-land-in-israel/)
-    
-    Dec 09, 2020 @ 13:50
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

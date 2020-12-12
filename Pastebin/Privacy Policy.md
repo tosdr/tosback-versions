@@ -168,42 +168,42 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [12.I Dolgozat C# Segítség](https://pastebin.com/48GADx9W)
+*   [test123](https://pastebin.com/DvnYhdin)
     
-    C# | 17 min ago
+    Lua | 3 min ago
     
-*   [num15.1](https://pastebin.com/2xBiNZpz)
+*   [C++ script](https://pastebin.com/Q81NVnUn)
     
-    C++ | 37 min ago
+    C++ | 27 min ago
     
-*   [body scale](https://pastebin.com/LvhfPZQW)
+*   [Untitled](https://pastebin.com/mF8CzsFh)
     
-    Lua | 1 hour ago
+    QBasic | 28 min ago
     
-*   [Append VK Groups in left row](https://pastebin.com/vdVwdGzb)
-    
-    JavaScript | 1 hour ago
-    
-*   [PermSort](https://pastebin.com/K476d2kC)
-    
-    C++ | 1 hour ago
-    
-*   [My Log File](https://pastebin.com/sHwkpB0y)
-    
-    HTML 5 | 1 hour ago
-    
-*   [avitoParser](https://pastebin.com/dfFkEQN5)
+*   [Advent of Code 2020 - Day 11: Seating System](https://pastebin.com/RUQgg9jv)
     
     Python | 1 hour ago
     
-*   [Faren to celsius xml](https://pastebin.com/jk2cWnma)
+*   [make chocolade](https://pastebin.com/Cden7AtD)
     
-    XML | 1 hour ago
+    Python | 1 hour ago
+    
+*   [Untitled](https://pastebin.com/0vU9kbqi)
+    
+    T-SQL | 1 hour ago
+    
+*   [Untitled](https://pastebin.com/BcSHEwkq)
+    
+    C# | 1 hour ago
+    
+*   [07\. String Explosion](https://pastebin.com/7UrqJGa7)
+    
+    Java | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-  
+Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

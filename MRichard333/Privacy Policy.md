@@ -1,7 +1,5 @@
 [![Join MRichard333 Hub](gallery/blogging(4)-ts1607293427.svg)](https://chat.mrichard333.com/ "Join MRichard333 Hub!")
 
-[![Free computer science video](gallery/online-course-ts1607296260.svg)](https://mrichard333.com/videos "Free Computer science video")
-
 *   [Home](https://mrichard333.com/)
 *   [Videos](https://mrichard333.com/videos)
 *   [Contact](https://mrichard333.com/contact)
@@ -20,7 +18,7 @@
 **Report Scammers**
 -------------------
 
-##### Information & Technology | 7 Years of Autodidact Experience
+##### Information & Technology | 7 Years of Autodidact Experience |
 
 ##### Developer | Server Admin | Student
 
@@ -132,17 +130,17 @@ I reserve for me the right of editing the terms of service, privacy policy, and 
 
 [![Digital Millennium Copyright Act](gallery_gen/7f3eda5f286c1b88e5da8d039e75304d.png)](https://www.dmca.com/ "Digital Millennium Copyright Act")
 
-Credits:
+credits:
 
-Mask icon: [SmashIcons](https://www.flaticon.com/authors/smashicons "Icon Attribution") on [FlatIcon](https://www.flaticon.com/ "Flaticon")
+Icons made by [SmashIcons](https://www.flaticon.com/authors/smashicons "Icon Attribution") at [FlatIcon](https://www.flaticon.com/ "Flaticon")
 
-Blog icon: [Freepik](https://www.flaticon.com/authors/freepik "Freepik") on [Flaticon](https://www.flaticon.com/ "Flaticon")
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik "Freepik") at [Flaticon](https://www.flaticon.com/ "Flaticon")
 
-Courses icon: [xnimrodx](https://www.flaticon.com/authors/xnimrodx "xnimrodx") on [Flaticon](https://www.flaticon.com/ "Flaticon")
+icons made by [xnimrodx](https://www.flaticon.com/authors/xnimrodx "xnimrodx") at [Flaticon](https://www.flaticon.com/ "Flaticon")
 
-[![Discord Server](gallery_gen/b4c4f1fbb9e600c7c36920529fd13584_160x160.png)](https://discord.gg/KH8tx2a "Join us on Discord")
+[![Get merch and support me](gallery_gen/d8ba39ad5bdd30e5b0d3f7bf803639dc_256x160.png)](https://patreon.com/MRichard333 "Support us and get Merch")
 
-[![Get merch and support me](gallery_gen/d8ba39ad5bdd30e5b0d3f7bf803639dc_288x180.png)](https://patreon.com/MRichard333 "Support us and get Merch")
+[![Discord Server](gallery_gen/b4c4f1fbb9e600c7c36920529fd13584_140x140.png)](https://discord.gg/KH8tx2a "Join us on Discord")
 
 [![Youtube Channel](gallery_gen/807d7526bd1044cc0e5c6429bb4305f6_176x120.png)](https://youtube.com/c/MRichard333 "Scammers Exposing and Tech Guide")
 

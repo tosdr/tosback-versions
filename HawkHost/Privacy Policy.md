@@ -182,7 +182,7 @@ Close without getting coupon
 
 Coupon code for 30% off (recurring):
 
-HHI-MOFQS7046V
+HHI-6S50EODCOY
 --------------
 
 USE MY COUPON

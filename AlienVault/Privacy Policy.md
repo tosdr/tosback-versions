@@ -586,13 +586,13 @@ ul.faq > li { margin-top: 20px; } $(function() { function scrollToAnchor(aid) { 
 
 From the Blog
 
-![Devin Morrissey](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Mayleen Menez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Devin Morrissey
+#### Mayleen Menez
 
-Dec 10, 2020
+Dec 14, 2020
 
-### [How have digital transactions become safer?](https://cybersecurity.att.com/blogs/security-essentials/how-have-digital-transactions-become-safer)
+### [How secured are touchless solutions?](https://cybersecurity.att.com/blogs/security-essentials/how-secured-are-touchless-solutions)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -663,4 +663,4 @@ By using our website, you agree to our [Privacy Policy](https://www.att.com/priv
 
 [](#)
 
-if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingHeader() { ddo.disableAutoPageLoad(); ddo.setVar('page.location.url','/legal/privacy-policy'); ddo.setVar('page.pageInfo.pageTitle', document.title.trim()); ddo.setVar('page.pageInfo.friendlyPageName','CYB '+ document.title.trim() +' Pg'); ddo.setVar('page.category.siteSubSection1','legal'); ddo.setVar('page.category.siteSubSection2','privacy-policy'); } if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingFooter() { ddo.setVar('page.pageInfo.language','EN'); ddo.setVar('page.pageInfo.lineOfBusiness','Business Solutions'); ddo.setVar('page.category.pageFunction','Learn'); ddo.setVar('page.category.pageOwnership','Business'); ddo.setVar('page.attributes.applicationName','CYB'); ddo.setVar('page.pageInfo.appCode','ACS'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.media.class','text'); ddo.setVar('page.media.objective','Awareness'); ddo.setVar('page.media.category','Security'); ddo.setVar('page.location.domain','cybersecurity.att.com'); ddo.pushEvent('pageLoad', 'Page\_Load'); } var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/public/55d8d92acno231cb04ec29a3f526cb4'\]);
+if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingHeader() { ddo.disableAutoPageLoad(); ddo.setVar('page.location.url','/legal/privacy-policy'); ddo.setVar('page.pageInfo.pageTitle', document.title.trim()); ddo.setVar('page.pageInfo.friendlyPageName','CYB '+ document.title.trim() +' Pg'); ddo.setVar('page.category.siteSubSection1','legal'); ddo.setVar('page.category.siteSubSection2','privacy-policy'); } if (typeof ddo !== "undefined") { $(document).ready(function() { }); } function initAdobePageTrackingFooter() { ddo.setVar('page.pageInfo.language','EN'); ddo.setVar('page.pageInfo.lineOfBusiness','Business Solutions'); ddo.setVar('page.category.pageFunction','Learn'); ddo.setVar('page.category.pageOwnership','Business'); ddo.setVar('page.attributes.applicationName','CYB'); ddo.setVar('page.pageInfo.appCode','ACS'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.category.siteSection','CYB'); ddo.setVar('page.media.class','text'); ddo.setVar('page.media.objective','Awareness'); ddo.setVar('page.media.category','Security'); ddo.setVar('page.location.domain','cybersecurity.att.com'); ddo.pushEvent('pageLoad', 'Page\_Load'); } var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/public/64b2aaf88no231cb04ec29a3f526cb4'\]);

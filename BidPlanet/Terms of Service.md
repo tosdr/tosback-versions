@@ -466,19 +466,17 @@ The following products, apps and services are covered by the Microsoft Services 
 
 *   Account.microsoft.com
 *   Ask Cortana
-*   Bing App for Android
 *   Bing Apps
-*   Bing Bots
 *   Bing Dictionary
-*   Bing for Business
 *   Bing Image and News (iOS)
 *   Bing Maps
+*   Bing Pages
+*   Bing Rebates
 *   Bing Search APIs/SDKs
 *   Bing Search app
 *   Bing Translator
 *   Bing Webmaster
 *   Bing.com
-*   Bing
 *   Bingplaces.com
 *   Cortana skills by Microsoft
 *   Cortana
@@ -508,10 +506,13 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Family
 *   Microsoft Health
 *   Microsoft Launcher
+*   Microsoft Math Solver
 *   Microsoft Movies & TV
 *   Microsoft Pay
+*   Microsoft Pix
 *   Microsoft Research Interactive Science
 *   Microsoft Research Open Data
+*   Microsoft Search in Bing
 *   Microsoft Soundscape
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Teams

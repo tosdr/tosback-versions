@@ -66,9 +66,9 @@ Products[Threema](https://threema.ch/en "Threema")[Threema Work](https://work.th
 
 Threema[What's New](https://threema.ch/en/whats-new "What's New")[Download](https://threema.ch/en/download "Download")[Support](https://threema.ch/en/support "Support")[Cryptography Whitepaper](https://threema.ch/press-files/2_documentation/cryptography_whitepaper.pdf "Cryptography Whitepaper")[Transparency Report](https://threema.ch/en/transparencyreport "Transparency Report")
 
-Connect[Twitter](https://twitter.com/ThreemaApp "Twitter")[Blog](https://threema.ch/en/blog "Blog")[Threema Channel](https://threema.ch/en/faq/Threema_Channel "Threema Channel")[GitHub](https://github.com/threema-ch "GitHub")
-
 The Company[About](https://threema.ch/en/about "About")[Contact](https://threema.ch/en/contact "Contact")[Jobs](https://threema.ch/en/jobs "Jobs")[Press Material](https://threema.ch/en/press "Press Material")
+
+Connect[Twitter](https://twitter.com/ThreemaApp "Twitter")[Blog](https://threema.ch/en/blog "Blog")[Threema Channel](https://threema.ch/en/faq/Threema_Channel "Threema Channel")[GitHub](https://github.com/threema-ch "GitHub")
 
 Made in Switzerland. © 2020 Threema GmbH. [Privacy Policy](https://threema.ch/en/privacy)
 

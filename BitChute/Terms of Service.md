@@ -152,7 +152,7 @@ The Terms, and your relationship with BitChute under the Terms, shall be governe
 
 #### Was this article helpful?
 
-[1822](#) [172](#)
+[1836](#) [177](#)
 
 #### Related Questions:
 

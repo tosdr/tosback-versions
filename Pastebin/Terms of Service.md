@@ -328,42 +328,42 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/KzNCP1mU)
+*   [Untitled](https://pastebin.com/EH7jR9fR)
     
-    Java | 1 min ago
+    VB.NET | 8 min ago
     
-*   [Playlist shortcode\_atts (new)](https://pastebin.com/rriqLwXp)
+*   [Untitled](https://pastebin.com/RxzDBKTf)
     
-    PHP | 8 min ago
+    Bash | 10 min ago
     
-*   [Untitled](https://pastebin.com/G0amkbix)
+*   [Append Arrays](https://pastebin.com/Ban08uMs)
     
-    Java | 14 min ago
+    C# | 13 min ago
     
-*   [Gallery shortcode\_atts (new)](https://pastebin.com/RB9PzjMq)
+*   [Fin03\_13Dec\_Meals2](https://pastebin.com/n13yYtST)
     
-    PHP | 15 min ago
+    Java | 18 min ago
     
-*   [Untitled](https://pastebin.com/YYNYsrnr)
+*   [AOCMMXX d12p1](https://pastebin.com/M2JKpVZG)
     
-    Java | 16 min ago
+    C++ | 27 min ago
     
-*   [Untitled](https://pastebin.com/mRqRVGk4)
+*   [Untitled](https://pastebin.com/RN16RX51)
     
-    Java | 17 min ago
+    YAML | 34 min ago
     
-*   [Untitled](https://pastebin.com/2G7ddAEd)
+*   [Drop song](https://pastebin.com/TrUu4nub)
     
-    HTML | 24 min ago
+    Java | 60 min ago
     
-*   [Untitled](https://pastebin.com/GJ0eRY7j)
+*   [Cards Game Using Queue](https://pastebin.com/PusESeKh)
     
-    HTML | 25 min ago
+    C# | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-  
+Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

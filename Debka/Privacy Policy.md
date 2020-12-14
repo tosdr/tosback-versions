@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Sunday, December 13, 2020  
+Monday, December 14, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,62 +57,62 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
-*   [Coronavirus director advises broad covid vaccination](https://www.debka.com/mivzak/coronavirus-director-advises-broad-covid-vaccination/)
+*   [An explosion hits oil tanker off Saudi Jeddah coast](https://www.debka.com/mivzak/an-explosion-hits-oil-tanker-off-saudi-jeddah-coast/)
     
-    Dec 12, 2020 @ 21:15
+    Dec 14, 2020 @ 13:32
     
-*   [Israel and the reclusive kingdom of Bhutan establish diplomatic ties](https://www.debka.com/mivzak/israel-and-the-reclusive-kingdom-of-bhutan-establish-diplomatic-ties/)
+*   [The US delists Sudan as State Sponsor of Terrorism](https://www.debka.com/mivzak/the-us-delists-sudan-as-state-sponsor-of-terrorism/)
     
-    Dec 12, 2020 @ 18:18
+    Dec 14, 2020 @ 12:18
     
-*   [US Supreme Court nixes Trump’s bid to disqualify four state election results](https://www.debka.com/mivzak/us-supreme-court-nixes-trumps-bid-to-disqualify-four-state-election-results/)
+*   [Israel’s covid death toll crosses 3,000 mark](https://www.debka.com/mivzak/israels-covid-death-toll-crosses-3000-mark/)
     
-    Dec 12, 2020 @ 13:31
+    Dec 14, 2020 @ 12:11
     
-*   [Iran executes journalist accused of stirring up unrest](https://www.debka.com/mivzak/iran-executes-journalist-accused-of-stirring-up-unrest/)
+*   [John Le Carre, the Cold War spy story spinner, dies aged 89](https://www.debka.com/mivzak/john-le-carre-the-cold-war-spy-story-spinner-dies-aged-89/)
     
-    Dec 12, 2020 @ 13:19
+    Dec 14, 2020 @ 10:19
     
-*   [Pfizer vaccine jabs in five days’ time for 160,00 elderly Israelis](https://www.debka.com/mivzak/pfizer-vaccine-jabs-in-five-days-time-for-16000-elderly-israelis/)
+*   [At least 40 Israeli firms in cyberattack credited to Iran](https://www.debka.com/mivzak/at-least-40-israeli-firms-in-cyberattack-credited-to-iran/)
     
-    Dec 12, 2020 @ 13:05
+    Dec 13, 2020 @ 23:24
     
-*   [FDA panel clears Pfizer covid vaccine for emergency use](https://www.debka.com/mivzak/fda-panel-clears-pfizer-covid-vaccine-for-emergency-use/)
+*   [UAE and Bahrain ambassadors to the US light Hanukkah candles](https://www.debka.com/mivzak/uae-and-bahrain-ambassadors-to-the-us-light-hanukkah-candles/)
     
-    Dec 11, 2020 @ 07:53
+    Dec 13, 2020 @ 23:12
     
-*   [Two US B-52H bombers on second mission over the Mid-East](https://www.debka.com/mivzak/two-us-b-52h-bombers-on-second-mission-over-the-mid-east/)
+*   [Moroccan schools to teach Jewish history and culture](https://www.debka.com/mivzak/moroccan-schools-to-teach-jewish-history-and-culture/)
     
-    Dec 10, 2020 @ 16:45
+    Dec 13, 2020 @ 22:42
     
 
-*   [Coronavirus director advises broad covid vaccination](https://www.debka.com/mivzak/coronavirus-director-advises-broad-covid-vaccination/)
+*   [An explosion hits oil tanker off Saudi Jeddah coast](https://www.debka.com/mivzak/an-explosion-hits-oil-tanker-off-saudi-jeddah-coast/)
     
-    Dec 12, 2020 @ 21:15
+    Dec 14, 2020 @ 13:32
     
-*   [Israel and the reclusive kingdom of Bhutan establish diplomatic ties](https://www.debka.com/mivzak/israel-and-the-reclusive-kingdom-of-bhutan-establish-diplomatic-ties/)
+*   [The US delists Sudan as State Sponsor of Terrorism](https://www.debka.com/mivzak/the-us-delists-sudan-as-state-sponsor-of-terrorism/)
     
-    Dec 12, 2020 @ 18:18
+    Dec 14, 2020 @ 12:18
     
-*   [US Supreme Court nixes Trump’s bid to disqualify four state election results](https://www.debka.com/mivzak/us-supreme-court-nixes-trumps-bid-to-disqualify-four-state-election-results/)
+*   [Israel’s covid death toll crosses 3,000 mark](https://www.debka.com/mivzak/israels-covid-death-toll-crosses-3000-mark/)
     
-    Dec 12, 2020 @ 13:31
+    Dec 14, 2020 @ 12:11
     
-*   [Iran executes journalist accused of stirring up unrest](https://www.debka.com/mivzak/iran-executes-journalist-accused-of-stirring-up-unrest/)
+*   [John Le Carre, the Cold War spy story spinner, dies aged 89](https://www.debka.com/mivzak/john-le-carre-the-cold-war-spy-story-spinner-dies-aged-89/)
     
-    Dec 12, 2020 @ 13:19
+    Dec 14, 2020 @ 10:19
     
-*   [Pfizer vaccine jabs in five days’ time for 160,00 elderly Israelis](https://www.debka.com/mivzak/pfizer-vaccine-jabs-in-five-days-time-for-16000-elderly-israelis/)
+*   [At least 40 Israeli firms in cyberattack credited to Iran](https://www.debka.com/mivzak/at-least-40-israeli-firms-in-cyberattack-credited-to-iran/)
     
-    Dec 12, 2020 @ 13:05
+    Dec 13, 2020 @ 23:24
     
-*   [FDA panel clears Pfizer covid vaccine for emergency use](https://www.debka.com/mivzak/fda-panel-clears-pfizer-covid-vaccine-for-emergency-use/)
+*   [UAE and Bahrain ambassadors to the US light Hanukkah candles](https://www.debka.com/mivzak/uae-and-bahrain-ambassadors-to-the-us-light-hanukkah-candles/)
     
-    Dec 11, 2020 @ 07:53
+    Dec 13, 2020 @ 23:12
     
-*   [Two US B-52H bombers on second mission over the Mid-East](https://www.debka.com/mivzak/two-us-b-52h-bombers-on-second-mission-over-the-mid-east/)
+*   [Moroccan schools to teach Jewish history and culture](https://www.debka.com/mivzak/moroccan-schools-to-teach-jewish-history-and-culture/)
     
-    Dec 10, 2020 @ 16:45
+    Dec 13, 2020 @ 22:42
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

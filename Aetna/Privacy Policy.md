@@ -200,7 +200,6 @@ Search search  clear
         *   [Political activities](http://www.aetna.com/about-us/political-activities.html)
         *   [News & analysis](https://news.aetna.com/)
         *   [Health care reform](http://www.aetna.com/health-care-reform.html)
-        *   [Aetna story](https://www.aetnastory.com/)
         *   [Code of conduct](https://cvshealth.com/sites/default/files/cvs-health-code-of-conduct.pdf)
         
     *   Initiatives
@@ -443,7 +442,6 @@ Menu Mobile menu for the website. Menu Menu Close
     *   [Political activities](http://www.aetna.com/about-us/political-activities.html)
     *   [News & analysis](https://news.aetna.com/)
     *   [Health care reform](http://www.aetna.com/health-care-reform.html)
-    *   [Aetna story](https://www.aetnastory.com/)
     *   [Code of conduct](https://cvshealth.com/sites/default/files/cvs-health-code-of-conduct.pdf)
 *   Initiatives
     *   Initiatives
@@ -665,7 +663,6 @@ Menu Mobile menu for the website. Menu Menu Close
         *   [Political activities](http://www.aetna.com/about-us/political-activities.html)
         *   [News & analysis](https://news.aetna.com/)
         *   [Health care reform](http://www.aetna.com/health-care-reform.html)
-        *   [Aetna story](https://www.aetnastory.com/)
         *   [Code of conduct](https://cvshealth.com/sites/default/files/cvs-health-code-of-conduct.pdf)
         
     *   Initiatives

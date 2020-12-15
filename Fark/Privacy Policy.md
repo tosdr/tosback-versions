@@ -1,5 +1,3 @@
-[Headline of the year voting!](https://www.fark.com/comments/11040767/130622847#c130622847)
-
 > Contents
 > --------
 > 

@@ -301,7 +301,7 @@ We may also provide notification to users who have provided us email addresses o
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
-*   [Trademark](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/#trademark)
+*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
 
 Git is a trademark of Software Freedom Conservancy and our use of 'GitLab' is under license
 

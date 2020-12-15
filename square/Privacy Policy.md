@@ -347,23 +347,23 @@ If you have any questions or concerns regarding our privacy notice, or if you be
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
-[Commercial Entity Agreement](https://squareup.com/legal/general/cea)
+[Hardware Policies and Limited Warranty](https://squareup.com/legal/general/hardware)
 
 [Payment Terms](https://squareup.com/legal/general/payment)
 
-[Intellectual Property Policy](https://squareup.com/legal/general/copyright)
-
-[HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
+[Developer Terms of Service](https://squareup.com/legal/general/developers)
 
 [E-sign Consent](https://squareup.com/legal/general/sign)
 
-[Hardware Policies and Limited Warranty](https://squareup.com/legal/general/hardware)
+[Commercial Entity Agreement](https://squareup.com/legal/general/cea)
 
-[Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
-
-[Developer Terms of Service](https://squareup.com/legal/general/developers)
+[HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
 
 [Square Cardholder Agreement and Terms of Service](https://squareup.com/legal/general/squarecard)
+
+[Intellectual Property Policy](https://squareup.com/legal/general/copyright)
+
+[Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
 
 ##### Square Capital
 

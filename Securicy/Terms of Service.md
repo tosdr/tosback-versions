@@ -106,7 +106,7 @@ Securicy Data Solutions Ltd. reserves the right to defer the date of delivery or
 
 *   Email\*
     
-*   Comments
+*   Phone
     
     This field is for validation purposes and should be left unchanged.
     

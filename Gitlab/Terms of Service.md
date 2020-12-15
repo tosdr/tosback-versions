@@ -864,7 +864,7 @@ For each Order Form executed, or otherwise agreed to between the parties, the pr
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
-*   [Trademark](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/#trademark)
+*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
 
 Git is a trademark of Software Freedom Conservancy and our use of 'GitLab' is under license
 

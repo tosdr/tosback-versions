@@ -17,7 +17,7 @@ Vox Media main menu
 *   More
 
 *   Company
-    *   [Guidelines & Policies](https://www.voxmedia.com/a/vm/ethics)
+    *   [Guidelines & Policies](https://corp.voxmedia.com/ethics)
     *   [Diversity & Inclusion](https://www.voxmedia.com/pages/careers-diversity)
 *   Networks
     
@@ -49,7 +49,7 @@ Vox Media main menu
 *   Advertising
     
     *   [Concert](https://concert.io/)
-    *   [Vox Creative](https://www.voxmedia.com/a/vm/vox-creative)
+    *   [Vox Creative](https://corp.voxmedia.com/vox-creative)
     *   [New York Media Kit](http://mediakit.nymag.com/)
     
     *   [The Explainer Studio](http://theexplainerstudio.com/)

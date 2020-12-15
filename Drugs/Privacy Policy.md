@@ -26,7 +26,7 @@ Browse all medications: [a](http://www.drugs.com/alpha/a.html) [b](http://www.dr
 *   [Interactions Checker](http://www.drugs.com/drug_interactions.html)
 *   [News & Alerts](http://www.drugs.com/news.html)
 *   [Pro Edition](http://www.drugs.com/professionals.html)
-*   [More Resources](http://www.drugs.com/sitemap.html)
+*   [More](http://www.drugs.com/sitemap.html)
 
 Close
 

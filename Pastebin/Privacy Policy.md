@@ -166,39 +166,41 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/EH7jR9fR)
+*   [Untitled](https://pastebin.com/JfiBKAJK)
     
-    VB.NET | 8 min ago
+    C++ | 1 min ago
     
-*   [Untitled](https://pastebin.com/RxzDBKTf)
+*   [Brug af integer variabel](https://pastebin.com/z9h3y3Rp)
     
-    Bash | 10 min ago
+    C# | 6 min ago
     
-*   [Append Arrays](https://pastebin.com/Ban08uMs)
+*   [Lokal vs global](https://pastebin.com/WBK287sZ)
     
-    C# | 13 min ago
+    C# | 25 min ago
     
-*   [Fin03\_13Dec\_Meals2](https://pastebin.com/n13yYtST)
+*   [Untitled](https://pastebin.com/w5UBw6aP)
     
-    Java | 18 min ago
+    Lua | 34 min ago
     
-*   [AOCMMXX d12p1](https://pastebin.com/M2JKpVZG)
+*   [nginx for redmine](https://pastebin.com/Y8dDKFFi)
     
-    C++ | 27 min ago
+    Nginx | 35 min ago
     
-*   [Untitled](https://pastebin.com/RN16RX51)
+*   [Untitled](https://pastebin.com/SvfN4cHK)
     
-    YAML | 34 min ago
+    C++ | 40 min ago
     
-*   [Drop song](https://pastebin.com/TrUu4nub)
+*   [CC Monitor Redstone Switch](https://pastebin.com/4ZLeFgaH)
     
-    Java | 60 min ago
+    Lua | 52 min ago
     
-*   [Cards Game Using Queue](https://pastebin.com/PusESeKh)
+*   [DymoLabelXML](https://pastebin.com/ByfYLpUf)
     
-    C# | 1 hour ago
+    XML | 53 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

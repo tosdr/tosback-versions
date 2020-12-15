@@ -1,7 +1,7 @@
 Adobe Privacy Policy
 ====================
 
-Last updated: August 25, 2020
+Last updated: December 14, 2020
 
 The Adobe Privacy Policy describes the privacy practices of Adobe’s apps and websites. If you are a resident of North America, your relationship is with Adobe Inc. (Adobe U.S.) and the laws of California and the United States apply.
 
@@ -13,7 +13,7 @@ If the content or information that you store on Adobe apps or websites contains 
 
 ### Summary of Key Points
 
-*   **Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Adobe; (ii) accessing information stored on your device relating to your use of, and engagement with, websites and apps (e.g. Adobe Connect meetings) and crash reports; and (iii) using automated systems to analyze your content. You can withdraw your consent to such activities at any time. [Learn more](#withdraw-consent).  
+*   **Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Adobe; (ii) accessing information stored on your device relating to your use of, and engagement with, websites and apps (e.g. Adobe Connect meetings) and crash reports; and (iii) analyzing your content. You can withdraw your consent to such activities at any time. [Learn more](#withdraw-consent).  
       
     **
 *   **This policy explains when we process personal information for our legitimate interests. You can ask us to stop processing this information. [Learn more about your rights and how you can exercise them](https://www.adobe.com/privacy/policy.html#rights).  
@@ -28,10 +28,10 @@ If the content or information that you store on Adobe apps or websites contains 
 *   We use cookies and other technologies to track the use of our websites and apps. To learn about opportunities to choose not to allow cookies, click [here](https://www.adobe.com/privacy/opt-out.html). If you are using our website in a browser, this information is also available in our [Cookies Policy](https://www.adobe.com/privacy/cookies.html).  
       
     
-*   There are several places within Adobe’s websites and apps that allow you to post comments, upload pictures, or submit content which will be publicly available where you choose to participate in these activities. We also disclose personal information to other companies in the Adobe family and with advertising and sales partners consistent with your choices. We also share information with third parties we engage to process information on our behalf or when such sharing is required by law, or in certain other situations. [Learn more](https://www.adobe.com/privacy/policy.html#websites-applications).  
+*   There are several places within Adobe’s websites and apps that allow you to post comments, upload pictures, or submit content which will be publicly available where you choose to participate in these activities. We also disclose personal information to other companies in the Adobe family and with advertising and sales partners consistent with your choices. We also share information with third parties we engage to process personal information on our behalf or when such sharing is required by law, or in certain other situations. [Learn more](https://www.adobe.com/privacy/policy.html#websites-applications).  
       
     
-*   We transfer your personal information to the US and other countries, which may be outside the country in which you live. We use European Commission approved contract clauses and Privacy Shield to help protect your personal information. [Learn more](https://www.adobe.com/privacy/policy.html#info-transfer).  
+*   We transfer your personal information to the US and other countries, which may be outside the country in which you live. We use government-approved contractual clauses such as European Commission approved Standard Contractual Clauses to help protect your personal information. [Learn more](https://www.adobe.com/privacy/policy.html#info-transfer).  
     
 
 * * *
@@ -89,9 +89,7 @@ Additional privacy-related information is provided for certain Adobe apps and we
 
 #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table { width: 100%; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td { } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-row-1, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.row-row-1 { border-top: 1px solid #CACACA; border-bottom: 0px none ; border-left: 0px none ; border-right: 0px none ; vertical-align: top; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-row-1:before { border-top: 1px solid #CACACA; left: -1px; top: -1px; border-bottom: 0px none ; left: -0px; top: -0px; border-left: 0px none ; left: -0px; top: -0px; border-right: 0px none ; left: -0px; top: -0px; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-row-2, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.row-row-2 { background: #DFBF00; border-top: 1px solid #CACACA; border-bottom: 1px solid #CACACA; border-left: 0px none ; border-right: 0px none ; vertical-align: top; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-row-2:before { border-top: 1px solid #CACACA; left: -1px; top: -1px; border-bottom: 1px solid #CACACA; left: -1px; top: -1px; border-left: 0px none ; left: -0px; top: -0px; border-right: 0px none ; left: -0px; top: -0px; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-1, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.row-1 { border-bottom: 1px solid #ccc; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-1:before { border-bottom: 1px solid #ccc; left: -1px; top: -1px; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.row-2, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.row-2 { background: rgba(0,0,0,0.07); } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-1, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.column-column-1 { width: 33%; border-left: 1px solid #CACACA; border-right: 0px none ; vertical-align: top; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-1:before { border-left: 1px solid #CACACA; left: -1px; top: -1px; border-right: 0px none ; left: -0px; top: -0px; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-2, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.column-column-2 { width: 33%; border-left: 0px none ; border-right: 0px none ; vertical-align: top; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-2:before { border-left: 0px none ; left: -0px; top: -0px; border-right: 0px none ; left: -0px; top: -0px; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-3, #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > td.column-column-3 { width: 33%; border-left: 0px none ; border-right: 1px solid #CACACA; vertical-align: top; } #root\_content\_position\_1ee8\_position-par\_position\_1ee8\_0\_position-par\_table\_ff2d > .dexter-Table > tbody > tr > th.column-column-3:before { border-left: 0px none ; left: -0px; top: -0px; border-right: 1px solid #CACACA; left: -1px; top: -1px; }
 
-Please also see the [Adobe Terms of Use](https://www.adobe.com/legal/terms.html) and any additional Terms of Use or [Product License Agreements](https://www.adobe.com/legal/licenses-terms.html) that may apply to the app or website you are using.   
-  
- 
+Please also see the [Adobe Terms of Use](https://www.adobe.com/legal/terms.html) and any additional Terms of Use or [Product License Agreements](https://www.adobe.com/legal/licenses-terms.html) that may apply to the app or website you are using. 
 
 ### What information does Adobe collect about me?
 
@@ -113,12 +111,12 @@ When you register to use an Adobe app or website, create an Adobe ID, or contact
 *   Types of apps and websites of interest; and
 *   Content of customer support communications.
 
-To help keep our databases current and to provide you the most relevant content and experiences, we may combine information provided by you with information from third party sources, in accordance with applicable law. For example, the size, industry, and other information about the company you work for (where you have provided company name) will be obtained from sources including, professional networking sites and information service providers.   
+To help keep our databases current and to provide you the most relevant content and experiences, we may combine information provided by you with information from third party sources, in accordance with applicable law. For example, the size, industry, and other information about the company you work for (where you have provided company name) will be obtained from sources including, professional networking sites and information service providers. We may also collect and receive information from third parties, including partners, and from publicly accessible sources, for purposes that include to detect, prevent, or otherwise address fraud, security or technical issues, as well as to protect against harm to the rights, property or safety of Adobe and our employees, our users, children, or the public.  
  
 
 ****Adobe apps and websites****
 
-We collect information about how you use our apps and websites, including when you use a desktop app feature that takes you online (such as a photo syncing feature). Depending on the app or website, this information may be anonymous or it may be associated with you. It includes:
+We collect information about how you use our apps and websites, including when you use a desktop app feature that takes you online (such as a photo syncing feature). Depending on the app or website, this information may be associated with your device or browser or it may be associated with your Adobe account. It includes:
 
 *   IP address;
 *   Type of browser and device;
@@ -134,8 +132,9 @@ The following links provide further information on:
 *   [Mobile app usage information FAQ](https://www.adobe.com/privacy/mobile_app_usage_faq.html);
 *   [Experience Cloud usage information FAQ](https://www.adobe.com/privacy/experience-cloud-usage-info-faq.html);
 *   Your [privacy choices](https://www.adobe.com/privacy/opt-out.html) regarding how we use this information;
+*   Adobe products and services licensed by [educational institutions](https://www.adobe.com/privacy/student-policy.html);
 *   How Adobe uses [cookies and similar technologies](https://www.adobe.com/privacy/cookies.html); and
-*   How Adobe [uses automated systems to analyze your content](https://helpx.adobe.com/manage-account/amr/machine-learning-faq.html) using techniques such as machine learning in order to improve our apps and websites, and how to [opt out](http://www.adobe.com/go/machine_learning_opt_out) of this.  
+*   How Adobe [analyzes your content](https://helpx.adobe.com/manage-account/amr/machine-learning-faq.html) using techniques such as machine learning in order to improve our apps and websites, and how to [opt out](http://www.adobe.com/go/machine_learning_opt_out) of this.  
      
 
 **Adobe app activation and automatic updates**
@@ -170,10 +169,12 @@ Learn more about [Adobe’s advertising practices](https://www.adobe.com/privacy
 
 Adobe apps and websites may include buttons, tools, or content that link to other companies’ services (for example, a Facebook "Like" button). We may collect information about your use of these features, such as content “liked” and address information in Google Maps. In addition, when you see or interact with these buttons, tools, or content, or view an Adobe web page or app containing them, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information.
 
+Adobe websites may implement Google reCAPTCHA Enterprise to help prevent spam and abuse. reCAPTCHA Enterprise collects hardware and software information, such as device and application data, and sends it to Google for purposes of providing, maintaining, and improving reCAPTCHA Enterprise and for general security purposes. This information is not used by Google for personalized advertising. Your use of reCAPTCHA Enterprise is subject to Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-US) and [Terms of Use](https://policies.google.com/terms?hl=en-US).
+
   
 **Adobe social networking pages and social sign-on services**
 
-You can sign in to some Adobe apps or websites using a social networking account, such as a Facebook account. Where you give appropriate permissions, we will receive information about you from your social networking account, such as name, location, basic demographic information.
+You can sign in to some Adobe apps or websites using a social networking account, such as a Facebook account. Where you give appropriate permissions, we will receive information about you from your social networking account, such as name, location, and basic demographic information.
 
 Adobe has its own pages on many social networking sites (for example, the Adobe® Photoshop® team’s Facebook page). We will collect information which you have made publicly available on your social networking account, such as name and interests in our products and services, when you interact with our social networking pages. The social networking sites may provide statistics and insights to Adobe which help us understand the types of actions that people take on our pages. Where applicable, Adobe and the social media site(s) have entered into an arrangement which determines our respective responsibilities.
 
@@ -181,7 +182,7 @@ You can learn more about Adobe’s practices with respect to social networking p
 
 **Adobe acting on your behalf**
 
-In certain instances, Adobe is acting only on your behalf for personal information collected and processed by our services (for example, for the address book contacts shared by users when entering recipient information). In such cases, Adobe is acting only on your instructions in order to facilitate the service requested by you, and you will be responsible for the information shared. When this occurs we will inform you through in-app notifications or other in-time communications.
+In certain instances, Adobe is acting only on your behalf for personal information collected and processed by our services (for example, for the address book contacts shared by users when entering recipient information). In such cases, Adobe is acting only on your instructions in order to facilitate the service requested by you, and you will be responsible for the information shared. In these instances, we will inform you through in-app notifications or other in-time communications.
 
 ### How does Adobe use the information it collects about me, and what are the legal bases for these uses?
 
@@ -190,34 +191,34 @@ Adobe uses the information we collect about you for the following purposes:
 *   To fulfill a contract, or take steps linked to a contract: this is relevant where you register to use an Adobe app or website (whether paid, or as a free trial). This includes:
     *   Providing you with the Adobe websites and apps for which you have registered, and any other services or products that you have requested;
     *   Verifying your identity;
-    *   Taking payments;
+    *   Processing payments;
     *   Sending you necessary communications (for example, related to payments or expiration of your subscription); and
     *   Providing customer service or support.
 *   As required by Adobe to conduct our business and pursue our legitimate interests, in particular:
     *   Providing you with the Adobe websites and apps for which you have registered and any other products and services you have requested;
     *   Analyzing your use and measuring effectiveness of our websites and apps to better understand how they are being used so we can improve them and engage and retain users;
     *   Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is not required);
-    *   Analyzing your use of our websites and apps, and interaction with our communications, to tailor and customize the website or app, and marketing communications ([learn more](https://www.adobe.com/privacy/marketing.html#mktg-email));
-    *   Using automated systems to analyze your content through techniques such as machine learning in order to improve our services and the user experience (where your consent is not required);
+    *   Analyzing your use of our websites and apps, your content, and your interaction with our communications, to tailor and customize the website or app, and marketing communications ([learn more](https://www.adobe.com/privacy/marketing.html#mktg-email)) (where your consent is not required);
+    *   Analyzing your content through techniques such as machine learning in order to improve our services and the user experience (where your consent is not required);
     *   Diagnosing problems in our apps and websites;
-    *   Detecting, preventing, or otherwise addressing fraud, security or technical issues, as well as to protecting against harm to the rights, property or safety of Adobe, our users, or the public;
+    *   Detecting, preventing, or otherwise addressing fraud, security or technical issues, as well as protecting against harm to the rights, property or safety of Adobe, our users, or the public;
     *   Conducting surveys and market research about our customers, their interests, the effectiveness of our marketing campaigns, and customer satisfaction (unless we need consent to undertake such surveys, in which case we will only do this with your permission);
     *   Investigating and responding to any comments or complaints that you may send us;
-    *   Checking the validity of the sort code, account number and card number you submit if you use a credit or debit card for payment, in order to prevent fraud (we use third parties for this – see “Does Adobe share my personal information?” below); 
-    *   Sharing account information registered under a business email address with employers for account migrations purposes;
+    *   Checking the validity of the sort code, account number and card number you submit if you use a credit or debit card for payment, in order to prevent payment fraud (we use third parties for this – see “Does Adobe share my personal information?” below); 
+    *   Sharing account information registered under a business email address with employers for account migration purposes;
     *   If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any other prospective purchaser's advisers and will be one of the assets that is transferred to the new owner; and
     *   In connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of information in connection with government agency requests, legal process or litigation).
 
 Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. In such cases, we will cease processing information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
 
-*   Where you give Adobe your consent or otherwise consistent with your choices:
-    *   Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is required);
+*   Where required, when you give Adobe your consent or otherwise consistent with your choices:
+    *   Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes;
     *   Placing cookies and using similar technologies on our websites, on our apps and in email communications, in accordance with our [Cookies Policy](https://www.adobe.com/privacy/cookies.html) and the information provided to you when those technologies are used;
     *   Accessing information stored on your device relating to your use of, and engagement with, websites and apps (e.g., Adobe Connect meetings) and crash reports;
     *   Accessing information stored on your device which you allow us to receive through device-based settings (e.g., photos, location and camera) in order to provide certain functionality within our apps and websites; and
-    *   Using automated systems to analyze your content using techniques such as machine learning in order to improve our services and the user experience (where your consent is required);
+    *   Analyzing your content using techniques such as machine learning in order to improve our services and the user experience;
 
-On other occasions where we ask you for consent, we will use the information for the purposes which we explain at that time. Where we rely on consent to process data, you can withdraw your consent to such activities at any time.
+On other occasions where we ask you for consent, we will use the information for the purposes which we explain at that time. Where we rely on consent to process information, you can withdraw your consent to such activities at any time.
 
 *   For legal reasons:
     *   Responding to requests by government or law enforcement authorities conducting an investigation.  
@@ -236,24 +237,24 @@ Currently in the United States and Canada only, Adobe also uses your information
 
 We will share your personal information within the Adobe family of companies for the purposes identified above (see a list of [Adobe entities](https://www.adobe.com/about-adobe/contact/offices.html) and our [acquired companies](https://www.adobe.com/privacy/policies.html)).
 
-We will also share your personal information with other third-party data controllers. The types of third parties your information may be shared with include, our resellers and other sales and advertising partners, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, information service providers, fraud monitoring and prevention providers, publishers, and non-profit organizations (with your consent, if required). Third-party data controllers may also use Adobe products and services to collect and process your personal information. If you are using an email address that is associated with a business domain (e.g., yourname@businessname.com) to access Adobe's apps and websites, or if you were invited to use the apps and websites by a business, we may provide your personal information to that business.
+We will also share your personal information with other third-party data controllers. The types of third parties your information may be shared with include: our resellers and other sales and advertising partners, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, information service providers, fraud monitoring and prevention providers, publishers, and non-profit organizations (with your consent, if required). Third-party data controllers may also use Adobe products and services to collect and process your personal information. If you are using an email address that is associated with a business domain (e.g., yourname@businessname.com) to access Adobe's apps and websites, or if you were invited to use the apps and websites by a business, we may provide your personal information to that business.
 
-**Sharing for Fraud Prevention Purposes**
+**Sharing for Fraud Prevention, Safety and Security Purposes**
 
-We will share personal information with companies, organizations or individuals outside of Adobe if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to detect, prevent, or otherwise address fraud, security or technical issues, as well as to protect against harm to the rights, property or safety of Adobe, our users, or the public as required or permitted by law.
+We will share personal information with companies, organizations or individuals outside of Adobe if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to detect, prevent, or otherwise address fraud, security or technical issues, as well as to protect against harm to the rights, property or safety of Adobe and our employees, our users, children, or the public as required or permitted by law.
 
 **Sharing with Data Processors**
 
-We will also share your personal information with companies that help us to run our business by processing personal information on behalf of Adobe for the purposes identified above. Such companies include providers of customer support services, payment processing services, fraud monitoring and prevention, email, social media, and other marketing platforms and service providers, and hosting services. We require these companies to protect your personal information consistent with this Privacy Policy.
+We will also share your personal information with companies that help us run our business by processing personal information on behalf of Adobe for the purposes identified above. Such companies include providers of customer support services, payment processing services, fraud monitoring and prevention, email, social media, and other marketing platforms and service providers, and hosting services. We require these companies to protect your personal information consistent with this Privacy Policy.
 
   
 **Other Information Sharing**  
 Adobe may also share your personal information:
 
 *   When you agree to the sharing;
-*   When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process ([learn more](https://www.adobe.com/legal/lawenforcementrequests.html));
-*   When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our apps or websites against attacks, or protect the property and safety of Adobe, our customers and users, or the public;
-*   If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any prospective purchaser's advisers and will be one of the assets that is transferred to the new owner.
+*   When we have a good faith belief that we are required to provide information in response to a subpoena, court order, or other applicable law or legal process ([learn more](https://www.adobe.com/legal/lawenforcementrequests.html)), or to respond to an emergency involving the danger of death or serious bodily harm;
+*   If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any prospective purchaser's advisers and will be one of the assets that is transferred to the new owner.  
+    
 
 We may share or publish aggregate information that doesn’t specifically identify you, such as statistical information about visitors to our websites or statistical information about how customers [use the Adobe Experience Cloud](https://www.adobe.com/privacy/experience-cloud.html).  
  
@@ -277,13 +278,11 @@ Your personal information and files are stored on Adobe’s servers and the serv
 
 ### Does Adobe transfer my personal information across national borders?  
 
-We may transfer your personal information across national borders to other countries in compliance with applicable laws.
+The main locations where we process your personal information are the US and India, but we also transfer personal information to all other countries in the world where our apps, and other products or services are available. We carry out these transfers in compliance with applicable laws – for example, by putting data transfer agreements in place to help protect your personal information.
 
-If you reside outside of North America, your relationship is with Adobe Ireland. Adobe Ireland will transfer your personal information to some organizations and individuals which are located outside the European Economic Area (EEA), United Kingdom, and Switzerland, namely the US, India, and to all other countries in the world where our apps, and other products or services are available.
+If you reside outside of North America, your relationship is with Adobe Ireland. Where Adobe Ireland transfers your personal information to a country which is not within the EEA and is not subject to an adequacy decision by the EU Commission, we rely on one or more of the following legal mechanisms: European Commission approved Standard Contractual Clauses, and/or your consent in certain circumstances. A copy of the relevant mechanism can be provided for your review upon request, using the contact details provided at the end of this Privacy Policy. For more information about how Adobe Ireland transfers European personal information, please see [Cross-border data transfers](https://www.adobe.com/privacy/eudatatransfers.html).
 
-Where Adobe Ireland transfers your personal information to a country which is not within the EEA and is not subject to an adequacy decision by the EU Commission, we rely on one or more of the following legal mechanisms: Swiss-U.S. Privacy Shield, European Commission approved Standard Contractual Clauses, and your consent in certain circumstances. A copy of the relevant mechanism can be provided for your review upon request, using the contact details provided at the end of this Privacy Policy. For more information about the certification of Adobe U.S. to the Swiss-U.S. Privacy Shield, including the scope of our certifications, please see [European/Swiss data transfers](https://www.adobe.com/privacy/eudatatransfers.html).
-
-The information above applies to Adobe users who are consumers. More information is available for our business customers that want to learn more about [European data transfers](https://www.adobe.com/privacy/eudatatransfers.html).
+The information above applies to Adobe users who are consumers. More information is available for our business customers that want to learn more about [Cross-border data transfers](https://www.adobe.com/privacy/eudatatransfers.html).
 
 ### What rights do I have in respect of my personal information and how can I exercise these rights?
 
@@ -291,7 +290,7 @@ Under the law of some jurisdictions, you may have the right to ask us for a copy
 
 In addition, you can object to the processing of your personal information in some circumstances (such as where we are using the information for direct marketing).
 
-These rights may be limited, for example, if fulfilling your request would reveal personal information about another person, or if you ask us to delete information which we are required by law to keep or which we need to defend claims against us.
+These rights may be limited, for example, if fulfilling your request would reveal personal information about another person, or if you ask us to delete information which we are required by law to keep or which we need to defend claims against us. In addition, most web browsers have a “Do Not Track” feature that lets you tell websites you do not want to have your online activities tracked. Currently, there is not an accepted standard on how companies should respond to web browsers’ “Do Not Track” signals. Accordingly, our apps and websites do not currently recognize or respond to “Do Not Track” browser signals. However, you can learn more about Adobe’s advertising practices [](https://www.adobe.com/privacy/marketing.html)and your privacy choices [here](https://www.adobe.com/privacy/opt-out.html). 
 
 To exercise any of these rights (including deactivating your Adobe ID account), you can get in touch with us – or our data protection officer – using the details set out below. Additionally, many of our websites and apps allow you to edit your personal information by accessing the "[my account](https://accounts.adobe.com/)," "my profile," or a similar feature of the app or website you are using. Likewise, you can delete files or photos you have stored in our websites and apps by logging in and using the deletion functions that are available.
 
@@ -318,17 +317,17 @@ Click [here](https://www.adobe.com/privacy/opt-out.html) for further information
 
 ### What information is collected by companies using Adobe Experience Cloud solutions?
 
-Adobe Experience Cloud solutions help our business customers personalize and improve the performance of their websites, apps, and marketing messages. For example, these customers may use Adobe Experience Cloud solutions to collect and analyze information about how you use their websites ([learn more](https://www.adobe.com/privacy/experience-cloud.html)). The information collected is stored on our computers for use by these business customers.
+Adobe Experience Cloud solutions help our business customers personalize and improve the performance of their websites, apps, and marketing messages. For example, these customers may use Adobe Experience Cloud solutions to collect and analyze information about how individuals use their websites ([learn more](https://www.adobe.com/privacy/experience-cloud.html)). The information collected is stored in our services on behalf of and for use by these business customers.
 
 ### How long does Adobe retain my information?
 
-When you register for an Adobe ID account, we process and keep most personal information we have about you for as long as you are an active user of our products, services or apps. When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data. However, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us.
+When you register for an account and create an Adobe ID, we process and keep most personal information we have about you for as long as you are an active user of our products, services or apps. When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data. However, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us.
 
 Where we process personal information for marketing purposes or with your consent, we process the information until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a permanent record of the fact that you have asked us not to send you direct marketing or to process your information so that we can respect your request in future.
 
 ### Will this privacy policy change?
 
-Occasionally, we may change this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to accommodate new technologies, industry practices, regulatory requirements or for other purposes. If we do, we will change the "last updated" date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically review the [Adobe Privacy Center](https://www.adobe.com/privacy.html) for the latest information on our privacy practices. Under certain circumstances (for example with certain material changes) we will provide notice to you of these changes and, where required by applicable law, we will obtain your consent. Notice may be by email to you, by posting a notice of such changes on our apps and websites, or by other means consistent with applicable law. 
+Occasionally, we may update this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to accommodate new technologies, industry practices, regulatory requirements or for other purposes. If we do, we will change the "last updated" date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically review the [Adobe Privacy Center](https://www.adobe.com/privacy.html) for the latest information on our privacy practices. Under certain circumstances (for example with certain material changes) we will provide notice to you of these changes and, where required by applicable law, we will obtain your consent. Notice may be by email to you, by posting a notice of such changes on our apps and websites, or by other means consistent with applicable law. 
 
 ### Who can I contact with questions or concerns?
 

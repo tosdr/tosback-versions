@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [The F-35′s interoperability tech strengthens US alliances](http://feedproxy.google.com/~r/defense-news/air/~3/dt3fMdyf-4U/)  
+    12/16/20 05:00am  
+    
+    An F-35B takes off from the deck aboard the HMS Queen Elizabeth at sea on Oct. 10, 2020. (1st Lt. Zachary Bodner/U.S. Marine Corps)
+    
 *   [The first 9 attempts to retrieve swarming Gremlins drones failed. Here’s what’s next.](http://feedproxy.google.com/~r/defense-news/air/~3/ycItD_zPfjo/)  
     12/11/20 01:53pm  
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     Officials present a cockpit prototype, pitched by Airbus as an element of the envisioned Future Combat Air System, at the Spanish FEINDEF defense expo in Madrid on May 30, 2019. (Sebastian Sprenger/staff photo)
     
-*   [British F-35 buy is still a moving target, defense ministry tells lawmakers](http://feedproxy.google.com/~r/defense-news/air/~3/vtYTr5yLbsg/)  
-    12/09/20 06:24am  
-    
-    A Marine with Marine Fighter Attack Squadron (VMFA) 211 launches an F-35B Lightning II Joint Strike Fighter from the deck aboard Her Majesty's Ship (HMS) Queen Elizabeth at sea on 10 October, 2020. (Photo by 1st Lt. Zachary Bodner, Marine Corps)
-    
 
 Recent parts by keyword  
 
-*   [am1b5](https://aerobasegroup.com/search/?term=am1b5)
-*   [AN60](https://aerobasegroup.com/search/?term=AN60)
-*   [150B-1](https://aerobasegroup.com/search/?term=150B-1)
-*   [XLG3T6190FF](https://aerobasegroup.com/search/?term=XLG3T6190FF)
-*   [255x](https://aerobasegroup.com/search/?term=255x)
-*   [252x](https://aerobasegroup.com/search/?term=252x)
-*   [251x](https://aerobasegroup.com/search/?term=251x)
+*   [2215B](https://aerobasegroup.com/search/?term=2215B)
+*   [B107.600](https://aerobasegroup.com/search/?term=B107.600)
+*   [AS-2890/APR-39(V)](https://aerobasegroup.com/search/?term=AS-2890%2FAPR-39%28V%29)
+*   [95211A160](https://aerobasegroup.com/search/?term=95211A160)
+*   [LM747CN](https://aerobasegroup.com/search/?term=LM747CN)
+*   [MODEL 150](https://aerobasegroup.com/search/?term=MODEL+150)
+*   [AS3208](https://aerobasegroup.com/search/?term=AS3208)
 
 The AeroBase Group Family ..
 

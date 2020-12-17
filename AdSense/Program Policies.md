@@ -94,6 +94,18 @@ Site behavior
 
 Sites showing Google ads should be easy for users to navigate. Sites may not change user preferences, redirect users to unwanted websites, initiate downloads, include malware or contain pop-ups or pop-unders that interfere with site navigation.
 
+### Deceptive site navigation
+
+Publishers may not use deceptive implementation methods that place ads in a way that might be mistaken for menu, navigation or download links to obtain clicks or views. Keep in mind that every publisher is responsible to ensure that their ad implementation adheres to the [ad placement policies](https://support.google.com/adsense/answer/1346295). 
+
+This includes, but is not limited to:
+
+*   False claims of streaming content, or downloads
+*   Linking to content that doesn’t exist
+*   Redirecting users to irrelevant, or misleading webpages
+*   Other types of navigation that is designed to intentionally mislead users
+*   Pages where ads are implemented in placements that are intuitively meant for navigation.
+
 Technical requirements
 ----------------------
 

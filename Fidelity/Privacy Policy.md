@@ -45,6 +45,7 @@ Search fidelity.com or get a quote
     *   [Tax Forms & Information](https://www.fidelity.com/tax-information/overview)
     *   [Retirement DistributionsLog In Required](https://digital.fidelity.com/ftgw/digital/guide-to-required-minimum-distribution/)
     *   [Fidelity Rewards+Log In Required](https://rewards.fidelity.com/offers/rewards/secure/status/rewards-wealth-status?ofr=1311)
+    *   [New Account ChecklistLog In Required](https://digital.fidelity.com/ftgw/digital/new-account-tasks/tasks)
     
 *   [Planning & Advice](#)
     

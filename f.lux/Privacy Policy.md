@@ -14,17 +14,17 @@ f.lux Privacy Policy
 
 When you visit the f.lux website or use our software, we work hard to protect your privacy.
 
-Like most websites, our Website uses cookies and Google Analytics, and we also use communication services provided to us by companies including Facebook, Disqus, and Twitter.
+Like most websites, our Website uses cookies and Google Analytics, and we also use forum software provided by third parties (NodeBB).
 
-Our Software uses online mapping services (including Google Maps) to find your location, usually just once when you set things up. f.lux needs this information to calculate the times of your sunrise and sunset. Since operating systems and hardware are changing quickly, f.lux also has an automatic update feature that does daily checks and sends some information about your computer configuration to us. We collect information about which versions and features of the f.lux software are used. When you tell us to, we integrate with your home lighting (and to make this work, sometimes we talk to web services owned and operated by other companies).
+Our Software uses online mapping services (including Google Maps) to find your location, usually just once when you set things up. f.lux needs this information to calculate the times of your sunrise and sunset. Since operating systems and hardware are changing quickly, f.lux also has an automatic update feature that does daily checks and sends some information about your computer configuration to us. We collect information about which versions and features of the f.lux software are used. When you tell us to, we integrate with your home lighting (and to make this work, sometimes we talk to web services owned and operated by other companies). If we interact with you over social media, we are not in control of what third-party companies do.
 
-We intend that everything we do that could impact your privacy is visible to you. For example, on our Website, you can see a Facebook Like button, and in the Software, you can see a Google Map displayed in a window, and updates to the software can be skipped.
+We intend that everything we do that could impact your privacy is visible to you. For example, in the Software, you can see a Google Map displayed in a window, and updates to the software can be skipped.
 
 You can read our full legal policy, below.
 
 ### f.lux Privacy Policy
 
-We at F.lux Software LLC (“Company”) know you care about the information we may collect from you and that you may provide to us and how that information is used and shared. Please read the following to learn more about our Privacy Policy. For the purposes of this Privacy Policy, “Software” means the f.lux software you are about to (or have already) downloaded and/or installed, and “Website” refers to the [justgetflux.com](https://justgetflux.com/) website and related online services operated by the Company. By using the Software in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
+We at f.lux Software LLC (“Company”) know you care about the information we may collect from you and that you may provide to us and how that information is used and shared. Please read the following to learn more about our Privacy Policy. For the purposes of this Privacy Policy, “Software” means the f.lux software you are about to (or have already) downloaded and/or installed, and “Website” refers to the [justgetflux.com](https://justgetflux.com/) website and related online services operated by the Company. By using the Software in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
 Remember that your use of Company’s Software is at all times subject to the [End User License Agreement](https://justgetflux.com/eula/), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [End User License Agreement](https://justgetflux.com/eula/).
 
@@ -44,7 +44,7 @@ We’re constantly trying to improve our Software, so we may need to change this
 
 We receive and store any information you knowingly provide to us. For example, if you use our Software to search for your location, we may collect geolocation data (including, without limitation, city names and specific addresses you provide). We may also collect usage information such as your Software settings and preferences, and system information (including, without limitation, make and model of your computer, driver versions, and connected display types). Certain information may be required to take advantage of some of our features.
 
-If you request support or ask a question about the Software, we may communicate with you if you’ve provided us the means to do so (either directly or through a third party service such as Facebook, Twitter and/or an email provider). For example, we may send you emails about your use of the Software or responses to comments or questions you may have.
+If you request support or ask a question about the Software, we may communicate with you if you’ve provided us the means to do so (either directly or through a third party service and/or an email provider). For example, we may send you emails about your use of the Software or responses to comments or questions you may have.
 
 #### Information Collected Automatically
 
@@ -70,7 +70,7 @@ From time to time, Company may send notifications or messages (each, a “Notifi
 
 We neither rent nor sell your information in personally identifiable form to anyone. However, we may share your information with third parties as described in this section:
 
-**Third Parties:** On our Website or in the Software, we may utilize services available to us (such as Google Maps, Twitter, Disqus, Facebook, Philips Hue, and email providers), and we may partner or work with third party services (such as lighting controls, fitness, geolocation providers, or home automation companies) to offer you certain features in connection with the Software, and such third party services may collect information from our users. We have no control over the policies and practices of third party services as to privacy or anything else, so please familiarize yourself with their policies.
+**Third Parties:** On our Website or in the Software, we may utilize services available to us (such as Google Maps, Philips Hue, and email providers), and we may partner or work with third party services (such as lighting controls, fitness, geolocation providers, or home automation companies) to offer you certain features in connection with the Software, and such third party services may collect information from our users. Similarly, we may offer support services via social networks like Facebook and Twitter. We have no control over the policies and practices of third party services as to privacy or anything else, so please familiarize yourself with their policies.
 
 **Agents:** We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or Software to you. Unless we tell you differently, our agents do not have any right to use the information we share with them beyond what is necessary to assist us.
 

@@ -369,6 +369,7 @@ Resources
 *   [Developer program](https://nextcloud.com/developer)
 *   [Security](https://nextcloud.com/security)
 *   [Code on GitHub](https://github.com/nextcloud)
+*   [Compare](https://nextcloud.com/compare)
 
 Interact
 ========

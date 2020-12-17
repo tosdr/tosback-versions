@@ -283,7 +283,7 @@ Add class with our most popular business card
 
 [Coaster](https://www.jukeboxprint.com/creator/custom-coaster-maker)
 
-[Gift Card Holder](https://www.jukeboxprint.com/creator/template/doc/148/landscape)
+[Gift Card Holder](https://www.jukeboxprint.com/creator/gift-card-holder-maker)
 
 ##### Tools
 

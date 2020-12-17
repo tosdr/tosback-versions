@@ -1,7 +1,7 @@
 Strava Terms of Service
 -----------------------
 
-These terms are effective December 15, 2020. [Previous terms can be found here](https://www.strava.com/legal/terms_old).
+Effective Date: December 15, 2020
 
 Welcome to Strava. We want you to know and understand your rights and our rights relating to the provision of the Services (as defined below). Please review them carefully. Here are a few highlights:
 

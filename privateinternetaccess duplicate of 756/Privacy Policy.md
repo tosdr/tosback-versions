@@ -316,7 +316,6 @@ Programs
 *   [Become a Partner](https://www.privateinternetaccess.com/pages/reseller-program "Become a Partner")
 *   [Affiliates](https://www.privateinternetaccess.com/pages/affiliates/ "Affiliates")
 *   [Refer a friend](https://www.privateinternetaccess.com/pages/refer-a-friend "Refer a friend")
-*   [Student Discount](https://www.privateinternetaccess.com/pages/student-discount "Student Discount")
 
 Tools
 
@@ -326,7 +325,7 @@ Tools
 
 About
 
-Private Internet Access is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Our service is backed by multiple gateways worldwide with access in 76+ countries, 127+ regions.
+Private Internet Access is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Our service is backed by multiple gateways worldwide with access in 77+ countries, 128+ regions.
 
 Connect with us
 

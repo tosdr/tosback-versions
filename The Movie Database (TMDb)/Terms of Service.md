@@ -211,7 +211,7 @@ This Agreement was last updated on: July 26, 2019.
 *   [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use)
 *   [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 
-Build ae37310 (676)
+Build 225ec51 (681)
 
 Can't find a movie or TV show? Login to create it.
 

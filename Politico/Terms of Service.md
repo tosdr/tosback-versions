@@ -327,7 +327,7 @@ Privacy Policy
 
 This Privacy Policy discloses the privacy practices for [www.politico.com](http://www.politico.com/) (“POLITICO”), [www.politicopro.com](http://www.politicopro.com/) (“POLITICO PRO”), and any other sites that display authorized links to this policy, including all mobile websites (collectively with POLITICO and POLITICO PRO, each a “Site”) and applications (each an “Application”) associated therewith, provided by POLITICO LLC (“POLITICO LLC”, “we” or “us”). For individuals in the EU using the Site or Application, POLITICO LLC, located at 1000 Wilson Blvd, 8th Floor, Arlington, VA, 22209, is considered to be the controller of your data.
 
-This Privacy Policy governs our collection, use, and disclosure of information from and about you, including through your use of the Sites and Applications. Please read this Privacy Policy carefully so that you understand our privacy practices. By browsing a Site; installing, downloading, or using an Application; and/or providing your information to us in any other way, you understand that we will collect, use, and disclose your information in accordance with the terms of this Privacy Policy. Questions regarding privacy issues should be directed to us at [\[email protected\]](https://www.politico.com/cdn-cgi/l/email-protection#9fefedf6e9fefce6dfeff0f3f6ebf6fcf0b1fcf0f2) or at the address above.
+This Privacy Policy governs our collection, use, and disclosure of information from and about you, including through your use of the Sites and Applications. Please read this Privacy Policy carefully so that you understand our privacy practices. By browsing a Site; installing, downloading, or using an Application; and/or providing your information to us in any other way, you understand that we will collect, use, and disclose your information in accordance with the terms of this Privacy Policy. Questions regarding privacy issues should be directed to us at [\[email protected\]](https://www.politico.com/cdn-cgi/l/email-protection#e090928996818399a0908f8c899489838fce838f8d) or at the address above.
 
   
 
@@ -585,7 +585,7 @@ If you have any questions regarding our privacy practices or this Privacy Policy
 *   [Advertising](https://www.politico.com/advertising)
 *   [Breaking News Alerts](https://www.politico.com/subscribe/breaking-news-alerts)
 *   [Careers](https://www.politico.com/careers)
-*   [Credit Card Payments](https://secure.politico.com/payment)
+*   [Credit Card Payments](https://www.politico.com/payment)
 *   [Digital Edition](http://edition.pagesuite-professional.co.uk/Launch.aspx?bypass=true&PBID=74262970-aa07-44b3-80c8-21fa8a8ac376)
 *   [FAQ](https://www.politico.com/faq)
 *   [Feedback](https://www.politico.com/feedback)

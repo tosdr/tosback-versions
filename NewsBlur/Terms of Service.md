@@ -124,6 +124,10 @@ This document is CC-BY-SA. It was last updated January 1, 2018.
 
 Originally adapted from the [WordPress Terms of Service](http://en.wordpress.com/tos/).
 
-[Home](https://forum.newsblur.com/) [Categories](https://forum.newsblur.com/categories) [FAQ/Guidelines](https://forum.newsblur.com/guidelines) [Terms of Service](https://forum.newsblur.com/tos) [Privacy Policy](https://forum.newsblur.com/privacy)
+*   [Home](https://forum.newsblur.com/)
+*   [Categories](https://forum.newsblur.com/categories)
+*   [FAQ/Guidelines](https://forum.newsblur.com/guidelines)
+*   [Terms of Service](https://forum.newsblur.com/tos)
+*   [Privacy Policy](https://forum.newsblur.com/privacy)
 
 Powered by [Discourse](https://www.discourse.org/), best viewed with JavaScript enabled

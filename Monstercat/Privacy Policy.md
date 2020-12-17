@@ -29,20 +29,13 @@ window.fbAsyncInit = function() { FB.init({ appId : '282352068773785', autoLogAp
 *   [Shop](http://shop.monstercat.com/)
 *   [Blog](https://www.monstercat.com/blog)
 
-*   [Music](https://www.monstercat.com/music)
-*   [Artists](https://www.monstercat.com/artists)
-*   [Events](https://www.monstercat.com/events)
-*   [Blog](https://www.monstercat.com/blog)
-*   [Radio Show](https://www.monstercat.com/cotw)
-*   [Shop](https://shop.monstercat.com/)
-*   [Contact](https://www.monstercat.com/contact)
 *   [Privacy Policy](https://www.monstercat.com/privacy-policy)
 *   [Terms of Service](https://www.monstercat.com/terms-of-service)
+*   [Contact](https://www.monstercat.com/contact)
 *   [Careers](https://www.monstercat.com/careers)
 *   [Press](https://www.monstercat.com/press)
 *   [Publishing](https://www.monstercat.com/publishing)
 *   [Licensing](https://www.monstercat.com/licensing)
-*   [Gold](https://www.monstercat.com/gold)
 
 *   [Help](https://www.monstercat.com/help "Help")
 *   Talk to us

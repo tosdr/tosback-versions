@@ -2,13 +2,13 @@ Yo.sequence.node(document.body);
 
 By using this site, you acknowledge we use cookies to enhance your experience. Learn more or change settings [here](https://www.bose.com/en_us/support/cookie_policy.html).  
 
-Order by 11 AM, Dec 15 EST with free shipping for delivery by Dec 24. In-stock items only.
+Order by 11 AM, Dec 20 EST with free 2-day shipping for delivery by Dec 24. In-stock items only.
 
 play\_pause
 
 close banner
 
-Order by 11 AM, Dec 15 EST with free shipping for delivery by Dec 24. In-stock items only.
+Order by 11 AM, Dec 20 EST with free 2-day shipping for delivery by Dec 24. In-stock items only.
 
 [Skip to content](#mainContent "Skip to content") [![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_logo.png) ![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_mobile_logo.png)](https://www.bose.com/en_us/index.html "Bose") 
 
@@ -29,6 +29,7 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
 
 *   [Holiday gifts](https://www.bose.com/en_us/products/gift_ideas.html "Holiday gifts")
     
+    *   [Find your gift](https://www.bose.com/en_us/landing_pages/gift-assistant.html "Find your gift")
     *   [Special offers](https://www.bose.com/en_us/special_offers.html "Special offers")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
     
@@ -42,7 +43,6 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [TECH LOVERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_technology_lovers.html "TECH LOVERS")
     *   [FOR FAMILIES](https://www.bose.com/en_us/products/gift_ideas/gifts_for_families.html "FOR FAMILIES")
     *   [GIFTS UNDER $250](https://www.bose.com/en_us/products/gift_ideas/affordable_gifts.html "GIFTS UNDER $250")
-    *   [THANKSGIVING](https://www.bose.com/en_us/products/gift_ideas/gifts_for_thanksgiving.html "THANKSGIVING")
     
 *   [Headphones](https://www.bose.com/en_us/products/headphones.html "Headphones")
     
@@ -103,7 +103,7 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [Bose Community](https://community.bose.com/t5/English/ct-p/en "Bose Community")
     
     *   [Order tracking](https://www.bose.com/en_us/track-order.html "Order tracking")
-    *   [Service & Repair](https://www.bose.com/en_us/support/self_service/service_and_repair_request.html "Service & Repair")
+    *   [Repair and Replacement](https://www.bose.com/en_us/support/self_service/service_and_repair_request.html "Repair and Replacement")
     *   [Returns](https://www.bose.com/en_us/return_order.html "Returns")
     
     *   [Headphone accessories](https://www.bose.com/en_us/products/headphones/headphone_accessories.html "Headphone accessories")

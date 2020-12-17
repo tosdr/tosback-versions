@@ -144,6 +144,6 @@ We recognize and acknowledge current data protection laws in the European Union,
 
 #### Has McGraw Hill signed the Student Privacy Pledge?
 
-![Student Privacy Pledge Signatory](//www.mheducation.com/content/dam/mhe/corporate/privacy/student-privacy-pledge.png)
+![Student Privacy Pledge Signatory](https://www.mheducation.com/content/dam/mhe/corporate/privacy/student-privacy-pledge.png)
 
 McGraw Hill is a signatory to the [Student Privacy Pledge](https://studentprivacypledge.org/) and is committed to protecting student information. If a materially adverse change is made to this notice, we will notify your educational institution and seek their consent for this change.

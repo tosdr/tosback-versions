@@ -1,7 +1,7 @@
 Strava Privacy Policy
 ---------------------
 
-This policy is effective December 15, 2020. [The previous Privacy Policy can be found here](https://www.strava.com/legal/privacy_old).
+Effective Date: December 15, 2020
 
 Your privacy is very important to us. Before we get to the details, check out our Privacy Label to see a summary of our privacy practices. Click on the links to learn more and read the full policy below.
 

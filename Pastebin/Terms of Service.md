@@ -328,42 +328,42 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/JfiBKAJK)
+*   [Merge\_methods](https://pastebin.com/5EJxhdjm)
     
-    C++ | 1 min ago
+    Java | 1 min ago
     
-*   [Brug af integer variabel](https://pastebin.com/z9h3y3Rp)
+*   [Merge\_main](https://pastebin.com/s0kPf0BL)
     
-    C# | 6 min ago
+    Java | 1 min ago
     
-*   [Lokal vs global](https://pastebin.com/WBK287sZ)
+*   [Scan Changed Domains](https://pastebin.com/zdvWvye8)
     
-    C# | 25 min ago
+    Batch | 5 min ago
     
-*   [Untitled](https://pastebin.com/w5UBw6aP)
+*   [Document](https://pastebin.com/Z5nmnCG2)
     
-    Lua | 34 min ago
+    Latex | 10 min ago
     
-*   [nginx for redmine](https://pastebin.com/Y8dDKFFi)
+*   [Untitled](https://pastebin.com/bcufGNy3)
     
-    Nginx | 35 min ago
+    Lua | 11 min ago
     
-*   [Untitled](https://pastebin.com/SvfN4cHK)
+*   [Win64\_Thunking](https://pastebin.com/yQ3skPsi)
     
-    C++ | 40 min ago
+    C | 13 min ago
     
-*   [CC Monitor Redstone Switch](https://pastebin.com/4ZLeFgaH)
+*   [ashrafulvai](https://pastebin.com/ZRHnLMET)
     
-    Lua | 52 min ago
+    Java | 41 min ago
     
-*   [DymoLabelXML](https://pastebin.com/ByfYLpUf)
+*   [Remove Horizontal Scrollbar Overflow](https://pastebin.com/gj0HcDXD)
     
-    XML | 53 min ago
+    CSS | 58 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-  
+Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

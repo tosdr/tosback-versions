@@ -214,32 +214,6 @@ Nous mettons à disposition nos salles afin que vous puissiez vous entraîner sa
 
 [Plus d'info](https://www.pole-emotion.ch/produit/location-pendant-covid-des-salles-pole-emotion/)
 
-15
-
-Déc.
-
-2020
-
-##### Cours privé
-
-Crissier 1
-
-Crissier 2
-
-Monthey
-
-Lausanne
-
-Yverdon Studio 48
-
-Yverdon Pole
-
-Gland
-
-Toutes [les disciplines de l’école](https://www.pole-emotion.ch/categories-de-cours/les-cours/) sont disponibles en coaching privé et bien plus encore! De la confiance en soi au striptease, en passant par la pole nous t’organisons à la carte le coaching de ton choix! Envie de faire un striptease à ta moitié? Nous te créons une chorégraphie accessible et selon ton envie avec tous les conseils d'une pro pour te mettre en confiance! Envie de te remettre en forme? Nous t'accueillons dans nos salles et préparons un programme adapté à ta demande et ton but! Envie de reprendre confiance en toi après une rupture ou un coup dur? Nos cours de maintien du corps ou comment marcher en talons te permettrons de te sentir bien en te regardant dans le miroir. Et tellement d'autres !
-
-[Plus d'info](https://www.pole-emotion.ch/produit/cours-prive/)
-
 31
 
 Jan.

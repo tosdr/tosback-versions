@@ -317,7 +317,7 @@ You also have the right to request the specific pieces of personal information w
 
 In addition, you have the right to delete the personal information we have collected from you.
 
-To exercise any of these rights, please submit a request through our online form available at [http://wizards.custhelp.com](http://wizards.custhelp.com/), call our toll free number at (800) 324-6496, or email us at privacy@wizards.com. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.
+To exercise any of these rights, please submit a request through our online form available at [https://support.wizards.com](https://support.wizards.com/), call our toll free number at (800) 324-6496, or email us at privacy@wizards.com. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.
 
 2.  **Do Not Sell My Personal Information**
 

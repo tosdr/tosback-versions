@@ -84,4 +84,4 @@ All work licensed under **CC BY-SA 4.0** unless otherwise stated.
 
 [![512 Club green team banner](/assets/images/green-team.svg)](https://512kb.club/)
 
-[🔝](#top)
+[^ TOP ^](#top)

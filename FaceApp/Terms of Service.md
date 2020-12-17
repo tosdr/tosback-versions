@@ -1,19 +1,40 @@
+[](https://faceapp.com/)
+
+*   [Features](https://faceapp.com/#features)
+*   [Media](https://faceapp.com/#media)
+*   [Faq](https://faceapp.com/faq)
+*   [About Us](https://faceapp.com/about)
+
+ Primary Menu 
+
+*   [Home](https://faceapp.com/)
+*   [Get the App](https://apps.apple.com/app/apple-store/id1180884341)
+*   [Get the App](https://play.google.com/store/apps/details?id=io.faceapp)
+*   [About Us](https://faceapp.com/about)
+*   [Faq](https://faceapp.com/faq)
+*   [Support](mailto:support@faceapp.com)
+*   [Contact Us](mailto:contact@faceapp.com)
+
+[Terms of use](https://faceapp.com/terms) & [Privacy Policy](https://faceapp.com/privacy)
+
+© 2020 FaceApp. All Rights Reserved.
+
 Terms of Use Agreement
 ======================
 
-You can see our previous Terms of Use at [www.faceapp.com/terms-20170803.html](https://www.faceapp.com/terms-20170803.html)
+You can see our previous Terms of Use at [www.faceapp.com/terms-20170803.html](https://faceapp.com/terms-20170803.html)
 
-Last Updated: December 03, 2019
+Last updated: December 03, 2019
 
 These Terms of Use Agreement (“Agreement”) apply to your access and use of this website, or the applications and other online products and services (collectively, our “Services”) provided by FaceApp Inc (“FaceApp” or “we”).
 
-PLEASE BE AWARE THAT SECTION 14 OF THE AGREEMENT, BELOW, CONTAINS PROVISIONS GOVERNING HOW DISPUTES THAT YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY DISPUTES THAT AROSE OR WERE ASSERTED PRIOR TO THE EFFECTIVE DATE OF THIS AGREEMENT. IN PARTICULAR, IT CONTAINS AN ARBITRATION AGREEMENT WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN US TO BE SUBMITTED TO BINDING AND FINAL ARBITRATION. UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEVE AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.
+BE AWARE THAT SECTION 14 OF THE AGREEMENT, BELOW, CONTAINS PROVISIONS GOVERNING HOW DISPUTES THAT YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY DISPUTES THAT AROSE OR WERE ASSERTED PRIOR TO THE EFFECTIVE DATE OF THIS AGREEMENT. IN PARTICULAR, IT CONTAINS AN ARBITRATION AGREEMENT WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN US TO BE SUBMITTED TO BINDING AND FINAL ARBITRATION. UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEVE AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.
 
 ANY DISPUTE, CLAIM OR REQUEST FOR RELIEF RELATING IN ANY WAY TO YOUR USE OF THE SITE WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OF CALIFORNIA, CONSISTENT WITH THE FEDERAL ARBITRATION ACT, WITHOUT GIVING EFFECT TO ANY PRINCIPLES THAT PROVIDE FOR THE APPLICATION OF THE LAW OF ANY OTHER JURISDICTION. THE UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS IS EXPRESSLY EXCLUDED FROM THE AGREEMENT. If you do not agree to this Agreement, including the mandatory arbitration provision and class action waiver in Section 14, do not access or use our Services.
 
 PLEASE NOTE THAT THE AGREEMENT IS SUBJECT TO CHANGE BY FACEAPP IN ITS SOLE DISCRETION AT ANY TIME. When changes are made, we will make a new copy of the Agreement available at our website and within our mobile application. We will also update the “Last Updated” date at the top of the Agreement. If we make any material changes, we will also send push notification or show a pop-up to you via the FaceApp application. Any changes to the Agreement will be effective immediately for new users of the website, the mobile application and/or the Services and will be effective thirty (30) days after posting notice of such changes on the website for existing users, provided that any material changes shall be effective for existing users upon the earlier of thirty (30) days after posting notice of such changes on the website or thirty (30) days after dispatch of the push notification of such changes. We may require you to provide consent to the updated Agreement in a specified manner before further use of the website, the mobile application and/or the Services is permitted. If you do not agree to any change(s) after receiving a notice of such change(s), you shall stop using the Services, including the website and the mobile application. Otherwise, your continued use of the Services, including the website and the mobile application, constitutes your acceptance of such changes. PLEASE CHECK THE WEBSITE REGULARLY TO VIEW THE THEN-CURRENT AGREEMENT.
 
-If you have any questions about this Agreement or our Services, please contact us at document.getElementById("ckeb3n6wh0009qbfpcift69bq").innerHTML='<n uers="znvygb:pbagnpg@snprncc.pbz">pbagnpg@snprncc.pbz</n>'.replace(/\[a-zA-Z\]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
+If you have any questions about this Agreement or our Services, please contact us at [contact@faceapp.com](mailto:contact@faceapp.com)
 
 1\. Eligibility
 ---------------
@@ -28,7 +49,7 @@ If you choose to login to the Services via a third-party platform or social medi
 3\. Privacy
 -----------
 
-Please refer to our [Privacy Policy](https://www.faceapp.com/privacy) for information about how we collect, use and disclose information about you.
+Please refer to our [Privacy Policy](https://faceapp.com/privacy) for information about how we collect, use and disclose information about you.
 
 4\. User Content
 ----------------
@@ -78,7 +99,7 @@ Our Services and the text, graphics, images, photographs, videos, illustrations,
 7\. Feedback
 ------------
 
-Any questions, comments, suggestions, ideas, original or creative materials or other information you submit about FaceApp or our products or Services (collectively, “Feedback”), is non-confidential and we have no obligations (including without limitation obligations of confidentiality) with respect to such Feedback. You hereby grant to FaceApp a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all Feedback, and to sublicense the foregoing rights, in connection with the operation and maintenance of the Services and/or FaceApp’s business.
+Any questions, comments, suggestions, ideas, original or creative materials or other information you submit about FaceApp or our products or Services (collectively,“Feedback”), is non-confidential and we have no obligations (including without limitation obligations of confidentiality) with respect to such Feedback. You hereby grant to FaceApp a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all Feedback, and to sublicense the foregoing rights, in connection with the operation and maintenance of the Services and/or FaceApp’s business.
 
 8\. Copyright Complaints
 ------------------------
@@ -109,7 +130,7 @@ The limitations set forth in this section will not limit or exclude liability fo
 12\. Release
 ------------
 
-To the fullest extent permitted by applicable law, you release FaceApp and the other FaceApp Parties from responsibility, liability, claims, demands, and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between users and the acts or omissions of third parties. You expressly waive any rights you may have under California Civil Code § 1542 as well as any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
+To the fullest extent permitted by applicable law, you release FaceApp and the other FaceApp Parties from responsibility, liability, claims, demands, and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between users and the acts or omissions of third parties. **You expressly waive any rights you may have under California Civil Code § 1542 as well as any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.**
 
 13\. Transfer and Processing Data
 ---------------------------------
@@ -133,7 +154,7 @@ Waiver of Jury Trial. YOU AND FACEAPP HEREBY WAIVE ANY CONSTITUTIONAL AND STATUT
 
 Waiver of Class or Other Non-Individualized Relief. ALL DISPUTES, CLAIMS AND REQUESTS FOR RELIEF WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS OR COLLECTIVE BASIS. ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER USER. If a decision is issued stating that applicable law precludes enforcement of any of this subsection’s limitations as to a given dispute, claim or request for relief, then such aspect must be severed from the arbitration and brought into the State or Federal Courts located in the State of California. All other disputes, claims, or requests for relief shall be arbitrated.
 
-30-Day Right to Opt-Out. You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt-out to: document.getElementById("ckeb3n6wh000aqbfpjsq0mzwh").innerHTML='<n uers="znvygb:neovgengvba@snprncc.pbz">neovgengvba@snprncc.pbz</n>'.replace(/\[a-zA-Z\]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});, within 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your username (if any), the e-mail address you used to set up your account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+30-Day Right to Opt-Out. You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt-out to: [arbitration@faceapp.com](mailto:arbitration@faceapp.com), within 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your username (if any), the e-mail address you used to set up your account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
 
 You and FaceApp agree that the state or federal courts of the State of California and the United States sitting in Santa Clara County, California have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.
 
@@ -141,7 +162,7 @@ Severability. Except as provided in this Section 14 above, if any part or parts 
 
 Survival of Agreement. This Arbitration Agreement will survive the termination of your relationship with FaceApp.
 
-Modification, Notwithstanding any provision in this Agreement to the contrary, we agree that if FaceApp makes any future material change to this Arbitration Agreement you may reject that change within thirty (30) days of such change becoming effective by writing Company at the following address: document.getElementById("ckeb3n6wh000bqbfphef6eh29").innerHTML='<n uers="znvygb:neovgengvba@snprncc.pbz">neovgengvba@snprncc.pbz</n>'.replace(/\[a-zA-Z\]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});.
+Modification, Notwithstanding any provision in this Agreement to the contrary, we agree that if FaceApp makes any future material change to this Arbitration Agreement you may reject that change within thirty (30) days of such change becoming effective by writing Company at the following address: [arbitration@faceapp.com](mailto:arbitration@faceapp.com).
 
 15\. Governing Law and Venue
 ----------------------------
@@ -181,10 +202,10 @@ The following terms apply if you install, access or use the Services on any devi
     1000 N West Street, Suite 1200,  
     Wilmington, Delaware, 19801  
     USA  
-    document.getElementById("ckeb3n6wh000cqbfp2xxu9a9y").innerHTML='<n uers="znvygb:pbagnpg@snprncc.pbz">pbagnpg@snprncc.pbz</n>'.replace(/\[a-zA-Z\]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
+    [contact@faceapp.com](mailto:contact@faceapp.com)
     
 *   Third-Party Terms of Agreement. You agree to comply with any applicable third-party terms when using the Services.
-*   Third-Party Beneficiary. The parties acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of this Agreement, and that, upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof).
+*   Third-Party Beneficiary. The parties acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of this Agreement, and that, upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof.
 
 20\. Export
 -----------
@@ -195,3 +216,29 @@ You may not use, export, import, or transfer all or any portion of the Services 
 ------------------
 
 In accordance with California Civil Code section 1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210. This Agreement constitutes the entire agreement between you and FaceApp relating to your access to and use of our Services. The failure of FaceApp to exercise or enforce any right or provision of this Agreement will not operate as a waiver of such right or provision. The section titles in this Agreement is for convenience only and have no legal or contractual effect. Except as otherwise provided herein, this Agreement is intended solely for the benefit of the parties and are not intended to confer third party beneficiary rights upon any other person or entity.
+
+### Company
+
+*   [About Us](https://faceapp.com/about)
+*   [Features](https://faceapp.com/#features)
+*   [Media](https://faceapp.com/#media)
+
+### Contacts
+
+*   [Contact Us](mailto:contact@faceapp.com)
+*   [Support](mailto:support@faceapp.com)
+
+### Legal
+
+*   [Privacy Policy](https://faceapp.com/privacy)
+*   [Terms of Use](https://faceapp.com/terms)
+
+### Social
+
+*   [Instagram](https://www.instagram.com/faceappai/ "instagram")
+*   [Twitter](https://twitter.com/faceapp_ai "twitter")
+*   [Facebook](https://www.facebook.com/faceappai "facebook")
+
+© 2020 FaceApp. All Rights Reserved.
+
+(function () { vhCheck(); }());

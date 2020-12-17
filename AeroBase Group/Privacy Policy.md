@@ -200,8 +200,13 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+*   [Artoo, take the wheel: U-2 spy plane flies for the first time with an AI co-pilot](http://feedproxy.google.com/~r/defense-news/air/~3/8MBkJWBQeR0/)  
+    12/16/20 03:28pm  
+    
+    A U-2 spy plane prepares to land at Beale Air Force, Calif., on Dec. 15, 2020. The U-2 Federal Laboratory trained an AI co-pilot to execute specific in-flight tasks that would otherwise be done by the pilot. (Airman 1st Class Luis A. Ruiz-Vazquez/U.S. Air Force)
+    
 *   [The F-35′s interoperability tech strengthens US alliances](http://feedproxy.google.com/~r/defense-news/air/~3/dt3fMdyf-4U/)  
-    12/16/20 05:00am  
+    12/16/20 10:09am  
     
     An F-35B takes off from the deck aboard the HMS Queen Elizabeth at sea on Oct. 10, 2020. (1st Lt. Zachary Bodner/U.S. Marine Corps)
     
@@ -215,21 +220,16 @@ This document was last updated on January 1, 2014
     
     A B-1B Lancer launches an intert AGM-158 Joint Air-to-Surface Standoff Missile, or JASSM, from an external pylon on its fuselage during tests Dec. 4, 2020 at Holloman Air Force Base, N.M. (Air Force)
     
-*   [Despite progress, industry faces ‘very tough roadmap’ to field FCAS by 2040](http://feedproxy.google.com/~r/defense-news/air/~3/PbHmO_ZKB0s/)  
-    12/09/20 12:47pm  
-    
-    Officials present a cockpit prototype, pitched by Airbus as an element of the envisioned Future Combat Air System, at the Spanish FEINDEF defense expo in Madrid on May 30, 2019. (Sebastian Sprenger/staff photo)
-    
 
 Recent parts by keyword  
 
-*   [2215B](https://aerobasegroup.com/search/?term=2215B)
-*   [B107.600](https://aerobasegroup.com/search/?term=B107.600)
-*   [AS-2890/APR-39(V)](https://aerobasegroup.com/search/?term=AS-2890%2FAPR-39%28V%29)
-*   [95211A160](https://aerobasegroup.com/search/?term=95211A160)
-*   [LM747CN](https://aerobasegroup.com/search/?term=LM747CN)
-*   [MODEL 150](https://aerobasegroup.com/search/?term=MODEL+150)
-*   [AS3208](https://aerobasegroup.com/search/?term=AS3208)
+*   [FX10-1520](https://aerobasegroup.com/search/?term=FX10-1520)
+*   [A20SB](https://aerobasegroup.com/search/?term=A20SB)
+*   [AS20](https://aerobasegroup.com/search/?term=AS20)
+*   [1723B](https://aerobasegroup.com/search/?term=1723B)
+*   [172-310SL-3P2](https://aerobasegroup.com/search/?term=172-310SL-3P2)
+*   [M23053-5-110](https://aerobasegroup.com/search/?term=M23053-5-110)
+*   [SA139](https://aerobasegroup.com/search/?term=SA139)
 
 The AeroBase Group Family ..
 

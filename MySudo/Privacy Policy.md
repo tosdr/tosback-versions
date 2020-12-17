@@ -17,7 +17,7 @@ This privacy policy describes what information Anonyome Labs, Inc. collects and 
 Introduction – Take Control of Your Privacy
 -------------------------------------------
 
-This Privacy Policy tells you how we (Anonyome Labs, Inc.) collect, use and share the personal information we collect from users of our websites, including [https://anonyome.com](https://anonyome.com/),  [https://mysudo.com](https://www.mysudo.com/) and [https://support.mysudo.com](https://support.mysudo.com/) (the “websites”), our mobile applications (each an “Application”) and online services (“Services”).
+This Privacy Policy tells you how we (Anonyome Labs, Inc.) collect, use and share the personal information we collect from users of our websites, including [https://anonyome.com](https://anonyome.com/), [https://mysudo.com](https://www.mysudo.com/) and [https://support.mysudo.com](https://support.mysudo.com/) (the “websites”), our mobile applications (each an “Application”) and online services (“Services”).
 
 **Summary**
 

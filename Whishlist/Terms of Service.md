@@ -143,7 +143,7 @@ Copyrights © 2020 All Rights Reserved by WishList.com
 
 We use cookies \- for WishList.com's functionality. By using our website, you accept that we may store and access cookies on your device. [Learn more.](https://www.wishlist.com/cookies) Got it
 
-window.self.focus(); $(document).ready(function(){ //show full window link in top menu if(window.name == 'add2WishListComPopWin'){ $('#menu\_full\_window\_link').css('display','block'); } }); var paid\_status = 'no'; var current\_full\_url = "https://www.wishlist.com/termsofuse";
+wdgt=0; window.self.focus(); $(document).ready(function(){ //show full window link in top menu if(window.name == 'add2WishListComPopWin'){ $('#menu\_full\_window\_link').css('display','block'); } }); var paid\_status = 'no'; var current\_full\_url = "https://www.wishlist.com/termsofuse";
 
 No Yes
 

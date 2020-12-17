@@ -218,13 +218,11 @@ We reserve the right to change or modify this Privacy Policy and any of our Serv
 
 ### Accreditations and Privacy Seals
 
- [![URAC Seal with Transparent BG](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/layout/shared/URAC_trans.gif)](https://accreditnet2.urac.org/uracportal/Directory/CompanyView/2773) WebMD has been awarded e-Health accreditation from URAC, formerly the American HealthCare Accreditation Association. URAC is an independent accrediting body that has reviewed and approved WebMD's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards.  To verify our compliance click the URAC logo.  To read more, visit the [URAC Center](https://www.webmd.com/about-webmd-policies/urac-center).
-
  [![](//privacy-policy.truste.com/privacy-seal/seal?rid=07326333-3522-463d-81bf-f00fd7171fff)](https://privacy.truste.com/privacy-seal/validation?rid=07326333-3522-463d-81bf-f00fd7171fff) To view our certification status click [here.](https://privacy.truste.com/privacy-seal/validation?rid=07326333-3522-463d-81bf-f00fd7171fff)
 
  [![](https://www.honcode.ch/HONcode/Seal/HONConduct298987_s1.gif)](https://www.hon.ch/HONcode/Conduct.html?HONConduct298987) WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified [here](https://www.hon.ch/HONcode/Conduct.html?HONConduct298987).
 
-Last updated on September 11, 2020
+Last updated on December 15, 2020
 
 © 2020 WebMD, LLC. All rights reserved.
 

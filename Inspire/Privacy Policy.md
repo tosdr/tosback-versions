@@ -62,19 +62,6 @@ Please review your web browser’s documentation to learn the proper way to modi
 2\. How We Use the Information We Collect
 -----------------------------------------
 
-Please review your web browser’s documentation to learn the proper way to modify your cookie settings. Please note that if you delete or choose not to accept cookies or similar technologies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
-
-### 1.3 Information We Receive from Third Parties
-
-**Utility Provider** With your consent, we may ask your utility provider to release certain information that we need to provide services to you, such as your address, phone number, account number, future and historical energy consumption, meter readings, payment history, billing determinates, rate classifications, and peak electricity demand. We may also collect information that is available by logging into your utility provider’s web site using your credentials (see also “Utility Account Information” above). We use this information to provide our Services to you, to calculate and analyze aggregate energy consumption metrics, to track and improve our products and Services, to connect you with providers in your area, to share and display third party offers that may be of interest to you, and otherwise product you Services. With your consent, we may also change your utility provider account settings to send your customer communications directly to us so that we may manage payment and other account matters on your behalf and display the communications to you in your Inspire account interface.
-
-**Third-Party Databases** We collect information from private and governmental third-party data sources, such as the United States Environmental Protection Agency, real estate listings, and city property databases. This information may relate to your city or community generally, or to your property specifically. For example, we may collect information about historical energy consumption on your property or in your area as well as and characteristics about your home and property that is publicly available through services like Zillow. We use this information to better understand your energy usage and offer insights into how you can reduce your consumption or change your consumption to reduce your environmental impact.
-
-**Third Party Services** We may receive additional information about you from third parties such as data or marketing partners and combine it with other information we have about you. If you choose to link our Services to a third party account, we may receive information about you, including your profile information and your photo, and your use of the third party account. For example, we may obtain information when you log in through a third-party social network or authentication service, such as Facebook or Google. Similarly, when you interact with us through a social media site or third-party service, such as when you like, follow or share our content on Facebook, Twitter, Pinterest, Instagram or other sites, we may receive information from the social network. If you wish to limit the information available to us, you should visit the privacy settings of your third party accounts to learn about your options.
-
-2\. How We Use the Information We Collect
------------------------------------------
-
 We use the information we collect:
 
 *   To provide, maintain, improve, and enhance our Services;

@@ -8,7 +8,7 @@ Close
 
 * * *
 
-*   [Contact](https://crowdin.com/contacts)
+*   [Enterprise](https://support.crowdin.com/enterprise)
 *   [**crowdin.com**](https://crowdin.com/ "Crowdin — Localization Management Platform")
 
 Navigation

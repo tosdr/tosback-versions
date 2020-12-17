@@ -37,9 +37,9 @@ Menu
         
         Get updates, articles and insights from the team.
         
-        1.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
-        2.  [Nov 24 Switching Silicon: How Sketch performs on Apple’s new hardware](https://www.sketch.com/blog/2020/11/24/how-sketch-performs-on-apple-M1-silicon/)
-        3.  [Nov 18 Yes Sur: Behind the scenes of Sketch’s macOS makeover](https://www.sketch.com/blog/2020/11/18/yes-sur-behind-the-scenes-of-sketchs-macos-makeover/)
+        1.  [Dec 17 Building better: How Sketch helps Salesforce maintain its industry-leading design system](https://www.sketch.com/blog/2020/12/17/how-sketch-helps-salesforce-maintain-its-industry-leading-design-system/)
+        2.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
+        3.  [Nov 24 Switching Silicon: How Sketch performs on Apple’s new hardware](https://www.sketch.com/blog/2020/11/24/how-sketch-performs-on-apple-M1-silicon/)
     
 *   [Pricing](https://www.sketch.com/pricing/)
 
@@ -304,7 +304,7 @@ Email  Subscribe
 ### Company
 
 *   [About Us](https://www.sketch.com/about-us/)
-*   [Jobs 5](https://www.sketch.com/jobs/)
+*   [Careers](https://www.sketch.com/careers/)
 *   [Press](https://www.sketch.com/press/)
 *   [Labs](https://www.sketch.com/labs/)
 

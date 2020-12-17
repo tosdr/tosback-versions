@@ -1,7 +1,5 @@
 [Skip to main content](#content)
 
-**Take Action and Stay Informed About [COVID-19](https://www.tricare.mil/HealthWellness/HealthyLiving/Coronavirus).**
-
  [![TRICARE logo](/TRICARE-T17/img/TRICARElogo.svg) Go to TRICARE home](https://www.tricare.mil/) 
 
 Search
@@ -366,6 +364,7 @@ Footer Navigation
 -----------------
 
 *   [Privacy Policy](https://www.tricare.mil/Privacy "Go to Privacy Policy")
+*   [Agency Strategy](https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/Defense-Health-Agency-Strategy)
 *   [Privacy Program](https://dpcld.defense.gov/Privacy.aspx "Go to DoD Privacy Program page")
 *   [Information Quality](https://dod.defense.gov/Resources/DoD-Information-Quality-Guidelines "Go to DoD Information Quality Guidelines page")
 *   [Open Government](https://open.defense.gov/ "Goes to DoD Open Government page")

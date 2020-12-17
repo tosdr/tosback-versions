@@ -163,9 +163,9 @@ To do so, please see the [Account management page](https://account.ubisoft.com/)
 
 If you have been sanctioned in relation to our Services, we cannot delete the Data regarding your sanction as to allow us to maintain your sanction.
 
-*   **Limit the use of your Data – “Right to restriction of processing”:** You also have the right to request that your Data no longer be used or not be deleted during the time we are processing your request. To do so, please contact the Ubisoft Customer support department [here](https://support.ubi.com/faqs/35367/Reviewing-the-data-that-Ubisoft-holds-about-me/).
+*   **Limit the use of your Data – “Right to restriction of processing”:** You also have the right to request that your Data no longer be used or not be deleted during the time we are processing your request. To do so, please contact the Ubisoft Customer support department [here](https://support.ubisoft.com/Article/000063467/).
 
-To exercise your rights if you do not have an Account or for any question regarding the exercise of these rights, you can [contact the Ubisoft Customer Support](https://support.ubi.com/faqs/35367/Reviewing-the-data-that-Ubisoft-holds-about-me/) at any time.
+To exercise your rights if you do not have an Account or for any question regarding the exercise of these rights, you can [contact the Ubisoft Customer Support](https://support.ubisoft.com/Article/000063467/) at any time.
 
 If you feel that your rights have not been respected after having contacted us, you have the right to make a complaint to the regulatory authority in your country.
 
@@ -187,10 +187,10 @@ Ubisoft is entitled to change this policy at any time. We will inform you of the
 
 If you have any questions about this document, please contact:
 
-*   The Data Protection Officer and his or her team [here](https://support.ubi.com/faqs/35367/Reviewing-the-data-that-Ubisoft-holds-about-me/).
+*   The Data Protection Officer and his or her team [here](https://support.ubisoft.com/Article/000063467/).
 *   By mail: UBISOFT ENTERTAINMENT SA (data controller), 17, avenue Henri Fréville – 35200 Rennes (France)
 
-For any other questions, including if your question relates to the hacking of your Account, a problem with online payment or the use of our products and Services, please [contact Ubisoft Customer Support](https://support.ubi.com/faqs/35367/Reviewing-the-data-that-Ubisoft-holds-about-me/).
+For any other questions, including if your question relates to the hacking of your Account, a problem with online payment or the use of our products and Services, please [contact Ubisoft Customer Support](https://support.ubisoft.com/Article/000063467/).
 
 **Local contacts**
 

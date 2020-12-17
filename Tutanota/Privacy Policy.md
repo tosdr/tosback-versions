@@ -110,7 +110,7 @@ SIGN UP
 
 
 
-](https://mail.tutanota.com/signup "Mail. Done. Right. Sign-up to Tutanota")
+](https://mail.tutanota.com/signup "Mail. Done. Right. Sign up to Tutanota")
 
 Privacy
 =======

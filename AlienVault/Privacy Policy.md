@@ -586,13 +586,13 @@ ul.faq > li { margin-top: 20px; } $(function() { function scrollToAnchor(aid) { 
 
 From the Blog
 
-![Bindu Sundaresan](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![J.R. Parsons](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Bindu Sundaresan
+#### J.R. Parsons
 
-Dec 16, 2020
+Dec 18, 2020
 
-### [2021 Cybersecurity in healthcare](https://cybersecurity.att.com/blogs/security-essentials/2021-cybersecurity-in-healthcare)
+### [‘Twas the night before InfoSec](https://cybersecurity.att.com/blogs/security-essentials/twas-the-night-before-infosec)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 

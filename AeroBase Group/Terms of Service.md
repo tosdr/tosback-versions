@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [Russia is developing a helicopter drone to destroy other drones](http://feedproxy.google.com/~r/defense-news/air/~3/w-pZLQaXXo0/)  
+    12/17/20 02:26pm  
+    
+    Russia has at least two helicopter drones currently under development. (Skapie777/Getty Images)
+    
 *   [Artoo, take the wheel: U-2 spy plane flies for the first time with an AI co-pilot](http://feedproxy.google.com/~r/defense-news/air/~3/8MBkJWBQeR0/)  
     12/16/20 03:28pm  
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     A C-130 flies next to a X-61A Gremlins drone. (DARPA)
     
-*   [The B-1B just launched a cruise missile externally. Hypersonic missiles could be next.](http://feedproxy.google.com/~r/defense-news/air/~3/O6DUnTo9v3M/)  
-    12/09/20 05:23pm  
-    
-    A B-1B Lancer launches an intert AGM-158 Joint Air-to-Surface Standoff Missile, or JASSM, from an external pylon on its fuselage during tests Dec. 4, 2020 at Holloman Air Force Base, N.M. (Air Force)
-    
 
 Recent parts by keyword  
 
-*   [FX10-1520](https://aerobasegroup.com/search/?term=FX10-1520)
-*   [A20SB](https://aerobasegroup.com/search/?term=A20SB)
-*   [AS20](https://aerobasegroup.com/search/?term=AS20)
-*   [1723B](https://aerobasegroup.com/search/?term=1723B)
-*   [172-310SL-3P2](https://aerobasegroup.com/search/?term=172-310SL-3P2)
-*   [M23053-5-110](https://aerobasegroup.com/search/?term=M23053-5-110)
-*   [SA139](https://aerobasegroup.com/search/?term=SA139)
+*   [NAS1921C06-03](https://aerobasegroup.com/search/?term=NAS1921C06-03)
+*   [9B67-50-010-6699](https://aerobasegroup.com/search/?term=9B6750-01-066-9915)
+*   [MS20615-4MP](https://aerobasegroup.com/search/?term=MS20615-4MP)
+*   [AE18813](https://aerobasegroup.com/search/?term=AE18813)
+*   [MS24585-125](https://aerobasegroup.com/search/?term=MS24585-125)
+*   [drd](https://aerobasegroup.com/search/?term=drd)
+*   [hlt716pb](https://aerobasegroup.com/search/?term=hlt716pb)
 
 The AeroBase Group Family ..
 

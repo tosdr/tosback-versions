@@ -107,7 +107,11 @@ IFTTT may elect to provide you with support or modifications for the Service (co
 
 ##### Fees
 
-If you subscribe to IFTTT’s Pro features, you (i) shall pay IFTTT all applicable fees set forth on [https://ifttt.com/plans](https://ifttt.com/plans) (“Fees”) and (ii) hereby authorize IFTTT to charge your chosen payment method. IFTTT offers no refund or credits. Unless agreed to separately in writing, IFTTT will automatically renew monthly subscriptions for an additional month at the then prevailing rates unless you cancel your subscription before the date of renewal. All Fees are exclusive of taxes or duties imposed by governing authorities. You are responsible for all taxes or duties associated with your use of the IFTTT.
+If you subscribe to IFTTT’s Pro features, you (i) shall pay IFTTT all applicable fees set forth on [https://ifttt.com/plans](https://ifttt.com/plans) (“Fees”) and (ii) hereby authorize IFTTT to charge your chosen payment method. IFTTT offers no refund or credits. Unless agreed to separately in writing, IFTTT will automatically renew monthly subscriptions for an additional month and yearly subscription for an additional year at the then prevailing rates unless you cancel your subscription before the date of renewal. All Fees are exclusive of taxes or duties imposed by governing authorities. You are responsible for all taxes or duties associated with your use of the IFTTT.
+
+##### Free Trial Period
+
+NOTWITHSTANDING ANYTHING CONTAINED HEREIN, ANY SERVICE PROVIDED DURING THE FREE TRIAL PERIOD IS PROVIDED “AS-IS” WITHOUT ANY REPRESENTATIONS, WARRANTIES OR INDEMNITIES. Upon the expiration of the Free Trial Period, you will only be able to access and use those features of the Service the use of which does not require the payment of a Fee, unless you subsequently upgrade to a paid version of the Service. All Fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you are solely responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
 
 ##### Warranty Disclaimer
 

@@ -326,44 +326,46 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Merge\_methods](https://pastebin.com/5EJxhdjm)
+*   [AOCMMXX d18p2](https://pastebin.com/DXNffyJx)
     
-    Java | 1 min ago
+    C++ | 1 sec ago
     
-*   [Merge\_main](https://pastebin.com/s0kPf0BL)
+*   [Don’t ask for forgiveness, ask for permission](https://pastebin.com/FAgfQe22)
     
-    Java | 1 min ago
+    Python | 17 sec ago
     
-*   [Scan Changed Domains](https://pastebin.com/zdvWvye8)
+*   [Laboratoriski 8 - 5 SP](https://pastebin.com/DnyMyjYm)
     
-    Batch | 5 min ago
+    C | 6 min ago
     
-*   [Document](https://pastebin.com/Z5nmnCG2)
+*   [Laboratoriski 8 - 4 SP](https://pastebin.com/D3zXbwbp)
     
-    Latex | 10 min ago
+    C | 6 min ago
     
-*   [Untitled](https://pastebin.com/bcufGNy3)
+*   [Laboratoriski 8 - 3 SP](https://pastebin.com/3rxLRVFR)
     
-    Lua | 11 min ago
+    C | 7 min ago
     
-*   [Win64\_Thunking](https://pastebin.com/yQ3skPsi)
+*   [Laboratoriski 8 - 1 SP](https://pastebin.com/fg454cnD)
     
-    C | 13 min ago
+    C | 7 min ago
     
-*   [ashrafulvai](https://pastebin.com/ZRHnLMET)
+*   [Laboratoriski 8 - 2 SP](https://pastebin.com/M8jSyZLM)
     
-    Java | 41 min ago
+    C | 17 min ago
     
-*   [Remove Horizontal Scrollbar Overflow](https://pastebin.com/gj0HcDXD)
+*   [AOCMMXX d18p1](https://pastebin.com/Ugawnp57)
     
-    CSS | 58 min ago
+    C++ | 41 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
+  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

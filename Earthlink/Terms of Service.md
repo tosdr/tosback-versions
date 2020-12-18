@@ -18,7 +18,7 @@ You can provide comments and suggestions about the Beta Program by clicking on t
 
 **3\. CANCELLATION OF THE BETA PROGRAM**
 
-You may cancel your participation in the Beta Program through [dev2-earthlink.serverguy.com/offers/mailtrial/unjoin](https://dev2-earthlink.serverguy.com/offers/mailtrial/unjoin) . Please note that you will not be allowed to cancel the Beta Program until you modify your email account so that it does not take advantage of the Beta Program’s expanded email storage. For example, because the Beta Program email account has a 1 gigabyte email box and a standard account has a 100 megabyte email box, you cannot cancel your participation in the Beta Program until you trim your email box back down to 100 megabytes or less.
+You may cancel your participation in the Beta Program through [earthlink.net/offers/mailtrial/unjoin](http://www.earthlink.net/offers/mailtrial/unjoin) . Please note that you will not be allowed to cancel the Beta Program until you modify your email account so that it does not take advantage of the Beta Program’s expanded email storage. For example, because the Beta Program email account has a 1 gigabyte email box and a standard account has a 100 megabyte email box, you cannot cancel your participation in the Beta Program until you trim your email box back down to 100 megabytes or less.
 
 EarthLink may modify, suspend or discontinue or cancel your participation in the Beta Program at any time for any reason. If EarthLink cancels your participation in the Beta Program, a termination notice will be sent to you via (i) email to the primary EarthLink email address selected by or assigned to you during the registration process (“Contact Email Address”) or (ii) U.S. Mail to the mailing address on file.
 
@@ -169,7 +169,7 @@ To order and receive the Service, you acknowledge that you are 18 years of age o
 
 EarthLink reserves the right to verify the accuracy of the information you submit in connection with your subscription to the Service and you consent to such verification. EarthLink also reserves the right to validate the payment method information you provide at subscription and account updates, including attempting up to a $1.00 authorization to your credit or debit card which is not actually billed. To understand how EarthLink handles and protects your personal information, please see the Privacy Policy.
 
-To receive the Service, you must have an active broadband connection. You are responsible for charges for the Service regardless of the status of your broadband connection. You are responsible for making sure that your computer’s operating system and browser meets the minimum system requirements as set forth at [www.dev2-earthlink.serverguy.com/software/stayconnected.faces?tab=homenetworking&p=start](https://dev2-earthlink.serverguy.com/software/stayconnected.faces?tab=homenetworking&p=start) before signing up for the Service. EarthLink may accept or reject any potential subscriber for the Service in its sole discretion.
+To receive the Service, you must have an active broadband connection. You are responsible for charges for the Service regardless of the status of your broadband connection. You are responsible for making sure that your computer’s operating system and browser meets the minimum system requirements as set forth at [https://www.earthlink.net/software/stayconnected.faces?tab=homenetworking&p=start](http://www.earthlink.net/software/stayconnected.faces?tab=homenetworking&p=start) before signing up for the Service. EarthLink may accept or reject any potential subscriber for the Service in its sole discretion.
 
 **4\. GENERAL DESCRIPTION OF AND RESTRICTIONS ON THE SERVICE**
 
@@ -187,7 +187,7 @@ You are also responsible for all inside wiring repair necessary to install the E
 
 **6\. BILLING AND PAYMENT**
 
-The charges for the Service can be found at [www.earthlink.net/software/stayconnected.faces?tab=homenetworking&p=start](https://dev2-earthlink.serverguy.com/software/stayconnected.faces?tab=homenetworking&p=start). You agree to pay the recurring monthly fee in your billing plan due in advance of the month incurred. In addition, your bill will include (i) taxes, surcharges, and fees required by any applicable government entity; (ii) shipping and handling fees, if applicable; and (iii) method of payment fees, if applicable. All payments must be made in US dollars.
+The charges for the Service can be found at [www.earthlink.net/software/stayconnected.faces?tab=homenetworking&p=start](http://www.earthlink.net/software/stayconnected.faces?tab=homenetworking&p=start). You agree to pay the recurring monthly fee in your billing plan due in advance of the month incurred. In addition, your bill will include (i) taxes, surcharges, and fees required by any applicable government entity; (ii) shipping and handling fees, if applicable; and (iii) method of payment fees, if applicable. All payments must be made in US dollars.
 
 You will be able to use the Service for any consecutive monthly period that has been paid in advance as described in the acceptance materials that you received as part of you sales transaction or on your order confirmation. For example, if your billing cycle begins on the sixth day of the month, then your payment due date (i.e. the date that the amount of your full monthly Service fee, including any and all applicable taxes, must be received by EarthLink) will be on the fifth day of the next month and of each month thereafter. If you subscribe to an EarthLink broadband access service, the Service fees are in addition to your monthly access fee. EarthLink may charge for shipping, taxes, billing fees, postage and handling and other applicable fees.
 
@@ -274,7 +274,7 @@ You may exercise your option not to receive any marketing communications from an
 
 For online customer support for your Service including billing issues and online account maintenance, go to [support.earthlink.net/](http://support.earthlink.net/).
 
-To contact the EarthLink Home Networking specialists via telephone call 888-327-8454 and by live chat, go to [contact](https://dev2-earthlink.serverguy.com/about/contact/).
+To contact the EarthLink Home Networking specialists via telephone call 888-327-8454 and by live chat, go to [contact](http://www.earthlink.net/about/contact/).
 
 EarthLink may provide technical support for the home networking configurations. EarthLink limits support to EarthLink-provided Equipment or equipment on the system requirements list. In certain circumstances, it may be necessary to refer you to the manufacturer of any hardware or software for technical support.
 
@@ -374,7 +374,7 @@ This Section 14 will survive the termination of your Service with EarthLink.
 
 **15\. REVISIONS TO THIS AGREEMENT**
 
-EarthLink may revise, amend, or modify this Agreement at any time by posting the revised version of this Agreement on the EarthLink Web Site located at [www.earthlink.net](https://dev2-earthlink.serverguy.com/). The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this Agreement will be noted in endnotes of the revised version. Your continued use of the Service after the date of the revised version constitutes your acceptance of all of the revisions. If you do not agree to the revisions in the revised version, your sole and exclusive remedy will be to terminate your account and use of the Service.
+EarthLink may revise, amend, or modify this Agreement at any time by posting the revised version of this Agreement on the EarthLink Web Site located at [www.earthlink.net](http://www.earthlink.net/). The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this Agreement will be noted in endnotes of the revised version. Your continued use of the Service after the date of the revised version constitutes your acceptance of all of the revisions. If you do not agree to the revisions in the revised version, your sole and exclusive remedy will be to terminate your account and use of the Service.
 
 **16\. MISCELLANEOUS**
 
@@ -466,7 +466,7 @@ EarthLink will email an e-invoice to your primary EarthLink email address select
 
 Your account will be automatically inactivated if you put a stop payment on your account with your financial institution in connection with the payment of your monthly bill.
 
-All charges are considered valid unless disputed in writing within 30 days of the billing date and mailed to[](https://dev2-earthlink.serverguy.com/#_edn1) :
+All charges are considered valid unless disputed in writing within 30 days of the billing date and mailed to[](http://www.earthlink.net/#_edn1) :
 
 > EarthLink, LLC  
 > Customer Service  
@@ -542,7 +542,7 @@ You may exercise your option not to receive any marketing communications from an
 
 For online customer support for your Service including certain connection issues, billing issues, and online account maintenance, go to [support.earthlink.net/](http://support.earthlink.net/). EarthLink may provide technical support for the trueVoice Device.
 
-To contact EarthLink Customer Service via telephone or live chat, go to [dev2-earthlink.serverguy.com/about/contacts/](https://dev2-earthlink.serverguy.com/about/contact/).
+To contact EarthLink Customer Service via telephone or live chat, go to [https://www.earthlink.net/about/contacts/](http://www.earthlink.net/about/contact/).
 
 **14\. GOVERNING LAW**
 
@@ -631,7 +631,7 @@ This Section 15 will survive the termination of your Service with EarthLink.
 
 **16\. REVISIONS TO THIS AGREEMENT**
 
-EarthLink may revise, amend, or modify this Agreement at any time by posting the revised version of this Agreement on the EarthLink Web Site located at [www.earthlink.net](https://dev2-earthlink.serverguy.com/). The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this Agreement will be noted in endnotes of the revised version. Your continued use of the Service after the date of the revised version constitutes your acceptance of all of the revisions. If you do not agree to the revisions in the revised version, your sole and exclusive remedy will be to terminate your account and use of the Service.
+EarthLink may revise, amend, or modify this Agreement at any time by posting the revised version of this Agreement on the EarthLink Web Site located at [www.earthlink.net](http://www.earthlink.net/). The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this Agreement will be noted in endnotes of the revised version. Your continued use of the Service after the date of the revised version constitutes your acceptance of all of the revisions. If you do not agree to the revisions in the revised version, your sole and exclusive remedy will be to terminate your account and use of the Service.
 
 **17\. MISCELLANEOUS**
 
@@ -649,7 +649,7 @@ The following endnote summarizes the material revision made in this September 30
 
 **1\. AGREEMENT**
 
-This Agreement is between EarthLink, LLC and its related entities (“EarthLink”) and you and applies to all the products and services available at [www.dev2-earthlink.serverguy.com/web-hosting/](https://dev2-earthlink.serverguy.com/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) and all subpages of [www.dev2-earthlink.serverguy.com/web-hosting/](https://dev2-earthlink.serverguy.com/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) (collectively, the “Services”; each a “Service”).
+This Agreement is between EarthLink, LLC and its related entities (“EarthLink”) and you and applies to all the products and services available at [www.earthlink.net/web-hosting/](http://www.earthlink.net/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) and all subpages of [www.earthlink.net/web-hosting/](http://www.earthlink.net/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) (collectively, the “Services”; each a “Service”).
 
 This Agreement consists of the terms and conditions below, the specific terms of your billing plan for the Service(s) to which you subscribe and the Privacy Policy.
 
@@ -663,7 +663,7 @@ The effective date of this Agreement is the date on which you subscribed to the 
 
 **3\. Services Not Intended for Use by Covered Entities**
 
-Unless expressly set forth in the description of the Services on [www.dev2-earthlink.serverguy.com/web-hosting/](https://dev2-earthlink.serverguy.com/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) or all subpages thereto , the Services are not intended for use by covered entities or business associates to create, access, transmit, or maintain protected health information that is subject to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). You agree that you have reviewed the descriptions of the Services on [www.dev2-earthlink.serverguy.com/web-hosting/](https://dev2-earthlink.serverguy.com/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) and their subpages and understand the intended use of the Services that you are purchasing. You also agree that unless a Service description expressly states that the Service is “HIPAA Compliant,” you will not use such Service to create, access, transmit or maintain any protected health information. Any violation of this Section 3 is your sole responsibility. EarthLink and its affiliates, subsidiaries and licensors will have no liability with respect to your violation of this Section 3.
+Unless expressly set forth in the description of the Services on [www.earthlink.net/web-hosting/](http://www.earthlink.net/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) or all subpages thereto , the Services are not intended for use by covered entities or business associates to create, access, transmit, or maintain protected health information that is subject to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). You agree that you have reviewed the descriptions of the Services on [www.earthlink.net/web-hosting/](http://www.earthlink.net/web-hosting/) or [www.earthlinkweb.net](http://www.earthlinkweb.net/) and their subpages and understand the intended use of the Services that you are purchasing. You also agree that unless a Service description expressly states that the Service is “HIPAA Compliant,” you will not use such Service to create, access, transmit or maintain any protected health information. Any violation of this Section 3 is your sole responsibility. EarthLink and its affiliates, subsidiaries and licensors will have no liability with respect to your violation of this Section 3.
 
 **4\. SUBSCRIPTION INFORMATION**
 
@@ -683,7 +683,7 @@ Charges may be billed on or after your billing cycle date to your method of paym
 
 For monthly subscription billing plans, you will be able to use the Services for any consecutive monthly period that has been paid in advance as described in the acceptance materials that you received as part of you sales transaction or on your order confirmation. For example, if your billing cycle begins on the sixth day of the month, then your payment due date (i.e. the date that the amount of your full monthly Service fee, including any and all applicable taxes, must be received by EarthLink) will be on the fifth day of the next month and of each month thereafter.
 
-If you provided EarthLink with a valid credit or debit card, you agree to maintain valid and current credit or debit card information with EarthLink at all times. If you authorized EarthLink to automatically deduct (“ACH Debit”) your monthly Service fees and any other charges, fees, or taxes billed to you, from your checking or savings bank account, then you hereby reaffirm your agreement to the [Recurring Automatic Bank Draft Authorization Agreement](https://dev2-earthlink.serverguy.com/about/policies/ach-signup-auth.faces). You acknowledge and agree that you authorize EarthLink and that EarthLink does not need to obtain any additional authorization from you for any recurring payments or automatic billing options. In addition, if your credit or debit card company provides updated credit or debit card information to EarthLink, you acknowledge that EarthLink does not need to obtain authorization from you for EarthLink to use such information to update your credit or debit card.
+If you provided EarthLink with a valid credit or debit card, you agree to maintain valid and current credit or debit card information with EarthLink at all times. If you authorized EarthLink to automatically deduct (“ACH Debit”) your monthly Service fees and any other charges, fees, or taxes billed to you, from your checking or savings bank account, then you hereby reaffirm your agreement to the [Recurring Automatic Bank Draft Authorization Agreement](http://www.earthlink.net/about/policies/ach-signup-auth.faces). You acknowledge and agree that you authorize EarthLink and that EarthLink does not need to obtain any additional authorization from you for any recurring payments or automatic billing options. In addition, if your credit or debit card company provides updated credit or debit card information to EarthLink, you acknowledge that EarthLink does not need to obtain authorization from you for EarthLink to use such information to update your credit or debit card.
 
 If payment by check has been accepted by EarthLink, then payments by check must be received by EarthLink by the due date listed in your monthly paper invoice. EarthLink will charge a processing fee each time you pay your monthly billing invoice. When you pay your fees by check, you also authorize EarthLink to electronically process your payment. If your check is processed electronically, your checking account may be debited on the same day that EarthLink receives your check and neither your check nor a copy of your check will be included with your checking account statement.
 
@@ -1084,7 +1084,7 @@ This Section 17 will survive the termination of your Services with EarthLink.
 
 **18\. REVISIONS TO THIS AGREEMENT**
 
-EarthLink may revise, amend, or modify this Agreement for any reason by posting the revised version of this Agreement on the EarthLink Website located at [https://dev2-earthlink.serverguy.com/about/policies/webhosting.faces](https://dev2-earthlink.serverguy.com/about/policies/webhosting.faces).
+EarthLink may revise, amend, or modify this Agreement for any reason by posting the revised version of this Agreement on the EarthLink Website located at [https://www.earthlink.net/about/policies/webhosting.faces](http://www.earthlink.net/about/policies/webhosting.faces).
 
 The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this Agreement will be noted in endnotes of the revised version.
 

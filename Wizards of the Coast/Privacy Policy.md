@@ -298,7 +298,7 @@ Suite 2240 New York, New York 10170, by email at [privacy@esrb.org](mailto:priva
 
 European Requests:
 
-For Europe specific requests, you can reach our DPO at: [dpo@hasbo.com](mailto:dpo@hasbo.com)
+For Europe specific requests, you can reach our DPO at: [dpo@hasbro.com](mailto:dpo@hasbro.com)
 
 **14\. ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS**
 --------------------------------------------------------

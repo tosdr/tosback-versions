@@ -29,8 +29,7 @@ Menu
         
         Discover and join your local Sketch community.
         
-        1.  [Dec 16 2020 review and Cyberpunk exclusive](https://www.sketch.com/community/groups/zagreb/?event=2020-12-16)
-        2.  [Dec 18 Free Online Workshop: Create, Use & Distribute Design Systems in Sketch](https://www.sketch.com/community/groups/new-york/?event=2020-12-18)
+        1.  [Dec 18 Free Online Workshop: Create, Use & Distribute Design Systems in Sketch](https://www.sketch.com/community/groups/new-york/?event=2020-12-18)
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)

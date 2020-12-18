@@ -314,7 +314,7 @@ PLEASE BE AWARE THAT SECTION 15.2 (DISPUTE RESOLUTION) OF THE TERMS BELOW CONTAI
     The designated Copyright Agent for Parsec is: Benjy Boxer  
     Address of Agent: PO Box 980338, Park City, UT, 84098  
     Telephone: (929) 277-7485  
-    Email: [\[email protected\]](https://parsecgaming.com/cdn-cgi/l/email-protection#97fbf2f0f6fbd7e7f6e5e4f2f4b9f6e7e7)
+    Email: [\[email protected\]](https://parsecgaming.com/cdn-cgi/l/email-protection#3b575e5c5a577b4b5a49485e58155a4b4b)
     
 14.  Third-Party Services
     --------------------
@@ -418,7 +418,7 @@ PLEASE BE AWARE THAT SECTION 15.2 (DISPUTE RESOLUTION) OF THE TERMS BELOW CONTAI
         Address: PO Box 980338  
         Park City, UT, 84098  
         Telephone: (929) 277-7485  
-        Email: [\[email protected\]](https://parsecgaming.com/cdn-cgi/l/email-protection#9af6fffdfbf6daeafbe8e9fff9b4fbeaea)
+        Email: [\[email protected\]](https://parsecgaming.com/cdn-cgi/l/email-protection#7b171e1c1a173b0b1a09081e18551a0b0b)
         
 
 .css-eqde5e{padding:4rem;background-color:var(--shade-700);}

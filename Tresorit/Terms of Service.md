@@ -1,5 +1,7 @@
 [Tresorit secure cloud storage](https://tresorit.com/)
 
+[For Businesses](https://tresorit.com/) [For Individuals](https://tresorit.com/individuals)
+
 *   [Business](https://tresorit.com/business)
 *   Products
     
@@ -22,7 +24,7 @@
     *   [Human resources Secure file management solution for HR teams](https://tresorit.com/business/tresorit-hr-toolkit)
     *   [Mobility with secure access Access files anywhere securely from mobile devices](https://tresorit.com/mobility)
     *   [Nonprofits Protect your cause and share files securely & easily](https://tresorit.com/nonprofit)
-    *   [GDPR ready cloud Tresorit helps your business towards GDPR compliance](https://tresorit.com/gdpr)
+    *   [GDPR ready cloud Tresorit helps your business towards GDPR compliance](https://tresorit.com/gdpr) [Migrate to the cloud Replace file servers with an equally secure solution in the cloud](https://tresorit.com/migration-from-on-premise-to-cloud)
     *   [Education Secure file storage & sharing for educators, students & researchers](https://tresorit.com/remoteworking/education)
     *   [Migrate to the cloud Replace file servers with an equally secure solution in the cloud](https://tresorit.com/migration-from-on-premise-to-cloud)
     

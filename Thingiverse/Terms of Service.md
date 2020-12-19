@@ -92,7 +92,6 @@ Submit
     *   *   [3D Printers](https://store.makerbot.com/3d-printers "Link to 3D Printers")
         *   [Extruders](https://store.makerbot.com/3d-printers-extruders "Link to Extruders")
         *   [Materials](https://store.makerbot.com/3d-printers-materials "Link to Materials")
-        *   [Holiday Promo](https://store.makerbot.com/3d-printers/method-holiday-promo "Link to Holiday Promo")
     *   *   [Request a Quote](https://www.makerbot.com/contact-us/)
         *   [Buy](https://store.makerbot.com/)
 
@@ -191,7 +190,6 @@ Submit
     *   [3D Printers](https://store.makerbot.com/3d-printers)
     *   [Extruders](https://store.makerbot.com/3d-printers-extruders)
     *   [Materials](https://store.makerbot.com/3d-printers-materials)
-    *   [Holiday Promo](https://store.makerbot.com/3d-printers/method-holiday-promo)
 
  
 

@@ -326,41 +326,39 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [AOCMMXX d18p2](https://pastebin.com/DXNffyJx)
+*   [Free Netflix Accounts 2021 | Account & Passwords](https://pastebin.com/U9826nkt)
     
-    C++ | 1 sec ago
+    Email | 1 min ago
     
-*   [Don’t ask for forgiveness, ask for permission](https://pastebin.com/FAgfQe22)
+*   [Ulearn "PocketGoogle" task](https://pastebin.com/K1VcSuZV)
     
-    Python | 17 sec ago
+    C# | 3 min ago
     
-*   [Laboratoriski 8 - 5 SP](https://pastebin.com/DnyMyjYm)
+*   [Kaspersky accounts & Serial code Free](https://pastebin.com/4KkujxR1)
     
-    C | 6 min ago
+    Java | 8 min ago
     
-*   [Laboratoriski 8 - 4 SP](https://pastebin.com/D3zXbwbp)
+*   [Phishing/html/hokk-i.com/step4](https://pastebin.com/jrYmiTas)
     
-    C | 6 min ago
+    HTML | 9 min ago
     
-*   [Laboratoriski 8 - 3 SP](https://pastebin.com/3rxLRVFR)
+*   [Untitled](https://pastebin.com/GMum9ixr)
     
-    C | 7 min ago
+    Dart | 12 min ago
     
-*   [Laboratoriski 8 - 1 SP](https://pastebin.com/fg454cnD)
+*   [phishing/html/hokk-i.com](https://pastebin.com/GziBjVqw)
     
-    C | 7 min ago
+    HTML | 14 min ago
     
-*   [Laboratoriski 8 - 2 SP](https://pastebin.com/M8jSyZLM)
+*   [reverse\_word](https://pastebin.com/3ME7V73y)
     
-    C | 17 min ago
+    Ruby | 15 min ago
     
-*   [AOCMMXX d18p1](https://pastebin.com/Ugawnp57)
+*   [trouble](https://pastebin.com/SLygk6jH)
     
-    C++ | 41 min ago
+    Java | 36 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

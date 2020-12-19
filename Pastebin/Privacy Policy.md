@@ -166,39 +166,41 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Don’t ask for forgiveness, ask for permission](https://pastebin.com/FAgfQe22)
+*   [Free Netflix Accounts 2021 | Account & Passwords](https://pastebin.com/U9826nkt)
     
-    Python | 16 sec ago
+    Email | 1 min ago
     
-*   [Laboratoriski 8 - 5 SP](https://pastebin.com/DnyMyjYm)
+*   [Ulearn "PocketGoogle" task](https://pastebin.com/K1VcSuZV)
     
-    C | 6 min ago
+    C# | 3 min ago
     
-*   [Laboratoriski 8 - 4 SP](https://pastebin.com/D3zXbwbp)
+*   [Kaspersky accounts & Serial code Free](https://pastebin.com/4KkujxR1)
     
-    C | 6 min ago
+    Java | 8 min ago
     
-*   [Laboratoriski 8 - 3 SP](https://pastebin.com/3rxLRVFR)
+*   [Phishing/html/hokk-i.com/step4](https://pastebin.com/jrYmiTas)
     
-    C | 7 min ago
+    HTML | 9 min ago
     
-*   [Laboratoriski 8 - 1 SP](https://pastebin.com/fg454cnD)
+*   [Untitled](https://pastebin.com/GMum9ixr)
     
-    C | 7 min ago
+    Dart | 12 min ago
     
-*   [Laboratoriski 8 - 2 SP](https://pastebin.com/M8jSyZLM)
+*   [phishing/html/hokk-i.com](https://pastebin.com/GziBjVqw)
     
-    C | 17 min ago
+    HTML | 14 min ago
     
-*   [AOCMMXX d18p1](https://pastebin.com/Ugawnp57)
+*   [reverse\_word](https://pastebin.com/3ME7V73y)
     
-    C++ | 41 min ago
+    Ruby | 15 min ago
     
-*   [Tables Generator](https://pastebin.com/SckwuJWm)
+*   [trouble](https://pastebin.com/SLygk6jH)
     
-    HTML | 1 hour ago
+    Java | 36 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Friday, December 18, 2020  
+Saturday, December 19, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [FDA formally approves Moderna covid vaccine](https://www.debka.com/mivzak/fda-formally-approves-moderna-covid-vaccine/)
+    
+    Dec 19, 2020 @ 11:38
+    
+*   [Pompeo says Russia “clearly behind” massive cyberattack](https://www.debka.com/mivzak/pompeo-says-russia-clearly-behind-massive-cyberattack/)
+    
+    Dec 19, 2020 @ 11:31
+    
 *   [IAEA: New nuclear deal needed to reverse Iran’s breaches](https://www.debka.com/mivzak/iaea-new-nuclear-deal-needed-to-reverse-irans-breaches/)
     
     Dec 18, 2020 @ 12:03
@@ -80,16 +88,16 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Macron tests covid positive](https://www.debka.com/mivzak/macron-tests-covid-positive/)
     
     Dec 17, 2020 @ 12:17
-    
-*   [Covid infection tops 2,800 for second day. Tough restrictions due](https://www.debka.com/mivzak/covid-infection-tops-2800-for-second-day-tough-restrictions-due/)
-    
-    Dec 17, 2020 @ 10:13
-    
-*   [Gantz: Jerusalem must stay united with “room for a Palestinian capital”](https://www.debka.com/mivzak/gantz-jerusalem-must-stay-united-with-room-for-a-palestinian-capital/)
-    
-    Dec 17, 2020 @ 09:54
     
 
+*   [FDA formally approves Moderna covid vaccine](https://www.debka.com/mivzak/fda-formally-approves-moderna-covid-vaccine/)
+    
+    Dec 19, 2020 @ 11:38
+    
+*   [Pompeo says Russia “clearly behind” massive cyberattack](https://www.debka.com/mivzak/pompeo-says-russia-clearly-behind-massive-cyberattack/)
+    
+    Dec 19, 2020 @ 11:31
+    
 *   [IAEA: New nuclear deal needed to reverse Iran’s breaches](https://www.debka.com/mivzak/iaea-new-nuclear-deal-needed-to-reverse-irans-breaches/)
     
     Dec 18, 2020 @ 12:03
@@ -113,14 +121,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Macron tests covid positive](https://www.debka.com/mivzak/macron-tests-covid-positive/)
     
     Dec 17, 2020 @ 12:17
-    
-*   [Covid infection tops 2,800 for second day. Tough restrictions due](https://www.debka.com/mivzak/covid-infection-tops-2800-for-second-day-tough-restrictions-due/)
-    
-    Dec 17, 2020 @ 10:13
-    
-*   [Gantz: Jerusalem must stay united with “room for a Palestinian capital”](https://www.debka.com/mivzak/gantz-jerusalem-must-stay-united-with-room-for-a-palestinian-capital/)
-    
-    Dec 17, 2020 @ 09:54
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

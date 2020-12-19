@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [Here’s why the Valkyrie drone couldn’t translate between F-35 and F-22 jets during a recent test](http://feedproxy.google.com/~r/defense-news/air/~3/mrFp-pDPLU8/)  
+    12/18/20 04:17pm  
+    
+    A U.S. Air Force F-22 Raptor and F-35A Lightning II fly in formation with the XQ-58A Valkyrie drone over Yuma Proving Ground in Arizona during a series of tests Dec. 9, 2020. This integrated test follows a series of gatewayONE ground tests that began during the inaugural Air Force on-ramp in December 2019. (Tech. Sgt. James Cason/U.S. Air Force)
+    
 *   [Russia is developing a helicopter drone to destroy other drones](http://feedproxy.google.com/~r/defense-news/air/~3/w-pZLQaXXo0/)  
     12/17/20 02:26pm  
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     An F-35B takes off from the deck aboard the HMS Queen Elizabeth at sea on Oct. 10, 2020. (1st Lt. Zachary Bodner/U.S. Marine Corps)
     
-*   [The first 9 attempts to retrieve swarming Gremlins drones failed. Here’s what’s next.](http://feedproxy.google.com/~r/defense-news/air/~3/ycItD_zPfjo/)  
-    12/11/20 01:53pm  
-    
-    A C-130 flies next to a X-61A Gremlins drone. (DARPA)
-    
 
 Recent parts by keyword  
 
-*   [NAS1921C06-03](https://aerobasegroup.com/search/?term=NAS1921C06-03)
-*   [9B67-50-010-6699](https://aerobasegroup.com/search/?term=9B6750-01-066-9915)
-*   [MS20615-4MP](https://aerobasegroup.com/search/?term=MS20615-4MP)
-*   [AE18813](https://aerobasegroup.com/search/?term=AE18813)
-*   [MS24585-125](https://aerobasegroup.com/search/?term=MS24585-125)
-*   [drd](https://aerobasegroup.com/search/?term=drd)
-*   [hlt716pb](https://aerobasegroup.com/search/?term=hlt716pb)
+*   [Ah1043-4](https://aerobasegroup.com/search/?term=Ah1043-4)
+*   [2n1516](https://aerobasegroup.com/search/?term=2n1516)
+*   [RSE1165](https://aerobasegroup.com/search/?term=RSE1165)
+*   [krj10](https://aerobasegroup.com/search/?term=krj10)
+*   [tflex](https://aerobasegroup.com/search/?term=tflex)
+*   [tnc](https://aerobasegroup.com/search/?term=tnc)
+*   [9B53-10-002-6235](https://aerobasegroup.com/search/?term=9B-5310-00-262-3562)
 
 The AeroBase Group Family ..
 

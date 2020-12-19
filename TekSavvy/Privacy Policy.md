@@ -536,4 +536,4 @@ Postal Code
 
 Check Availability
 
-var URL\_PACKAGE\_API = 'https://package.api.teksavvy.com'; var URL\_GEO\_API = 'https://geo.api.teksavvy.com/api/metrics'; var GEO\_API\_KEY = 'AIzaSyCxqmWt9IBrq4y7U6nOjo0EqQ5vAHyGNsg';
+var URL\_PACKAGE\_API = 'https://package.api.teksavvy.com'; var URL\_GEO\_API = 'https://geo.api.teksavvy.com/api/metrics'; if (!window.getCookie) { } else { var consent = getCookie("cookieconsent\_status"); if (!consent || consent !== "allow") { pushScript("cookieoptions", "/wp-content/themes/teksavvy/js/cookieoptions.min.js"); } else if (consent && consent === "allow") { pushScript("gtags", "/wp-content/themes/teksavvy/js/px/tm.js"); pushScript("fbk", "/wp-content/themes/teksavvy/js/px/fb.js"); pushScript("twpx", "/wp-content/themes/teksavvy/js/px/tw.js"); pushScript("hs-script-loader", "//js.hs-scripts.com/2173091.js"); pushScript("arpx", "/wp-content/themes/teksavvy/js/px/ar.js"); } }

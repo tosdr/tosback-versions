@@ -1,6 +1,6 @@
 [Skip to content](#skip)
 
-Fall 2020 Online Assessment Training and Resources [Learn more](https://crowdmark.com/help/remote-assessments/)
+Winter 2020 Online Assessment Training and Resources [Learn more](https://crowdmark.com/help/remote-assessments/)
 
 *   [Crowdmark Home](https://crowdmark.com/ "Crowdmark Home")
 *   [Higher Ed](https://crowdmark.com/higher-ed/)

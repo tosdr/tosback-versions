@@ -231,7 +231,9 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Facebook.
     
-*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook through Facebook Live.
+*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
+    
+*   Messaging services terms relevant for EU, EEA and UK users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
     
 
   

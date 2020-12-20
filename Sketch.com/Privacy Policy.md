@@ -29,7 +29,10 @@ Menu
         
         Discover and join your local Sketch community.
         
-        1.  [Dec 18 Free Online Workshop: Create, Use & Distribute Design Systems in Sketch](https://www.sketch.com/community/groups/new-york/?event=2020-12-18)
+        There are no upcoming events.
+        
+        Want to host your own event? [Get in touch](mailto:community@sketch.com).
+        
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)

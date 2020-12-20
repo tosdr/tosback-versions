@@ -3,7 +3,7 @@
 ![Kev's Avatar](/assets/images/avatar.png) Kev Quirk
 ====================================================
 
-[🏠 Home](https://kevq.uk/) [👨 About](https://kevq.uk/about/) [✏️ Blog](https://kevq.uk/blog/) [📝 Notes](https://kevq.uk/notes/) [✉️ Contact](https://kevq.uk/contact/) [📰 Newsletter](https://kevq.uk/newsletter/) [✏️ Blogroll](https://kevq.uk/blogroll/) [💬 Guestbook](https://users4.smartgb.com/g/g.php?a=s&i=g44-80784-24) [📚 RSS Feeds](https://kevq.uk/rss-feeds/) [🔍 Search](https://kevq.uk/search/)
+[🏠 Home](https://kevq.uk/) [👨 About](https://kevq.uk/about/) [✉️ Contact](https://kevq.uk/contact/) [✏️ Blog](https://kevq.uk/blog/) [📝 Notes](https://kevq.uk/notes/) [🏷 Categories](https://kevq.uk/categories/) [📰 Newsletter](https://kevq.uk/newsletter/) [✏️ Blogroll](https://kevq.uk/blogroll/) [💬 Guestbook](https://users4.smartgb.com/g/g.php?a=s&i=g44-80784-24) [📚 RSS Feeds](https://kevq.uk/rss-feeds/) [🔍 Search](https://kevq.uk/search/)
 
 More stuff this way ⮕
 

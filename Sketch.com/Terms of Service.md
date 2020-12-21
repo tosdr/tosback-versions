@@ -39,9 +39,9 @@ Menu
         
         Get updates, articles and insights from the team.
         
-        1.  [Dec 17 Building better: How Sketch helps Salesforce maintain its industry-leading design system](https://www.sketch.com/blog/2020/12/17/how-sketch-helps-salesforce-maintain-its-industry-leading-design-system/)
-        2.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
-        3.  [Nov 24 Switching Silicon: How Sketch performs on Apple’s new hardware](https://www.sketch.com/blog/2020/11/24/how-sketch-performs-on-apple-M1-silicon/)
+        1.  [Dec 21 Keeping it real: How Nikola Lazarevic creates photorealistic objects in Sketch](https://www.sketch.com/blog/2020/12/21/keeping-it-real-nikola-lazarevic-on-photorealistic-design-in-sketch/)
+        2.  [Dec 17 Building better: How Sketch helps Salesforce maintain its industry-leading design system](https://www.sketch.com/blog/2020/12/17/how-sketch-helps-salesforce-maintain-its-industry-leading-design-system/)
+        3.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
     
 *   [Pricing](https://www.sketch.com/pricing/)
 

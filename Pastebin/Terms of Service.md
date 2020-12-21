@@ -326,41 +326,39 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/vmi3H4s1)
+*   [temp.cpp](https://pastebin.com/TUNguFA4)
     
-    Python | 1 min ago
+    C++ | 43 min ago
     
-*   [world zero](https://pastebin.com/QVzSX4Yb)
-    
-    Lua | 6 min ago
-    
-*   [OpenJDK13 error when trying to fetch youtube video. Doesn't work for twitch either. Java 11 does](https://pastebin.com/AKYhwtd4)
-    
-    Python | 24 min ago
-    
-*   [Point](https://pastebin.com/iWbvsncJ)
-    
-    Java | 24 min ago
-    
-*   [TriggerV2](https://pastebin.com/x84Nf8ef)
-    
-    HTML | 26 min ago
-    
-*   [TheTVDB::383203](https://pastebin.com/3H5jKdv9)
-    
-    JSON | 28 min ago
-    
-*   [Untitled](https://pastebin.com/DWgZuLLe)
+*   [Пример генерации и перехвата исключительных ситуаций](https://pastebin.com/Pa5pU3MN)
     
     C++ | 48 min ago
     
-*   [Untitled](https://pastebin.com/Xtg0R9ed)
+*   [Pagination by creation](https://pastebin.com/Ta38zDme)
     
-    PHP | 51 min ago
+    Bash | 57 min ago
+    
+*   [info profile php HABBO-HAPPY](https://pastebin.com/BJDMyziT)
+    
+    PHP | 1 hour ago
+    
+*   [استخرج الصور المخزنة في PDF بصيغة JPG أو PNG أو TIFF](https://pastebin.com/y4PGuXf5)
+    
+    PHP | 1 hour ago
+    
+*   [Untitled](https://pastebin.com/bwjQFK1X)
+    
+    Python | 1 hour ago
+    
+*   [Untitled](https://pastebin.com/DT1b2uU5)
+    
+    C# | 1 hour ago
+    
+*   [\[CC\] VR](https://pastebin.com/wzLy0g1a)
+    
+    Lua | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

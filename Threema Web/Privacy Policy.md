@@ -1,3 +1,5 @@
+[Threema is now open source!](https://threema.ch/en/blog/posts/open-source-discount)
+
 [![Threema.](/images/logo.svg)](https://threema.ch/en)
 
 *   [Home](https://threema.ch/en)
@@ -64,7 +66,7 @@ This is a mere translation of the German version of this document. In case of an
 
 Products[Threema](https://threema.ch/en "Threema")[Threema Work](https://work.threema.ch/en "Threema Work")[Threema Broadcast](https://broadcast.threema.ch/en "Threema Broadcast")[Threema Gateway](https://gateway.threema.ch/en "Threema Gateway")[Threema Education](https://work.threema.ch/en/education "Threema Education")
 
-Threema[What's New](https://threema.ch/en/whats-new "What's New")[Download](https://threema.ch/en/download "Download")[Support](https://threema.ch/en/support "Support")[Cryptography Whitepaper](https://threema.ch/press-files/2_documentation/cryptography_whitepaper.pdf "Cryptography Whitepaper")[Transparency Report](https://threema.ch/en/transparencyreport "Transparency Report")
+Threema[What's New](https://threema.ch/en/whats-new "What's New")[Download](https://threema.ch/en/download "Download")[Support](https://threema.ch/en/support "Support")[Cryptography Whitepaper](https://threema.ch/press-files/2_documentation/cryptography_whitepaper.pdf "Cryptography Whitepaper")[Transparency Report](https://threema.ch/en/transparencyreport "Transparency Report")[Open Source](https://threema.ch/en/open-source "Open Source")
 
 The Company[About](https://threema.ch/en/about "About")[Contact](https://threema.ch/en/contact "Contact")[Jobs](https://threema.ch/en/jobs "Jobs")[Press Material](https://threema.ch/en/press "Press Material")
 

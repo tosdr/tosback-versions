@@ -321,7 +321,7 @@ Adobe Experience Cloud solutions help our business customers personalize and imp
 
 ### How long does Adobe retain my information?
 
-When you register for an account and create an Adobe ID, we process and keep most personal information we have about you for as long as you are an active user of our products, services or apps. When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data. However, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us.
+When you register for an account and create an Adobe ID, we process and keep most personal information we have about you for as long as you are an active user of our products, services or apps. When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data. However, we typically retain personal information related to our contract and business transactions with you for ten years after your last interaction with us.
 
 Where we process personal information for marketing purposes or with your consent, we process the information until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a permanent record of the fact that you have asked us not to send you direct marketing or to process your information so that we can respect your request in future.
 

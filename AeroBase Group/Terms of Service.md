@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [The military is scrambling to understand the aviation crash risk from a new 5G sale](http://feedproxy.google.com/~r/defense-news/air/~3/yEiwPTFq0wU/)  
+    12/21/20 05:00am  
+    
+    (Staff Sgt. Ryan Callaghan/U.S. Air Force)
+    
+*   [Year in review: Top stories from 2020](http://feedproxy.google.com/~r/defense-news/air/~3/p0kh_1Hfh_s/)  
+    12/21/20 05:00am  
+    
+    A fire continues to be fought into the evening on board the amphibious assault ship USS Bonhomme Richard (LHD 6) at Naval Base San Diego, July 12, 2020. (MC2 Austin Haist/Navy)
+    
+*   [Lockheed Martin buys Aerojet Rocketdyne in $4.4B deal](http://feedproxy.google.com/~r/defense-news/air/~3/U7k39PflFWI/)  
+    12/20/20 07:56pm  
+    
+    LE BOURGET, France: Picture taken 16 June 2005 at Le Bourget Airport during the 46th International Paris Air shows the logo of US group Lockheed Martin. (PIERRE VERDY/AFP/Getty Images)
+    
 *   [Here’s why the Valkyrie drone couldn’t translate between F-35 and F-22 jets during a recent test](http://feedproxy.google.com/~r/defense-news/air/~3/mrFp-pDPLU8/)  
     12/18/20 04:17pm  
     
     A U.S. Air Force F-22 Raptor and F-35A Lightning II fly in formation with the XQ-58A Valkyrie drone over Yuma Proving Ground in Arizona during a series of tests Dec. 9, 2020. This integrated test follows a series of gatewayONE ground tests that began during the inaugural Air Force on-ramp in December 2019. (Tech. Sgt. James Cason/U.S. Air Force)
     
-*   [Russia is developing a helicopter drone to destroy other drones](http://feedproxy.google.com/~r/defense-news/air/~3/w-pZLQaXXo0/)  
-    12/17/20 02:26pm  
-    
-    Russia has at least two helicopter drones currently under development. (Skapie777/Getty Images)
-    
-*   [Artoo, take the wheel: U-2 spy plane flies for the first time with an AI co-pilot](http://feedproxy.google.com/~r/defense-news/air/~3/8MBkJWBQeR0/)  
-    12/16/20 03:28pm  
-    
-    A U-2 spy plane prepares to land at Beale Air Force, Calif., on Dec. 15, 2020. The U-2 Federal Laboratory trained an AI co-pilot to execute specific in-flight tasks that would otherwise be done by the pilot. (Airman 1st Class Luis A. Ruiz-Vazquez/U.S. Air Force)
-    
-*   [The F-35′s interoperability tech strengthens US alliances](http://feedproxy.google.com/~r/defense-news/air/~3/dt3fMdyf-4U/)  
-    12/16/20 10:09am  
-    
-    An F-35B takes off from the deck aboard the HMS Queen Elizabeth at sea on Oct. 10, 2020. (1st Lt. Zachary Bodner/U.S. Marine Corps)
-    
 
 Recent parts by keyword  
 
-*   [Sled](https://aerobasegroup.com/search/?term=Sled)
-*   [MS21209c0515](https://aerobasegroup.com/search/?term=MS21209c0515)
-*   [NSN:-58-200-1263](https://aerobasegroup.com/search/?term=NSN%3A+5820-01-263-1760)
-*   [NSN5-12-001-0131](https://aerobasegroup.com/search/?term=NSN+5120-01-013-1676)
-*   [NSN5-97-500-2245](https://aerobasegroup.com/search/?term=NSN+5975-00-224-5260)
-*   [NSN5-97-500-8783](https://aerobasegroup.com/search/?term=NSN+5975-00-878-3791)
-*   [NAS1352-06-4](https://aerobasegroup.com/search/?term=NAS1352-06-4)
+*   [V5000-472](https://aerobasegroup.com/search/?term=V5000-472)
+*   [1SE2](https://aerobasegroup.com/search/?term=1SE2)
+*   [1HS1](https://aerobasegroup.com/search/?term=1HS1)
+*   [1EN1-6](https://aerobasegroup.com/search/?term=1EN1-6)
+*   [ts201p](https://aerobasegroup.com/search/?term=ts201p)
+*   [M 85731/1-8](https://aerobasegroup.com/search/?term=M+85731%2F1-8)
+*   [BJO-0930](https://aerobasegroup.com/search/?term=BJO-0930)
 
 The AeroBase Group Family ..
 

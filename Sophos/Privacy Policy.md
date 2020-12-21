@@ -14,7 +14,7 @@ We are committed to safeguarding the privacy of your personal data. Please read 
 *   [Other specific ways we collect and use your personal data](#tab2)
 *   [Legal basis for processing personal data](#tab3)
 *   [With whom might we share your personal data](#tab4)
-*   [International transfers of data](#tab5)
+*   [Data Transfers](#tab5)
 *   [Data retention](#tab6)
 *   [Use by children](#tab7)
 *   [Automated decision-making](#tab8)
@@ -140,14 +140,20 @@ Except as set out above, we will not disclose your personal data save where we n
 
 Whenever we share personal data, we take all reasonable steps to ensure that it is treated securely and in accordance with this privacy policy. This may include without limitation aggregating or de-identifying information so that it is not intended to be used by the third party to identify you.
 
-International transfers of data
--------------------------------
+Data Transfers
+--------------
 
 As a global company, we and our service providers operate, and our Site, products, and services are accessed from, all over the world. When you give us personal data, that data may be used, processed, or stored anywhere in the world, including in countries that have data protection laws that are different to the country in which you reside.
 
-However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this privacy policy. For example, these include implementing the European Commission’s Standard Contractual Clauses for transfers of personal data between our group companies, which require all group companies to protect personal data they process from the European Economic Area in accordance with European Union data protection law.
+However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this privacy policy. For example, these include implementing the European Commission’s Standard Contractual Clauses (SCCs) for transfers of personal data between our group companies, which require all group companies to protect personal data they process from the European Economic Area in accordance with European Union data protection law.
 
-Our Standard Contractual Clauses can be provided on request. We have implemented similar appropriate safeguards with our third party service providers and partners, and further details can be provided upon request by contacting us using the contact details provided under the “[Contact](#Contact)” heading.
+Sophos offers a [Data Processing Agreement](https://sophoslegal.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDYJdDjIKFeE3dRr-Qa445miuV-j4vkryxXogGpxflfwYrBFgHKhGTnLAwL58f_GOs*) for Customers which includes the SCCs. We have implemented similar appropriate safeguards with our third party service providers and partners, and further details can be provided upon request by contacting us using the contact details provided under the “[Contact](#Contact)” heading.
+
+**Brexit**  
+
+To assist Customers in complying with the requirement to adopt adequate safeguards for the transfer of personal data from the EU to the UK, Sophos offers the EU Standard Contractual Clauses (“SCCs”). The SCCs are considered a valid transfer mechanism under the GDPR and allow Data Controllers in the EU to safely transfer personal data to Sophos in the UK.
+
+Sophos includes the SCCs in its standard Data Processing Agreement available to Customers [here](https://sophoslegal.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDYJdDjIKFeE3dRr-Qa445miuV-j4vkryxXogGpxflfwYrBFgHKhGTnLAwL58f_GOs*).
 
 Data retention
 --------------

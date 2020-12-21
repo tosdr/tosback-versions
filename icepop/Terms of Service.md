@@ -358,7 +358,7 @@ visit the novelty magazines network
 
 ![](https://www.facebook.com/tr?id=1547680581965422&ev=PageView&noscript=1)
 
-(function (i, s, o, g, r, a, m) { i\['GoogleAnalyticsObject'\] = r; i\[r\] = i\[r\] || function () { (i\[r\].q = i\[r\].q || \[\]).push(arguments) }, i\[r\].l = 1 \* new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)\[0\]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-72323816-1', 'auto'); ga('set', 'dimension2', 'prebid'); ga('send', 'pageview'); var \_qevents = \_qevents || \[\]; (function() { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')\[0\]; scpt.parentNode.insertBefore(elem, scpt); })(); \_qevents.push({ qacct:"p-XVk6Htm3askVa" });
+var \_qevents = \_qevents || \[\]; (function() { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')\[0\]; scpt.parentNode.insertBefore(elem, scpt); })(); \_qevents.push({ qacct:"p-XVk6Htm3askVa" });
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-XVk6Htm3askVa.gif)
 

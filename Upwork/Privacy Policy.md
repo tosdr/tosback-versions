@@ -32,7 +32,7 @@
 
 **1\. INTRODUCTION**
 
-The Upwork Site Terms of Use describe when and the conditions under which you are allowed to access or use the [Site](#site) (defined in Section 5 below). Please read these Site Terms of Use carefully before visiting our Site. Some visitors to our Site simply visit the publicly available portions of our Site or use the [Public Site Services](#publicsiteservices) (defined in Section 5 below) (“**you**” or “**Site Visitors**”). If you do not agree to these Site Terms of Use, you may not visit, use, or access the Site or Site Services as a Site Visitor, User or otherwise and may not click to accept the Terms of Service when prompted on the Site.
+The Upwork Site Terms of Use describe when and the conditions under which you are allowed to access or use the [Site](#site) (defined in Section 5 below). Please read these Site Terms of Use carefully before visiting our Site. Some visitors to our Site simply visit the publicly available portions of our Site or use the [Public Site Services](#publicsiteservices) (defined in Section 5 below) (“**you**” or “**Site Visitors**”). By accessing and/or using our Site or Services, you agree to these Site Terms of Use.If you do not agree to these Site Terms of Use, you may not visit, use, or access the Site or Site Services as a Site Visitor, User or otherwise and may not click to accept the Terms of Service when prompted on the Site.
 
 **2\. LICENSES AND THIRD-PARTY CONTENT**
 
@@ -88,7 +88,7 @@ _Section 2.5 explains that third parties, including other Users, are responsible
 
 Any information or content expressed or made available by a third party or any other Site Visitor or User is that of the respective author(s) or distributor(s) and not of Upwork. Upwork neither endorses nor is responsible for the accuracy or reliability of any opinion, advice, information, or statement made on the Site by anyone other than Upwork’s authorized agents acting in their official capacities.
 
-The Site may contain links to third-party websites. The Site may also contain applications that allow you to access third-party websites via the Site. Such third-party websites or applications are owned and operated by the third parties and/or their licensors. The inclusion of any link or application on the Site does not imply that we endorse the linked site or application. You use the links and third-party websites at your own risk and agree that your use of an application or third-party website accessed via the Site is on an “as is” and “as available” basis without any warranty for any purpose.
+The Site may contain links to third-party websites. The Site may also contain applications that allow you to access third-party websites via the Site. Such third-party websites or applications are owned and operated by the third parties and/or their licensors. The inclusion of any link or application on the Site does not imply that we endorse the linked site or application. You use the links and third-party websites at your own risk and agree that your use of an application or third-party website accessed via the Site is on an “as is” and “as available” basis without any warranty from Upwork for any purpose.
 
 **2.6 COMPLAINTS ABOUT COPYRIGHTED CONTENT ON THE SITE**
 
@@ -108,23 +108,24 @@ Upwork offers the Site and Site Services for your business purposes only and not
 
 _Section 4 explains uses of the Site that are not allowed, as detailed below:_
 
-You may not use, or encourage, promote, facilitate, instruct or induce others to use, the Site or Site Services for any activities that violate any law, statute, ordinance or regulation; for any other illegal or fraudulent purpose or any purpose that is harmful to others; or to transmit, store, display, distribute or otherwise make available content that is illegal, fraudulent or harmful to others.  
+You may not use, or encourage, promote, facilitate, or instruct, induce, or otherwise influence or cause others: (1) to use the Site or Site Services for any activities that violate any law, statute, ordinance or regulation; for any other illegal or fraudulent purpose or any purpose that is harmful to others, or (2) to transmit, store, display, distribute or otherwise make available content that is illegal, fraudulent or harmful to others.  
 
 **4.1 EXAMPLES OF PROHIBITED USES OF THE SITE**
 
 The following are examples of uses that are prohibited on the Site or when using the Site Services:
 
-*   Seeking, offering, promoting, or endorsing and services, content, or activities that:
+*   Seeking, offering, promoting, or endorsing services, content, or activities that:
     *   are defamatory, illegal, profane, vulgar, threatening, unlawfully discriminatory, illegal, pornographic, obscene, or sexually explicit in nature;
     *   would violate the intellectual property rights, such as and including copyrights, of another person, entity, service, product, or website;
     *   would violate (a) Upwork’s Terms of Service, (b) the terms of service of another website or any similar contractual obligations, or (c) the academic policies of any educational institution;
+    *   regard the creation, purchase, and/or publication of a review for a third-party website;
     *   regard the creation, publication, or distribution of “fake news”, “hoax news”, Deep Fake content or similar content, which is, in Upwork's sole discretion, determined to be intended to mislead recipients for personal, financial, political or other gain or advantage;
     *   regard or promote in any way any escort services, prostitution, or sexual acts; or
-    *   are harassing toward another person based on the person's inclusion in a protected class as defined by applicable law;
+    *   any conduct that is, in Upwork’s determination, harassing toward another person based on the person's inclusion in a protected class as defined by applicable law;
 *   Fraudulent or misleading uses or content, including:
-    *   fraudulently billing or attempting to fraudulently bill any Client, including by (i) falsifying or manipulating or attempting to falsify or manipulate the hours, keystrokes, or mouse clicks recorded in the Upwork App, (ii) reporting, recording, or otherwise billing Clients for time that was not actually worked, or (iii) reporting, recording, or otherwise billing hours worked by another person as hours worked by you in a way that is misleading or false;
+    *   fraudulently billing or attempting to fraudulently bill any Client, including by (i) falsifying or manipulating or attempting to falsify or manipulate the hours, keystrokes, or mouse clicks recorded in the Upwork App, (ii) reporting, recording, or otherwise billing Clients for time that was not actually worked, or (iii) on an hourly contract, reporting, recording, or otherwise billing hours worked by another person as hours worked by you in a way that is misleading or false;
     *   misrepresenting your experience, skills, or information, including by representing another person’s profile, or parts of another person’s profile, as your own;
-    *   using a profile photo that misrepresents your identity or represents you as someone else;
+    *   using a profile photo that is not you, misrepresents your identity or represents you as someone else, or any other activity that misrepresents your identity;
     *   impersonating any person or entity, including, but not limited to, an Upwork representative, forum leader, or falsely stating or otherwise misrepresenting your affiliation with a person or entity;
     *   falsely stating or implying a relationship with another User, including an Agency continuing to use a Freelancer’s profile or information after the Freelancer no longer works with the Agency;
     *   falsely attributing statements to any Upwork representative, forum leader, guide or host;
@@ -136,7 +137,7 @@ The following are examples of uses that are prohibited on the Site or when using
 *   Posting identifying information concerning another person;
 *   Spamming other Users with proposals or invitations, including by making unsolicited contact of Users off the Upwork platform, or by posting the same job multiple times so that more than one version remains active at a given time;  
     
-*   Making or demanding bribes or other payments without the intention of providing services in exchange for the payment;
+*   Making or demanding bribes or demanding other payments without the intention of or without actually providing services in exchange for the payment;
 *   Requesting or demanding free services, including requesting Freelancers to submit work as part of the proposal process for very little or no money or posting contests in which Freelancers submit work with no or very little pay, and only the winning submission is paid the full amount;
 *   Requesting a fee before allowing a User to submit a proposal;  
     
@@ -153,15 +154,15 @@ The following are examples of uses that are prohibited on the Site or when using
 *   Directly or indirectly, advertising or promoting another website, product, or service or soliciting other Users for other websites, products, or services, including advertising on Upwork to recruit Freelancers and/or Clients to join an Agency or another website or company;
 *   Interfering or attempting to interfere with the proper operation of the Site or Site Services or any activities conducted on the Site, including by:
     *   bypassing any measures we may use to prevent or restrict access to the Site or any subparts of the Site, including, without limitation, features that prevent or restrict use or copying of any content or enforce limitations on use of the Site or the content therein;
-    *   attempting to interfere with or compromise the system integrity or security or decipher any transmissions to or from the servers running the Site;
+    *   attempting to interfere with or compromise, or actually interfering with or compromising, the system integrity or security of the servers running the Site, or attempting to or deciphering any transmissions to or from the servers running the Site;
     *   using any robot, spider, scraper, or other automated means to access the Site for any purpose without our express written permission;
-    *   attempting to or interfering with or compromising the system integrity or security or deciphering any transmissions to or from the servers running the Site;
     *   collecting or harvesting any personally identifiable information, including Account names, from the Site;
-    *   attempting to or imposing an unreasonable or disproportionately large load (as determined in Upwork’s sole discretion) on the Site’s infrastructure; Introducing any invalid data, virus, worm, or other harmful or malicious software code, agent, hidden procedure, routine, or mechanism through or to the Site that is designed to or known to cause to cease functioning, disrupt, disable, harm, or otherwise impair in any manner, including aesthetic disruptions or distortions, the operation of (or to allow you or any other person to access or damage or corrupt data, storage media, programs, equipment, or communications or otherwise interfere with operations of or on) the Site or any software, firmware, hardware, computer system, or network of Upwork or any third party;
+    *   attempting to or imposing an unreasonable or disproportionately large load (as determined in Upwork’s sole discretion) on the Site’s infrastructure;
+    *   introducing any invalid data, virus, worm, or other harmful or malicious software code, agent, hidden procedure, routine, or mechanism through or to the Site that is designed to or known to cause to cease functioning, disrupt, disable, harm, or otherwise impair in any manner, including aesthetic disruptions or distortions, the operation of (or to allow you or any other person to access or damage or corrupt data, storage media, programs, equipment, or communications or otherwise interfere with operations of or on) the Site or any software, firmware, hardware, computer system, or network of Upwork or any third party;
     *   accessing or attempting to access the Site or Site Services by any means or technology other than the interface provided; or
-    *   framing or linking to the Site or Site Services except as permitted in writing by Upwork
+    *   framing or linking to the Site or Site Services except as permitted in writing by Upwork.
 *   Conduct or actions that could jeopardize the integrity of or circumvent the Site, Site Services or Upwork's proprietary information, including:
-    *   attempting to or actually reverse engineering, modifying, adapting, translating, preparing derivative works from, decompiling, interfering with the operation of, or otherwise attempting to derive source code from any part of the Site or Site Services unless expressly permitted by applicable law or Upwork; or
+    *   attempting to or actually reverse engineering, modifying, adapting, translating, preparing derivative works from, decompiling, or interfering with the operation of, or otherwise attempting to derive source code from, any part of the Site or Site Services unless expressly permitted by applicable law or Upwork; or
     *   accessing or using the Site or Site Services to build a similar service or application, identify or solicit Upwork Users, or publish any performance or any benchmark test or analysis relating to the Site.
 
 **4.2 ENFORCEMENT**  
@@ -170,7 +171,7 @@ We reserve the right, but do not assume the obligation, to investigate any poten
 
 **4.3 REPORTING AND CORRECTING VIOLATIONS**
 
-If you become aware of any violation of these Site Terms or Use, you must immediately report it to Customer Service. You agree to assist us with any investigation we undertake and to take any remedial steps we require in order to correct a violation of these Site Terms of Use.
+If you become aware of any violation of these Site Terms of Use, you must immediately report it to Customer Service. You agree to assist us with any investigation we undertake and to take any remedial steps we require in order to correct a violation of these Site Terms of Use.
 
 **5\. DEFINITIONS**
 
@@ -190,11 +191,11 @@ Capitalized terms not defined below have the meanings described in the Terms of 
 
 “**Intellectual Property Rights**” means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
 
-“**Means of Direct Contract**” has the meaning set forth in Section 7 of the User Agreement.
+“**Means of Direct Contact**” has the meaning set forth in Section 7 of the User Agreement.
 
 “**Public Site Services**” means, collectively, all services, applications and products that are accessible by any Site Visitor who has not become a User through the Site, to the extent they are accessible by a Site Visitor who has not become a User.
 
-[“**Site**”](http://www.upwork.com/) means, collectively, our website located at www.upwork.com, all affiliated websites and applications, including mobile websites and Upwork Mobile Applications, owned and operated by us, our predecessors or successors in interest, or our Affiliates (defined in the User Agreement).
+[“**Site**”](http://www.upwork.com/) means, any and all Upwork platforms, including, collectively, our website located at www.upwork.com, all affiliated websites and applications, including mobile websites and Upwork Mobile Applications, owned and operated by us, our predecessors or successors in interest, or our Affiliates (defined in the User Agreement).
 
 “**Site Services**” means, collectively, all services (except the Freelancer Services defined herein), applications and products that are accessible through the Site, including the Public Site Services, and all Upwork Mobile Applications.
 

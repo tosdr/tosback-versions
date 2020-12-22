@@ -329,14 +329,14 @@ Subscribe to receive email updates from TRICARE   Please enter a valid email add
 
 #### Links to social media
 
-*   [Goes to Facebook](https://www.facebook.com/TRICARE "Visit us on Facebook")
-*   [Goes to Twitter](https://twitter.com/TRICARE "Visit us on Twitter")
-*   [Goes to YouTube](https://www.youtube.com/tricare "Visit us on YouTube")
-*   [Goes to LinkedIn](https://www.linkedin.com/company/defense-health-agency/ "Visit us on LinkedIn")
+*   [Goes to Facebook](https://www.facebook.com/TRICARE "Visit TRICARE on Facebook")
+*   [Goes to Twitter](https://twitter.com/TRICARE "Visit TRICARE on Twitter")
+*   [Goes to YouTube](https://www.youtube.com/tricare "Visit TRICARE on YouTube")
+*   [Goes to LinkedIn](https://www.linkedin.com/company/defense-health-agency/ "Visit TRICARE on LinkedIn")
 
-[Goes to Defense.gov ![DoD Logo](/TRICARE-T17/img/DODseal-55px.png)](https://www.defense.gov/ "Defense.gov") 
+[Goes to Defense.gov ![DoD Logo](/TRICARE-T17/img/DODseal-55px.png)](https://www.defense.gov/) 
 
-[Goes to Health.mil ![mhs Logo](/TRICARE-T17/img/MHSseal-55px.png)](https://health.mil/ "Health.mil") 
+[Goes to Health.mil ![mhs Logo](/TRICARE-T17/img/MHSseal-55px.png)](https://health.mil/) 
 
 [www.tricare.mil](https://www.tricare.mil/) is an official website of the Defense Health Agency (DHA), a component of the [Military Health System](http://health.mil/ "Health.mil") 
 

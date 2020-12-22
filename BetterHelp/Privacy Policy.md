@@ -299,7 +299,7 @@ If you are in a crisis or any other person may be in danger - don't use this sit
 
 ](https://www.pinterest.com/betterhelp/)[
 
-](https://twitter.com/betterhelp)[*   Home](https://www.betterhelp.com/)[*   About](https://www.betterhelp.com/about/)[*   FAQ](https://www.betterhelp.com/faq/)[*   Reviews](https://www.betterhelp.com/reviews/)[*   Advice](https://www.betterhelp.com/advice/)[*   Jobs](https://www.betterhelp.com/jobs/)[*   Find a Therapist](https://www.betterhelp.com/therapists/)[*   Contact](https://www.betterhelp.com/contact/)[*   For Counselors](https://www.betterhelp.com/counselor_application/)
+](https://twitter.com/betterhelp)[*   Home](https://www.betterhelp.com/)[*   About](https://www.betterhelp.com/about/)[*   FAQ](https://www.betterhelp.com/faq/)[*   Reviews](https://www.betterhelp.com/reviews/)[*   Advice](https://www.betterhelp.com/advice/)[*   Jobs](https://www.betterhelp.com/jobs/)[*   Find a Therapist](https://www.betterhelp.com/therapists/)[*   Online Therapy](https://www.betterhelp.com/online-therapy/)[*   Contact](https://www.betterhelp.com/contact/)[*   For Counselors](https://www.betterhelp.com/counselor_application/)
 
 [*   Terms & Conditions](https://www.betterhelp.com/terms/)[*   Privacy Policy](https://www.betterhelp.com/privacy/)[*   Web Accessibility](https://www.betterhelp.com/accessibility/)*   © 2020 BetterHelp
 

@@ -38,7 +38,7 @@ MobileUtils.setupMobileClass(); var gg = NOLCMB.getInstance(\_nolggGlobalParams.
 
 ![](https://i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png)
 
-**Monday, Dec 21st 2020** [5AM **41°F** 8AM **39°F** 5-Day Forecast](http://www.dailymail.co.uk/home/weather/index.html)
+**Tuesday, Dec 22nd 2020** [5AM **37°F** 8AM **42°F** 5-Day Forecast](http://www.dailymail.co.uk/home/weather/index.html)
 
 [show ad](#)
 
@@ -769,29 +769,29 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37091436-0-image-m-93_1608527160703.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37140608-0-image-m-41_1608630678611.jpg)
     
-    **Madonna shows off her flat abs and impressive figure in the mirror alongside her 'beautiful scar' from her hip surgery and 'cupping' marks**](http://www.dailymail.co.uk/tvshowbiz/article-9074417/Madonna-shows-flat-abs-mirror-beautiful-scar-hip-center.html) 
+    **Cat Deeley shares the sweet story of how husband Patrick Kielty turned their friendship to romance by flying all the way from Ireland to LA for BRUNCH**](http://www.dailymail.co.uk/tvshowbiz/article-9078533/Cat-Deeley-discusses-husband-Patrick-Kielty-wooed-her.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097672-0-image-m-18_1608546640275.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37141018-0-image-m-87_1608631420245.jpg)
     
-    **Kimberley Garner wears very skimpy criss-cross bikini and gets kisses from mystery boyfriend as they enjoy some fun in the sun in Barbados**](http://www.dailymail.co.uk/tvshowbiz/article-9075003/Kimberley-Garner-wears-skimpy-criss-cross-bikini.html) 
+    **Karren Brady's bikini-clad daughter Sophia Peschisolido shows off her curves as she soaks up the sun during winter break in Dubai** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9078557/Karren-Bradys-bikini-clad-daughter-Sophia-Peschisolido-shows-curves.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37095652-0-image-m-31_1608540755412.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/07/37135994-0-image-m-3_1608621854627.jpg)
     
-    **'Family is everything and we're not really done!' Kimberley Walsh, 39, reveals she is 15 weeks pregnant with her third child** Baby joy](http://www.dailymail.co.uk/tvshowbiz/article-9074753/Kimberley-Walsh-39-reveals-15-weeks-pregnant-child.html) 
+    **Charlotte McKinney turns heads in a tiny dark brown bikini and some designer shades as she romps in the water solo in Miami Beach**](http://www.dailymail.co.uk/tvshowbiz/article-9078299/Charlotte-McKinney-turns-heads-tiny-dark-brown-bikini-water-solo-Miami-Beach.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37082156-0-image-m-2_1608502625033.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37141412-0-image-a-25_1608633963186.jpg)
     
-    **Hollyoaks' Jennifer Metcalfe is 'DATING former Manchester United star Chris Eagles four months after Greg Lake split'**](http://www.dailymail.co.uk/tvshowbiz/article-9073641/Hollyoaks-Jennifer-Metcalfe-DATING-former-Manchester-United-star-Chris-Eagles.html) 
+    **Bianca Gascoigne catches the eye as she heads to the shops in a plunging skintight grey onesie after breast reduction surgery** Turned heads](http://www.dailymail.co.uk/tvshowbiz/article-9078689/Bianca-Gascoigne-hits-shops-plunging-skintight-grey-onesie-breast-reduction-surgery.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094908-0-image-m-113_1608540122050.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/12/37144370-0-image-m-31_1608638967087.jpg)
     
-    **'We didn't break any rules!' Molly-Mae Hague defends herself as she and beau Tommy Fury are slammed for jetting off to the Maldives amid Tier 4 lockdown**](http://www.dailymail.co.uk/tvshowbiz/article-9074779/Molly-Mae-Hague-defends-Tommy-Fury-slammed-Maldives-trip-amid-Tier-4-lockdown.html) 
+    **'I said you've got a lovely kitchen and you're alright too!' Ranvir Singh reveals the flirty text she sent Giovanni Pernice after THAT cheeky comment**](http://www.dailymail.co.uk/tvshowbiz/article-9078881/Ranvir-Singh-reveals-flirty-text-sent-Giovanni-Pernice-cheeky-comment.html) 
 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -801,19 +801,19 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099930-0-image-a-12_1608550154067.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37140900-0-image-a-68_1608631860851.jpg)
     
-    **Her royal high street! Pregnant Princess Eugenie shows off her baby bump in a sparkly dress and £100 Zara coat as she leaves work in Mayfair**](http://www.dailymail.co.uk/femail/article-9075113/Pregnant-Princess-Eugenie-shows-growing-baby-bump-leaves-art-gallery-Mayfair.html) 
+    **Sophie Rundle hospitalised after contracting coronavirus and suffering 'hardcore vomiting'** The actress is best known for Peaky Blinders](http://www.dailymail.co.uk/tvshowbiz/article-9078629/Sophie-Rundle-hospitalised-contracting-coronavirus-suffering-hardcore-vomiting.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097240-0-image-m-145_1608545007091.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37141610-0-image-m-159_1608633778698.jpg)
     
-    **Love Island's Megan Barton Hanson bares all in the name of art as she gets a mould of her breasts and vagina** The Love Island star got some mementos](http://www.dailymail.co.uk/tvshowbiz/article-9074873/Love-Islands-Megan-Barton-Hanson-bares-gets-mould-breasts-vagina.html) 
+    **Love Island's Georgia Steel puts on a sizzling display as she poses outdoors in VERY skimpy bikini during luxury spa break in Cheshire**](http://www.dailymail.co.uk/tvshowbiz/article-9078705/Love-Islands-Georgia-Steel-poses-skimpy-bikini-luxury-spa-break-Cheshire.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096424-0-image-a-37_1608542809834.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130054-0-image-m-77_1608603987989.jpg)
     
-    **'I look six months pregnant!': Alesha Dixon works up a sweat in clingy yellow activewear while her beau distracts her with doughnuts**](http://www.dailymail.co.uk/tvshowbiz/article-9074859/Alesha-Dixon-works-sweat-clingy-yellow-activewear-Maldives.html) 
+    **Heather Morris offers sincere apology after defending late Glee co-star Mark Salling in 'insensitive' tweets: 'I can't express enough how sorry I am'**](http://www.dailymail.co.uk/tvshowbiz/article-9077773/Heather-Morris-offers-apology-defending-late-Glee-star-Mark-Salling-insensitive-tweets.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/19/08/35462246-0-image-a-16_1608367286635.jpg)
@@ -821,10 +821,899 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Put the right foot forward and shop small this Christmas! One shoe retailer shows how you can spread some festive cheer with your shopping choices** Ad Feature](http://www.dailymail.co.uk/femail/article-8928599/One-business-owner-reveals-festive-boots-shopping-small-Christmas.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/12/37144418-0-image-a-164_1608639618646.jpg)
+    
+    **Katy Perry admits she PRETENDED to be Zooey Deschanel when she had 'no money' to get into clubs... but says she is sorry for 'misrepresenting' her**](http://www.dailymail.co.uk/tvshowbiz/article-9078863/Katy-Perry-admits-PRETENDED-Zooey-Deschanel-clubs.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37143468-0-image-m-134_1608637201838.jpg)
+    
+    **Kimberley Garner shows off her lithe physique in a white two-piece as she frolics with a mystery man during sunshine break in Barbados**](http://www.dailymail.co.uk/tvshowbiz/article-9078827/Kimberley-Garner-shows-lithe-physique-white-two-piece-frolics-mystery-man.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/12/28314070-0-image-m-38_1608639375619.jpg)
+    
+    **'She was an anchor of kindness': Rory Kinnear shares moving tribute to his sister Karina seven months on from her death from coronavirus** Heartbreaking](http://www.dailymail.co.uk/tvshowbiz/article-9078681/Rory-Kinnear-shares-tribute-sister-Karina-seven-months-death-coronavirus.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37121628-0-image-a-29_1608588108607.jpg)
+    
+    **William and Kate and their children mingle with Edward and Sophie's family as a group of NINE on night out - despite rule of six**](http://www.dailymail.co.uk/news/article-9077177/William-Kate-mingle-Edward-Sophies-family-group-nine.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/11/14/19/35678290-0-image-a-55_1605382427739.jpg)
+    
+    **How these nutrients could help support YOUR immune system this winter** Ad Feature](http://www.dailymail.co.uk/femail/article-8949231/How-nutrients-help-support-immune-winter.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/12/37144038-0-image-m-186_1608638530438.jpg)
+    
+    **'F\*\*k them!' Love Island's Kaz Crossley shocks pal Amber Gill as she crassly dismisses critics of reality stars' lavish lockdown holidays**](http://www.dailymail.co.uk/tvshowbiz/article-9078833/Love-Islands-Kaz-Crossley-crudely-dismisses-critics-reality-stars-lavish-lockdown-holidays.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/12/37143472-0-image-a-7_1608638505196.jpg)
+    
+    **Love Island's Amy Hart puts on a leggy display in a houndstooth miniskirt and matching coat as she fuels up on coffee during solo outing**](http://www.dailymail.co.uk/tvshowbiz/article-9078883/Love-Islands-Amy-Hart-puts-leggy-display-houndstooth-miniskirt-matching-coat.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37143292-0-image-m-93_1608636862488.jpg)
+    
+    **'There's no pain like this': Love Island's Jess Hayes discusses suffering a miscarriage at 19 weeks as she says she's 'not ready to forget her baby boy'**](http://www.dailymail.co.uk/tvshowbiz/article-9078817/Love-Islands-Jess-Hayes-discusses-suffering-miscarriage-19-weeks.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37137064-0-image-m-20_1608624013747.jpg)
+    
+    **Formula One champion Lewis Hamilton reveals he has lost almost a STONE and 'has low strength' following his coronavirus battle**](http://www.dailymail.co.uk/tvshowbiz/article-9078353/Lewis-Hamilton-lost-STONE-coronavirus-battle.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37126002-0-image-a-111_1608594296200.jpg)
+    
+    **Strictly's Maisie Smith, 19, 'could become a MILLIONAIRE in two years if she quits EastEnders after being inundated with big-money offers'**](http://www.dailymail.co.uk/tvshowbiz/article-9077423/Strictlys-Maisie-Smith-MILLIONAIRE-quits-EastEnders.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37142532-0-image-m-43_1608635103254.jpg)
+    
+    **Love Island's Rebecca Gormley looks incredible as she poses in semi-sheer lace blue lingerie for bathroom selfies** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9078773/Love-Islands-Rebecca-Gormley-sexy-semi-sheer-lace-blue-lingerie.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37140768-0-image-m-8_1608631491838.jpg)
+    
+    **Alesha Dixon will return to Strictly Come Dancing for first time in nine years to join the Christmas special** Alesha is heading back to Strictly](http://www.dailymail.co.uk/tvshowbiz/article-9078437/Alesha-Dixon-return-Strictly-Come-Dancing-time-nine-years.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37140846-0-image-a-29_1608631864295.jpg)
+    
+    **TOWIE's Amber Turner showcases her toned figure in a busty mint green bikini as she pines for sunnier climes in throwback Dubai snap**](http://www.dailymail.co.uk/tvshowbiz/article-9078619/TOWIEs-Amber-Turner-showcases-toned-figure-busty-mint-green-bikini-throwback-Dubai-snap.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37142870-0-image-m-54_1608635789872.jpg)
+    
+    **Kelly Brook looks festive in red checked mini dress and racy knee-high boots as she heads to work at Heart FM** Chic](http://www.dailymail.co.uk/tvshowbiz/article-9078841/Kelly-Brook-looks-festive-red-checked-mini-dress-racy-knee-high-boots.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37143150-0-image-a-4_1608636459161.jpg)
+    
+    **Myleene Klass jokingly reveals people 'thought I was naked' as she arrives to present Smooth Radio show in a 'very beige' outfit** Cheeky](http://www.dailymail.co.uk/tvshowbiz/article-9078763/Myleene-Klass-looks-stylish-beige-outfit-arrives-present-Smooth-Radio.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37139954-0-image-m-223_1608630712484.jpg)
+    
+    **'There's something very misogynistic about it': Ashley James slams mothers who give pregnant women 'stressful' advice**  Hitting out](http://www.dailymail.co.uk/tvshowbiz/article-9078529/Ashley-James-slams-mothers-pregnant-women-stressful-advice.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/11/37142648-0-image-m-112_1608635416032.jpg)
+    
+    **Coleen and Maureen Nolan make contact with their potential long lost half-sister as they await the results of crucial DNA test in At Home With The Nolans**](http://www.dailymail.co.uk/tvshowbiz/article-9078677/Coleen-Maureen-Nolan-make-contact-potential-long-lost-half-sister.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37142410-0-image-a-96_1608635155079.jpg)
+    
+    **Liev Schreiber grabs pizza with his ex-wife Naomi Watts and their two kids during day off from filming Across The River And Into The Trees in Venice**](http://www.dailymail.co.uk/tvshowbiz/article-9078729/Liev-Schreiber-grabs-pizza-ex-wife-Naomi-Watts-two-kids.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/07/37136194-0-image-a-2_1608621371131.jpg)
+    
+    **Hugh Jackman continues to troll his nemesis Ryan Reynolds and says that 'everyone hates him' after winning a charity competition** Ouch](http://www.dailymail.co.uk/tvshowbiz/article-9078203/Hugh-Jackman-trolls-nemesis-Ryan-Reynolds-says-hates-him.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37141896-0-image-m-18_1608633401082.jpg)
+    
+    **'Apparently it's good luck to get s\*\*t on': Georgia Harrison puts on a very busty display in sexy video but is shocked when a bird poops on her**](http://www.dailymail.co.uk/tvshowbiz/article-9078673/Georgia-Harrison-shocked-bird-poops-her.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37140552-0-image-m-26_1608630376638.jpg)
+    
+    **'That's not essential travel!' GMB viewers criticise ITV as Laura Tobin travels from Tier 4 London to Tier 2 Blenheim Palace to present the weather**](http://www.dailymail.co.uk/tvshowbiz/article-9078545/Good-Morning-Britain-viewers-criticise-ITV-Laura-Tobin-travels-Tier-4-London-Tier-2.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37138592-0-image-a-4_1608626458547.jpg)
+    
+    **'It wasn't weird at all!': Jennifer Lopez says dressing as fiancé Alex Rodriquez rumoured ex Madonna for Halloween 'wasn't odd' because 'it was so long ago'**](http://www.dailymail.co.uk/tvshowbiz/article-9078403/Jennifer-Lopez-says-dressing-Madonna-Halloween-wasnt-odd.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37138522-0-image-a-38_1608627294583.jpg)
+    
+    **Diddy surprises his mom Janice Combs with $1MILLION and a Bentley for her 80th birthday... as he throws her a lavish dinner to celebrate**](http://www.dailymail.co.uk/tvshowbiz/article-9078423/Diddy-surprises-mom-Janice-1MILLION-Bentley-80th-birthday.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37139994-0-image-a-55_1608629931291.jpg)
+    
+    **Amy Willerton shows off her taut abs in a stylish white bikini as she enjoys extended getaway in Dubai** The model, 28, flaunted her taut midriff](http://www.dailymail.co.uk/tvshowbiz/article-9078551/Amy-Willerton-shows-taut-abs-stylish-white-bikini-Dubai.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37140700-0-image-a-87_1608630798349.jpg)
+    
+    **Former Love Island Australia star turned OnlyFans model Shelby 'Bilby' Mills launches her own X-rated website - after debuting new nose job**](http://www.dailymail.co.uk/tvshowbiz/article-9078555/Love-Island-Australia-star-turned-OnlyFans-model-Shelby-Mills-launches-X-rated-website.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37110216-0-image-a-38_1608567278403.jpg)
+    
+    **'Sooo satisfying!': Over 17,000 Amazon shoppers swear by this electric hard skin remover to give you 'baby soft feet'** Promoted](http://www.dailymail.co.uk/femail/article-9075057/Amazon-shoppers-swear-electric-hard-skin-remover-super-soft-feet.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/10/37140378-0-image-a-17_1608631733435.jpg)
+    
+    **'I still have that tango image in my mind!' Adil Ray flirts with Strictly star Ranvir Singh on GMB (and she gives him a wink of approval!)** Oh my](http://www.dailymail.co.uk/tvshowbiz/article-9078379/Adil-Ray-flirts-Strictly-star-Ranvir-Singh-GMB-gives-wink-approval.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37119264-0-image-a-75_1608584294696.jpg)
+    
+    **Maura Higgins sets pulses racing in festive red lingerie for sizzling shoot... sparking a VERY cheeky response from boyfriend Chris Taylor**](http://www.dailymail.co.uk/tvshowbiz/article-9076837/Maura-Higgins-sets-pulses-racing-festive-red-lingerie-sizzling-shoot.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37115308-0-image-m-74_1608576486685.jpg)
+    
+    **Sofia Richie, 22, slips into a bikini to enjoy St Barts by jet ski during height of the pandemic as dad Lionel Richie, 71, goes shirt-free**](http://www.dailymail.co.uk/tvshowbiz/article-9076479/Sofia-Richie-22-slips-bikini-alongside-dad-Lionel-Richie-71-St-Barts-pandemic.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37137230-0-image-m-19_1608624174204.jpg)
+    
+    **Doctor Who New Year special teases sleek, sophisticated Daleks hell-bent on 'maximum extermination' as Jodie Whittaker prepares to return as Time Lord**](http://www.dailymail.co.uk/tvshowbiz/article-9078313/Doctor-New-Year-special-teases-sophisticated-Daleks-hell-bent-maximum-extermination.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37139428-0-image-m-52_1608627860675.jpg)
+    
+    **'You inspire me more than you know': Martine McCutcheon pays an emotional tribute to husband Jack McManus as couple celebrate 14th anniversary of meeting**](http://www.dailymail.co.uk/tvshowbiz/article-9078451/Martine-McCutcheon-pays-emotional-tribute-husband-Jack-McManus-14th-anniversary.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/09/37140276-0-image-a-15_1608630233082.jpg)
+    
+    **'I just have to get on with it': Good Morning Britain's Adil Ray has to spend Christmas alone after travelling to London for the show at the weekend**](http://www.dailymail.co.uk/tvshowbiz/article-9078485/Good-Morning-Britains-Adil-Ray-spend-Christmas-alone.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122626-0-image-a-65_1608589473211.jpg)
+    
+    **Did Dominic West's dinner flout Covid restrictions? Actor is pictured among group of seven enjoying meal in apparent breach of 'rule of six'**](http://www.dailymail.co.uk/tvshowbiz/article-9077285/Dominic-West-pictured-group-seven-enjoying-outdoor-meal-apparent-breach-rule-six.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130454-0-image-a-58_1608605011720.jpg)
+    
+    **Zac Efron lists his $7.8million LA bachelor pad for sale as rumours swirl he's staying in Australia for good after finding love with Vanessa Valladares**](http://www.dailymail.co.uk/tvshowbiz/article-9077711/Zac-Efron-lists-7-8million-Los-Angeles-home-sale.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37138374-0-image-m-2_1608626256018.jpg)
+    
+    **'Hoping for a better 2021': Pregnant Dani Dyer shows off her baby bump in a crop top and hotpants as she urges people to 'make the most of what they can'**](http://www.dailymail.co.uk/tvshowbiz/article-9078447/Dani-Dyer-shows-baby-bump-crop-hotpants.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099648-0-image-m-30_1608551517628.jpg)
+    
+    **From Harry Potter-themed Trivial Pursuit to Mr Lister and Linkee, the best quiz games to see you through Christmas 2020** Promoted](http://www.dailymail.co.uk/femail/article-9075365/The-best-quiz-games-Christmas-2020.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/08/37137720-0-image-a-4_1608625164424.jpg)
+    
+    **Prince Jackson takes a group of 25 underprivileged children on a festive shopping spree at a toy store** Brought 25 kids to Mattel's headquarters](http://www.dailymail.co.uk/tvshowbiz/article-9078375/Prince-Jackson-donates-toys-underprivileged-kids-Heal-LA-event-Mattel-Los-Angeles.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37120152-0-image-m-32_1608586586828.jpg)
+    
+    **Kylie Jenner gives fans an early Christmas present as she shares two new pinup photos that make the most of her eye-popping curves** Wow](http://www.dailymail.co.uk/tvshowbiz/article-9077047/Kylie-Jenner-gives-fans-early-Christmas-present-shares-two-new-pinup-photos.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126004-0-image-m-21_1608595406856.jpg)
+    
+    **Jennifer Lopez contemplates not marrying Alex Rodriguez after cancelling wedding in Italy: 'We've both been married before'**](http://www.dailymail.co.uk/tvshowbiz/article-9077417/Jennifer-Lopez-contemplates-not-getting-married-Alex-Rodriguez-cancelling-June-wedding.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126678-0-image-m-12_1608595837330.jpg)
+    
+    **Arnold Schwarzenegger surprises his Kindergarten Cop costars by crashing their 30th-anniversary Zoom reunion**](http://www.dailymail.co.uk/tvshowbiz/article-9077447/Arnold-Schwarzenegger-surprises-Kindergarten-Cop-costars-crashing-Zoom-reunion.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/04/37132164-0-image-m-95_1608610979494.jpg)
+    
+    **Bella Hadid goes through her closet and donates some of her 'warmest' jackets to NYC's less fortunate** Winter has finally arrived in New York  
+    ](http://www.dailymail.co.uk/tvshowbiz/article-9078009/Bella-Hadid-donates-warmest-jackets-coats-fortunate-NYC.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/05/37133462-0-image-m-101_1608614359078.jpg)
+    
+    **Katie Holmes, 42, bundles up in long coat as she runs errands solo after going Instagram official with boyfriend Emilio Vitolo Jr., 33**](http://www.dailymail.co.uk/tvshowbiz/article-9078099/Katie-Holmes-bundles-long-coat-runs-errands-solo-NYC.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37126334-0-image-a-70_1608594922164.jpg)
+    
+    **Dwayne 'The Rock' Johnson makes a widowed dad's Christmas dream come true as star plays Santa for his two kids** Adorable](http://www.dailymail.co.uk/tvshowbiz/article-9077599/Dwayne-Johnson-surprises-struggling-single-dad-buying-kids-Christmas-presents.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37128002-0-image-m-5_1608598688183.jpg)
+    
+    **Tom Cruise's on-set outburst over COVID-19 safety was due to his 'perfectionist' streak: 'He has to film while making sure everyone stays safe'**](http://www.dailymail.co.uk/tvshowbiz/article-9077689/Tom-Cruises-set-outburst-COVID-19-safety-perfectionist-streak.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/07/37135794-0-image-m-5_1608620654478.jpg)
+    
+    **April Love Geary shares throwback of first photo she ever took with fiancé Robin Thicke... after welcoming their third child together**](http://www.dailymail.co.uk/tvshowbiz/article-9078247/April-Love-Geary-shares-photo-took-fianc-Robin-Thicke.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/05/37133884-0-image-a-44_1608615351597.jpg)
+    
+    **Pregnant Bindi Irwin, 22, shows off her baby bump at 26 weeks as she prepares to welcome first child with husband Chandler Powell**](http://www.dailymail.co.uk/tvshowbiz/article-9078031/Pregnant-Bindi-Irwin-22-shows-burgeoning-baby-bump-26-weeks.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/05/37133042-0-image-m-8_1608613190036.jpg)
+    
+    **Netflix cuts off its awards season campaign for Shia LaBeouf amid abuse allegations and a lawsuit from his ex-girlfriend FKA twigs**](http://www.dailymail.co.uk/tvshowbiz/article-9078033/Netflix-ends-awards-season-campaign-Shia-LaBeouf-amid-abuse-allegations.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111104-0-image-m-45_1608568753578.jpg)
+    
+    **Lauren Goodger shows off her curves in a tiny thong bikini as she promotes her tanning brand in Corfu** Wow](http://www.dailymail.co.uk/tvshowbiz/article-9076065/Lauren-Goodger-shows-curves-tiny-thong-bikini.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37126876-0-image-m-34_1608599112872.jpg)
+    
+    **Kristen Wiig gets real about challenges of parenting 11-month-old twins during quarantine: 'They don't get to see anybody'** Multitasking mama](http://www.dailymail.co.uk/tvshowbiz/article-9077651/Kristen-Wiig-gets-real-challenges-parenting-11-month-old-twins-quarantine.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114998-0-image-m-9_1608574880697.jpg)
+    
+    **Holby City's Lee Mead tests POSITIVE for Covid-19 and will spend Christmas alone as he cannot see his daughter Betsy, 10, or girlfriend Issy**](http://www.dailymail.co.uk/tvshowbiz/article-9076131/Holby-Citys-Lee-Mead-tests-POSITIVE-Covid-spend-Christmas-alone.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/19/09/37037448-0-image-m-20_1608369999520.jpg)
+    
+    **Gary Numan talks life in Los Angeles, his love for one of California's rare 'quaint' towns - and why Britons shouldn't dismiss American friendliness as fake**](http://www.dailymail.co.uk/travel/escape/article-9068757/Musician-Gary-Numan-checks-travel-Q-A.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130604-0-image-a-55_1608605687482.jpg)
+    
+    **'He truly learned to play': Chadwick Boseman's Ma Rainey's Black Bottom costars say late actor mastered playing the trumpet for his role in film**](http://www.dailymail.co.uk/tvshowbiz/article-9077785/Chadwick-Bosemans-Ma-Raineys-Black-Bottom-costars-say-late-actor-learned-play-trumpet.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/07/37136472-0-image-m-27_1608622104518.jpg)
+    
+    **Josh Gad reunites the casts of all three Karate Kid movies and Cobra Kai on the Reunited Apart podcast... with Amy Schumer as a surprise guest**](http://www.dailymail.co.uk/tvshowbiz/article-9078255/Josh-Gad-reunites-casts-three-Karate-Kid-movies-Reunited-Apart-podcast.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/04/37132382-0-image-a-137_1608611422180.jpg)
+    
+    **Ashley Graham flashes her black bra under a revealing semi-sheer blouse as she rocks an olive green snowsuit** Striking](http://www.dailymail.co.uk/tvshowbiz/article-9078113/Ashley-Graham-flashes-black-bra-revealing-semi-sheer-blouse-green-snowsuit.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37127232-0-image-a-18_1608597075298.jpg)
+    
+    **Notoriously private singer Lorde, 24, makes a surprising return to social media as she shares her very first post in YEARS**](http://www.dailymail.co.uk/tvshowbiz/article-9077437/Notoriously-private-singer-Lorde-24-makes-surprising-return-social-media.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/06/37133974-0-image-m-106_1608616849003.jpg)
+    
+    **Robin Wright fights for survival in the snowy wilderness as she stars in the trailer for her feature directorial debut Land** One to watch](http://www.dailymail.co.uk/tvshowbiz/article-9078119/Robin-Wright-fights-survival-snowy-wilderness-trailer-directorial-debut-Land.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37128768-0-image-a-187_1608601084931.jpg)
+    
+    **'I tried everything': Devastated Strictly pro Graziano Di Prima reveals he can't get home to Italy for Christmas after London was plunged into Tier 4**](http://www.dailymail.co.uk/tvshowbiz/article-9077755/Strictly-pro-Graziano-Di-Prima-reveals-home-Italy-Christmas-Tier-4.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/05/37134046-0-image-a-86_1608615393802.jpg)
+    
+    **Playboy Playmate who accused Bill Cosby of rape rushed to aid of man who was shot in Southern California** Valentino, 78, wasted no time offering assistance](http://www.dailymail.co.uk/tvshowbiz/article-9078123/Playboy-Playmate-accused-Bill-Cosby-rape-rushed-aid-man-shot.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130030-0-image-m-60_1608604014175.jpg)
+    
+    **Pregnant Ashley Tisdale looks ultra cozy in an ivory hoodie and sweatpants while taking care of last minute Christmas shopping** Low-key](http://www.dailymail.co.uk/tvshowbiz/article-9077825/Pregnant-Ashley-Tisdale-looks-ultra-cozy-taking-care-minute-Christmas-shopping.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111130-0-image-m-72_1608568930859.jpg)
+    
+    **Emily Ratajkowski showcases her bump in Inamorata bikini on LA beach with husband Sebastian Bear-McClard** The model is 28 weeks along](http://www.dailymail.co.uk/tvshowbiz/article-9076107/Emily-Ratajkowski-showcases-bump-Inamorata-bikini-LA-beach-husband-Sebastian-Bear-McClard.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/06/37135670-0-image-a-8_1608619824727.jpg)
+    
+    **Malik Beasley enters guilty plea to violence charge... amid controversial new romance with Larsa Pippen** 24-year-old NBA player](http://www.dailymail.co.uk/tvshowbiz/article-9078151/Malik-Beasley-enters-guilty-plea-violence-charge-amid-controversial-romance-Larsa-Pippen.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/03/37131088-0-image-m-99_1608607852809.jpg)
+    
+    **Madison Beer gives a peek at her taut tummy in nostalgic Labyrinth crop top as she finishes some last minute Christmas shopping in Beverly Hills**](http://www.dailymail.co.uk/tvshowbiz/article-9077895/Madison-Beer-gives-peek-taut-tummy-Labyrinth-crop-Christmas-shopping-Beverly-Hills.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130688-0-image-m-23_1608605585911.jpg)
+    
+    **Priyanka Chopra unveils the tense trailer for her upcoming Netflix film The White Tiger**](http://www.dailymail.co.uk/tvshowbiz/article-9077859/Priyanka-Chopra-unveils-tense-trailer-upcoming-Netflix-film-White-Tiger.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/07/37136458-0-image-m-188_1608622028542.jpg)
+    
+    **Celebrity IOU: Allison Janney rewards her longtime assistant Ilana with an amazing home makeover with the Scott Brothers**](http://www.dailymail.co.uk/tvshowbiz/article-9078281/Celebrity-IOU-Allison-Janney-rewards-longtime-assistant-Ilana-amazing-home-makeover.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37127780-0-image-m-62_1608599545093.jpg)
+    
+    **Strictly Come Dancing champion Bill Bailey reveals he almost set himself on FIRE during the show's live finale after tripping over a pyrotechnic box**](http://www.dailymail.co.uk/tvshowbiz/article-9077681/Strictly-champion-Bill-Bailey-reveals-set-FIRE-shows-live-finale.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37121206-0-image-a-99_1608587694271.jpg)
+    
+    **Zara McDermott flaunts her TINY waist in a white crop top and fluffy trousers as she poses up a storm while lounging in bed** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9077141/Zara-McDermott-flaunts-slim-waist-fluffy-crop-poses-storm-lounging-bed.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37128332-0-image-a-159_1608601675742.jpg)
+    
+    **Emmerdale's Dominic Brunt admits he lives in fear of being axed from the soap after 23 years playing Paddy Kirk**](http://www.dailymail.co.uk/tvshowbiz/article-9077735/Emmerdales-Dominic-Brunt-admits-lives-fear-axed-soap.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130736-0-image-a-113_1608605947942.jpg)
+    
+    **Martha Hunt looks seasonally chic as she enjoys Saks Fifth Avenue's ten-story-tall theatrical light show and holiday window display in NYC**](http://www.dailymail.co.uk/tvshowbiz/article-9077991/Martha-Hunt-seasonally-chic-enjoys-Saks-Fifth-Avenues-ten-story-tall-holiday-light-show.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37128466-0-image-a-88_1608599972001.jpg)
+    
+    **Brooke Shields stays warm in a fuzzy jacket as she strolls around NYC after wrapping a Netflix film in Scotland** Looking effortlessly stylish as she battled the cold](http://www.dailymail.co.uk/tvshowbiz/article-9077713/Brooke-Shields-stays-warm-fuzzy-jacket-strolls-Manhattans-West-Village.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122332-0-image-m-50_1608589136280.jpg)
+    
+    **Olivia Wilde and Jason Sudeikis are the friendliest of exes as they share heartfelt hug after meeting**](http://www.dailymail.co.uk/tvshowbiz/article-9077159/Olivia-Wilde-Jason-Sudeikis-friendliest-exes-share-heartfelt-hug-meeting.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37127784-0-image-a-173_1608598290882.jpg)
+    
+    **Candice Brown, 36, rocks dinosaur dungarees as she celebrates her birthday after 'bad year' which saw her split from husband**](http://www.dailymail.co.uk/tvshowbiz/article-9077645/Bake-star-Candice-Brown-36-rocks-funky-dinosaur-dungarees-celebrates-birthday.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/03/37131510-0-image-a-58_1608608831564.jpg)
+    
+    **Olympic hurdler Jana Pittman, 38, welcomes her fourth child and says she wants to try for a FIFTH... as she speaks about her surprising new career**](http://www.dailymail.co.uk/tvshowbiz/article-9077909/Olympic-hurdler-Jana-Pittman-38-welcomes-fourth-child.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/04/37132040-0-image-m-95_1608610741530.jpg)
+    
+    **Donnie Wahlberg goofs around with co-star Marisa Ramirez as they film Blue Bloods on location in NYC** Plays Detective Danny Reagan](http://www.dailymail.co.uk/tvshowbiz/article-9078013/Donnie-Wahlberg-goofs-star-Marisa-Ramirez-film-Blue-Bloods-location-NYC.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/06/37135750-0-image-m-122_1608619979943.jpg)
+    
+    **Cheer star Morgan Simianer and Big Brother winner Jackson Michie spark dating rumors following string of flirty TikTok videos** Cure couple](http://www.dailymail.co.uk/tvshowbiz/article-9078205/Cheer-star-Morgan-Simianer-Big-Brother-winner-Jackson-Michie-spark-dating-rumors-TikTok.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37120450-0-image-a-1_1608586832877.jpg)
+    
+    **This Time with Alan Partridge series 2 FIRST LOOK: Steve Coogan and Susannah Fielding strike a pose in front of the BBC ahead of show's return in 2021**](http://www.dailymail.co.uk/tvshowbiz/article-9076885/This-Time-Alan-Partridge-Steve-Coogan-Susannah-Fielding-transform-BBC-presenter-roles.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37127750-0-image-a-23_1608598389169.jpg)
+    
+    **Tom Hanks says he and wife Rita Wilson will get coronavirus vaccine 'long after everybody who truly needs to get it gets it'**](http://www.dailymail.co.uk/tvshowbiz/article-9077555/Tom-Hanks-Rita-Wilson-vaccine-long-everybody-truly-needs-gets-it.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37129096-0-image-m-49_1608601611899.jpg)
+    
+    **Mariah Carey joyfully unwraps plaque recognizing worldwide 'multi-platinum' success of her hit single All I Want For Christmas Is You**](http://www.dailymail.co.uk/tvshowbiz/article-9077775/Mariah-Carey-receives-plaque-worldwide-multi-platinum-single-Want-Christmas-You.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126838-0-image-m-15_1608596736196.jpg)
+    
+    **Courteney Cox finally reunites with fiancé Johnny McDaid after the couple spent NINE MONTHS apart amid the pandemic**](http://www.dailymail.co.uk/tvshowbiz/article-9077533/Courteney-Cox-finally-reunites-fiance-Johnny-McDaid.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126272-0-image-a-145_1608595371594.jpg)
+    
+    **Larry Lamb, 73, urges James Corden to write another Gavin And Stacey series... as he jokes it could always 'start at his GRAVESIDE'**](http://www.dailymail.co.uk/tvshowbiz/article-9077531/Larry-Lamb-73-urges-James-Corden-write-Gavin-Stacey-series-hes-dead.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37129004-0-image-m-17_1608601849006.jpg)
+    
+    **CHRISTOPHER STEVENS reviews last night's TV: Ninety minutes of David Jason's finest moments? Lovely jubbly!**](http://www.dailymail.co.uk/tvshowbiz/article-9077759/CHRISTOPHER-STEVENS-reviews-nights-TV-Ninety-minutes-David-Jasons-finest-moments.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126650-0-image-a-89_1608596490923.jpg)
+    
+    **SEBASTIAN SHAKESPEARE: It's Downton 2021! F1 heiress Petra Ecclestone's fiance revs up reality show**](http://www.dailymail.co.uk/tvshowbiz/article-9077629/SEBASTIAN-SHAKESPEARE-Downton-2021.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37128996-0-image-m-6_1608601387611.jpg)
+    
+    **Rachel Zoe suits up in a leopard-print coat as she buys cookies for her family... after revealing her 'bravest boy' Skyler fell 40 feet from a ski lift**](http://www.dailymail.co.uk/tvshowbiz/article-9077767/Rachel-Zoe-buys-cookies-family-revealing-son-Skyler-fell-ski-left.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
     ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37098814-0-image-m-28_1608548564595.jpg)
     
     **Ranvir Singh makes VERY cheeky comment as Strictly partner Giovanni Pernice surprises her during Lorraine presenting debut**](http://www.dailymail.co.uk/tvshowbiz/article-9075033/Ranvir-Singh-makes-cheeky-comment-Giovanni-Pernice-surprises-Lorraine.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126362-0-image-m-55_1608597219696.jpg)
+    
+    **'We are going to lose a generation of incredibly talented people': Katherine Jenkins slams the government for not supporting the arts enough during the coronavirus crisis**](http://www.dailymail.co.uk/tvshowbiz/article-9077523/Katherine-Jenkins-slams-government-not-supporting-arts-COVID-19-crisis.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37125154-0-image-m-86_1608592936708.jpg)
+    
+    **Irina Shayk oozes cool in edgy jumpsuit and black leather jacket as she treks through snowy NYC in heeled boots**](http://www.dailymail.co.uk/tvshowbiz/article-9077405/Irina-Shayk-oozes-cool-edgy-jumpsuit-black-leather-jacket.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37127390-0-image-a-130_1608597265907.jpg)
+    
+    **Piers Morgan praises his 'brutally honest' relationship with Susanna Reid after a year of 'very difficult' GMB shows during COVID-19 pandemic**](http://www.dailymail.co.uk/tvshowbiz/article-9077601/Piers-Morgan-praises-brutally-honest-relationship-Susanna-Reid.html) 
 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126620-0-image-m-3_1608595994992.jpg)
+    
+    **Cardi B miraculously gets her hands on ELEVEN Playstation 5 consoles prompting social media to erupt with envy: 'Cardi copped them all!'**](http://www.dailymail.co.uk/tvshowbiz/article-9077547/Cardi-B-miraculously-gets-hands-ELEVEN-Playstation-5-consoles.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37123776-0-image-m-93_1608590960036.jpg)
+    
+    **Bella Hadid bundles up in a fur-lined jacket and thick pants as she steps out for a walk on a chilly day in New York City**](http://www.dailymail.co.uk/tvshowbiz/article-9077343/Bella-Hadid-bundles-fur-lined-jacket-pants-steps-walk-NYC.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37124332-0-image-a-10_1608591908942.jpg)
+    
+    **An unseen day in the life: The Beatles were on the brink of breaking up, but these magical new images show it was still love, love we do for the Fab Four**](http://www.dailymail.co.uk/tvshowbiz/article-9077299/These-magical-new-images-love-love-Fab-Four.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116572-0-image-a-64_1608578959445.jpg)
+    
+    **Love Island's Lucie Donlan flashes her taut midriff in a busty sports bra and matching leggings as she works on her toned figure in sizzling snaps**](http://www.dailymail.co.uk/tvshowbiz/article-9076717/Love-Islands-Lucie-Donlan-flashes-taut-midriff-busty-sports-bra-matching-leggings.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37115750-0-image-a-62_1608579283482.jpg)
+    
+    **The Undoing's Matilda De Angelis transforms into a wartime beauty as she films Across The River And Into The Trees with Liev Schreiber in Venice**](http://www.dailymail.co.uk/tvshowbiz/article-9076613/The-Undoings-Matilda-Angelis-wartime-beauty-film-River-Trees.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111014-0-image-a-41_1608568501989.jpg)
+    
+    **Richard Osman reassures fans he will continue to host Pointless as he announces he is leaving Endemol after 20 years** Stepping back](http://www.dailymail.co.uk/tvshowbiz/article-9075851/Pointless-star-Richard-Osman-announces-leaving-Endemol-20-years.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37119982-0-image-a-26_1608585729689.jpg)
+    
+    **Ariana Grande's eagle-eyed fans speculate her $100K oval-shaped engagement ring with a small pearl pays homage to her late grandfather**](http://www.dailymail.co.uk/tvshowbiz/article-9077085/Ariana-Grandes-fans-speculate-engagement-ring-pays-homage-late-grandfather.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37123890-0-image-a-129_1608591394028.jpg)
+    
+    **Ed Sheeran 'sings about trip to Antarctica with wife Cherry Seaborn where daughter Lyra was conceived' on surprise new single**](http://www.dailymail.co.uk/tvshowbiz/article-9077361/Ed-Sheeran-sings-trip-Antarctica-new-single-Afterglow-nine-months-daughters-birth.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/01/37128242-0-image-a-1_1608600598056.jpg)
+    
+    **Jamie Lee Curtis urges followers to pressure DA to drop charges against teen who claims to be a victim of sex trafficking and stands accused of murder**](http://www.dailymail.co.uk/news/article-9077585/Jamie-Lee-Curtis-pens-open-letter-Texas-teen-sex-trafficking-victim-accused-murdering-purchaser.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/02/37130716-0-image-m-47_1608605743468.jpg)
+    
+    **Michael Anagarano and fiancée Maya Erskine splurge $2.1M on 1920s 3-bed home in Hollywood Hills** The seller was 90210's Kathleen Robertson](http://www.dailymail.co.uk/tvshowbiz/article-9077885/Michael-Anagarano-fianc-e-Maya-Erskine-splurge-2-1M-1920s-3-bed-home-Hollywood-Hills.html)
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37110170-0-image-m-60_1608567195096.jpg)
+    
+    **'There's something comical about five blokes': Sophie Ellis-Bextor hasn't ruled out 'wacky' idea of having a SIXTH child isn't bothered about a girl**](http://www.dailymail.co.uk/tvshowbiz/article-9076075/Sophie-Ellis-Bextor-ruled-wacky-idea-having-SIXTH-child.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122872-0-image-m-18_1608589588791.jpg)
+    
+    **Rebekah Vardy puts on a VERY busty display in a plunging top in sultry snap... after hinting she and Coleen Rooney could END their WAG war soon**](http://www.dailymail.co.uk/tvshowbiz/article-9077247/Rebekah-Vardy-puts-busty-display-gold-amid-WAG-war.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37105458-0-image-a-122_1608562469071.jpg)
+    
+    **'This is one for the pensioners!': Janet Street-Porter, 73, is crowned champion of BBC One's Celebrity MasterChef Christmas Cook-Off**](http://www.dailymail.co.uk/tvshowbiz/article-9075685/Janet-Street-Porter-crowned-champion-BBC-Ones-Celebrity-MasterChef-Christmas-Cook-Off.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37125638-0-image-m-143_1608594618634.jpg)
+    
+    **Kylie Minogue, 52, cuts a glamorous figure in a fun blue leather dress and matching jacket as she dazzles in sultry snap**](http://www.dailymail.co.uk/tvshowbiz/article-9077537/Kylie-Minogue-cuts-glamorous-figure-fun-blue-leather-dress-sultry-snap.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126982-0-image-m-43_1608596534169.jpg)
+    
+    **Olivia Newton-John locks lips with her husband John Easterling under the mistletoe in a bid to raise money for charity**](http://www.dailymail.co.uk/tvshowbiz/article-9077375/Olivia-Newton-John-locks-lips-husband-John-Easterling-bid-raise-money-charity.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/22/00/37126450-0-image-m-20_1608595219182.jpg)
+    
+    **Amy Schumer hilariously pretends she is Hilaria Baldwin as she re-posts photo of the lingerie-clad beauty to spread some holiday cheer**](http://www.dailymail.co.uk/tvshowbiz/article-9077545/Amy-Schumer-hilariously-pretends-Hilaria-Baldwin.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37109366-0-image-a-48_1608565941311.jpg)
+    
+    **EastEnders SPOILERS: Kellie Bright discusses Linda Carter's guilt as secret lover Max Branning prepares to reveal their affair to Mick**](http://www.dailymail.co.uk/tvshowbiz/article-9076013/EastEnders-SPOILERS-Linda-Carters-guilt-Max-Branning-prepares-reveal-affair-Mick.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37115118-0-image-a-31_1608575509849.jpg)
+    
+    **Scarlett Moffatt reveals she's had abnormal cells removed from her cervix as she tells women not to be 'scared' of going for a smear test**](http://www.dailymail.co.uk/tvshowbiz/article-9076539/Scarlett-Moffatt-reveals-shes-abnormal-cells-removed-cervix-smear-test.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37119268-0-image-m-58_1608584731209.jpg)
+    
+    **David Foster, 71, and his pregnant wife Katharine McPhee, 36, enjoy a morning stroll in Beverly Hills... days after she confirmed her pregnancy**](http://www.dailymail.co.uk/tvshowbiz/article-9076767/David-Foster-71-pregnant-wife-Katharine-McPhee-36-enjoy-morning-stroll.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37120802-0-image-a-99_1608586898946.jpg)
+    
+    **Ant and Dec return to the home of SMTV: Live to relive their first EVER link in 1998 as they reveal glimpse of reunion special with Cat Deeley**](http://www.dailymail.co.uk/tvshowbiz/article-9077027/Ant-Dec-return-home-SMTV-Live-relive-link-ahead-reunion-special.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37124732-0-image-m-101_1608592297437.jpg)
+    
+    **Wilmer Valderrama and fiancee Amanda Pacheco announce they're expecting their first child: 'Just us three now'**](http://www.dailymail.co.uk/tvshowbiz/article-9077389/Wilmer-Valderrama-fiancee-Amanda-Pacheco-announce-theyre-expecting-child.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37117706-0-image-m-56_1608581223530.jpg)
+    
+    **Taylor Swift lands her second number one album in 2020 with Evermore which has sold over ONE MILLION copies**](http://www.dailymail.co.uk/tvshowbiz/article-9076795/Taylor-Swift-lands-second-number-one-album-2020-newest-release-Evermore.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37126224-0-image-m-80_1608594835543.jpg)
+    
+    **Madelaine Petsch goes topless in latest snap as she uses her red tresses to cover her chest: 'Spotted: A wild madelaine in her natural habitat'**](http://www.dailymail.co.uk/tvshowbiz/article-9077353/Madelaine-Petsch-goes-topless-latest-snap-uses-red-tresses-cover-chest.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37118248-0-image-m-2_1608583877992.jpg)
+    
+    **Kate Garraway has been 'given extra support by Dr Hilary Jones behind-the-scenes at ITV amid husband Derek Draper's battle with coronavirus'**](http://www.dailymail.co.uk/tvshowbiz/article-9076907/Kate-Garraway-asked-Dr-Hilary-Jones-advice-husband-Derek-Drapers-COVID-19-battle.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116902-0-image-m-54_1608579044873.jpg)
+    
+    **Chrissy Teigen models a pink swimsuit before declaring she doesn't 'give a f\*\*\*k' after attempting to adjust it to make it more flattering**](http://www.dailymail.co.uk/tvshowbiz/article-9076729/Chrissy-Teigen-poses-cute-pink-swimsuit-declares-doesnt-f-k-looks.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37117088-0-image-m-54_1608579663712.jpg)
+    
+    **'Know you are truly missed': I'm A Celebrity's Kiosk Kev pays a moving tribute to show's camera operator Troy Gordon following his tragic death**](http://www.dailymail.co.uk/tvshowbiz/article-9076683/Im-Celebritys-Kiosk-Kev-pays-tribute-shows-camera-operator-Troy-Gordon-following-death.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112526-0-image-m-9_1608571052899.jpg)
+    
+    **Strictly's Craig Revel Horwood claims James Jordan will NEVER be welcome back as a judge on the show as he's 'too bitter' and 'twisted'**](http://www.dailymail.co.uk/tvshowbiz/article-9076233/Strictlys-Craig-Revel-Horwood-claims-James-Jordan-NEVER-judge-show.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114416-0-image-m-23_1608574231576.jpg)
+    
+    **AJ Pritchard pens an emotional tribute to his late grandmother Angela as he and brother Curtis attend her funeral following her death aged 93**](http://www.dailymail.co.uk/tvshowbiz/article-9076477/AJ-Pritchard-pens-tribute-late-grandmother-Angela-brother-Curtis-attend-funeral.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37118936-0-image-m-25_1608583722778.jpg)
+    
+    **Season's cheatings! Larsa Pippen and married boyfriend Malik Beasley pose in front of a Christmas tree amid hand-holding scandal that set off his divorce**](http://www.dailymail.co.uk/tvshowbiz/article-9076905/Larsa-Pippen-Malik-Beasley-strike-Christmas-tree-pose-amid-divorce-wife-Montana-Yao.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37107644-0-image-m-71_1608564145347.jpg)
+    
+    **Strictly's Nicola Adams and Katya Jones are seen heading to ex boxer's London home together after partying until midnight at finale bash**](http://www.dailymail.co.uk/tvshowbiz/article-9075829/Strictlys-Nicola-Adams-Katya-Jones-pictured-heading-ex-boxers-London-home-together.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37119918-0-image-a-40_1608587319509.jpg)
+    
+    **Who IS Ariana Grande's fiance Dalton Gomez? Inside the life of the luxury real estate agent who spends his days selling lavish LA homes**](http://www.dailymail.co.uk/femail/article-9076553/Who-Ariana-Grandes-fiance-Dalton-Gomez-luxury-real-estate-agent-list-pals.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122038-0-image-m-18_1608588785628.jpg)
+    
+    **Up, up and away! Supermodel Elle Macpherson gets a lift in a private plane... with her handsome son Flynn at the controls**](http://www.dailymail.co.uk/tvshowbiz/article-9077029/Supermodel-Elle-Macpherson-gets-lift-private-plane-flown-son-22.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37124310-0-image-m-59_1608591733827.jpg)
+    
+    **Vanessa Hudgens and her friends dress in Mrs Claus lingerie to copy the Jingle Bell Rock scene from the 2004 film Mean Girls**](http://www.dailymail.co.uk/tvshowbiz/article-9077157/Vanessa-Hudgens-friends-dress-lingerie-copy-Jingle-Bell-Rock-scene-Mean-Girls.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/23/37126316-0-image-m-12_1608594969293.jpg)
+    
+    **Delta Goodrem stuns in THIRTEEN different outfits as she performs with her boyfriend Matthew Copley in a new Christmas video**](http://www.dailymail.co.uk/tvshowbiz/article-9077327/Delta-Goodrem-makes-THIRTEEN-costume-changes-new-Christmas-video.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37121464-0-image-a-2_1608587881381.jpg)
+    
+    **Catch me if you can! Elsa Pataky shows off her incredibly toned legs in a pair of tiny knitted shorts as she madly dashes around Byron Bay**](http://www.dailymail.co.uk/tvshowbiz/article-9077031/Elsa-Pataky-shows-toned-legs-pair-tiny-shorts-makes-mad-dash-Byron-Bay.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37124022-0-image-a-87_1608591359344.jpg)
+    
+    **RHOA star Drew Sidora and husband Ralph Pittman agree to get counseling as their six-year marriage 'is not great'**](http://www.dailymail.co.uk/tvshowbiz/article-9077381/RHOA-star-Drew-Sidora-husband-Ralph-Pittman-agree-marriage-counseling.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37119748-0-image-m-7_1608585194943.jpg)
+    
+    **Jennifer Garner sends 'huge love' to Juno costar Elliot Page after they post first selfie since coming out as transgender**](http://www.dailymail.co.uk/tvshowbiz/article-9076867/Jennifer-Garner-sends-huge-love-Juno-costar-Elliot-Page.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37095552-0-image-a-19_1608540493288.jpg)
+    
+    **Love Island's Michael Griffiths is dating model Bethan Sowerby and the pair have been spotted 'all over each other' in Dubai**](http://www.dailymail.co.uk/tvshowbiz/article-9074727/Love-Islands-Michael-Griffiths-dating-model-Bethan-Sowerby.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37115752-0-image-a-7_1608576644605.jpg)
+    
+    **The Wanted's Tom Parker heads to hospital for a 'very long' day of treatment for his terminal brain tumour... after revealing side effects including short-term memory loss**](http://www.dailymail.co.uk/tvshowbiz/article-9076575/The-Wanteds-Tom-Parker-heads-hospital-long-day-treatment-terminal-tumour.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122932-0-image-a-43_1608589709869.jpg)
+    
+    **Alyssa Milano shares a glowing make-up free selfie on her 48th birthday as she speaks about being 'grateful for this life' and the 'capacity to heal'**](http://www.dailymail.co.uk/tvshowbiz/article-9077303/Alyssa-Milano-48-shares-make-free-selfie-birthday-speaks-grateful.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37118188-0-image-m-14_1608583333421.jpg)
+    
+    **Laura Dern, 53, reveals her 'beautiful' male friend has died from COVID-19 as she vows to be careful with her mom Diane, 85, who has a lung condition**](http://www.dailymail.co.uk/tvshowbiz/article-9076871/Laura-Dern-reveals-beautiful-male-friend-died-COVID-19.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116284-0-image-a-50_1608577765050.jpg)
+    
+    **Angelina Jolie wraps up in a heavy coat for last minute Christmas shopping with daughter Zahara in LA**](http://www.dailymail.co.uk/tvshowbiz/article-9076731/Angelina-Jolie-wraps-heavy-coat-minute-Christmas-shopping-daughter-Zahara-LA.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114858-0-image-m-46_1608574680353.jpg)
+    
+    **Joe Jonas and Sophie Turner are pictured grabbing some essentials as they enjoy a winter getaway to Mammoth Lakes**](http://www.dailymail.co.uk/tvshowbiz/article-9076415/Sophie-Turner-Joe-Jonas-pictured-grabbing-essentials-Mammoth-Lakes.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37113236-0-image-m-3_1608572093843.jpg)
+    
+    **Kate Hudson shares adorable snap with her daughter Rani Rose during a nighttime stroll through their neighborhood**](http://www.dailymail.co.uk/tvshowbiz/article-9076165/Kate-Hudson-shares-adorable-photo-daughter-Rani-Rose-nighttime-stroll.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122776-0-image-m-56_1608589541833.jpg)
+    
+    **Floribama Shore star Nilsa Prowant shows off her growing baby bump as she announces she is expecting a boy with blue confetti**](http://www.dailymail.co.uk/tvshowbiz/article-9077121/Floribama-Shore-star-Nilsa-Prowant-shows-growing-baby-bump.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37117946-0-image-a-5_1608582539695.jpg)
+    
+    **Grey's Anatomy star Kate Walsh, 53, shows off her bikini body at the beach in Perth after relocating from New York to Australia**](http://www.dailymail.co.uk/tvshowbiz/article-9076791/Greys-Anatomy-star-Kate-Walsh-53-shows-beach-body-Perth.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114140-0-image-a-37_1608573691367.jpg)
+    
+    **Sheridan Smith hints she's mended her relationship with her mother-in-law ... after previously branding her a 'nutjob' and accusing her of killing her dog**](http://www.dailymail.co.uk/tvshowbiz/article-9076329/Sheridan-Smith-hints-shes-mended-relationship-fianc-s-mum-accusing-dogs-death.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37121882-0-image-m-32_1608589402370.jpg)
+    
+    **'We are scarred for life': Rachel Zoe's 'brave' son Skyler, 9, is hospitalised after falling 40ft from a ski lift as stylist says it's a 'miracle he's OK'**](http://www.dailymail.co.uk/tvshowbiz/article-9077187/Rachel-Zoe-calls-son-Skyler-9-bravest-boy-survives-40-feet-fall-ski-lift.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37117944-0-image-a-74_1608581731937.jpg)
+    
+    **Demi Moore bundles up in a warm coat for a 'family snow day'... after daughter Rumer urged people to 'wear a damn mask' after COVID-19 exposure**](http://www.dailymail.co.uk/tvshowbiz/article-9076917/Demi-Moore-bundles-warm-coat-daughter-Rumer-urged-people-wear-damn-mask.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096424-0-image-a-37_1608542809834.jpg)
+    
+    **'I look six months pregnant!': Alesha Dixon works up a sweat in clingy yellow activewear while her beau distracts her with doughnuts**](http://www.dailymail.co.uk/tvshowbiz/article-9074859/Alesha-Dixon-works-sweat-clingy-yellow-activewear-Maldives.html) 
+
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37095652-0-image-m-31_1608540755412.jpg)
+    
+    **'Family is everything and we're not really done!' Kimberley Walsh, 39, reveals she is 15 weeks pregnant with her third child** Baby joy](http://www.dailymail.co.uk/tvshowbiz/article-9074753/Kimberley-Walsh-39-reveals-15-weeks-pregnant-child.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112424-0-image-a-33_1608570881448.jpg)
+    
+    **Love Island's Megan Barton Hanson admits she misses working as a stripper and 'having a laugh and drinks with the clients'**](http://www.dailymail.co.uk/tvshowbiz/article-9076283/Love-Islands-Megan-Barton-Hanson-admits-misses-working-stripper.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116122-0-image-m-4_1608577370142.jpg)
+    
+    **Kristin Cavallari puts on a VERY cheeky display as she works a striped bikini during beach day with her 'twin' daughter Saylor**](http://www.dailymail.co.uk/tvshowbiz/article-9076561/Kristin-Cavallari-puts-cheeky-display-works-striped-bikini.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116740-0-image-m-45_1608578803554.jpg)
+    
+    **Bono, Halsey and Pharrell Williams have signed on to join the cast of the upcoming animated musical comedy Sing 2**](http://www.dailymail.co.uk/tvshowbiz/article-9076533/Bono-Halsey-Pharrell-Williams-signed-join-cast-Sing-2.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/20/37117532-0-image-m-40_1608580813237.jpg)
+    
+    **Blake Lively shows off her messy quarantine hair and makeup-free complexion as she embraces the no-fuss 2020 look**](http://www.dailymail.co.uk/tvshowbiz/article-9076719/Blake-Lively-shows-messy-quarantine-hair-makeup-free-complexion.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37110652-0-image-m-2_1608568510665.jpg)
+    
+    **Candice Swanepoel wears a white one piece swimsuit from her line Tropic of C as she hits the beach with her family in Miami**](http://www.dailymail.co.uk/tvshowbiz/article-9076099/Candice-Swanepoel-wears-white-one-piece-swimsuit-line-Tropic-C.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114872-0-image-m-16_1608574869325.jpg)
+    
+    **LadBaby beats Gemma Collins and Mariah Carey to the Christmas Number One spot for the third year running with his single Don't Stop Me Eating**](http://www.dailymail.co.uk/tvshowbiz/article-9076293/LadBaby-beats-Gemma-Collins-Mariah-Carey-Christmas-Number-One.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37116434-0-image-m-118_1608578243281.jpg)
+    
+    **Courtney Love and her 'wealthy friends' have had access to at-home COVID test kits 'for over six months'**](http://www.dailymail.co.uk/tvshowbiz/article-9076673/Courtney-Love-wealthy-friends-access-home-COVID-test-kits-6-months.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112236-0-image-m-24_1608570517787.jpg)
+    
+    **Her twin! Katy Perry, 36, casts look-alike Zooey Deschanel, 40, in her new music video for Not The End Of The World... but still squeezes in a cameo**](http://www.dailymail.co.uk/tvshowbiz/article-9075811/Katy-Perry-36-casts-look-alike-Zooey-Deschanel-40-new-music-video.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37105502-0-image-m-32_1608559524955.jpg)
+    
+    **Love Island's Rachel Fenton reveals she's contracted Covid a SECOND time as nurse questions if she's caught the mutant strain**  Positive test](http://www.dailymail.co.uk/tvshowbiz/article-9075683/Love-Islands-Rachel-Fenton-reveals-shes-caught-Covid-SECOND-time.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37120266-0-image-m-80_1608586318912.jpg)
+    
+    **Home Town's Ben and Erin Napier discuss how they prioritize family over everything: 'Nothing is worth missing out on memories together'**](http://www.dailymail.co.uk/tvshowbiz/article-9076979/Home-Towns-Ben-Erin-Napier-family-priority.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37120332-0-image-m-13_1608586332699.jpg)
+    
+    **YouTube sensation MrBeast's new virtual burger joint skyrockets to the number one app download ... following wildly successful drive-thru launch**](http://www.dailymail.co.uk/tvshowbiz/article-9076911/YouTube-sensation-MrBeasts-new-virtual-burger-joint-skyrockets-number-one-app-download.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/21/37119508-0-image-m-141_1608584719357.jpg)
+    
+    **SNL's John Mulaney 'checks into Pennsylvania rehab for 60 days to battle cocaine and alcohol addiction'**](http://www.dailymail.co.uk/tvshowbiz/article-9076987/John-Mulaney-checks-Pennsylvania-rehab-60-days-battle-cocaine-alcohol-addiction.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112276-0-image-a-3_1608571093849.jpg)
+    
+    **Kimberley Garner flaunts her sizzling physique in a tiny palm print bikini as she soaks up the sun in Barbados**](http://www.dailymail.co.uk/tvshowbiz/article-9076275/Kimberley-Garner-flaunts-sizzling-physique-tiny-palm-print-bikini-Barbados.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112300-0-image-a-43_1608570780569.jpg)
+    
+    **Sir Paul McCartney says he remains 'in denial' over John Lennon's death and still 'breaks down crying' over the murder of his friend 40 years ago**](http://www.dailymail.co.uk/tvshowbiz/article-9076051/Sir-Paul-McCartney-says-denial-senseless-murder-John-Lennon-40-years-ago.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37108390-0-image-a-34_1608564703460.jpg)
+    
+    **Keeping up with the Kardashians! Scott Disick, 37, goes house hunting in LA with new girlfriend Amelia Gray Hamlin, 19**](http://www.dailymail.co.uk/news/article-9075775/Scott-Disick-looks-houses-new-girlfriend-Amelia-Gray-Hamlin-19-touring-115M-mansion.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37109806-0-image-m-146_1608567721499.jpg)
+    
+    **Death To 2020 trailer: Hugh Grant goes grey as he joins a swearing Samuel L Jackson and 'politico' Lisa Kudrow in star-studded Netflix mockumentary**](http://www.dailymail.co.uk/tvshowbiz/article-9075949/Death-2020-trailer-Hugh-Grant-goes-grey-joins-Samuel-L-Jackson-Lisa-Kudrow.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37108664-0-image-m-141_1608566705682.jpg)
+    
+    **'I really want to win so bad': Vogue Williams gets competitive as she and Spencer Matthews go head to head with Shirley Ballas on Family Fortunes**](http://www.dailymail.co.uk/tvshowbiz/article-9075917/Vogue-Williams-shows-competitive-goes-head-head-Shirley-Ballas.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111132-0-image-m-5_1608568841001.jpg)
+    
+    **Colin Jost cracks joke about wife Scarlett Johansson and her controversial casting choices in hilarious Weekend Update segment**](http://www.dailymail.co.uk/tvshowbiz/article-9075953/Colin-Jost-cracks-joke-wife-Scarlett-Johansson-controversial-casting-choices.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097672-0-image-m-18_1608546640275.jpg)
+    
+    **Kimberley Garner wears very skimpy criss-cross bikini and gets kisses from mystery boyfriend as they enjoy some fun in the sun in Barbados**](http://www.dailymail.co.uk/tvshowbiz/article-9075003/Kimberley-Garner-wears-skimpy-criss-cross-bikini.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094908-0-image-m-113_1608540122050.jpg)
+    
+    **'We didn't break any rules!' Molly-Mae Hague defends herself as she and beau Tommy Fury are slammed for jetting off to the Maldives amid Tier 4 lockdown**](http://www.dailymail.co.uk/tvshowbiz/article-9074779/Molly-Mae-Hague-defends-Tommy-Fury-slammed-Maldives-trip-amid-Tier-4-lockdown.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111308-0-image-a-33_1608569142315.jpg)
+    
+    **Sir Elton John, 73, and David Furnish, 58, celebrate their 15-year civil partnership and sixth wedding anniversary** Sweet](http://www.dailymail.co.uk/tvshowbiz/article-9076001/Sir-Elton-John-73-David-Furnish-58-celebrate-15-year-anniversary.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099930-0-image-a-12_1608550154067.jpg)
+    
+    **Her royal high street! Pregnant Princess Eugenie shows off her baby bump in a sparkly dress and £100 Zara coat as she leaves work in Mayfair**](http://www.dailymail.co.uk/femail/article-9075113/Pregnant-Princess-Eugenie-shows-growing-baby-bump-leaves-art-gallery-Mayfair.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114590-0-image-m-16_1608574219210.jpg)
+    
+    **NeNe Leakes calls for a BOYCOTT of The Real Housewives Of Atlanta after alleging she had been pushed out of the show: 'Turn off your TVs'**](http://www.dailymail.co.uk/tvshowbiz/article-9076449/NeNe-Leakes-calls-BOYCOTT-against-Real-Housewives-Atlanta.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37108804-0-image-m-20_1608569431623.jpg)
+    
+    **'She keeps me calm': Miles Teller says his wife Keleigh Sperry has saved him during lockdown as he talks about making Top Gun: Maverick**](http://www.dailymail.co.uk/tvshowbiz/article-9075931/Miles-Teller-says-wife-Keleigh-Sperry-saved-lockdown.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111568-0-image-a-7_1608569808376.jpg)
+    
+    **Princess Love wants to have more kids with Ray J but not in the 'traditional way' in Love & Hip Hop: Secrets Unlocked sneak peek... three months after he filed for divorce**](http://www.dailymail.co.uk/tvshowbiz/article-9075993/Princess-Love-wants-kids-Ray-J-not-traditional-way.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/19/37117208-0-image-a-23_1608579904334.jpg)
+    
+    **God Jul! Crown Princess Mette-Marit joins Norwegian royal family to pose for a socially distanced Christmas portrait at the palace in Oslo**](http://www.dailymail.co.uk/femail/article-9076643/Norwegian-royals-pose-Christmas-photo-palace-Oslo.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37091436-0-image-m-93_1608527160703.jpg)
+    
+    **Madonna shows off her flat abs and impressive figure in the mirror alongside her 'beautiful scar' from her hip surgery and 'cupping' marks**](http://www.dailymail.co.uk/tvshowbiz/article-9074417/Madonna-shows-flat-abs-mirror-beautiful-scar-hip-center.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37108448-0-image-a-61_1608564765148.jpg)
+    
+    **Amelia Hamlin flaunts her figure in Kim Kardashian's SKIMS bodysuit... after hitting back at criticism over her age-gap romance with Scott Disick**](http://www.dailymail.co.uk/tvshowbiz/article-9075913/Amelia-Hamlin-dons-Kim-Kardashians-SKIMS-bodysuit-slamming-criticism-Scott-Disick-romance.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37110744-0-image-a-70_1608568183283.jpg)
+    
+    **Step inside the Entrance Hall at Clarence House: Duchess of Cornwall offers rare look at passage that houses treasures**](http://www.dailymail.co.uk/femail/article-9075981/Step-inside-Entrance-Hall-Clarence-House.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37109814-0-image-a-22_1608566446938.jpg)
+    
+    **Sir David Attenborough insists some animals 'must be kept in captivity' to survive as he defends zoos and aquariums ahead of his new series**](http://www.dailymail.co.uk/femail/article-9075857/Attenborough-argues-creatures-thrive-confinement-releasing-documentary-justifying-zoos.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37106086-0-image-a-130_1608560665120.jpg)
+    
+    **Gabby Allen puts on a sultry display in sizzling bikini snaps from recent Dubai trip as she admits she feels 'less confident' after taking a break from exercise**](http://www.dailymail.co.uk/tvshowbiz/article-9075727/Gabby-Allen-puts-sultry-display-bikini-snaps-recent-Dubai-trip.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/18/37114820-0-image-m-100_1608574615193.jpg)
+    
+    **Richie Sambora has 'no regrets' about quitting Bon Jovi in 2013 after 30 years: 'Family had to come first'**](http://www.dailymail.co.uk/tvshowbiz/article-9076451/Richie-Sambora-no-regrets-quitting-Bon-Jovi-2013-30-years.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37105436-0-image-a-55_1608559765534.jpg)
+    
+    **Elle Macpherson, 56, shows off her ageless visage and incredible figure in a skimpy swimwear as she enjoys a luxurious beach getaway**](http://www.dailymail.co.uk/tvshowbiz/article-9075521/Elle-Macpherson-56-shows-ageless-visage-incredible-figure-swimwear.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/22/37122050-0-image-m-182_1608589900004.jpg)
+    
+    **Laverne Cox 'is so excited' to host 'intimate' weekly podcast for Shondaland in February**](http://www.dailymail.co.uk/tvshowbiz/article-9077317/Laverne-Cox-excited-host-intimate-weekly-podcast-Shondaland-February.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37107970-0-image-a-17_1608563741504.jpg)
+    
+    **'I'd take a sword for this man': Ashley James cradles her baby bump and defends buying 'cute' gifts for her partner Tom Andrews**](http://www.dailymail.co.uk/tvshowbiz/article-9075761/Ashley-James-wows-lace-underwear-defends-buying-gifts-partner-Tom-Andrews.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097240-0-image-m-145_1608545007091.jpg)
+    
+    **Love Island's Megan Barton Hanson bares all in the name of art as she gets a mould of her breasts and vagina** The Love Island star got some mementos](http://www.dailymail.co.uk/tvshowbiz/article-9074873/Love-Islands-Megan-Barton-Hanson-bares-gets-mould-breasts-vagina.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37114064-0-image-a-39_1608573585097.jpg)
+    
+    **Heather Rae Young sports an electric yellow bikini for a pool day with Tarek El Moussa on romantic holiday in Cabo**](http://www.dailymail.co.uk/tvshowbiz/article-9076487/Heather-Rae-Young-sports-yellow-bikini-pool-day-Tarek-El-Moussa-holiday-Cabo.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37111232-0-image-a-14_1608568886220.jpg)
+    
+    **Kate Mara pairs a classic denim jacket with distressed sweats while on an iced coffee run in Los Angeles** The 37-year-old actress kept things casual](http://www.dailymail.co.uk/tvshowbiz/article-9076235/Kate-Mara-pairs-classic-denim-jacket-sweats-iced-coffee-run-Los-Angeles.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/17/37112058-0-image-a-31_1608573047980.jpg)
+    
+    **Princess Charlene of Monaco shares fun fancy dress photo with husband Prince Albert amid reports he faces a paternity suit over THIRD love child** .](http://www.dailymail.co.uk/femail/article-9076269/Princess-Charlene-Monaco-shares-photo-husband-Prince-Albert.html)
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101448-0-image-m-190_1608552929466.jpg)
@@ -832,14 +1721,69 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Lizzo shows off her voluptuous curves as she shares clip of herself modelling lingerie... after hitting back at critics of her 10-day juice detox**](http://www.dailymail.co.uk/tvshowbiz/article-9075361/Lizzo-shows-curves-models-lingerie-hitting-critics-10-day-detox.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099178-0-image-m-168_1608549506550.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/13/37104516-0-image-a-136_1608558113204.jpg)
     
-    **Strictly champ Bill Bailey reveals his big win was clouded by a tinge of sadness as his ballroom-loving late mother wasn't there to revel in the moment**](http://www.dailymail.co.uk/tvshowbiz/article-9075117/Strictly-champ-Bill-Bailey-reveals-win-clouded-sadness-late-mother-wasnt-there.html) 
+    **The Beatles: Get Back FIRST LOOK: Peter Jackson gives 'sneaky preview' of euphoric new film featuring never-before-seen footage of The Fab Four**](http://www.dailymail.co.uk/tvshowbiz/article-9075319/The-Beatles-LOOK-Peter-Jackson-gives-fans-sneaky-preview-euphoric-new-film.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37108726-0-image-a-157_1608564900594.jpg)
+    
+    **Strictly's Jamie Laing cuts a casual figure in a baseball jacket as he runs errands on his red Vespa after missing out on lifting the Glitterball trophy**](http://www.dailymail.co.uk/tvshowbiz/article-9075889/Strictlys-Jamie-Laing-cuts-casual-figure-baseball-jacket-errand-run.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37108860-0-image-a-7_1608568741151.jpg)
+    
+    **Princess Mary of Denmark's eldest son Christian, 15, is seen for the first time since contracting Covid-19 as he joins his family to light an Advent candle**](http://www.dailymail.co.uk/femail/article-9075855/Princess-Mary-Denmarks-eldest-son-Christian-seen-time-contracting-coronavirus.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/15/37109104-0-image-m-34_1608565404329.jpg)
+    
+    **Kat Von D buys $1.8M Schenck Mansion in Indiana because of 'tyrannical government overreach' in California** Has no plans to sell her LA tattoo shop](http://www.dailymail.co.uk/tvshowbiz/article-9075963/Kat-Von-D-buys-1-8M-Schenck-Mansion-Indiana-tyrannical-government-overreach-CA.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37105710-0-image-a-32_1608559832115.jpg)
+    
+    **Former Emmerdale star Bill Ward takes up a job as a Tesco delivery driver after his theatre earnings suffer due to the coronavirus pandemic**](http://www.dailymail.co.uk/tvshowbiz/article-9075641/Ex-Emmerdale-star-Bill-Ward-Tesco-delivery-driver-theatre-work-suffers-pandemic.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101100-0-image-a-28_1608552513869.jpg)
+    
+    **Chloe Lewis flaunts her figure in a black swimsuit as she enjoys idyllic yacht day in Dubai with boyfriend Danny Flasher, baby son Beau and pals**](http://www.dailymail.co.uk/tvshowbiz/article-9075283/Chloe-Lewis-flaunts-figure-black-swimsuit-enjoys-idyllic-yacht-day-Dubai.html)
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/16/37109926-0-image-a-9_1608567099791.jpg)
+    
+    **Queen in cream! Letizia of Spain looks pristine in a neutral frock as she joins her husband King Felipe VI for a private literary prize-giving ceremony**](http://www.dailymail.co.uk/femail/article-9076005/Queen-Letizia-Spain-joins-husband-King-Felipe-private-literary-prize-giving-ceremony.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37100870-0-image-m-3_1608551996915.jpg)
     
     **Ed Sheeran releases surprise new track Afterglow after almost 18 months off but his comeback is fleeting as he says: 'back to dad land for me now'**](http://www.dailymail.co.uk/tvshowbiz/article-9075271/Ed-Sheeran-releases-surprise-new-track-Afterglow.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099178-0-image-m-168_1608549506550.jpg)
+    
+    **Strictly champ Bill Bailey reveals his big win was clouded by a tinge of sadness as his ballroom-loving late mother wasn't there to revel in the moment**](http://www.dailymail.co.uk/tvshowbiz/article-9075117/Strictly-champ-Bill-Bailey-reveals-win-clouded-sadness-late-mother-wasnt-there.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37106300-0-image-m-208_1608562433809.jpg)
+    
+    **Gordon Ramsay shares throwback wedding snap of himself and wife Tana looking VERY youthful as he celebrates 24th anniversary**](http://www.dailymail.co.uk/tvshowbiz/article-9075741/Gordon-Ramsay-shares-throwback-wedding-snap-wife-Tana-24th-anniversary.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/13/37103504-0-image-a-71_1608556688051.jpg)
+    
+    **Paris Hilton exudes glamour in a sparkling dress as she shares a kiss with her boyfriend Carter Reum during a photoshoot with her sister Nicky**](http://www.dailymail.co.uk/tvshowbiz/article-9075341/Paris-Hilton-exudes-glamour-sparkling-dress-shares-kiss-boyfriend-Carter-Reum.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37082156-0-image-m-2_1608502625033.jpg)
+    
+    **Hollyoaks' Jennifer Metcalfe is 'DATING former Manchester United star Chris Eagles four months after Greg Lake split'**](http://www.dailymail.co.uk/tvshowbiz/article-9073641/Hollyoaks-Jennifer-Metcalfe-DATING-former-Manchester-United-star-Chris-Eagles.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101238-0-image-a-111_1608552919989.jpg)
+    
+    **'It worked out perfectly': Nolan sisters recreate an iconic 1984 photograph as a surprise for Anne's 70th birthday** Recreated](http://www.dailymail.co.uk/tvshowbiz/article-9075263/Nolan-sisters-recreate-1984-photograph-surprise-Annes-70th-birthday.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094880-0-image-a-15_1608541119236.jpg)
@@ -857,9 +1801,9 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Amber Gill says she's confused by Tier 4 lockdown restrictions and fears she may be STUCK in Dubai for Christmas after jetting to the UAE last-minute**](http://www.dailymail.co.uk/tvshowbiz/article-9075183/Amber-Gill-fears-STUCK-Dubai-Christmas-confused-Tier-4-restrictions.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![](https://i.dailymail.co.uk/1s/2020/11/14/19/35678290-0-image-a-55_1605382427739.jpg)
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101630-0-image-a-88_1608554256895.jpg)
     
-    **How these nutrients could help support YOUR immune system this winter** Ad Feature](http://www.dailymail.co.uk/femail/article-8949231/How-nutrients-help-support-immune-winter.html) 
+    **'He has been isolating since March': Strictly champion Bill Bailey reveals his elderly father will spend Christmas alone due to Tier 4 rules**](http://www.dailymail.co.uk/tvshowbiz/article-9075253/Bill-Bailey-reveals-father-spend-Christmas-Tier-4-restrictions.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37098880-0-image-m-38_1608549615379.jpg)
@@ -875,12 +1819,16 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37095672-0-image-a-37_1608540859808.jpg)
     
     **Stacey Solomon reveals she catches boyfriend Joe Swash secretly watching 'hot MILF' porn on her phone while she sleeps** Caught out](http://www.dailymail.co.uk/tvshowbiz/article-9074741/Stacey-Solomon-reveals-catches-beau-Joe-Swash-secretly-watching-hot-MILF-porn-phone.html) 
-
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37098826-0-image-a-19_1608550784754.jpg)
     
     **'She's my whole world': Lydia Bright details life as a single parent to baby daughter Loretta following her split from Lee Cronin** Sweet](http://www.dailymail.co.uk/tvshowbiz/article-9075099/Shes-world-Lydia-Bright-discusses-inseparable-bond-daughter-Loretta.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101406-0-image-m-23_1608553500623.jpg)
+    
+    **Sports Personality of the Year winner Lewis Hamilton disgusts fans after posting a video showing him sharing the same slice of cake with his pet bulldog**](http://www.dailymail.co.uk/news/article-9075255/Lewis-Hamilton-disgusts-fans-posting-video-showing-sharing-slice-cake-dog.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096474-0-image-m-9_1608543028647.jpg)
@@ -898,6 +1846,11 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     **Rebekah Vardy hints she and Coleen Rooney could END their WAG war soon as she joins husband Jamie and their kids for festive shoot**](http://www.dailymail.co.uk/tvshowbiz/article-9073155/Rebekah-Vardy-hints-rival-Coleen-Rooney-end-WAG-war-soon.html) 
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/14/37107084-0-image-a-6_1608562682680.jpg)
+    
+    **Lauren Burnham reveals her growing baby bump at 12 weeks as she expects second child with The Bachelor's Arie Luyendyk Jr.**](http://www.dailymail.co.uk/tvshowbiz/article-9075861/Lauren-Burnham-reveals-baby-bump-expects-second-child-Bachelors-Arie-Luyendyk.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
     ![](https://i.dailymail.co.uk/1s/2020/12/21/03/37090056-0-image-m-62_1608522676781.jpg)
     
     **Khloe Kardashian covers her bra and panty-clad physique with a glamorous fur coat as she poses among endless supply of Louis Vuitton bags**](http://www.dailymail.co.uk/tvshowbiz/article-9074351/Khloe-Kardashian-dons-bra-panties-posing-endless-supply-Louis-Vuitton-bags.html) 
@@ -906,6 +1859,11 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097750-0-image-a-31_1608546009096.jpg)
     
     **'I'm stuck like everyone else!' Strictly's Jamie Laing has not yet told his mother that he won't be coming home for Christmas due to Tier 4 restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9074877/Strictlys-Jamie-Laing-admits-hes-not-told-mum-wont-coming-home-Christmas.html) 
+*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![](https://i.dailymail.co.uk/1s/2020/12/21/12/37101618-0-image-a-19_1608553317707.jpg)
+    
+    **Unseen letters penned by Princess Diana to family friend Roger Bramble from 1990 to 1997 are expected to fetch £30,000 at auction** 36 letters penned](http://www.dailymail.co.uk/femail/article-9075373/Unseen-letters-penned-Princess-Diana-family-friend-Roger-Bramble-going-auction.html)
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099244-0-image-a-48_1608549108978.jpg)
@@ -926,7 +1884,6 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37099362-0-image-a-92_1608549323448.jpg)
     
     **Kelly Brook looks effortlessly chic in a beige jumper and co-ordinated jacket as she arrives for work at Heart FM** Stylish](http://www.dailymail.co.uk/tvshowbiz/article-9075163/Kelly-Brook-looks-effortlessly-chic-arrives-work-Heart-FM.html) 
-
 *   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![](https://i.dailymail.co.uk/1s/2020/12/20/18/37076796-0-image-m-6_1608489694598.jpg)
@@ -937,1047 +1894,6 @@ DM.later('bundle', function () { DMS.Puff.init({ twitter: { newsUS: { text: '@Da
     ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37093264-0-image-m-197_1608533159817.jpg)
     
     **Alessandra Ambrosio showcases supermodel figure in pink bikini as she hits beach while spending holidays back home in Brazil** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9074649/Alessandra-Ambrosio-showcases-supermodel-figure-pink-bikini-hits-beach-home-Brazil.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37098056-0-image-a-10_1608548254027.jpg)
-    
-    **Myleene Klass gives a nod to 80s punk fashion in a flat cap and gold chains as she drapes a leather biker jacket over her shoulders while walking to work**](http://www.dailymail.co.uk/tvshowbiz/article-9075055/Myleene-Klass-gives-nod-80s-punk-fashion-flat-cap-gold-chains-walks-work.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37097168-0-image-a-19_1608544575904.jpg)
-    
-    **Joan Smalls sends temperatures soaring as she highlights her model physique in a sultry lace corset** The supermodel, 35, looked incredible](http://www.dailymail.co.uk/tvshowbiz/article-9074895/Joan-Smalls-sends-temperatures-soaring-highlights-model-physique-sultry-lace-corset.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/11/37097838-0-image-a-4_1608548947358.jpg)
-    
-    **Marcus Rashford reveals Man U youth teammates and coaches didn't realise he went without food and says it 'should never be normal for someone to feel like I felt' in new doc**](http://www.dailymail.co.uk/femail/article-9074897/Marcus-Rashford-reveals-Manchester-United-coaches-didnt-know-went-without-food.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/37097206-0-image-m-33_1608544810630.jpg)
-    
-    **Strictly's Motsi Mabuse is reunited with her family in Germany as she shares sweet photo of her husband Evgenij Voznyuk and their daughter**](http://www.dailymail.co.uk/tvshowbiz/article-9074919/Strictlys-Motsi-Mabuse-reunited-family-Germany-anxious-journey-UK.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096416-0-image-a-9_1608543715496.jpg)
-    
-    **Love Island's Georgia Steel showcases her incredible physique in lace teal lingerie as she poses for sizzling mirror selfie** Stunning](http://www.dailymail.co.uk/tvshowbiz/article-9074891/Love-Islands-Georgia-Steel-showcases-incredible-physique-lace-teal-lingerie.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094506-0-image-a-8_1608538412179.jpg)
-    
-    **Pregnant Helen Flanagan looks radiant in stunning white ruched dress as she cradles her blossoming baby bump** Blooming](http://www.dailymail.co.uk/tvshowbiz/article-9074711/Pregnant-Helen-Flanagan-looks-radiant-stunning-white-rushed-dress.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096206-0-image-a-12_1608541980052.jpg)
-    
-    **Love Island's Kady McDermott sets pulses racing in a violet asymmetric two-piece as she reminisces over her recent family getaway**](http://www.dailymail.co.uk/tvshowbiz/article-9074841/Love-Islands-Kady-McDermott-sets-pulses-racing-violet-asymmetric-two-piece.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/04/37090552-0-image-m-46_1608525503898.jpg)
-    
-    **George Clooney reveals that he tricks his kids into believing they're talking to Santa Claus to get them to behave around Christmas time**](http://www.dailymail.co.uk/tvshowbiz/article-9074419/George-Clooney-reveals-tricks-kids-believing-theyre-talking-Santa-Claus.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094550-0-image-a-9_1608539351990.jpg)
-    
-    **Danielle Lloyd puts on a busty display in a ruched mini dress as she poses for glam snaps... after being branded 'irresponsible' for breaking Covid rules**](http://www.dailymail.co.uk/tvshowbiz/article-9074749/Danielle-Lloyd-puts-busty-display-ruched-mini-dress-poses-glam-snaps.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094642-0-image-m-18_1608539691386.jpg)
-    
-    **Charlotte McKinney flashes her underboob in racy bikini pictures as she uploads positive post from the beach in Miami** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9074757/Charlotte-McKinney-shares-racy-bikini-pictures.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/07/37093610-0-image-m-102_1608535333174.jpg)
-    
-    **Hailey Bieber layers a luxe fur coat over a cropped white tank top to run errands... following pal Kylie Jenner's anti-fur activist ambush**](http://www.dailymail.co.uk/tvshowbiz/article-9074647/Hailey-Bieber-dons-fur-coat-following-pal-Kylie-Jenners-anti-fur-activist-ambush.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/10/36103802-0-Maradona_right_three_weeks_before_his_death_shaking_hands_with_h-m-44_1608546753530.jpg)
-    
-    **Diego Maradona's former doctor claims the footballer's death was 'a type of suicide' brought on by depression following his brain surgery**](http://www.dailymail.co.uk/news/article-9074981/Diego-Maradonas-former-doctor-claims-death-type-suicide.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37092978-0-image-m-131_1608533804651.jpg)
-    
-    **Kesha thanks 'everyone who is supporting survivors and telling their stories' in selfie post amid renewed controversy surrounding Dr. Luke**](http://www.dailymail.co.uk/tvshowbiz/article-9074589/Kesha-thanks-supporting-survivors-telling-stories-selfie-post.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096720-0-image-a-64_1608543561243.jpg)
-    
-    **Natalie Portman dons a casual black outfit as she and her hunky husband Benjamin Millepied enjoy a family day at the beach at Sydney's Nielsen Park**](http://www.dailymail.co.uk/tvshowbiz/article-9074901/Natalie-Portman-husband-Benjamin-Millepied-enjoy-family-day-Nielsen-Park.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094900-0-image-a-17_1608539556225.jpg)
-    
-    **Ferne McCann showcases her taut midriff and slender pins in sizzling burgundy nightwear as she relaxes at home** Sizzling](http://www.dailymail.co.uk/tvshowbiz/article-9074731/Ferne-McCann-showcases-taut-midriff-slender-pins-sizzling-burgundy-nightwear.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37085150-0-image-a-6_1608507964618.jpg)
-    
-    **RHOCH's Dawn Ward is seen for the first time since being dragged into WAG war and quitting reality show as she enjoys a night out with husband Ashley**](http://www.dailymail.co.uk/tvshowbiz/article-9073869/RHOCHs-Dawn-Ward-seen-time-dragged-Wagatha-Christie-war.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37091806-0-image-a-12_1608527995229.jpg)
-    
-    **Ariana Grande's mother Joan and brother Frankie give seal of approval on her engagement to Dalton Gomez... while his family is thrilled**](http://www.dailymail.co.uk/tvshowbiz/article-9074493/Ariana-Grandes-mother-Joan-brother-Frankie-seal-approval-engagement-Dalton-Gomez.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/09/37096340-0-image-a-41_1608542799946.jpg)
-    
-    **'Perils of live TV!' BBC news presenter Ben Brown who left viewers 'crying with laughter' after being caught yawning in live blunder apologises**](http://www.dailymail.co.uk/femail/article-9074847/BBC-new-presenter-apologises-caught-yawning-air.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/19/37077734-0-image-m-79_1608493165053.jpg)
-    
-    **Elliot Page shares first selfie since gender affirmation to thank fans for 'love and support'** The transgender trailblazer posed](http://www.dailymail.co.uk/tvshowbiz/article-9073269/Elliot-Page-shares-selfie-gender-affirmation-thank-fans-love-support.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37074976-0-image-m-18_1608485993091.jpg)
-    
-    **Simon Cowell, 61, looks carefree as he enjoys lavish boat trip and jet ski ride with Lauren Silverman, 43, in Barbados**](http://www.dailymail.co.uk/tvshowbiz/article-9073035/Simon-Cowell-61-looks-carefree-enjoys-jet-ski-ride-Barbados-breaking-back.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37085282-0-image-m-23_1608508148228.jpg)
-    
-    **Nicole Scherzinger puts on a VERY busty display in plunging PVC dress as she pouts for the camera in sultry snaps**](http://www.dailymail.co.uk/tvshowbiz/article-9073915/Nicole-Scherzinger-puts-busty-display-plunging-PVC-dress.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37089182-0-image-m-44_1608517856072.jpg)
-    
-    **John Legend reveals the two 'really good' gifts that wife Chrissy Teigen gets him every year for Christmas... in Legendary Christmas Tales episode**](http://www.dailymail.co.uk/tvshowbiz/article-9074261/John-Legend-reveals-two-really-good-gifts-wife-Chrissy-Teigen-gets-year.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/07/37093722-0-image-m-2_1608535552121.jpg)
-    
-    **Real Housewives Of Atlanta: Porsha Williams gets arrested again while protesting in Kentucky and reveals splitting with fiancé Dennis McKinley**](http://www.dailymail.co.uk/tvshowbiz/article-9074399/Real-Housewives-Atlanta-Porsha-Williams-gets-arrested-splits-Dennis-McKinley.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37092606-0-image-m-85_1608531096892.jpg)
-    
-    **Alexis Ren shows off her model physique in a skimpy bikini as she cozies up to a hunky mystery man in St. Barts** Supermodel style](http://www.dailymail.co.uk/tvshowbiz/article-9074557/Alexis-Ren-rocks-skimpy-bikini-cozies-hunky-mystery-man-St-Barts.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37092310-0-image-m-63_1608529425276.jpg)
-    
-    **Chadwick Boseman takes home Best Actor while Carey Mulligan wins Best Actress at Los Angeles Film Critics Association**  Posthumous award](http://www.dailymail.co.uk/tvshowbiz/article-9074531/Chadwick-Boseman-takes-home-Best-Actor-Ma-Raineys-Black-Bottom.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/08/37094262-0-image-m-11_1608537799356.jpg)
-    
-    **Kourtney Kardashian and her glam friend pay homage to Romy and Michele movie characters as they celebrate Christmas at home**](http://www.dailymail.co.uk/tvshowbiz/article-9074527/Kourtney-Kardashian-sensationally-glam-rides-polar-bear-Christmas-tree.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37092312-0-image-m-167_1608531376282.jpg)
-    
-    **Borat 2 star Maria Bakalova is a beach babe in black top and distressed denim as she cozies up to shirtless CAA agent in Miami Beach**](http://www.dailymail.co.uk/tvshowbiz/article-9074511/Maria-Bakalova-beach-babe-cozies-shirtless-CAA-agent-Miami-Beach.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37079882-0-image-m-57_1608498188530.jpg)
-    
-    **Alex Scott puts on a leggy display in a black bardot gown with a thigh-high slit as she hosts BBC's Sports Personality of the Year in Salford**](http://www.dailymail.co.uk/tvshowbiz/article-9073417/Alex-Scott-puts-leggy-display-black-bardot-gown-hosts-Sports-Personality-Year.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087788-0-image-m-5_1608513786097.jpg)
-    
-    **Coleen Rooney is slammed by PETA for her 'unkind' £1,440 white jacket with 'fox fur cuffs'... as Rebekah Vardy hints their WAG war could END soon**](http://www.dailymail.co.uk/tvshowbiz/article-9074073/Coleen-Rooney-slammed-PETA-unkind-1-400-coat-fox-fur-cuffs.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/07/37094026-0-image-m-94_1608537335443.jpg)
-    
-    **Bella Hadid bundles up in chilly New York City with a Jean Paul Gaultier sweater and a black puffer coat as she heads out in Soho** Low-key](http://www.dailymail.co.uk/tvshowbiz/article-9074661/Bella-Hadid-bundles-chilly-New-York-City-Jean-Paul-Gaultier-sweater.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088868-0-image-m-5_1608516536574.jpg)
-    
-    **'Another little scare today': Pregnant Charlotte Dawson reveals she went to hospital after her baby's movements reduced**](http://www.dailymail.co.uk/tvshowbiz/article-9074175/Pregnant-Charlotte-Dawson-reveals-shes-scare-not-feeling-baby-move.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37079942-0-image-a-76_1608498544100.jpg)
-    
-    **Rita Ora prepares to make TV return in The Masked Singer series 2 after flouting lockdown... as she teases it will be '10 times HARDER' to guess stars**](http://www.dailymail.co.uk/tvshowbiz/article-9073401/Rita-Ora-makes-TV-return-Masked-Singer-flouting-London-lockdown-rules.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088896-0-image-m-4_1608517505045.jpg)
-    
-    **'You're saving 2020!' Ed Sheeran sends fans wild as he reveals he's dropping a 'Christmas present' at 11am in cryptic post after his 'music break'**](http://www.dailymail.co.uk/tvshowbiz/article-9074203/Ed-Sheeran-sends-fans-wild-reveals-hes-dropping-Christmas-present-11am.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087622-0-image-a-45_1608513271468.jpg)
-    
-    **Mackenzie Crook says his Worzel Gummidge Christmas special is a fitting tribute to Barbara Windsor who played Saucy Nancy in the 80s original**](http://www.dailymail.co.uk/tvshowbiz/article-9074077/Mackenzie-Crook-says-Worzel-Gummidge-Christmas-special-fitting-tribute-late-Barbara-Windsor.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/07/37093520-0-image-a-29_1608534781861.jpg)
-    
-    **Lisa Rinna shines in sparkling orange and black ensemble as she festively dances to Wham's Last Christmas** Lisa glistened in a sparkling orange look](http://www.dailymail.co.uk/tvshowbiz/article-9074579/Lisa-Rinna-sparkling-orange-black-ensemble-festively-dances-Whams-Christmas.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/03/37089438-0-image-m-19_1608521283535.jpg)
-    
-    **Elle Macpherson is spotted outside a shopping mall in Miami WITHOUT a face mask... despite a sign right behind her asking everyone to cover up**](http://www.dailymail.co.uk/tvshowbiz/article-9074279/Supermodel-Elle-Macpherson-spotted-outside-mall-Miami-without-face-mask-on.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37092630-0-image-a-23_1608530876247.jpg)
-    
-    **Katherine Schwarzenegger shows off her new jewellery with her daughter Lyla's name on it** The 31-year-old author took to Instagram Stories](http://www.dailymail.co.uk/tvshowbiz/article-9074563/Katherine-Schwarzenegger-shows-jewelry-daughter-Lylas-it.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087188-0-image-m-57_1608514307989.jpg)
-    
-    **Kourtney Kardashian gets acrobatic with workout routine as she shows off her toned figure during suspended pilates class with sister Kim**](http://www.dailymail.co.uk/tvshowbiz/article-9074079/Kourtney-Kardashian-gets-acrobatic-workout-routine-shows-toned-figure-pilates.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/06/37092520-0-image-a-66_1608533166023.jpg)
-    
-    **Tiger Woods' ex-wife Elin Nordegren takes in the action after their 11-year-old son Charlie sets PNC Championship alight with an eagle on the third hole**](http://www.dailymail.co.uk/news/article-9074591/Tiger-Woods-ex-wife-Elin-Nordegren-watches-son-Charlie-play-golf.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37085450-0-image-m-8_1608509071044.jpg)
-    
-    **Nina Dobrev posts a number of photos and a touching tribute to her grandmother after she passed away at 87 years of age** Heartbreaking](http://www.dailymail.co.uk/tvshowbiz/article-9073873/Nina-Dobrev-posts-number-photos-touching-tribute-late-grandmother.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/07/37093496-0-image-m-80_1608534847959.jpg)
-    
-    **Meghan McCain shares rare throwback snaps from late in her pregnancy just one week before her first child Liberty was born** Sweet](http://www.dailymail.co.uk/tvshowbiz/article-9074637/Meghan-McCain-shares-rare-throwback-snaps-late-pregnancy.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/04/37090616-0-image-m-125_1608525147811.jpg)
-    
-    **Kate Hudson channels Christmas tree in green sweatsuit as she bikes around her LA neighborhood with partner Danny Fujikawa** Low-key](http://www.dailymail.co.uk/tvshowbiz/article-9074379/Kate-Hudson-channels-Christmas-tree-green-sweatsuit-partner-Danny-Fujikawa-LA.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37089542-0-image-m-67_1608519479878.jpg)
-    
-    **Shay Mitchell twins with her daughter Atlas in TOTALLY matching outfits as she and partner Matte Babel get lunch and take the dog out in Los Feliz**](http://www.dailymail.co.uk/tvshowbiz/article-9074265/Shay-Mitchell-twins-daughter-Atlas-matching-outfits-Matte-Babel-lunch.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37088646-0-image-m-31_1608515892498.jpg)
-    
-    **CHRISTOPHER STEVENS reviews the weekend TV: Brad's game show gift turns into the tatty pressie no one wants**](http://www.dailymail.co.uk/tvshowbiz/article-9074215/CHRISTOPHER-STEVENS-reviews-weekend-TV.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088724-0-image-m-28_1608516119571.jpg)
-    
-    **Love Island's India Reynolds turns up the heat in black lingerie as she celebrates her 30th birthday with her pet dog Cooper**](http://www.dailymail.co.uk/tvshowbiz/article-9074223/Love-Islands-India-Reynolds-turns-heat-black-lingerie-celebrates-30th-birthday.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087996-0-image-a-35_1608514154562.jpg)
-    
-    **Lizzo's mother breaks down in tears when the pop star surprises her with a new car for Christmas: 'Got my mommy a brand new Audi for Xmas'**](http://www.dailymail.co.uk/tvshowbiz/article-9073815/Lizzos-mother-breaks-happy-tears-pop-star-surprises-new-car-Christmas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37084650-0-image-a-12_1608506798057.jpg)
-    
-    **Katie Holmes and daughter Suri Cruise shop at upscale furnishing store in NYC as she's 'having fun' in new romance with chef Emilio Vitolo Jr.**](http://www.dailymail.co.uk/tvshowbiz/article-9073841/Katie-Holmes-daughter-Suri-Cruise-shop-upscale-furnishing-store-NYC.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/14/37070526-0-image-a-37_1608474762652.jpg)
-    
-    **Gorka Marquez reunites with his 17-month-old daughter Mia and girlfriend Gemma Atkinson following 78 DAYS in the Strictly Come Dancing bubble**](http://www.dailymail.co.uk/tvshowbiz/article-9072733/Strictlys-Gorka-Marquez-reunites-toddler-daughter-Mia-girlfriend-Gemma-Atkinson.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37092428-0-image-a-80_1608529945635.jpg)
-    
-    **Jaime King and new beau Sennett Devermont sweetly share a soda as they browse through flea market in West Hollywood**](http://www.dailymail.co.uk/tvshowbiz/article-9074487/Jaime-King-new-beau-Sennett-Devermont-sweetly-share-soda-flea-market-West-Hollywood.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37088096-0-image-m-12_1608514500154.jpg)
-    
-    **'She's still the spit of her dad!' Rachel Riley celebrates daughter Maven's first birthday and says she had an 'amazing' week despite the 'strange times'**](http://www.dailymail.co.uk/tvshowbiz/article-9074133/Rachel-Riley-celebrates-daughter-Mavens-birthday-sweet-snaps.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/12/37067740-0-image-a-36_1608466232301.jpg)
-    
-    **'Thanks for being a trailblazer!' Eddie Izzard applauded by viewers for requesting the use of 'she' and 'her' pronouns during latest TV appearance**](http://www.dailymail.co.uk/tvshowbiz/article-9072565/Eddie-Izzard-applauded-requesting-use-pronouns-TV-appearance.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/03/37089888-0-image-a-61_1608521834481.jpg)
-    
-    **Jamie Lee Curtis takes her dog along for some holiday shopping... after celebrating 36th wedding anniversary with husband Christopher Guest**](http://www.dailymail.co.uk/tvshowbiz/article-9074237/Jamie-Lee-Curtis-takes-dog-holiday-shopping-celebrating-36th-wedding-anniversary.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/04/37090730-0-image-a-99_1608525535144.jpg)
-    
-    **Tones and I thrills fans as she busks in Melbourne and performs her hit song Dance Monkey... after admitting she missed her pre-fame life**](http://www.dailymail.co.uk/tvshowbiz/article-9074389/Tones-spotted-busking-Melbourne-admitting-missed-life-street-performer.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37085178-0-image-m-34_1608510555401.jpg)
-    
-    **Strictly's oldest ever champ Bill Bailey, 55, dedicates win to 'every bloke in their 40s and 50s' and reveals Oti Mabuse has offered to direct his comedy tour**](http://www.dailymail.co.uk/tvshowbiz/article-9073903/Strictly-oldest-champ-Bill-Bailey-dedicates-win-bloke-40s-50s.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37081680-0-image-m-32_1608501863960.jpg)
-    
-    **Celebrities lead the way on latest trend of 'doorscaping' - drafting in florists to give the front of their homes a stunning festive makeover**](http://www.dailymail.co.uk/tvshowbiz/article-9073551/Celebrities-lead-way-latest-trend-doorscaping.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/05/37091658-0-image-m-8_1608527592680.jpg)
-    
-    **Garth Brooks weeps while performing rare full version of Belleau Wood based on 1914 Christmas truce between British and Germans in World War I**](http://www.dailymail.co.uk/tvshowbiz/article-9074409/Garth-Brooks-weeps-performing-rare-version-Belleau-Wood-based-1914-Christmas-truce.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088924-0-image-m-101_1608517923888.jpg)
-    
-    **RHOC's Braunwyn Windham-Burke puts on a leggy display in flirty off-the-shoulder look as she visits beautician in Newport Beach** Fun times](http://www.dailymail.co.uk/tvshowbiz/article-9074251/Braunwyn-Windham-Burke-puts-leggy-display-flirty-look-visit-beautician-Newport-Beach.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088926-0-image-m-7_1608517157021.jpg)
-    
-    **Selma Blair loses her top and trousers in fun and risque Instagram snaps while out in Palm Springs desert** Selma continued to raise temperatures](http://www.dailymail.co.uk/tvshowbiz/article-9074107/Selma-Blair-loses-trousers-fun-risque-Instagram-snaps-Palm-Springs.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37086142-0-image-m-14_1608509795397.jpg)
-    
-    **Katy Perry pushes her 4-month-old daughter in a stroller before being greeted by a crew of aliens... in preview for Not The End Of The World music video**](http://www.dailymail.co.uk/tvshowbiz/article-9073881/Katy-Perry-pushes-baby-daughter-stroller-preview-Not-End-World-music-video.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087758-0-image-m-22_1608513435589.jpg)
-    
-    **Mark Hamill reveals it was a 'miracle' that his surprise cameo in The Mandalorian wasn't leaked for over a year before the Season 2 finale aired**](http://www.dailymail.co.uk/tvshowbiz/article-9074123/Mark-Hamill-reveals-miracle-surprise-cameo-Mandalorian-wasnt-leaked.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37087204-0-image-m-21_1608512600979.jpg)
-    
-    **Taylor Swift unveils Instagram filter inspired by her rumored next single 'Tis The D\*mn Season... before touting the deluxe edition of her latest album Evermore**](http://www.dailymail.co.uk/tvshowbiz/article-9074075/Taylor-Swift-unveils-Instagram-filter-inspired-rumored-single-Tis-D-mn-Season.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37089524-0-image-a-7_1608519412071.jpg)
-    
-    **Lauren Bush Lauren and David Lauren are expecting their third child next spring: 'It has been a major ray of hope in our lives'** Joyous](http://www.dailymail.co.uk/tvshowbiz/article-9074297/Lauren-Bush-Lauren-David-Lauren-expecting-child-spring.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37077206-0-image-m-12_1608495164339.jpg)
-    
-    **BGT's Amanda Holden, Alesha Dixon, David Walliams and Ashley Banjo are 'looking forward' to Simon Cowell's return next year as they pose for glam shoot**](http://www.dailymail.co.uk/tvshowbiz/article-9073313/BGT-judges-reveal-theyre-looking-forward-Simon-Cowells-return-year-accident.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088772-0-image-m-39_1608517903551.jpg)
-    
-    **CBS' new Clarice TV series can't mention Hannibal Lecter at all with the show set just one year after The Silence of the Lambs** Clarice will pick up j](http://www.dailymail.co.uk/tvshowbiz/article-9074229/CBS-new-Clarice-TV-series-mention-Hannibal-Lecter-all.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/02/37088814-0-image-a-134_1608516469181.jpg)
-    
-    **The Crown's creator Peter Morgan recycled dialogue in showdown between the Queen and Margaret Thatcher says historian who accuses Netflix show boss of 'sheer laziness'**](http://www.dailymail.co.uk/news/article-9074167/The-Crowns-creator-Peter-Morgan-recycled-old-dialogue-key-showdown.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/15/37072214-0-image-m-54_1608479588434.jpg)
-    
-    **'She will be greatly missed by all who knew her: Veteran actress Rosalind Knight, star of Carry On and Friday Night Dinner, dies aged 87**](http://www.dailymail.co.uk/tvshowbiz/article-9072723/Rosalind-Knight-star-Carry-Friday-Night-Dinner-dies-aged-87.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37086528-0-image-m-32_1608510726001.jpg)
-    
-    **January Jones longs for snow during 'confusing' Christmas in California as she rocks another sexy swimsuit in red... after expertly clapping back at trolls**](http://www.dailymail.co.uk/tvshowbiz/article-9074013/January-Jones-longs-snow-confusing-Christmas-rocks-sexy-swimsuit-red.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/01/37088382-0-image-m-27_1608515137670.jpg)
-    
-    **I'm A Celeb's Victoria Derbyshire reveals her violent dad once poured hot soup over her when she was a teen**](http://www.dailymail.co.uk/tvshowbiz/article-9074099/Im-Celebs-Victoria-Derbyshire-reveals-violent-dad-poured-hot-soup-her.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37086362-0-image-a-8_1608511326099.jpg)
-    
-    **Liam Hemsworth hides his muscular physique under a T-shirt as he goes grocery shopping in Byron Bay**](http://www.dailymail.co.uk/tvshowbiz/article-9073935/Liam-Hemsworth-keeps-casual-goes-grocery-shopping-Byron-Bay.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37082610-0-image-m-4_1608503256353.jpg)
-    
-    **Lewis Hamilton WINS Sports Personality of the Year but accepts the award at home as Gary Lineker plays keepie-uppie with a toilet roll on sports' big TV night**](http://www.dailymail.co.uk/news/article-9073303/Lewis-Hamilton-favourite-named-BBC-Sports-Personality-Year.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37080664-0-image-a-11_1608499836938.jpg)
-    
-    **Grooviest of daddios! Old twinkle toes Bill Bailey lifts our spirits: JAN MOIR's view from the sofa of the Strictly finale**](http://www.dailymail.co.uk/tvshowbiz/article-9073539/JAN-MOIRs-view-sofa-Strictly-finale.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37085022-0-image-m-2_1608507532040.jpg)
-    
-    **Reese Witherspoon complements her cute new French Bulldog Minnie Pearl with a red plaid shirt as they both get in the holiday spirit**](http://www.dailymail.co.uk/tvshowbiz/article-9073851/Reese-Witherspoon-complements-new-French-Bulldog-Minnie-red-plaid-shirt.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/14/37070656-0-image-a-87_1608475394034.jpg)
-    
-    **Strictly champion Bill Bailey jubilantly dances outside his home after reuniting with wife Kristin following his epic win**](http://www.dailymail.co.uk/tvshowbiz/article-9072719/Strictly-champion-Bill-Bailey-jubilantly-dances-outside-home-reuniting-wife-Kristin.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37079470-0-image-m-3_1608497150426.jpg)
-    
-    **' Mollie King gushes about her 'modest' cricketer beau Stuart Broad as he's nominated for BBC's Sports Personality of the Year**](http://www.dailymail.co.uk/tvshowbiz/article-9073369/Mollie-King-gushes-shes-proud-cricketer-boyfriend-Stuart-Broad-rare-post.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/19/37077112-0-image-a-2_1608491536701.jpg)
-    
-    **Shia LaBeouf packs on the PDA with new girlfriend Margaret Qualley at LAX after FKA twigs accused him of sexual battery in lawsuit**](http://www.dailymail.co.uk/news/article-9073129/Shia-LaBeouf-takes-major-PDA-session-actress-Margaret-Qualley.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37083370-0-image-m-421_1608504625775.jpg)
-    
-    **Dua Lipa makes a bold style statement in lime green sunglasses as she carries her rescue dog Dexter in NYC after her Saturday Night Live appearance**](http://www.dailymail.co.uk/tvshowbiz/article-9073683/Dua-Lipa-makes-bold-style-statement-NYC-Saturday-Night-Live-appearance.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37084820-0-image-a-1_1608507510873.jpg)
-    
-    **Dancing On Ice 'hit by claims celebrities may not be good enough to compete after public training rinks had to close' amid coronavirus restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9073793/Dancing-Ice-hit-claims-celebs-not-good-compete-rinks-close.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37079382-0-image-m-30_1608496838376.jpg)
-    
-    **Jennifer Lopez looks like a gem in an emerald tracksuit as she heads to a personal appointment in Beverly Hills**](http://www.dailymail.co.uk/tvshowbiz/article-9073139/Jennifer-Lopez-rocks-emerald-tracksuit-visiting-dermatologist-Beverly-Hills.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/10/37066078-0-image-a-103_1608460541785.jpg)
-    
-    **Ex On The Beach star Kayleigh Morris flaunts her incredible curves in a candy striped bikini during sun-soaked getaway to Cyprus**](http://www.dailymail.co.uk/tvshowbiz/article-9072415/EOTBs-Kayleigh-Morris-flaunts-incredible-curves-candy-striped-bikini-Cyprus.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37086074-0-image-m-20_1608509737485.jpg)
-    
-    **Oprah Winfrey marks The Color Purple's 35th anniversary with a post about how she 'never wanted anything in my life more' than to be in that film**](http://www.dailymail.co.uk/tvshowbiz/article-9073879/Oprah-Winfrey-marks-Color-Purples-35th-anniversary-post-desire-film.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37079234-0-image-m-94_1608496494460.jpg)
-    
-    **Wonder Woman 1984 star Gal Gadot indulges in 'giant chocolate cake' during virtual press junket** Tucking in](http://www.dailymail.co.uk/tvshowbiz/article-9073243/Wonder-Woman-1984-star-Gal-Gadot-indulges-giant-chocolate-cake-virtual-press-junket.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/23/37083742-0-image-m-122_1608505497423.jpg)
-    
-    **Hilaria Baldwin flaunts post-baby body in lingerie snap... as her husband Alec quarantines in the guest house**](http://www.dailymail.co.uk/tvshowbiz/article-9073789/Hilaria-Baldwin-flaunts-post-baby-body-lingerie-snap-husband-Alec-quarantines.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/14/37070014-0-image-a-21_1608475495781.jpg)
-    
-    **The Duchess of Cornwall says we will have to 'make the best' of a Christmas like no other as she holds virtual tree decorating event**](http://www.dailymail.co.uk/femail/article-9072711/Duchess-Cornwall-says-make-best-Christmas-like-no-other.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37074588-0-image-m-3_1608484794273.jpg)
-    
-    **Melanie Sykes, 50, enjoys a casual stroll with a friend after brushing off flouting lockdown rules to visit her Italian toyboy Riccardo Simionato, 23**](http://www.dailymail.co.uk/tvshowbiz/article-9073025/Melanie-Sykes-enjoys-casual-stroll-friend-romance-Italian-toyboy.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37085560-0-image-m-15_1608508913844.jpg)
-    
-    **Disney+'s WandaVision rewrites the super couple's love story as a classic evolving sitcom in latest TV spot for upcoming series**](http://www.dailymail.co.uk/tvshowbiz/article-9073833/Disney-s-WandaVision-rewrites-super-couples-love-story-classic-sitcom-latest-TV-spot.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/13/37069266-0-image-a-159_1608472430657.jpg)
-    
-    **'You made your parents proud': Strictly's Motsi Mabuse praises double champion sister Oti in sweet message after her epic win with Bill Bailey**](http://www.dailymail.co.uk/tvshowbiz/article-9072693/Strictlys-Motsi-Mabuse-praises-double-champion-sister-Oti-epic-win-Bill-Bailey.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37081008-0-image-a-2_1608500322918.jpg)
-    
-    **Marcus Rashford honoured for his efforts to end child food poverty with a 'Panel Special Award' during BBC's Sports Personality of the Year**](http://www.dailymail.co.uk/sport/football/article-9073477/Marcus-Rashford-honoured-BBC-Sports-Personality-Year.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37085958-0-image-m-143_1608509458460.jpg)
-    
-    **Rihanna talks holiday plans, cookbook, and dieting: 'I won't deprive myself'**](http://www.dailymail.co.uk/tvshowbiz/article-9072921/Rihanna-talks-holiday-plans-cookbook-dieting-wont-deprive-myself.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37080064-0-image-m-55_1608499085725.jpg)
-    
-    **'He wants it settled as quickly as possible!': Katie Price's estranged husband Kieran Hayler is 'left frustrated after their divorce is delayed by pandemic'**](http://www.dailymail.co.uk/tvshowbiz/article-9073421/Katie-Prices-estranged-husband-Kieran-Hayler-frustrated-divorce-delayed.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37083328-0-image-m-109_1608505007831.jpg)
-    
-    **Roxette drummer Pelle Allsing dies aged 60 a year after Swedish band's singer Marie Fredriksson lost battle with brain cancer**](http://www.dailymail.co.uk/news/article-9073517/Roxette-drummer-Pelle-Allsing-dies-aged-60.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/19/37078148-0-image-m-12_1608493574702.jpg)
-    
-    **The one lesson I've learned from life: Strictly's Aljaz Skorjanec says the shortcut is the longest way**](http://www.dailymail.co.uk/femail/article-9073241/Strictlys-Aljaz-Skorjanec-says-shortcut-longest-way.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37082746-0-image-m-8_1608503530411.jpg)
-    
-    **Terri Irwin ditches khaki look to stock up on last-minute supplies for Christmas - as the VERY relatable items in her trolley are revealed**](http://www.dailymail.co.uk/tvshowbiz/article-9073623/Terri-Irwin-ditches-khaki-look-stock-minute-supplies-Christmas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/11/37066800-0-image-m-45_1608462960354.jpg)
-    
-    **'He looks good!' Tess Daly gushes over husband Vernon Kay's buff body and reveals he's been pumping iron since March... after he wowed I'm A Celeb fans**](http://www.dailymail.co.uk/tvshowbiz/article-9072401/Strictlys-Tess-Daly-gushes-husband-Vernon-Kays-buff-body-stint-Im-Celebrity.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/21/37081144-0-image-m-46_1608501068890.jpg)
-    
-    **Denise Richards rocks a glittery face mask as she jets out of LAX with her three daughters ahead of the holidays**](http://www.dailymail.co.uk/tvshowbiz/article-9073425/Denise-Richards-jets-LAX-three-daughters-ahead-holidays.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/19/37077866-0-image-a-56_1608493573651.jpg)
-    
-    **Big Brother's Isabelle Warburton debuts her baby bump in a skin-tight dress while shopping with beau Mike Chung in Warrington**](http://www.dailymail.co.uk/tvshowbiz/article-9073245/Big-Brothers-Isabelle-Warburton-looks-radiant-reveals-baby-bump-Warrington.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/19/37077790-0-image-m-23_1608492422060.jpg)
-    
-    **Ryan Reynolds says his kids 'won't see their grandparents this year' as he salutes responsible families for canceling holiday gatherings**](http://www.dailymail.co.uk/tvshowbiz/article-9073249/Ryan-Reynolds-says-kids-wont-grandparents-year-amid-pandemic.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37078870-0-image-m-25_1608495292816.jpg)
-    
-    **Geri Horner delivers Christmas presents to NHS workers on the Covid frontline in emotional Rainbow Woman episode**](http://www.dailymail.co.uk/tvshowbiz/article-9073319/Geri-Horner-delivers-Christmas-presents-NHS-workers-Covid-frontline-Rainbow-Woman.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/18/37077048-0-image-a-27_1608490345323.jpg)
-    
-    **Gemma Collins reveals she's felt lonely in lockdown as she admits it has been 'tough' not having distractions amid her break up from James Argent**](http://www.dailymail.co.uk/tvshowbiz/article-9073151/Gemma-Collins-reveals-shes-felt-lonely-lockdown-amid-break-James-Argent.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/21/00/37086290-0-image-a-47_1608510469694.jpg)
-    
-    **Delta Goodrem shares her non-traditional pavlova recipe (including chocolate, mint and a store-bought base) after quitting The Voice**](http://www.dailymail.co.uk/tvshowbiz/article-9073925/Delta-Goodrem-shares-non-traditional-pavlova-recipe-including-mint-chocolate.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/12/37068274-0-image-a-17_1608468624426.jpg)
-    
-    **'She passed away in my arms': Hollyoaks star Richard Blackwood grieves the death of his mother following her third cancer battle**](http://www.dailymail.co.uk/tvshowbiz/article-9072611/Hollyoaks-star-Richard-Blackwood-grieves-late-mother-passed-away-arms.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/22/37083358-0-image-a-43_1608504536469.jpg)
-    
-    **Nobby Stiles' dementia WAS caused by heading - with England and Manchester United legend's family 'angered and vindicated' after being informed**](http://www.dailymail.co.uk/sport/sportsnews/article-9073385/Nobby-Stiles-dementia-caused-heading-says-leading-doctor.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37075536-0-image-a-10_1608486886270.jpg)
-    
-    **Liam Gallagher fumes as he's asked to do two festivals in Wuhan but can't see his 'mam for Xmas' amid UK's Tier 4 rules... as he makes cheeky comment about T4**](http://www.dailymail.co.uk/tvshowbiz/article-9073065/Liam-Gallagher-fumes-hes-asked-two-festivals-Wuhan-mam-Xmas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/18/37075936-0-image-m-79_1608487563175.jpg)
-    
-    **Demi Lovato reveals 'the best part of being single' after calling off two-month engagement to Max Ehrich**](http://www.dailymail.co.uk/tvshowbiz/article-9073027/Demi-Lovato-reveals-best-single-ending-two-month-engagement-Max-Ehrich.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37074828-0-image-a-242_1608484484889.jpg)
-    
-    **Strictly's Jamie Laing appears to 'breach Covid rules' as a masseuse visits his London home... as he reunites with girlfriend Sophie Habboo**](http://www.dailymail.co.uk/tvshowbiz/article-9072809/Strictlys-Jamie-Laing-smile-face-reuniting-girlfriend.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37072528-0-image-m-12_1608480285997.jpg)
-    
-    **Charlotte McKinney puts on a busty display in a white bikini top as she enjoys a sunny day at the beach in Miami with her boyfriend**](http://www.dailymail.co.uk/tvshowbiz/article-9072859/Charlotte-McKinney-puts-busty-display-bikini-enjoys-day-beach-Miami.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37075788-0-image-a-48_1608486904624.jpg)
-    
-    **Ellen DeGeneres finishes COVID-19 quarantine and is spotted out shopping in California**](http://www.dailymail.co.uk/news/article-9073017/Ellen-DeGeneres-finishes-COVID-19-quarantine.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/15/37071806-0-image-m-15_1608478482703.jpg)
-    
-    **Feeling Claus-traphobic? Amanda Holden and Michelle Keegan lead a host of house-bound stars putting up dazzling door decorations**](http://www.dailymail.co.uk/tvshowbiz/article-9072799/Amanda-Holden-Michelle-Keegan-lead-host-stars-dazzling-Christmas-door-decorations.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/20/37079578-0-image-m-12_1608497350183.jpg)
-    
-    **Eric Bana cuts a casual figure as he enjoys a day out at Sydney's Balmoral Beach with family during the Christmas break** .](http://www.dailymail.co.uk/tvshowbiz/article-9073365/Eric-Bana-cuts-casual-figure-Sydneys-Balmoral-Beach-family.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/18/37076474-0-image-m-3_1608488427477.jpg)
-    
-    **Myleene Klass cuts a chic figure in a scarlet sweater and cream flares as she steps out at Smooth Radio in London amid new Tier 4 restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9073113/Myleene-Klass-cuts-chic-figure-scarlet-sweater-cream-flares.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37072620-0-image-a-70_1608480611405.jpg)
-    
-    **Maisie Smith cuts a casual figure in taupe shorts and a padded jacket to take the rubbish out as she returns to normality following Strictly**](http://www.dailymail.co.uk/tvshowbiz/article-9072887/Strictlys-Maisie-Smith-cuts-casual-figure-shorts-padded-jacket-bins-out.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37075264-0-image-a-51_1608486275114.jpg)
-    
-    **Meghan and Harry reveal that the first donation from their Archewell foundation will be to World Kitchen - run by Chef Jose Andres**](http://www.dailymail.co.uk/news/article-9073005/Meghan-Harry-announce-donation-Archewell-Chef-Jose-Andress-foundation.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/18/37076122-0-image-m-46_1608487590364.jpg)
-    
-    **Montana Yao hits Miami playground with son Makai... as her ex Malik Beasley's mistress Larsa Pippen posts: 'Sometimes you meet a person and you just click'**](http://www.dailymail.co.uk/tvshowbiz/article-9073063/Montana-Yao-hits-playground-son-Makai-Miami-Beach.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/14/37070336-0-image-m-15_1608474505458.jpg)
-    
-    **Katie Waissel proudly flaunts her amazing physique in tiny turquoise bikini as she films clips for her bootcamp website in sunny Rhodes**](http://www.dailymail.co.uk/tvshowbiz/article-9072725/Katie-Waissel-proudly-flaunts-amazing-physique-tiny-turquoise-bikini.html) 
-
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/11/37067090-0-image-a-18_1608463997064.jpg)
-    
-    **Millie Mackintosh humorously completes her household chores in a show-stopper red tulle gown**](http://www.dailymail.co.uk/tvshowbiz/article-9072463/Millie-Mackintosh-humorously-completes-household-chores-stopper-red-tulle-gown.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/09/37065240-0-image-a-23_1608458065489.jpg)
-    
-    **Strictly judge Craig Revel Horwood appears in a chipper mood as he leaves the studios with his WINE GLASS in tow following the final**](http://www.dailymail.co.uk/tvshowbiz/article-9072387/Strictly-judge-Craig-Revel-Horwood-leaves-studios-WINE-GLASS-tow-final.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/09/37065166-0-image-a-61_1608457557097.jpg)
-    
-    **Amber Gill books a last-minute getaway to Dubai after London introduces Tier 4 lockdown restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9072369/Amber-Gill-books-minute-getaway-Dubai-London-introduces-Tier-4-lockdown.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/10/37065918-0-image-a-8_1608460003890.jpg)
-    
-    **Prince Harry and Prince William have exchanged presents in signs of a Christmas 'truce', a royal biographer claims**](http://www.dailymail.co.uk/femail/article-9072405/Prince-Harry-Prince-William-reportedly-exchanged-gifts-Christmas-truce.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37075134-0-image-m-87_1608485430067.jpg)
-    
-    **Jacqueline Jossa and her husband Dan Osborne take turns hand-feeding slabs of meat to a massive LION as they enjoy daring day out at the zoo**](http://www.dailymail.co.uk/tvshowbiz/article-9072999/Jacqueline-Jossa-husband-Dan-Osborne-hand-feed-LION-zoo.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37073834-0-image-m-70_1608482864419.jpg)
-    
-    **Dua Lipa embraces high fashion as she graces the Saturday Night Live stage in eye-catching gowns (and a VERY big hat!) for musical performances**](http://www.dailymail.co.uk/tvshowbiz/article-9072917/Dua-Lipa-goes-high-fashion-glamorous-gowns-Saturday-Night-Live-performances.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/12/37068248-0-image-m-54_1608468484174.jpg)
-    
-    **Chloe Ferry showcases her curves as she dresses in a skimpy bra to take her dogs for a walk... after revealing she's put on half a stone**](http://www.dailymail.co.uk/tvshowbiz/article-9072609/Chloe-Ferry-dresses-skimpy-bra-dog-walk.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37072894-0-image-a-229_1608482749438.jpg)
-    
-    **Strictly's Nicola Adams and Katya Jones return to flat together after 'partying till midnight' following show final... as BBC bosses insist duo have broke 'no rules'**](http://www.dailymail.co.uk/tvshowbiz/article-9072909/Nicola-Adams-Katya-Jones-leave-apartment-reuniting-Strictly-performance.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37074200-0-image-a-84_1608483517705.jpg)
-    
-    **King Carl Gustaf and Queen Silvia of Sweden send a festive greeting from Drottningholm Castle days after it was announced their son is expecting his third child**](http://www.dailymail.co.uk/femail/article-9072949/King-Carl-XVI-Gustaf-Queen-Silvia-Sweden-share-festive-greeting.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/20/37048550-0-image-a-17_1608410025400.jpg)
-    
-    **Anna Friel reveals lockdown killed her four-year relationship within the first two weeks and she spent the rest of the time with her daughter**](http://www.dailymail.co.uk/tvshowbiz/article-9071115/Actress-Anna-Friel-reveals-lockdown-killed-four-year-relationship.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/11/37067414-0-image-m-74_1608464913948.jpg)
-    
-    **Simon Cowell, 61, is now walking FIVE MILES a day on his continued road to recovery... four months after breaking his back in electric bike accident**](http://www.dailymail.co.uk/tvshowbiz/article-9072455/Simon-Cowell-61-walking-FIVE-MILES-day-breaking-electric-bike-accident.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/13/37068570-0-image-m-100_1608469674530.jpg)
-    
-    **'It was a massive distraction': Strictly's Maisie Smith, 19, hoped to win show to boost her family's morale after dad Stephen lost his job**](http://www.dailymail.co.uk/tvshowbiz/article-9072591/Strictlys-Maisie-Smith-joined-boost-familys-morale-dad-Stephen-lost-job.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37073840-0-image-m-48_1608483149059.jpg)
-    
-    **Paulina Gretzky celebrates her 32nd birthday in a barely-there rainbow mini dress on a Bahamas getaway**](http://www.dailymail.co.uk/tvshowbiz/article-9072881/Paulina-Gretzky-celebrates-32nd-birthday-sexy-rainbow-mini-dress-Bahamas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/17/37074432-0-image-m-4_1608484021055.jpg)
-    
-    **Teyana Taylor has talked to Dionne Warwick about playing her on the small screen... after legendary singer declared Taylor her top choice for role**](http://www.dailymail.co.uk/tvshowbiz/article-9072953/Teyana-Taylor-talked-Dionne-Warwick-playing-small-screen-board.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/16/37072086-0-image-m-12_1608480892125.jpg)
-    
-    **Mandy Moore is feeling 'nauseous, exhausted, and weepy' during her third trimester**](http://www.dailymail.co.uk/tvshowbiz/article-9072901/Mandy-Moore-feeling-nauseous-exhausted-weepy-trimester.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/11/37066838-0-image-a-13_1608463039212.jpg)
-    
-    **Jonathan Ross jokes about having '30 people' over for Christmas in cheeky jibe at Masked Singer co-star Rita Ora who was slammed for breaking COVID rules**](http://www.dailymail.co.uk/tvshowbiz/article-9072507/Jonathan-Ross-jokes-having-30-people-Christmas-Rita-Ora-breaks-lockdown-rules.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/21/37050468-0-image-a-263_1608413919075.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Bill Bailey, 55, becomes the show's oldest EVER winner as he and double champion Oti Mabuse lift the Glitterball Trophy**](http://www.dailymail.co.uk/tvshowbiz/strictly_come_dancing/article-9070907/Strictly-Come-Dancing-2020-Bill-Bailey-Maisie-Smith-HRVY-Jamie-Laing-compete-grand-final.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/22/37051460-0-image-a-4_1608416595597.jpg)
-    
-    **Jesy Nelson shares first picture since announcing she is leaving Little Mix... as it emerges she had '50 injections' so she was able to perform**](http://www.dailymail.co.uk/tvshowbiz/article-9071415/Jesy-Nelson-shares-picture-leaving-Little-Mix-emerges-50-injections-perform.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/08/37063628-0-image-a-5_1608452689455.jpg)
-    
-    **Celebrity fans 'left disappointed' after 'workout' with Mark Wahlberg at F45 gym lasts 'less than five minutes'**](http://www.dailymail.co.uk/tvshowbiz/article-9072269/Celebrity-fans-disappointed-workout-Mark-Wahlberg-F45-gym-lasts-five-minutes.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/10/37066044-0-image-m-30_1608460383388.jpg)
-    
-    **'I wonder if I'll ever get back to Ireland': Vogue Williams is winter chic in leopard print coat after sharing her heartbreak at new COVID restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9072441/Vogue-Williams-winter-chic-leopard-print-coat-Heart-FM-breakfast-show.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/08/37064098-0-image-a-29_1608454228375.jpg)
-    
-    **'I'm going to start dressing like a nun in the New Year': Megan Barton Hanson vows to make drastic changes on her quest to find love**](http://www.dailymail.co.uk/tvshowbiz/article-9072285/Megan-Barton-Hanson-vows-dress-like-nun-quest-love.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/12/37067914-0-image-a-6_1608467115279.jpg)
-    
-    **Rebel Wilson looks chic in a $1680 Louis Vuitton scarf as she attends the snow polo in Aspen with boyfriend Jacob Busch**](http://www.dailymail.co.uk/tvshowbiz/article-9072421/Rebel-Wilson-shows-insane-scarf-spends-time-boyfriend.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/15/37071484-0-image-a-58_1608477069386.jpg)
-    
-    **Strictly Come Dancing rakes in 13MILLION viewers during Saturday's final to become the most-watched none-news TV show of 2020**](http://www.dailymail.co.uk/tvshowbiz/article-9072787/Strictly-Come-Dancing-rakes-13MILLION-viewers-Saturday-nights-final.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37056084-0-image-a-86_1608428173973.jpg)
-    
-    **Strictly champion Bill Bailey proudly flaunts his Glitterball trophy as he puts on a VERY jubilant display after winning the show with pro Oti Mabuse**](http://www.dailymail.co.uk/tvshowbiz/article-9071843/Strictly-champion-Bill-Bailey-proudly-flaunts-Glitterball-trophy-winning-pro-Oti-Mabuse.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053446-0-image-m-20_1608422419648.jpg)
-    
-    **Eamonn Holmes and Ruth Langsford 'have been told to keep quiet about This Morning axe to avoid losing more work'**](http://www.dailymail.co.uk/tvshowbiz/article-9071623/Eamonn-Holmes-Ruth-Langsford-told-quiet-Morning-axe.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/09/37064756-0-image-m-51_1608456404672.jpg)
-    
-    **Kylie Jenner has Balenciaga store closed down for private shopping spree... before her car is BLOCKED by army of fur protesters on Rodeo Drive**](http://www.dailymail.co.uk/tvshowbiz/article-9071919/Kylie-Jenner-bundles-Balenciaga-closed-private-shopping-spree-Rodeo-Drive.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/13/37069158-0-image-a-13_1608471661032.jpg)
-    
-    **It's paw-manent! Grey's Anatomy actress Kate Walsh officially moves to Perth full-time as her beloved pets Rosie and Pablo arrive from New York**](http://www.dailymail.co.uk/tvshowbiz/article-9072567/Kate-Walsh-moves-Perth-permanently-pets-Rosie-Pablo-arrive-New-York.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/19/37047592-0-image-m-23_1608406432503.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Jamie Laing is left in hysterics as his sister cheekily asks him to give Giovanni Pernice her NUMBER on-air**](http://www.dailymail.co.uk/tvshowbiz/article-9071069/Strictly-Come-Dancing-2020-FINAL-Jamie-Laings-sister-asks-Giovanni-Pernices-NUMBER.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/09/37064758-0-image-m-46_1608456307413.jpg)
-    
-    **Kevin Clifton 'in talks with Strictly bosses over possible RETURN as his theatre earnings suffer amid the coronavirus pandemic'**](http://www.dailymail.co.uk/tvshowbiz/article-9072323/Kevin-Clifton-talks-bosses-Strictly-RETURN-earnings-suffer-amid-pandemic.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/13/37069412-0-image-a-2_1608472380141.jpg)
-    
-    **Pregnant Bindi Irwin reveals her baby girl is 'karate chopping' as she enjoys lunch with cuddles up to husband Chandler Powell and brother Robert**](http://www.dailymail.co.uk/tvshowbiz/article-9072649/Pregnant-Bindi-Irwin-reveals-baby-girl-karate-chopping-enjoys-lunch.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37055914-0-image-m-119_1608427770783.jpg)
-    
-    **'It's my choice what I show': Laura Whitmore hits back at trolls after they criticise pregnant star for sharing radiant snap of her baby bump**](http://www.dailymail.co.uk/tvshowbiz/article-9071827/Pregnant-Laura-Whitmore-hits-trolls-Instagram-snap.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/21/37049634-0-image-m-14_1608412124028.jpg)
-    
-    **Gigi Hadid sports a heavy knit winter coat and matching Louis Vuitton hat as she strolls with her baby daughter and a friend in Noho**](http://www.dailymail.co.uk/tvshowbiz/article-9071187/Gigi-Hadid-models-heavy-knit-tan-trench-style-winter-coat-matching-Louis-Vuitton-hat-Noho.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/07/37061754-0-image-m-80_1608447852948.jpg)
-    
-    **Kim Kardashian conceals her curves beneath an oversized tee and a pair of boxers from her recently released SKIMS unisex collection**](http://www.dailymail.co.uk/tvshowbiz/article-9072199/Kim-Kardashian-models-oversized-tee-pair-boxers-SKIMS-unisex-collection.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/19/37047378-0-image-m-62_1608405430605.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: 'Time to forget about life for the next few hours!' Viewers praise the show for 'saving the day' after the announcement of 'glum' Tier 4 rules**](http://www.dailymail.co.uk/tvshowbiz/article-9070941/Strictly-2020-FINAL-Fans-praise-saving-day-Tier-4-announcement.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/10/37065538-0-image-a-1_1608459616039.jpg)
-    
-    **'It's needed more than ever:' Duchess of Cornwall pens heartfelt Christmas message urging the nation to pick up the phone and check in on lonely relatives**](http://www.dailymail.co.uk/femail/article-9072325/Duchess-Cornwall-pens-Christmas-message-help-tackle-loneliness.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37056362-0-image-m-68_1608428806335.jpg)
-    
-    **Dr Alex George will spend his first Christmas without late brother Llr ALONE as a result of Tier 4... and reveals he will work at the hospital during the festivities**](http://www.dailymail.co.uk/tvshowbiz/article-9071867/Dr-Alex-George-spend-Christmas-without-late-brother-Ll-r-result-Tier-4.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/12/37040592-0-image-a-70_1608382558372.jpg)
-    
-    **'We're getting on with our lives': Eamonn Holmes thanks fans for 'overwhelming' support after This Morning axe in emotional video... amid claims he was 'sick of office politics'**](http://www.dailymail.co.uk/tvshowbiz/article-9070419/Eamonn-Holmes-bids-final-farewell-Morning-viewers-thanks-fans-axe.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/02/37057414-0-image-m-28_1608432308035.jpg)
-    
-    **Alicia Silverstone's son Bear, 9, is 'such an example of health' and has NEVER needed 'medical intervention' as actress touts benefits of a plant-based diet**](http://www.dailymail.co.uk/tvshowbiz/article-9071945/Alicia-Silverstones-son-Bear-9-NEVER-needed-medical-intervention-antibiotics.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37056586-0-image-m-105_1608429597651.jpg)
-    
-    **Love Island's Lucie Donlan wows in a collection of tiny bikinis as she packs of the PDA with boyfriend Luke Mabbott during their Maldives trip**](http://www.dailymail.co.uk/tvshowbiz/article-9071875/Love-Islands-Lucie-Donlan-Luke-Mabbott-pack-PDA-Maldives-trip.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37053496-0-image-m-80_1608422350004.jpg)
-    
-    **Kate Garraway says she 'hopes to form a bubble' with husband Derek Draper so she can see him on Christmas Day amid his Covid battle**](http://www.dailymail.co.uk/tvshowbiz/article-9071597/Kate-Garraway-hopes-form-bubble-husband-Derek-Draper-Christmas-Day.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/02/37056504-0-image-m-83_1608429849996.jpg)
-    
-    **Olivia Wilde executes the perfect fringe moment as she goes yee-haw chic in white stetson to pick up the kids at ex Jason Sudeikis' house in LA**](http://www.dailymail.co.uk/tvshowbiz/article-9071849/Olivia-Wilde-executes-perfect-fringe-moment-pick-kids-ex-Jason-Sudeikis-house-LA.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/20/37048608-0-image-m-76_1608411549212.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Nicola Adams and Katya Jones make a grand return as they perform a sizzling dance routine**](http://www.dailymail.co.uk/tvshowbiz/article-9071203/Strictly-Come-Dancing-2020-FINAL-Nicola-Adams-Katya-Jones-return-forced-pull-out.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/11/37067170-0-image-a-27_1608465072838.jpg)
-    
-    **Claims Hugh Jackman gave away $1.2million to R.M. Williams staff members for Christmas - gifting each worker $1300 a piece**](http://www.dailymail.co.uk/tvshowbiz/article-9072523/Hugh-Jackman-gives-away-1-2-million-R-M-Williams-staff-Christmas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/20/37048346-0-image-a-127_1608409500610.jpg)
-    
-    **Tom Parker reveals he's got bad short term memory loss after treatment for his brain tumour... as he shares snaps with newborn son Bodhi**](http://www.dailymail.co.uk/tvshowbiz/article-9071153/The-Wanteds-Tom-Parker-reveals-hes-suffering-short-term-memory-loss-amid-brain-tumour-battle.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/21/37049544-0-image-m-53_1608411932666.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: 'You've uplifted the nation!' Camilla makes video cameo to praise the BBC show for 'lifting the country's spirits'**](http://www.dailymail.co.uk/tvshowbiz/article-9071243/Strictly-Come-Dancing-2020-FINAL-Camilla-makes-video-cameo-praise-BBC-show.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052842-0-image-a-6_1608420159660.jpg)
-    
-    **Melanie Sykes, 50, 'moves on from her Italian toyboy Riccardo Simionato, 23, as she enjoys a cosy outing with tattooed model Jake Smith, 39'**](http://www.dailymail.co.uk/tvshowbiz/article-9071551/Melanie-Sykes-moves-Italian-toyboy-enjoys-cosy-outing-model-Jake-Smith.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37055678-0-image-m-11_1608427907110.jpg)
-    
-    **Ed Sheeran sends fans wild as he hints he's returning to music 'very soon' following his 'extended break' from the industry**](http://www.dailymail.co.uk/tvshowbiz/article-9071815/Ed-Sheeran-hints-hes-returning-music-soon-following-extended-break.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/06/37061290-0-image-a-18_1608444379060.jpg)
-    
-    **Emma Roberts covers up her baby bump in baggy sweatshirt during an errand run in LA... as she awaits birth of her first child**](http://www.dailymail.co.uk/tvshowbiz/article-9071547/Emma-Roberts-covers-baby-bump-errand-run-awaits-birth-child.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/07/37062580-0-image-m-123_1608448610828.jpg)
-    
-    **Pete Davidson ruins a childhood classic as he gets Grinch-y for Christmas threesome with Cindy Lou Who's parents on final SNL of 2020**](http://www.dailymail.co.uk/tvshowbiz/article-9072175/Pete-Davidson-ruins-classic-gets-Grinch-y-threesome-Cindy-Lou-Whos-parents-SNL.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/07/37062496-0-image-a-6_1608448415906.jpg)
-    
-    **Dance Monkey singer Tones and I charters a luxury yacht as an early Christmas present to her friends - after earning $12million from online streams**](http://www.dailymail.co.uk/tvshowbiz/article-9072225/Dance-Monkey-singer-Tones-charters-luxury-yacht-early-Christmas-present-friends.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/06/37061968-0-image-a-65_1608447026881.jpg)
-    
-    **Jordana Brewster looks stylish in brown suede pants and turtleneck sweater as she gets in some Christmas shopping along Rodeo Drive in LA**](http://www.dailymail.co.uk/tvshowbiz/article-9072187/Jordana-Brewster-dons-brown-suede-pants-turtleneck-Christmas-shopping-Rodeo-Drive.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37056238-0-image-a-41_1608428452124.jpg)
-    
-    **'We will get through this!' Pixie Lott reveals she'll be calling fans on Christmas Day as the nation is divided by COVID-19 tier restrictions**](http://www.dailymail.co.uk/tvshowbiz/article-9071833/Pixie-Lott-reveals-shell-calling-fans-Christmas-Day.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/18/37046682-0-image-m-33_1608402688256.jpg)
-    
-    **'Hubba bubba!' Tess Daly, 51, looks sensational in a dazzling gold sequin midi dress as husband Vernon Kay gushes over her**](http://www.dailymail.co.uk/tvshowbiz/article-9070939/Strictly-Come-Dancing-2020-FINAL-Tess-Daly-51-wows-dazzling-gold-sequinned-dress.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/03/37057178-0-image-m-56_1608436613011.jpg)
-    
-    **Kevin Jonas honors wife Danielle on their 11th wedding anniversary by recreating the moment they met at pay phones**](http://www.dailymail.co.uk/tvshowbiz/article-9071913/Kevin-Jonas-celebrates-11th-wedding-anniversary-recreating-moment-met-wife-pay-phones.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/04/37059940-0-image-m-17_1608440040940.jpg)
-    
-    **Oprah Winfrey proudly presents the Citizen Of The Year prize and Gwen Stefani performs her latest single during the Global Citizen Prize ceremony on NBC**](http://www.dailymail.co.uk/tvshowbiz/article-9072087/Oprah-Winfrey-presents-Gwen-Stefani-performs-Global-Citizen-Prize.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/04/37059664-0-image-m-113_1608439903150.jpg)
-    
-    **Heather Graham says 'sometimes I sing to my food' as she gets candid about sober living and her only true vice: 'I am constantly thinking about food'**](http://www.dailymail.co.uk/tvshowbiz/article-9072069/Heather-Graham-says-sing-food-opens-sobriety-vice.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/21/37050638-0-image-m-67_1608414412133.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Judge Motsi Mabuse is left in TEARS after her double champion sister Oti wins the show with Bill Bailey**](http://www.dailymail.co.uk/tvshowbiz/article-9071309/Strictly-2020-FINAL-Judge-Motsi-Mabuse-left-TEARS-sister-Oti-wins-Bill-Bailey.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/04/37058902-0-image-a-147_1608436978845.jpg)
-    
-    **Melissa McCarthy makes a bold statement as she steps out in Byron Bay wearing a face mask that says 'people are worth saving'**](http://www.dailymail.co.uk/tvshowbiz/article-9071975/Melissa-McCarthy-steps-Byron-Bay-wearing-face-mask-says-people-worth-saving.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37055366-0-image-m-4_1608426358234.jpg)
-    
-    **Miley Cyrus writes 'let's have a three way' on video of Shawn Mendes and Camila Cabello singing her 2009 hit The Climb... as bottom-flashing pop star insists she meant a 'three part harmony'**](http://www.dailymail.co.uk/tvshowbiz/article-9071745/Miley-Cyrus-suggests-three-way-watching-Shawn-Mendes-Camila-Cabello-cover-Climb.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/02/37057600-0-image-m-83_1608433178629.jpg)
-    
-    **Lindsey Vonn poses in a bright red maxi dress during a break in filming as a cohost of the 2020 Sports Illustrated Awards**](http://www.dailymail.co.uk/tvshowbiz/article-9071891/Lindsey-Vonn-poses-red-dress-break-filming-2020-Sports-Illustrated-Awards.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/08/37063304-0-image-m-24_1608451653324.jpg)
-    
-    **Erika Jayne may be forced to stop selling pieces from her wardrobe while estranged husband Tom Girardi's assets are frozen**](http://www.dailymail.co.uk/tvshowbiz/article-9072259/Erika-Jayne-forced-stop-selling-wardrobe-Tom-Girardis-assets-frozen.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/17/23/36986766-0-image-a-29_1608247703426.jpg)
-    
-    **Inside Zac Efron's $7,200-a-night beach house featuring an infinity pool, incredible views and a private sundeck**](http://www.dailymail.co.uk/tvshowbiz/article-9065671/Inside-Zac-Efrons-7190-night-Hamilton-Island-beach-house.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37055256-0-image-a-35_1608426805000.jpg)
-    
-    **Rebel Wilson and her boyfriend Jacob Busch can't keep their hands off each other at VIP Snow Polo event in Aspen**](http://www.dailymail.co.uk/tvshowbiz/article-9071615/Rebel-Wilson-boyfriend-Jacob-Busch-hands-Aspen.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/02/37056624-0-image-a-19_1608429647124.jpg)
-    
-    **Amanda Kloots prepares for first Christmas without late husband Nick Cordero by reflecting on the one holiday season they spent together with son**](http://www.dailymail.co.uk/tvshowbiz/article-9071873/Amanda-Kloots-prepares-Christmas-without-late-husband-Nick-Cordero.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/03/37057814-0-image-a-37_1608434777350.jpg)
-    
-    **The 'random' moment actor Liam Hemsworth caught a Gold Coast delivery man by surprise**](http://www.dailymail.co.uk/tvshowbiz/article-9071947/The-astonishing-moment-Gold-Coast-delivery-man-realises-customer-Liam-Hemsworth.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/13/37041060-0-image-m-24_1608384665724.jpg)
-    
-    **Katie Price 'risks Christmas without her five children as she prepares to take Covid-19 test after emergency dash to Turkey to fix her teeth'**](http://www.dailymail.co.uk/tvshowbiz/article-9070397/Katie-Prices-Christmas-kids-jeopardy-prepares-Covid-test-Turkey-trip.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/20/37048502-0-image-m-56_1608411496412.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Janette Manrara cries over HRVY's sweet speech as the pro marks her first-ever finale**](http://www.dailymail.co.uk/tvshowbiz/article-9071195/Strictly-Come-Dancing-2020-FINAL-Janette-Manrara-cries-HRVYs-sweet-speech.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/19/37047880-0-image-m-2_1608407492981.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Elizabeth Hurley, 55, puts on a VERY busty display in a sequin dress as she makes surprise cameo on the show**](http://www.dailymail.co.uk/tvshowbiz/article-9071097/Strictly-2020-FINAL-Elizabeth-Hurley-wows-sequin-dress-makes-surprise-cameo-show.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052478-0-image-a-19_1608418947717.jpg)
-    
-    **Nicole Kidman is quarantining again at her $6.5million Southern Highlands property after a quick trip to Ireland after wrapping Nine Perfect Strangers in Byron Bay**](http://www.dailymail.co.uk/tvshowbiz/article-9071393/Nicole-Kidman-quarantining-Southern-Highlands-property-flying-Ireland.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052540-0-image-a-12_1608419147321.jpg)
-    
-    **Lily James gets VERY passionate on the phone... but don't worry Mrs West, there's a totally innocent explanation this time**](http://www.dailymail.co.uk/news/article-9071119/Lily-James-gets-passionate-phone-theres-totally-innocent-explanation-time.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/04/37058904-0-image-m-98_1608437229705.jpg)
-    
-    **The Bachelor's Arie Luyendyk and wife Lauren Burnham announce they are expecting their second child after enduring a miscarriage in May**](http://www.dailymail.co.uk/tvshowbiz/article-9072005/Arie-Luyendyk-Lauren-Burnham-announce-theyre-expecting-second-child-miscarriage.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/18/37047078-0-image-a-73_1608404474197.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Claudia Winkleman tears up as she thanks 'brilliant' crew for making 'sacrifices' to keep the show going during the pandemic**](http://www.dailymail.co.uk/tvshowbiz/article-9070971/Strictly-Come-Dancing-2020-FINAL-Claudia-Winkleman-praises-shows-extraordinary-crew.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37054436-0-image-m-35_1608425197783.jpg)
-    
-    **Gemma Collins reveals crush on Paul Hollywood, 54, but suggests Carol Vorderman date him... with the maths whiz, 59, insisting he's 'too old'**](http://www.dailymail.co.uk/tvshowbiz/article-9071725/Gemma-Collins-crush-Paul-Hollywood-suggests-Carol-Vorderman-date-him.html)
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/17/13/36962748-0-image-m-27_1608211786825.jpg)
-    
-    **Are you having trouble sleeping? Hundreds of Amazon shoppers swear by this light-blocking Bluetooth eye mask for a good night's rest** Promoted](http://www.dailymail.co.uk/health/article-9063407/Hundreds-Amazon-shoppers-swear-light-blocking-Bluetooth-eye-mask-good-nights-sleep.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/01/37055364-0-image-a-61_1608426423656.jpg)
-    
-    **Sheila Hancock, 87, 'will be made a Dame in the New Year Honours list for services to drama' after already receiving an OBE and CBE**](http://www.dailymail.co.uk/tvshowbiz/article-9071781/Sheila-Hancock-87-Dame-New-Year-Honours-list.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053814-0-image-a-45_1608423431760.jpg)
-    
-    **Pregnant Paloma Faith reveals she felt 'like the host' during IVF as she candidly recalls the 'emotional rollercoaster' of trying for her second baby**](http://www.dailymail.co.uk/tvshowbiz/article-9071635/Pregnant-Paloma-Faith-reveals-felt-like-host-having-IVF.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37054126-0-image-a-61_1608424130375.jpg)
-    
-    **'Everyone cleaned out their cupboards - this was my equivalent!' Sir Paul McCartney 'didn't realise' he was making an album when he wrote his 18th solo record in lockdown**](http://www.dailymail.co.uk/tvshowbiz/article-9071691/Sir-Paul-McCartney-didnt-realise-making-album-wrote-18th-record-lockdown.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37054818-0-image-m-279_1608425534818.jpg)
-    
-    **Director of TV drama about Anne Boleyn says 'we have the best person for the role' and 'let the critics talk' after casting Jodie Turner-Smith**](http://www.dailymail.co.uk/tvshowbiz/article-9071763/Director-TV-drama-Anne-Boleyn-says-best-person-role.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/18/16/37013736-0-image-a-71_1608307497226.jpg)
-    
-    **This bestselling clay face mask trio from L'Oréal will help keep your skin clear over the Christmas period** Promoted](http://www.dailymail.co.uk/femail/article-9067857/This-bestselling-clay-face-mask-trio-LOr-al-help-skin-clear-Christmas.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052472-0-image-a-23_1608419022742.jpg)
-    
-    **Dua Lipa catches the eye in a bold multi-coloured jumper and baggy jeans as she steps out in New York City**](http://www.dailymail.co.uk/tvshowbiz/article-9071499/Dua-Lipa-catches-eye-bold-jumper-baggy-jeans-steps-New-York-City.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37054682-0-image-a-25_1608425402687.jpg)
-    
-    **Paul Hollywood 'tries to sell two of his beloved motorbikes on eBay for prices reaching £40,000... after ditching his lavish car collection'**](http://www.dailymail.co.uk/tvshowbiz/article-9071731/Paul-Hollywood-tries-sell-two-beloved-motorbikes-eBay-prices-reaching-40-000.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37054504-0-image-m-23_1608424938104.jpg)
-    
-    **Demi Rose commands attention in an animal print dress as she stands on a swing to feed a giraffe during Kenya trip**](http://www.dailymail.co.uk/tvshowbiz/article-9071687/Demi-Rose-stands-swing-feed-giraffe-Kenya-trip.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/17/10/36956628-0-image-m-21_1608201681648.jpg)
-    
-    **From Barbies and Uno to interactive games and plush animals, the best last-minute Christmas toy deals to snap up on Amazon now** Promoted](http://www.dailymail.co.uk/femail/article-9063241/The-best-minute-Christmas-toy-deals-snap-Amazon.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052292-0-image-m-9_1608419795522.jpg)
-    
-    **Lizzo has a dance-off with her blinking Christmas tree lights as she twerks in just a bodysuit... after she responded to critics of her 10-day detox**](http://www.dailymail.co.uk/tvshowbiz/article-9071411/Lizzo-twerks-Christmas-tree-dance-blinking-lights.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053934-0-image-a-265_1608423683827.jpg)
-    
-    **'Waves would hit the window of the house': Actress Kate Winslet says she had to rough it in a storm-blasted cottage in Dorset**](http://www.dailymail.co.uk/tvshowbiz/article-9071571/TALK-TOWN-Actress-Kate-Winslet-says-rough-storm-blasted-cottage-Dorset.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053460-0-image-m-2_1608422558376.jpg)
-    
-    **Jesse Metcalfe fans think his new girlfriend Corin Jamie-Lee Clark resembles Desperate Housewives co-star Eva Longoria**](http://www.dailymail.co.uk/tvshowbiz/article-9071539/Jesse-Metcalfe-fans-think-girlfriend-Corin-Clark-resembles-Desperate-Housewives-star-Eva-Longoria.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/23/37052640-0-image-m-41_1608419437091.jpg)
-    
-    **Riverdale's Casey Cott announces he's engaged as he shares cute photo of the bride-to-be flashing her diamond ring**](http://www.dailymail.co.uk/tvshowbiz/article-9071505/Riverdales-Casey-Cott-announces-hes-engaged-shares-cute-photo-bride-be.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053670-0-image-a-18_1608422904015.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Bruno Tonioli vows to be 'back in the ballroom next year' as he makes surprise appearance from LA**](http://www.dailymail.co.uk/tvshowbiz/article-9071625/Strictly-2020-FINAL-Bruno-Tonioli-vows-ballroom-year-makes-cameo.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/21/37050258-0-image-m-52_1608414224381.jpg)
-    
-    **Strictly Come Dancing 2020 FINAL: Viewers are left emotional as contestants return for a socially-distanced group routine**](http://www.dailymail.co.uk/tvshowbiz/article-9071315/Strictly-2020-FINAL-Viewers-left-emotional-contestants-return-group-routine.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/20/00/37053734-0-image-m-52_1608423011118.jpg)
-    
-    **Katherine Heigl plays the mother of a schizophrenic teen in the first trailer for creepy new horror mystery film Fear Of Rain**](http://www.dailymail.co.uk/tvshowbiz/article-9071611/Katherine-Heigl-plays-mother-schizophrenic-teen-creepy-new-horror-film-Fear-Rain.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/22/37051764-0-image-a-6_1608417082581.jpg)
-    
-    **Penny Lancaster reveals why she would rather be patrolling the streets as a police officer than walking the red carpet with husband Sir Rod Stewart**](http://www.dailymail.co.uk/news/article-9071295/Penny-Lancaster-reveals-police-officer-walking-red-carpet.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/19/37047692-0-image-a-102_1608407048211.jpg)
-    
-    **Christine McGuinness sets pulses racing as she flaunts her VERY ample cleavage in a lacy red bra and suspenders for sizzling lingerie snaps**](http://www.dailymail.co.uk/tvshowbiz/article-9071063/Christine-McGuinness-flaunts-ample-cleavage-lacy-lingerie.html) 
-*   [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![](https://i.dailymail.co.uk/1s/2020/12/19/09/37037836-0-image-a-7_1608370834709.jpg)
-    
-    **'If you're worried about the price, you can't f\*\*\*ing afford it': Gordon Ramsay hits back at critics of his £19 full English**](http://www.dailymail.co.uk/tvshowbiz/article-9070155/Gordon-Ramsay-hits-fans-blasted-19-English-fry-up.html) 
 
 DM.later(\['bundle', 'DOM\_READY'\], function() { DM.molFeRemovePuffWhitespace.init(); });
 
@@ -1991,7 +1907,7 @@ DM.later(\['bundle', 'DOM\_READY'\], function() { DM.molFeRemovePuffWhitespace.i
 
 [more](http://pubads.g.doubleclick.net/gampad/clk?id=75624752&iu=/5765/dailymail.uk)
 
-// window.articleShortUrl = "https://mol.im/a/7759273"; DM.molFeComponents.setConfig('molFeSocialShareOverlay', { articleShortUrl: "https://mol.im/a/7759273" }); DM.molFeComponents.setConfig('molFePrevNextNavigation', {"prevArticle":null,"nextArticle":{"headline":"Congress FINALLY agrees on $900B COVID relief package that will send $600 to Americans - half of what they got in April - and the money could arrive in bank accounts 'in the first week of January'","url":"/news/article-9072745/Chuck-Schumer-predicts-Sunday-vote-House-Senate-900-billion-coronavirus-relief-package.html","imageUrl":"https://i.dailymail.co.uk/1s/2020/12/20/23/37084018-0-image-a-11\_1608507837795.jpg"},"forceOnTopOfAds":true}); trac.record().post(); DM.Nielsen60.init();
+// window.articleShortUrl = "https://mol.im/a/7759273"; DM.molFeComponents.setConfig('molFeSocialShareOverlay', { articleShortUrl: "https://mol.im/a/7759273" }); DM.molFeComponents.setConfig('molFePrevNextNavigation', {"prevArticle":null,"nextArticle":{"headline":"Mutant super-infectious English variant of coronavirus that is feared to spread more easily among children 'is probably already in the US and could even have started in America'","url":"/news/article-9078351/Mutant-British-variant-coronavirus-probably-US.html","imageUrl":"https://i.dailymail.co.uk/1s/2020/12/22/09/37139936-0-image-a-8\_1608629391472.jpg"},"forceOnTopOfAds":true}); trac.record().post(); DM.Nielsen60.init();
 
 ![](//secure-au.imrworldwide.com/cgi-bin/m?ci=us-910471&cg=0&cc=1&ts=noscript)
 
@@ -2003,7 +1919,7 @@ DM.later(\['bundle', 'DOM\_READY'\], function(){ if (window.ArticlePage) { new A
 
 Share
 
-DM.later('bundle', function() { DM.molFeFloatingButtons.init({ newArticleRefresh: '1200', showArticleCount: 'true', featureEnabled: 'true', newArticleCount: '4899446' }) });
+DM.later('bundle', function() { DM.molFeFloatingButtons.init({ newArticleRefresh: '1200', showArticleCount: 'true', featureEnabled: 'true', newArticleCount: '4901222' }) });
 
 *   [Back to top](#top)
 

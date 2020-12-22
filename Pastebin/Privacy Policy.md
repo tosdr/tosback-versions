@@ -166,39 +166,41 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [temp.cpp](https://pastebin.com/TUNguFA4)
+*   [Exemplo de Json com Multiplas totalizações](https://pastebin.com/8TLVnPf8)
     
-    C++ | 43 min ago
+    JSON | 1 min ago
     
-*   [Пример генерации и перехвата исключительных ситуаций](https://pastebin.com/Pa5pU3MN)
+*   [7\_26\_lab.cpp](https://pastebin.com/uiyaKvc2)
     
-    C++ | 48 min ago
+    C++ | 4 min ago
     
-*   [Pagination by creation](https://pastebin.com/Ta38zDme)
+*   [diskretka\_1.1](https://pastebin.com/At7PCyUT)
     
-    Bash | 57 min ago
+    C++ | 12 min ago
     
-*   [info profile php HABBO-HAPPY](https://pastebin.com/BJDMyziT)
+*   [CTE Postgres](https://pastebin.com/1awS9728)
     
-    PHP | 1 hour ago
+    PostgreSQL | 23 min ago
     
-*   [استخرج الصور المخزنة في PDF بصيغة JPG أو PNG أو TIFF](https://pastebin.com/y4PGuXf5)
+*   [Untitled](https://pastebin.com/Du9J72pi)
     
-    PHP | 1 hour ago
+    Java | 36 min ago
     
-*   [Untitled](https://pastebin.com/bwjQFK1X)
+*   [Untitled](https://pastebin.com/MDVZLQ5S)
     
-    Python | 1 hour ago
+    Java | 57 min ago
     
-*   [Untitled](https://pastebin.com/DT1b2uU5)
+*   [Untitled](https://pastebin.com/D0pNe6mv)
     
-    C# | 1 hour ago
+    Java | 58 min ago
     
-*   [\[CC\] VR](https://pastebin.com/wzLy0g1a)
+*   [Untitled](https://pastebin.com/DMEKE7uU)
     
-    Lua | 1 hour ago
+    XML | 58 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

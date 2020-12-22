@@ -80,7 +80,7 @@ All public content on this site is published under the Creative Commons Share Al
 * * *
 
 All work licensed under **CC BY-SA 4.0** unless otherwise stated.  
-[Disclaimer](https://kevq.uk/disclaimer) | [License Info](https://kevq.uk/license-information) | [Privacy](https://kevq.uk/privacy) | [Coffee?](https://kevq.uk/buy-me-a-coffee)
+[Disclaimer](https://kevq.uk/disclaimer) | [License Info](https://kevq.uk/license-information) | [Privacy](https://kevq.uk/privacy) | [Coffee](https://kevq.uk/buy-me-a-coffee)
 
 [![512 Club green team banner](/assets/images/green-team.svg)](https://512kb.club/)
 

@@ -485,7 +485,7 @@ If you have any questions related to Data Subject Access Rights under GDPR, CCPA
     
     1.  **Right to Know About Information Collected, Disclosed or Sold**
         
-        You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please visit [http://dsar.ookla.com](http://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).
+        You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please visit [https://dsar.ookla.com](https://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).
         
         If you have an account with us, we will verify the request by confirming the email address used to make the request is the same as the email address on file for the account.If you do not have an account with us, we will verify the request by sending an email to the email address used to make the request.We may ask for additional information reasonably related to the request to verify the request.
         
@@ -524,11 +524,11 @@ If you have any questions related to Data Subject Access Rights under GDPR, CCPA
         
     4.  **Right to Request Deletion of Personal Information**
         
-        You have the right to request deletion of Personal Information collected or maintained by us.To do so, please submit a request via [http://dsar.ookla.com](http://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).If submitting a request by email, we may ask for additional information to verify your request.
+        You have the right to request deletion of Personal Information collected or maintained by us. To do so, please submit a request via [https://dsar.ookla.com](https://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com). If submitting a request by email, we may ask for additional information to verify your request.
         
     5.  **Right to Opt-Out of the Sale of Personal Information**
         
-        You have the right to opt-out of the sale of Personal Information by a business.To do so, please submit a request via [http://dsar.ookla.com](http://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).If submitting a request by email, we may ask for additional information to verify your request.
+        You have the right to opt-out of the sale of Personal Information by a business. To do so, please submit a request via [https://dsar.ookla.com](https://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com). If submitting a request by email, we may ask for additional information to verify your request.
         
     6.  **Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**
         
@@ -540,7 +540,7 @@ If you have any questions related to Data Subject Access Rights under GDPR, CCPA
         
     8.  **Contact for More Information**
         
-        If you have any questions or concerns about our privacy policies and practices, you may contact us via [http://dsar.ookla.com](http://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).
+        If you have any questions or concerns about our privacy policies and practices, you may contact us via [https://dsar.ookla.com](https://dsar.ookla.com/) or email [privacy@ookla.com](mailto:privacy@ookla.com).
         
     9.  **Date Privacy Policy Last Updated**
         
@@ -552,3 +552,8 @@ If you have any questions related to Data Subject Access Rights under GDPR, CCPA
     We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
     
     **We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
+    
+
+* * *
+
+A Simplified Chinese translation of this Privacy Policy is located [here](https://www.speedtest.net/zh-Hans/about/privacy?lang=zh-Hans). Ookla’s China Supplemental Privacy Policy is located [here](https://www.ookla.com/privacy-supplement-zh-Hans).

@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-*   [The military is scrambling to understand the aviation crash risk from a new 5G sale](http://feedproxy.google.com/~r/defense-news/air/~3/yEiwPTFq0wU/)  
-    12/21/20 05:00am  
-    
-    (Staff Sgt. Ryan Callaghan/U.S. Air Force)
-    
 *   [Year in review: Top stories from 2020](http://feedproxy.google.com/~r/defense-news/air/~3/p0kh_1Hfh_s/)  
     12/21/20 05:00am  
     
     A fire continues to be fought into the evening on board the amphibious assault ship USS Bonhomme Richard (LHD 6) at Naval Base San Diego, July 12, 2020. (MC2 Austin Haist/Navy)
     
+*   [The military is scrambling to understand the aviation crash risk from a new 5G sale](http://feedproxy.google.com/~r/defense-news/air/~3/yEiwPTFq0wU/)  
+    12/21/20 03:45pm  
+    
+    (Staff Sgt. Ryan Callaghan/U.S. Air Force)
+    
 *   [Lockheed Martin buys Aerojet Rocketdyne in $4.4B deal](http://feedproxy.google.com/~r/defense-news/air/~3/U7k39PflFWI/)  
-    12/20/20 07:56pm  
+    12/21/20 11:12am  
     
     LE BOURGET, France: Picture taken 16 June 2005 at Le Bourget Airport during the 46th International Paris Air shows the logo of US group Lockheed Martin. (PIERRE VERDY/AFP/Getty Images)
     
 *   [Here’s why the Valkyrie drone couldn’t translate between F-35 and F-22 jets during a recent test](http://feedproxy.google.com/~r/defense-news/air/~3/mrFp-pDPLU8/)  
-    12/18/20 04:17pm  
+    12/21/20 09:08am  
     
     A U.S. Air Force F-22 Raptor and F-35A Lightning II fly in formation with the XQ-58A Valkyrie drone over Yuma Proving Ground in Arizona during a series of tests Dec. 9, 2020. This integrated test follows a series of gatewayONE ground tests that began during the inaugural Air Force on-ramp in December 2019. (Tech. Sgt. James Cason/U.S. Air Force)
     
 
 Recent parts by keyword  
 
-*   [V5000-472](https://aerobasegroup.com/search/?term=V5000-472)
-*   [1SE2](https://aerobasegroup.com/search/?term=1SE2)
-*   [1HS1](https://aerobasegroup.com/search/?term=1HS1)
-*   [1EN1-6](https://aerobasegroup.com/search/?term=1EN1-6)
-*   [ts201p](https://aerobasegroup.com/search/?term=ts201p)
-*   [M 85731/1-8](https://aerobasegroup.com/search/?term=M+85731%2F1-8)
-*   [BJO-0930](https://aerobasegroup.com/search/?term=BJO-0930)
+*   [FR150](https://aerobasegroup.com/search/?term=FR150)
+*   [NAS6205-58](https://aerobasegroup.com/search/?term=NAS6205-58)
+*   [MIL-L-6806](https://aerobasegroup.com/search/?term=MIL-L-6806)
+*   [BLC12](https://aerobasegroup.com/search/?term=BLC12)
+*   [Bb599](https://aerobasegroup.com/search/?term=Bb599)
+*   [10h120](https://aerobasegroup.com/search/?term=10h120)
+*   [cuta2500103B](https://aerobasegroup.com/search/?term=cuta2500103B)
 
 The AeroBase Group Family ..
 

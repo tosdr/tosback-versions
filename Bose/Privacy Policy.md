@@ -2,13 +2,13 @@ Yo.sequence.node(document.body);
 
 By using this site, you acknowledge we use cookies to enhance your experience. Learn more or change settings [here](https://www.bose.com/en_us/support/cookie_policy.html).  
 
-Order by 11 AM, Dec 20 EST with free 2-day shipping for delivery by Dec 24. In-stock items only.
+Order by 9 PM, Dec 22 EST with Free Express shipping for delivery by Dec 24. In-stock items only.
 
 play\_pause
 
 close banner
 
-Order by 11 AM, Dec 20 EST with free 2-day shipping for delivery by Dec 24. In-stock items only.
+Order by 9 PM, Dec 22 EST with Free Express shipping for delivery by Dec 24. In-stock items only.
 
 [Skip to content](#mainContent "Skip to content") [![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_logo.png) ![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_mobile_logo.png)](https://www.bose.com/en_us/index.html "Bose") 
 
@@ -87,13 +87,19 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     
 *   [Audio sunglasses](https://www.bose.com/en_us/products/frames.html "Audio sunglasses")
     
+    *   [Shop all](https://www.bose.com/en_us/shop_all/frames/frames.html "Shop all
+        ")
+    *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
+    *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
+    *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
+    *   [HOLIDAY GIFTS](https://www.bose.com/en_us/products/gift_ideas.html "HOLIDAY GIFTS")
+    
     *   [Sport performance: Tempo](https://www.bose.com/en_us/products/frames/bose-frames-tempo.html "Sport performance: Tempo")
     *   [Elegant cat eye: Soprano](https://www.bose.com/en_us/products/frames/bose-frames-soprano.html "Elegant cat eye: Soprano")
     *   [Refined square frame: Tenor](https://www.bose.com/en_us/products/frames/bose-frames-tenor.html "Refined square frame: Tenor")
     
     *   [Classic angular look: Alto](https://www.bose.com/en_us/products/frames/bose-frames-alto.html "Classic angular look: Alto")
     *   [Distinct rounded look: Rondo](https://www.bose.com/en_us/products/frames/bose-frames-rondo.html "Distinct rounded look: Rondo")
-    
     *   [FIND MY FRAMES: QUIZ](https://www.bose.com/en_us/landing_pages/headphone-assistant.html?aid%5B62732%5D=196872&step=1 "FIND MY FRAMES: QUIZ")
     
 *   [Sleep](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html "Sleep")

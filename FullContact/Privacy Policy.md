@@ -1004,8 +1004,8 @@ As an Apps user in the EU, you can alter how FullContact uses your data at any t
 
 ### [From Our Blog](https://www.fullcontact.com/blog/)
 
+*   [Resiliency and Hopefulness: A Look Back At 2020](https://www.fullcontact.com/blog/2020/12/22/resiliency-and-hopefulness-a-look-back-at-2020/) December 22, 2020
 *   [The Fight For Control](https://www.fullcontact.com/blog/2020/12/01/fight-for-control/) December 1, 2020
-*   [What’s in a Name: How We Overcame the Challenges of Matching Names and Addresses](https://www.fullcontact.com/blog/2020/11/20/whats-in-a-name-how-we-overcame-the-challenges-of-matching-names-and-addresses/) November 20, 2020
 
 ### Menu
 

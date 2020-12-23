@@ -328,42 +328,42 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Exemplo de Json com Multiplas totalizações](https://pastebin.com/8TLVnPf8)
+*   [TranslatePress compatiblity hook](https://pastebin.com/aWUtBLR2)
     
-    JSON | 1 min ago
+    PHP | 22 min ago
     
-*   [7\_26\_lab.cpp](https://pastebin.com/uiyaKvc2)
+*   [AoC day 23 (pt2), Smalltalk](https://pastebin.com/BuVUR4c6)
     
-    C++ | 4 min ago
+    Smalltalk | 22 min ago
     
-*   [diskretka\_1.1](https://pastebin.com/At7PCyUT)
+*   [AoC day 23 (pt1), Smalltalk](https://pastebin.com/UJU2F6HS)
     
-    C++ | 12 min ago
+    Smalltalk | 23 min ago
     
-*   [CTE Postgres](https://pastebin.com/1awS9728)
+*   [Untitled](https://pastebin.com/bBL0yjsg)
     
-    PostgreSQL | 23 min ago
+    JSON | 55 min ago
     
-*   [Untitled](https://pastebin.com/Du9J72pi)
+*   [image lua](https://pastebin.com/D157j83H)
     
-    Java | 36 min ago
+    Lua | 56 min ago
     
-*   [Untitled](https://pastebin.com/MDVZLQ5S)
+*   [long\_sqrt](https://pastebin.com/iBWWtyCb)
     
-    Java | 57 min ago
+    C# | 60 min ago
     
-*   [Untitled](https://pastebin.com/D0pNe6mv)
+*   [Untitled](https://pastebin.com/kTJbvsRA)
     
-    Java | 58 min ago
+    JSON | 1 hour ago
     
-*   [Untitled](https://pastebin.com/DMEKE7uU)
+*   [Ten Point Round (segment tree)](https://pastebin.com/s2SQhvEh)
     
-    XML | 58 min ago
+    C++ | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
+  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

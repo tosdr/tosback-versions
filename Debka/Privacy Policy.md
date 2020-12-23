@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Tuesday, December 22, 2020  
+Wednesday, December 23, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,18 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Netanyahu prepares full lockdown plan for cabinet approval](https://www.debka.com/mivzak/netanyahu-prepares-full-lockdown-plan-for-cabinet-approval/)
+    
+    Dec 22, 2020 @ 18:29
+    
+*   [Probe opened for antisemitic insults targeting Miss France runner-up](https://www.debka.com/mivzak/probe-opened-for-antisemitic-insults-targeting-miss-france-runner-up/)
+    
+    Dec 22, 2020 @ 16:02
+    
+*   [IDF augments Judea and Samaria division combat units](https://www.debka.com/mivzak/idf-augments-judea-and-samaria-division-combat-units/)
+    
+    Dec 22, 2020 @ 15:47
+    
 *   [The death of an Israeli youth in a West Bank police chase investigated](https://www.debka.com/mivzak/the-death-of-an-israeli-youth-in-a-west-bank-police-chase-investigated/)
     
     Dec 22, 2020 @ 12:34
@@ -76,20 +88,20 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Woman found dead in West Bank forest. Terrorist murder suspected](https://www.debka.com/mivzak/woman-found-dead-in-west-bank-forest-terrorist-murder-suspected/)
     
     Dec 21, 2020 @ 08:46
-    
-*   [Passengers arriving from London fly back to escape enforced quarantine](https://www.debka.com/mivzak/passengers-arriving-from-london-fly-back-to-escape-enforced-quarantine/)
-    
-    Dec 20, 2020 @ 19:44
-    
-*   [Ministers disperse without new decisions on covid infection curbs](https://www.debka.com/mivzak/ministers-disperse-without-new-decisions-on-covid-infection-curbs/)
-    
-    Dec 20, 2020 @ 19:43
-    
-*   [Israel’s coronavirus cabinet mulls crackdown on “imported contagion”](https://www.debka.com/mivzak/israels-coronavirus-cabinet-mulls-crackdown-on-imported-contagion/)
-    
-    Dec 20, 2020 @ 10:13
     
 
+*   [Netanyahu prepares full lockdown plan for cabinet approval](https://www.debka.com/mivzak/netanyahu-prepares-full-lockdown-plan-for-cabinet-approval/)
+    
+    Dec 22, 2020 @ 18:29
+    
+*   [Probe opened for antisemitic insults targeting Miss France runner-up](https://www.debka.com/mivzak/probe-opened-for-antisemitic-insults-targeting-miss-france-runner-up/)
+    
+    Dec 22, 2020 @ 16:02
+    
+*   [IDF augments Judea and Samaria division combat units](https://www.debka.com/mivzak/idf-augments-judea-and-samaria-division-combat-units/)
+    
+    Dec 22, 2020 @ 15:47
+    
 *   [The death of an Israeli youth in a West Bank police chase investigated](https://www.debka.com/mivzak/the-death-of-an-israeli-youth-in-a-west-bank-police-chase-investigated/)
     
     Dec 22, 2020 @ 12:34
@@ -109,18 +121,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Woman found dead in West Bank forest. Terrorist murder suspected](https://www.debka.com/mivzak/woman-found-dead-in-west-bank-forest-terrorist-murder-suspected/)
     
     Dec 21, 2020 @ 08:46
-    
-*   [Passengers arriving from London fly back to escape enforced quarantine](https://www.debka.com/mivzak/passengers-arriving-from-london-fly-back-to-escape-enforced-quarantine/)
-    
-    Dec 20, 2020 @ 19:44
-    
-*   [Ministers disperse without new decisions on covid infection curbs](https://www.debka.com/mivzak/ministers-disperse-without-new-decisions-on-covid-infection-curbs/)
-    
-    Dec 20, 2020 @ 19:43
-    
-*   [Israel’s coronavirus cabinet mulls crackdown on “imported contagion”](https://www.debka.com/mivzak/israels-coronavirus-cabinet-mulls-crackdown-on-imported-contagion/)
-    
-    Dec 20, 2020 @ 10:13
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

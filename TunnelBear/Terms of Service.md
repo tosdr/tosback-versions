@@ -8,19 +8,19 @@
 
 Offer ends in
 
-018
+012
 
 days
 
-03
+04
 
 hours
 
-018
+047
 
 mins
 
-044
+023
 
 secs
 

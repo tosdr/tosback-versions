@@ -1044,13 +1044,13 @@ Version: 24/10/2017
 *   [Reddit](https://reddit.com/r/tresorit)
 *   [YouTube](https://www.youtube.com/user/tresorit)
 
- [](https://www.g2.com/products/tresorit/reviews?utf8=%E2%9C%93&filters%5Bcomment_answer_values%5D=&order=most_helpful) 
-
  [](https://www.getapp.com/collaboration-software/a/tresorit/reviews/) 
 
  [](https://reviews.financesonline.com/p/tresorit/) 
 
  [](https://www.capterra.com/p/150689/Tresorit/) 
+
+ [](https://www.g2.com/products/tresorit/reviews?utf8=%E2%9C%93&filters%5Bcomment_answer_values%5D=&order=most_helpful) 
 
 *   
 *   ENGLISH

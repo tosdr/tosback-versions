@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [Congress resurrects MQ-9 Reaper program, adding 16 drones for the Air Force](http://feedproxy.google.com/~r/defense-news/air/~3/q14jMgVWSBY/)  
+    12/22/20 03:14pm  
+    
+    The sun won't set on the Reaper program for at least another year — as long as a budget bill is passed into law. (Senior Airman Haley Stevens/U.S. Air Force)
+    
+*   [Britain has one last contract for its Sentinel spy planes: Breaking them up](http://feedproxy.google.com/~r/defense-news/air/~3/vlShu5CRpKQ/)  
+    12/22/20 12:10pm  
+    
+    An R1 Sentinel aircraft at RAF Waddington. The British Defense Ministry announced in late 2020 that it is looking for a contractor to strip the planes for parts. (Sgt. Nik Howe/British Defence Ministry)
+    
 *   [Year in review: Top stories from 2020](http://feedproxy.google.com/~r/defense-news/air/~3/p0kh_1Hfh_s/)  
     12/21/20 05:00am  
     
@@ -160,26 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     (Staff Sgt. Ryan Callaghan/U.S. Air Force)
     
-*   [Lockheed Martin buys Aerojet Rocketdyne in $4.4B deal](http://feedproxy.google.com/~r/defense-news/air/~3/U7k39PflFWI/)  
-    12/21/20 11:12am  
-    
-    LE BOURGET, France: Picture taken 16 June 2005 at Le Bourget Airport during the 46th International Paris Air shows the logo of US group Lockheed Martin. (PIERRE VERDY/AFP/Getty Images)
-    
-*   [Here’s why the Valkyrie drone couldn’t translate between F-35 and F-22 jets during a recent test](http://feedproxy.google.com/~r/defense-news/air/~3/mrFp-pDPLU8/)  
-    12/21/20 09:08am  
-    
-    A U.S. Air Force F-22 Raptor and F-35A Lightning II fly in formation with the XQ-58A Valkyrie drone over Yuma Proving Ground in Arizona during a series of tests Dec. 9, 2020. This integrated test follows a series of gatewayONE ground tests that began during the inaugural Air Force on-ramp in December 2019. (Tech. Sgt. James Cason/U.S. Air Force)
-    
 
 Recent parts by keyword  
 
-*   [FR150](https://aerobasegroup.com/search/?term=FR150)
-*   [NAS6205-58](https://aerobasegroup.com/search/?term=NAS6205-58)
-*   [MIL-L-6806](https://aerobasegroup.com/search/?term=MIL-L-6806)
-*   [BLC12](https://aerobasegroup.com/search/?term=BLC12)
-*   [Bb599](https://aerobasegroup.com/search/?term=Bb599)
-*   [10h120](https://aerobasegroup.com/search/?term=10h120)
-*   [cuta2500103B](https://aerobasegroup.com/search/?term=cuta2500103B)
+*   [Mil-c-10799](https://aerobasegroup.com/search/?term=Mil-c-10799)
+*   [M85049/95-12A](https://aerobasegroup.com/search/?term=M85049%2F95-12A)
+*   [fb7884](https://aerobasegroup.com/search/?term=fb7884)
+*   [Hst12ag5](https://aerobasegroup.com/search/?term=Hst12ag5)
+*   [Hst10ag5](https://aerobasegroup.com/search/?term=Hst10ag5)
+*   [mil-c-7350](https://aerobasegroup.com/search/?term=mil-c-7350)
+*   [GB511DU3-](https://aerobasegroup.com/search/?term=GB511DU3-)
 
 The AeroBase Group Family ..
 

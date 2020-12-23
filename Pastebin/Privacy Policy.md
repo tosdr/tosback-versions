@@ -6,6 +6,8 @@
 
 [Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
+var ad\_idzone = "4106006", ad\_width = "728", ad\_height = "90"
+
 Pastebin.com Privacy Statement UPDATED
 
 Thank you for entrusting Pastebin with your pastes and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
@@ -166,41 +168,41 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
-(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+var ad\_idzone = "4098462", ad\_width = "900", ad\_height = "250"
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Exemplo de Json com Multiplas totalizações](https://pastebin.com/8TLVnPf8)
+*   [TranslatePress compatiblity hook](https://pastebin.com/aWUtBLR2)
     
-    JSON | 1 min ago
+    PHP | 22 min ago
     
-*   [7\_26\_lab.cpp](https://pastebin.com/uiyaKvc2)
+*   [AoC day 23 (pt2), Smalltalk](https://pastebin.com/BuVUR4c6)
     
-    C++ | 4 min ago
+    Smalltalk | 22 min ago
     
-*   [diskretka\_1.1](https://pastebin.com/At7PCyUT)
+*   [AoC day 23 (pt1), Smalltalk](https://pastebin.com/UJU2F6HS)
     
-    C++ | 12 min ago
+    Smalltalk | 23 min ago
     
-*   [CTE Postgres](https://pastebin.com/1awS9728)
+*   [Untitled](https://pastebin.com/bBL0yjsg)
     
-    PostgreSQL | 23 min ago
+    JSON | 55 min ago
     
-*   [Untitled](https://pastebin.com/Du9J72pi)
+*   [image lua](https://pastebin.com/D157j83H)
     
-    Java | 36 min ago
+    Lua | 56 min ago
     
-*   [Untitled](https://pastebin.com/MDVZLQ5S)
+*   [long\_sqrt](https://pastebin.com/iBWWtyCb)
     
-    Java | 57 min ago
+    C# | 60 min ago
     
-*   [Untitled](https://pastebin.com/D0pNe6mv)
+*   [Untitled](https://pastebin.com/kTJbvsRA)
     
-    Java | 58 min ago
+    JSON | 1 hour ago
     
-*   [Untitled](https://pastebin.com/DMEKE7uU)
+*   [Ten Point Round (segment tree)](https://pastebin.com/s2SQhvEh)
     
-    XML | 58 min ago
+    C++ | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

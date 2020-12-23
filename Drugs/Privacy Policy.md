@@ -360,10 +360,11 @@ The easiest way to lookup drug information, identify pills, check interactions a
 *   [Privacy Policy](http://www.drugs.com/support/privacy.html)
 *   [Terms of Use](http://www.drugs.com/support/terms.html)
 
-*   [Facebook](http://www.facebook.com/Drugscom "Drugs.com on Facebook")
-*   [Twitter](http://twitter.com/drugscom "Drugs.com on Twitter")
-*   [YouTube](http://www.youtube.com/user/drugscom "Drugs.com on YouTube")
-*   [RSS Feed](http://www.drugs.com/rss.html "Drugs.com RSS Feeds")
+*   [Follow Drugs.com on Facebook](http://www.facebook.com/Drugscom)
+*   [Follow Drugs.com on Twitter](http://twitter.com/drugscom)
+*   [Follow Drugs.com on Pinterest](http://pinterest.com/drugscom)
+*   [Follow Drugs.com on YouTube](http://www.youtube.com/user/drugscom)
+*   [Subscribe to our Newsletters](http://www.drugs.com/newsletters/ "Drugs.com RSS Feeds")
 
 [Subscribe](http://www.drugs.com/newsletters/) to Drugs.com newsletters for the latest medication news, new drug approvals, alerts and updates.
 

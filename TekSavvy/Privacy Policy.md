@@ -1,7 +1,7 @@
 COVID-19 Update
 ---------------
 
-TekSavvy is monitoring the COVID-19 situation carefully and adding network capacity to help our customers stay connected. Our team is here to help through self-serve in the MySavvy customer portal or by phone at 1-877-779-1575. New customers may experience longer hardware delivery or installation timelines. Stay safe. Stay healthy.
+TekSavvy is monitoring the COVID-19 situation carefully and working to help our customers stay connected. We are waiving overage charges for current customers on limited plans until January 31, 2021. Our team is here to help through self-serve in the MySavvy customer portal, or by phone at 1-877-779-1575. New customers may experience longer hardware delivery or installation timelines. Stay safe. Stay home. Stay healthy.
 
 [Login to MySavvy or register here](https://mysavvy.teksavvy.com/)
 

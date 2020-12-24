@@ -1,10 +1,14 @@
 [![Grammarly Logo](https://static.grammarly.com/assets/files/3a89d404f9db7ffd42e5fa9b8cd7d93e/grammarly_logo.svg)](https://www.grammarly.com/)
 
+We have updated these Terms of Service to make the User Content section easier to understand. We have also made it clear to organizations using Grammarly Business and Grammarly EDU that this agreement may not apply to their use of Grammarly’s products and services. To see the previous version of these terms, click [here](https://grammarly.com/terms-october-2-2020).
+
 Terms of Service and License Agreement
 
-Effective as of October 2, 2020
+Effective as of December 23, 2020
 
-Together with its subsidiaries and other affiliates, Grammarly, Inc., a Delaware corporation (“Grammarly”), makes available the “Site” (websites including, without limitation, www.grammarly.com and all sub-domains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Grammarly’s existing Site, Software and Services, as well as any future Sites, Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
+**For Grammarly Business and Grammarly EDU customers: If your organization signed an offline agreement for the use of Grammarly Business or Grammarly EDU, then your offline agreement governs your organization’s use of Grammarly’s Site, Software, and Services.**
+
+Together with its subsidiaries and other affiliates, Grammarly, Inc., a Delaware corporation (“Grammarly”), makes available the “Site” (websites including, without limitation, www.grammarly.com and all subdomains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Grammarly’s existing Site, Software and Services, as well as any future Sites, Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
 
 THIS IS A LEGALLY BINDING AGREEMENT. IF YOU DO NOT UNDERSTAND THIS AGREEMENT, OR DO NOT AGREE TO BE BOUND BY IT OR THE PRIVACY POLICY REFERENCED HEREIN, YOU MUST IMMEDIATELY LEAVE THE SITE AND YOU ARE NOT AUTHORIZED TO ACCESS OR USE ANY OF THE SERVICES OR SOFTWARE. BY ACCESSING OR USING THE SITE, SERVICES AND/OR SOFTWARE, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN), THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT, AND THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT.
 
@@ -173,9 +177,37 @@ The Site, Software and Services may include products and services that are avail
 User Content
 ------------
 
-You are solely responsible for all text, documents or other content or information uploaded, entered or otherwise transmitted by you in connection with your use of the Services and/or Software (“User Content”). User Content includes, among other things, any mistakes contained in the content or information transmitted by you. Grammarly has no obligation to monitor any User Content and shall have no liability to you or any other person or entity with respect thereto, including, without limitation, liability with respect to any information (including your confidential information) contained in or apparent from any User Content. You warrant, represent and covenant that you own or have a valid and enforceable license to use all User Content, and that no User Content infringes, misappropriates or violates the rights (including, without limitation, any copyrights or other intellectual property rights) of any person or entity or any applicable law, rule or regulation of any government authority of competent jurisdiction. Grammarly is not responsible for the loss, corruption or other changes to User Content. Without limiting the foregoing, any feature(s) of the Services and/or Software that may permit you to temporarily save or otherwise store User Content is offered for your convenience only and Grammarly does not guarantee that the User Content will be retrievable. You are solely responsible for saving, storing and otherwise maintaining User Content including by maintaining backup copies of your User Content on appropriate independent systems that do not rely on the Services and/or Software.
+**“User Content”** refers to the text, documents, and other content and information you enter, upload, and transmit when you use our Site, Software and Services.
 
-You retain all right, title, and interest in and to your User Content. By uploading or entering any User Content, you give Grammarly (and those it works with) a nonexclusive, worldwide, royalty-free and fully-paid, transferable and sublicensable, perpetual, and irrevocable license to copy, store and use your User Content (and, if you are an Authorized User, your Enterprise Subscriber’s User Content) in connection with the provision of the Software and the Services and to improve the algorithms underlying the Software and the Services.
+You own the intellectual property rights in your User Content. As a result, we need your permission (in legal language, this is called a license) to use your User Content to provide our Site, Software and Services to you.
+
+You grant us a license to your User Content for the limited purposes of:
+
+*   Operating and improving the Site, Software and Services (for example, your acceptance or rejection of suggestions may help train our suggestion engine);
+    
+*   Protecting the Site, Software and Services (for example, we may analyze patterns in usage to prevent abuse);
+    
+*   Customizing the Site, Software and Services (for example, we may use your User Content to create personalized suggestions); and
+    
+*   Developing new technologies and services (for example, creating our tone detector).
+    
+
+The license you give us is only for the above purposes. **That means we will not, for example, sell or license your User Content to third-party data brokers.**
+
+The license you grant us is:
+
+*   Worldwide;
+    
+*   Non-exclusive (meaning you own your User Content and can license it to other people and companies);
+    
+*   Royalty-free (meaning we don’t pay you for it); and
+    
+*   For as long as your User Content is protected by intellectual property laws.
+    
+
+The license you give us allows us to, solely for the purposes outlined above, store, reproduce, use, publish and publicly display to you, modify and create derivative works of (such as providing writing suggestions and auto-correcting words), and permit (this is called a sublicense) our service providers to process your User Content solely for the purpose of helping us provide the Grammarly Site, Software and Services to you.
+
+Grammarly does not own, control, verify, or endorse User Content. You are responsible for all your User Content. That means you should back up all your User Content and not do anything illegal or harmful with it (including violate any intellectual property or trade secret laws).
 
 Changes to Services or Terms
 ----------------------------
@@ -291,7 +323,7 @@ The failure of either party to exercise in any respect any right provided for
 
 If Grammarly is unable to perform any obligation under this Agreement because of any matter beyond its reasonable control, such as lightning, flood, exceptionally severe weather, fire, explosion, war, civil disorder, industrial disputes (whether or not involving employees of Grammarly), acts of local or central government or other competent authorities, problems with telecommunications providers, hostile network attacks or other events beyond Grammarly’s reasonable control (each, a “Force Majeure Event”), Grammarly will have no liability to you for such failure to perform; provided, however, that Grammarly shall resume performance promptly upon removal of the circumstances constituting the Force Majeure Event. If any Force Majeure Event continues for more than sixty (60) days, either Grammarly or you may terminate this Agreement by delivery of written notice to the other party. You will remain responsible for all Fees incurred through the last day the Services were available.
 
-If you and Grammarly have executed a separate Subscription Agreement applicable to your access to and use of the Site, Services and/or Software, then the terms and conditions of such Subscription Agreement shall prevail to the extent of any conflict with the terms and conditions of this Agreement. In all other cases, this Agreement constitutes the entire agreement between Grammarly and you with respect to its subject matter, and supersedes all prior communications and proposals, whether electronic, oral or written, between Grammarly and you. No waiver or modification of any of the provisions of this Agreement shall be binding unless in writing and signed by a duly authorized representative of each party.
+This Agreement constitutes the entire agreement between Grammarly and you with respect to its subject matter, and supersedes all prior communications and proposals, whether electronic, oral or written, between Grammarly and you. No waiver or modification of any of the provisions of this Agreement shall be binding unless in writing and signed by a duly authorized representative of each party.
 
 Notice for California users
 ---------------------------

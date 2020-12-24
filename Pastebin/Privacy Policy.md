@@ -172,37 +172,37 @@ var ad\_idzone = "4098462", ad\_width = "900", ad\_height = "250"
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [TranslatePress compatiblity hook](https://pastebin.com/aWUtBLR2)
+*   [Untitled](https://pastebin.com/QnNwG4nV)
     
-    PHP | 22 min ago
+    Lua | 5 min ago
     
-*   [AoC day 23 (pt2), Smalltalk](https://pastebin.com/BuVUR4c6)
+*   [ServerApp](https://pastebin.com/5YaVvb7Z)
     
-    Smalltalk | 22 min ago
+    Java | 7 min ago
     
-*   [AoC day 23 (pt1), Smalltalk](https://pastebin.com/UJU2F6HS)
+*   [Client](https://pastebin.com/3KtFpwUs)
     
-    Smalltalk | 23 min ago
+    Java | 8 min ago
     
-*   [Untitled](https://pastebin.com/bBL0yjsg)
+*   [Untitled](https://pastebin.com/UcM9zWAm)
     
-    JSON | 55 min ago
+    C++ | 26 min ago
     
-*   [image lua](https://pastebin.com/D157j83H)
+*   [JVM flags request.](https://pastebin.com/Rzr6pWge)
     
-    Lua | 56 min ago
+    Java | 1 hour ago
     
-*   [long\_sqrt](https://pastebin.com/iBWWtyCb)
+*   [Untitled](https://pastebin.com/8aMLkaVC)
     
-    C# | 60 min ago
+    Lua | 1 hour ago
     
-*   [Untitled](https://pastebin.com/kTJbvsRA)
+*   [Untitled](https://pastebin.com/YFcCim8u)
     
-    JSON | 1 hour ago
+    Python | 1 hour ago
     
-*   [Ten Point Round (segment tree)](https://pastebin.com/s2SQhvEh)
+*   [Untitled](https://pastebin.com/ZquXGJH9)
     
-    C++ | 1 hour ago
+    Java | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

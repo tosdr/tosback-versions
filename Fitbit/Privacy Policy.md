@@ -15,35 +15,35 @@
     *   EXPERIENCES
     *   [Setup Process](https://help.fitbit.com/articles/en_US/Help_article/1873.htm)
     
-    [](https://www.fitbit.com/global/us/products.for-her)
+    [](https://www.fitbit.com/global/us/products/smartwatches/sense)
     
-    Gifts for her
-    
-    [
-    
-    Shop sale
-    
-    ](https://www.fitbit.com/global/us/products.for-her)
-    
-    [](https://www.fitbit.com/global/us/products.for-him)
-    
-    Gifts for him
+    New
     
     [
     
-    Shop sale
+    Fitbit Sense
     
-    ](https://www.fitbit.com/global/us/products.for-him)
+    ](https://www.fitbit.com/global/us/products/smartwatches/sense)
     
-    [](https://www.fitbit.com/global/us/products.gifts-under-250)
+    [](http://www.fitbit.com/fitbit/global-master/products/smartwatches/versa3.html)
     
-    Gifts under $250
+    New
     
     [
     
-    Shop sale
+    Fitbit Versa 3
     
-    ](https://www.fitbit.com/global/us/products.gifts-under-250)
+    ](http://www.fitbit.com/fitbit/global-master/products/smartwatches/versa3.html)
+    
+    [](https://www.fitbit.com/global/us/products/trackers/inspire2)
+    
+    New
+    
+    [
+    
+    Fitbit Inspire 2
+    
+    ](https://www.fitbit.com/global/us/products/trackers/inspire2)
     
 *   [TECHNOLOGY](https://www.fitbit.com/global/us/technology)
     
@@ -457,7 +457,6 @@ COMPANY
 *   [About Us](https://www.fitbit.com/global/us/about-us)
 *   [Careers](https://www.fitbit.com/global/us/careers)
 *   [Buzz](https://www.fitbit.com/global/us/buzz)
-*   [Sustainability](https://www.fitbit.com/global/us/sustainability)
 *   [Activity Index](https://www.fitbit.com/global/us/activity-index)
 *   [Investor Relations](https://investor.fitbit.com/overview/default.aspx)
 *   [Press Releases](https://investor.fitbit.com/press/press-releases/default.aspx)
@@ -467,7 +466,6 @@ COMPANY
 *   [About Us](https://www.fitbit.com/global/us/about-us)
 *   [Careers](https://www.fitbit.com/global/us/careers)
 *   [Buzz](https://www.fitbit.com/global/us/buzz)
-*   [Sustainability](https://www.fitbit.com/global/us/sustainability)
 *   [Activity Index](https://www.fitbit.com/global/us/activity-index)
 *   [Investor Relations](https://investor.fitbit.com/overview/default.aspx)
 *   [Press Releases](https://investor.fitbit.com/press/press-releases/default.aspx)

@@ -357,4 +357,33 @@ Type
 Duration  
 3\. Varies; up to 30 days.  
 
-If you have any questions about this Cookie Policy, please contact us at [support@hcaptcha.com](mailto:support@hcaptcha.com).
+If you have any questions about this Cookie Policy, please contact us at [support@hcaptcha.com](mailto:support@hcaptcha.com).  
+
+Impressum (Site Notice)  
+
+_Last updated: December 23, 2020_
+
+hCaptcha is a service of Intuition Machines, Inc. ("IMI"), a Delaware US Corporation (#6393793).  
+  
+Mailed inquiries may be sent to: Intuition Machines, Inc., 350 Alabama St, San Francisco, CA 94110.  
+Note while local COVID-19 orders remain in effect there are no guarantees that mail will be received in a timely manner, and email (support@hcaptcha.com) is the correct channel to reach us. The company does not maintain telephone or fax numbers; this is the 21st century.  
+  
+Information about the current management of the company may be obtained on the [About](https://www.hcaptcha.com/about) page. The company's current CEO is the managing director responsible for content.  
+  
+Regulatory authority: US Federal Communications Commission, 45 L Street NE, Washington, DC 20554 USA.  
+  
+IMI does not commit to, nor is it obliged to participate in, the alternative dispute resolution for consumer disputes in front of a consumer dispute resolution entity. European Commission official website for Online Dispute Resolution:  
+[http://www.ec.europa.eu/consumers/odr  
+‍](http://www.ec.europa.eu/consumers/odr)  
+No guarantees regarding content  
+All information contained on our internet pages has been validated by IMI or a third party. However, neither IMI nor third parties can be held responsible for information being current, accurate, or complete. This also applies to other websites which can be reached via hyperlinks on our pages. IMI accepts no responsibility for the content of these external websites.  
+  
+No advice  
+The information provided on the internet pages does not represent individual advice and cannot replace this. If you need individual advice, please contact our support staff.Use of this site  
+The content and design of our web pages are protected under copyright law. Duplication of the pages and their content in a manner that exceeds reasonable fair use requires prior written consent from IMI if there are no other legal provisions specified for duplication on the page.  
+  
+Copyright  
+All text, images, graphical animation, videos, music, sounds and other material on these pages are protected under copyright law by IMI or third parties if specified. It is forbidden to copy or modify this material for commercial use in a manner that exceeds reasonable fair use.Responsibility for this website  
+IMI is responsible for this website.  
+
+If you have any questions, please contact us at [support@hcaptcha.com](mailto:support@hcaptcha.com).

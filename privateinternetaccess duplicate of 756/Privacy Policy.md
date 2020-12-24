@@ -325,7 +325,7 @@ Tools
 
 About
 
-Private Internet Access is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Our service is backed by multiple gateways worldwide with access in 77+ countries, 128+ regions.
+Private Internet Access is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet. Our service is backed by multiple gateways worldwide with access in 77+ countries, 129+ regions.
 
 Connect with us
 

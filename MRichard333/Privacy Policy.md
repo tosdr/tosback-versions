@@ -11,7 +11,6 @@
 [For each mask purchase here 1$ will be donated to the children in need!](https://teespring.com/face-mask-design-MRichard333 "Buy MRichard333 Mask")
 
 **MRICHARD333**
-===============
 
 **CYBERSECURITY NEWS**
 ----------------------

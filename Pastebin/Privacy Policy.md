@@ -6,8 +6,6 @@
 
 [Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-var ad\_idzone = "4106006", ad\_width = "728", ad\_height = "90"
-
 Pastebin.com Privacy Statement UPDATED
 
 Thank you for entrusting Pastebin with your pastes and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
@@ -168,41 +166,39 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
-var ad\_idzone = "4098462", ad\_width = "900", ad\_height = "250"
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/QnNwG4nV)
+*   [Untitled](https://pastebin.com/320gPuHt)
     
-    Lua | 5 min ago
+    Java | 16 min ago
     
-*   [ServerApp](https://pastebin.com/5YaVvb7Z)
+*   [Untitled](https://pastebin.com/7b0uAnfr)
     
-    Java | 7 min ago
+    Python | 19 min ago
     
-*   [Client](https://pastebin.com/3KtFpwUs)
+*   [Online Health Coac...](https://pastebin.com/d9W6k4sS)
     
-    Java | 8 min ago
+    JSON | 23 min ago
     
-*   [Untitled](https://pastebin.com/UcM9zWAm)
+*   [Untitled](https://pastebin.com/njF74CLf)
     
-    C++ | 26 min ago
+    Python | 37 min ago
     
-*   [JVM flags request.](https://pastebin.com/Rzr6pWge)
+*   [Збир на елементи в...](https://pastebin.com/QGCxKXCk)
     
-    Java | 1 hour ago
+    Java | 40 min ago
     
-*   [Untitled](https://pastebin.com/8aMLkaVC)
+*   [Нерекурзивно измин...](https://pastebin.com/qeEDCHTp)
     
-    Lua | 1 hour ago
+    Java | 41 min ago
     
-*   [Untitled](https://pastebin.com/YFcCim8u)
+*   [Windows Explorer l...](https://pastebin.com/WVVbPLCz)
     
-    Python | 1 hour ago
+    Java | 42 min ago
     
-*   [Untitled](https://pastebin.com/ZquXGJH9)
+*   [Untitled](https://pastebin.com/ycuAxnL1)
     
-    Java | 1 hour ago
+    jQuery | 46 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

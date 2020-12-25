@@ -59,7 +59,7 @@ REKLAMSTORE, ITS ASSOCIATES, OR PARTY INVOLVED CAN BE HELD LIABLE FOR ANY DAMAGE
 
 Legal Obligations
 
-All that has been contained in these Terms of Service are governed by and are in accordance with the laws of the State of California, without resort to its conflict of law provisions. In the event that you take legal action relating to these Terms of Service, you must file your complaint with the Superior Court of Los Angeles County, California or the United States District Court for the Northern District of California.
+All that has been contained in these Terms of Service are governed by and are in accordance with the laws of the Turkish Republic, without resort to its conflict of law provisions. In the event that you take legal action relating to these Terms of Service, you must file your complaint with the Superior court of the Turkish Republic or District Court of Istanbul.
 
 ReklamStore Termination Rules
 

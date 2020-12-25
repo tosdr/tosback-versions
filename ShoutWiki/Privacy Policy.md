@@ -35,8 +35,6 @@
 
 Anonymous user
 
-*   [Talk](http://www.shoutwiki.com/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")
-*   [Contributions](http://www.shoutwiki.com/wiki/Special:MyContributions "A list of edits made from this IP address [y]")
 *   [Create account](http://www.shoutwiki.com/w/index.php?title=Special:CreateAccount&returnto=ShoutWiki+Hub%3APrivacy+Policy "You are encouraged to create an account and log in; however, it is not mandatory")
 *   [Log in](http://www.shoutwiki.com/w/index.php?title=Special:UserLogin&returnto=ShoutWiki+Hub%3APrivacy+Policy "You are encouraged to log in; however, it is not mandatory [o]")
 
@@ -261,8 +259,8 @@ This wiki is hosted by [ShoutWiki](http://www.shoutwiki.com/) • [Staff Blog](h
 
 [Privacy policy](http://www.shoutwiki.com/wiki/Privacy_policy "s:Privacy policy") • [About ShoutWiki](http://www.shoutwiki.com/wiki/ShoutWiki_Hub:About "ShoutWiki Hub:About") • [Terms of use](http://www.shoutwiki.com/wiki/Terms_of_use "s:Terms of use") • [Piwik optout](#) • [Mobile view](http://www.shoutwiki.com/w/index.php?title=ShoutWiki_Hub:Privacy_Policy&mobileaction=toggle_view_mobile)
 
-(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.010","ppvisitednodes":{"value":43,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":253,"limit":5000000},"timingprofile":\["100.00% 0.000 1 -total"\]},"cachereport":{"origin":"bellow.shoutwiki-servers.com","timestamp":"20201224052404","ttl":86400,"transientcontent":false}}});}); var \_paq = \_paq || \[\]; \_paq.push(\['trackPageView'\]); \_paq.push(\['enableLinkTracking'\]); (function() { var u="//piwik.staff.shoutwiki.com/"; \_paq.push(\['setTrackerUrl', u+'piwik.php'\]); \_paq.push(\['setSiteId', '5'\]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')\[0\]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); })();
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.009","ppvisitednodes":{"value":43,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":253,"limit":5000000},"timingprofile":\["100.00% 0.000 1 -total"\]},"cachereport":{"origin":"bellow.shoutwiki-servers.com","timestamp":"20201225032328","ttl":86400,"transientcontent":false}}});}); var \_paq = \_paq || \[\]; \_paq.push(\['trackPageView'\]); \_paq.push(\['enableLinkTracking'\]); (function() { var u="//piwik.staff.shoutwiki.com/"; \_paq.push(\['setTrackerUrl', u+'piwik.php'\]); \_paq.push(\['setSiteId', '5'\]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')\[0\]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); })();
 
 ![](//piwik.staff.shoutwiki.com/piwik.php?idsite=5)
 
-(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"bellow.shoutwiki-servers.com"});});
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"bellow.shoutwiki-servers.com"});});

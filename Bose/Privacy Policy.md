@@ -2,13 +2,13 @@ Yo.sequence.node(document.body);
 
 By using this site, you acknowledge we use cookies to enhance your experience. Learn more or change settings [here](https://www.bose.com/en_us/support/cookie_policy.html).  
 
-Order by 9 PM, Dec 22 EST with Free Express shipping for delivery by Dec 24. In-stock items only.
+FREE STANDARD SHIPPING FOR ORDERS OF $50 OR MORE, AND FREE RETURN SHIPPING
 
 play\_pause
 
 close banner
 
-Order by 9 PM, Dec 22 EST with Free Express shipping for delivery by Dec 24. In-stock items only.
+FREE STANDARD SHIPPING FOR ORDERS OF $50 OR MORE, AND FREE RETURN SHIPPING
 
 [Skip to content](#mainContent "Skip to content") [![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_logo.png) ![Bose](//static.bose.com/etc/designs/bose/consumer-products-2016/design/images/bose_mobile_logo.png)](https://www.bose.com/en_us/index.html "Bose") 
 
@@ -16,7 +16,7 @@ Order by 9 PM, Dec 22 EST with Free Express shipping for delivery by Dec 24. In-
 
 Quick links
 
-[Bose QuietComfort Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds.html "Bose QuietComfort Earbuds") [Bose Sleepbuds™ II](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html "Bose Sleepbuds™ II") [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html "Bose Noise Cancelling Headphones 700") [Bose Frames](https://www.bose.com/en_us/products/frames.html "Bose Frames") [Bose Sport Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html "Bose Sport Earbuds") [Headphones Product Finder](https://www.bose.com/en_us/landing_pages/headphone-assistant.html "Headphones Product Finder")
+[Post-holiday sale](https://www.bose.com/en_us/special_offers.html "Post-holiday sale") [Bose QuietComfort Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds.html "Bose QuietComfort Earbuds") [Bose Sleepbuds™ II](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html "Bose Sleepbuds™ II") [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html "Bose Noise Cancelling Headphones 700") [Bose Frames](https://www.bose.com/en_us/products/frames.html "Bose Frames") [Bose Sport Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html "Bose Sport Earbuds") [Headphones Product Finder](https://www.bose.com/en_us/landing_pages/headphone-assistant.html "Headphones Product Finder")
 
   Search    close 
 
@@ -27,31 +27,19 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
 
   [](https://www.bose.com/en_us/myaccount/registration.html)  [ Stores ](https://www.bose.com/en_us/store_locator.html)    [Cart](https://www.bose.com/en_us/my-cart.html) 
 
-*   [Holiday gifts](https://www.bose.com/en_us/products/gift_ideas.html "Holiday gifts")
+*   [Post-holiday sale](https://www.bose.com/en_us/special_offers.html "Post-holiday sale")
     
-    *   [Find your gift](https://www.bose.com/en_us/landing_pages/gift-assistant.html "Find your gift")
-    *   [Special offers](https://www.bose.com/en_us/special_offers.html "Special offers")
+    *   [View all deals](https://www.bose.com/en_us/special_offers.html "View all deals")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
-    
-    *   [FOR STUDENTS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_students.html "FOR STUDENTS")
-    *   [FOR HIM](https://www.bose.com/en_us/products/gift_ideas/gifts_for_him.html "FOR HIM")
-    *   [FOR HER](https://www.bose.com/en_us/products/gift_ideas/gifts_for_her.html "FOR HER")
-    *   [SPORTS AND OUTDOORS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_fitness_and_sports.html "SPORTS AND OUTDOORS")
-    *   [HOME](https://www.bose.com/en_us/products/gift_ideas/gifts_for_home.html "HOME")
-    
-    *   [TRAVELERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_travelers.html "TRAVELERS")
-    *   [TECH LOVERS](https://www.bose.com/en_us/products/gift_ideas/gifts_for_technology_lovers.html "TECH LOVERS")
-    *   [FOR FAMILIES](https://www.bose.com/en_us/products/gift_ideas/gifts_for_families.html "FOR FAMILIES")
-    *   [GIFTS UNDER $250](https://www.bose.com/en_us/products/gift_ideas/affordable_gifts.html "GIFTS UNDER $250")
     
 *   [Headphones](https://www.bose.com/en_us/products/headphones.html "Headphones")
     
     *   [Shop all](https://www.bose.com/en_us/shop_all/headphones/headphones.html "Shop all
         ")
     *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
-    *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
+    *   [Post-holiday sale](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Post-holiday sale")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
-    *   [HOLIDAY GIFTS](https://www.bose.com/en_us/products/gift_ideas.html "HOLIDAY GIFTS")
+    *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")
     *   [Work from Home](https://www.bose.com/en_us/landing_pages/work-from-home-products.html "Work from Home")
     
     *   [Noise cancelling](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html "Noise cancelling")
@@ -70,9 +58,9 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [Shop all](https://www.bose.com/en_us/shop_all/speakers/speakers.html "Shop all
         ")
     *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
-    *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
+    *   [Post-holiday sale](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Post-holiday sale")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
-    *   [HOLIDAY GIFTS](https://www.bose.com/en_us/products/gift_ideas.html "HOLIDAY GIFTS")
+    *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")
     
     *   [Portable](https://www.bose.com/en_us/products/speakers/portable_speakers.html "Portable")
     *   [Smart home](https://www.bose.com/en_us/products/speakers/smart_home.html "Smart home")
@@ -90,9 +78,9 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [Shop all](https://www.bose.com/en_us/shop_all/frames/frames.html "Shop all
         ")
     *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
-    *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
+    *   [Post-holiday sale](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Post-holiday sale")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
-    *   [HOLIDAY GIFTS](https://www.bose.com/en_us/products/gift_ideas.html "HOLIDAY GIFTS")
+    *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")
     
     *   [Sport performance: Tempo](https://www.bose.com/en_us/products/frames/bose-frames-tempo.html "Sport performance: Tempo")
     *   [Elegant cat eye: Soprano](https://www.bose.com/en_us/products/frames/bose-frames-soprano.html "Elegant cat eye: Soprano")

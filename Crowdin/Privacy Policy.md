@@ -98,6 +98,7 @@ Navigation
 *   [Adobe XD Plugin](https://support.crowdin.com/adobe-xd-plugin/)
 *   [Android SDK](https://support.crowdin.com/sdk-android/)
 *   [iOS SDK](https://support.crowdin.com/sdk-ios/)
+*   [Content Delivery](https://support.crowdin.com/content-delivery/)
 
 #### For Translators
 

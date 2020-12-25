@@ -49,6 +49,8 @@ POCOPHONE
 
  [](http://www.poco.net/global/poco-f2-pro/) [POCO F2 Pro](http://www.poco.net/global/poco-f2-pro/) 
 
+ [](https://www.mi.com/global/list/) [More](https://www.mi.com/global/list/) 
+
 Redmi Phones
 
  [](https://www.mi.com/global/redmi-9c/) [Redmi 9C](https://www.mi.com/global/redmi-9c/) 

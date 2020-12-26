@@ -6,8 +6,6 @@
 
 [Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-var ad\_idzone = "4106006", ad\_width = "728", ad\_height = "90"
-
 Pastebin.com Terms of Service UPDATED
 
 Come into effect 12th Nov 2020  
@@ -328,46 +326,44 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-var ad\_idzone = "4098462", ad\_width = "900", ad\_height = "250"
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/320gPuHt)
+*   [giraffe](https://pastebin.com/fR4QA16B)
     
-    Java | 16 min ago
+    C++ | 10 min ago
     
-*   [Untitled](https://pastebin.com/7b0uAnfr)
+*   [My Log File](https://pastebin.com/6GHsvakj)
     
-    Python | 19 min ago
+    HTML 5 | 17 min ago
     
-*   [Online Health Coac...](https://pastebin.com/d9W6k4sS)
+*   [My Log File](https://pastebin.com/TQaAGkLF)
     
-    JSON | 23 min ago
+    HTML 5 | 17 min ago
     
-*   [Untitled](https://pastebin.com/njF74CLf)
+*   [My Log File](https://pastebin.com/xLraZaVB)
     
-    Python | 37 min ago
+    HTML 5 | 25 min ago
     
-*   [Збир на елементи в...](https://pastebin.com/QGCxKXCk)
+*   [Untitled](https://pastebin.com/Zb5J5RHy)
     
-    Java | 40 min ago
+    C++ | 25 min ago
     
-*   [Нерекурзивно измин...](https://pastebin.com/qeEDCHTp)
+*   [My Log File](https://pastebin.com/inRRAD4K)
     
-    Java | 41 min ago
+    HTML 5 | 43 min ago
     
-*   [Windows Explorer l...](https://pastebin.com/WVVbPLCz)
+*   [code time](https://pastebin.com/ftBzqSeE)
     
-    Java | 42 min ago
+    Erlang | 48 min ago
     
-*   [Untitled](https://pastebin.com/ycuAxnL1)
+*   [Spotify](https://pastebin.com/sRLLPZwU)
     
-    jQuery | 46 min ago
+    JavaScript | 54 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-  
+Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

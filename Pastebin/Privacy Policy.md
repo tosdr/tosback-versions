@@ -166,39 +166,41 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/320gPuHt)
+*   [giraffe](https://pastebin.com/fR4QA16B)
     
-    Java | 16 min ago
+    C++ | 10 min ago
     
-*   [Untitled](https://pastebin.com/7b0uAnfr)
+*   [My Log File](https://pastebin.com/6GHsvakj)
     
-    Python | 19 min ago
+    HTML 5 | 17 min ago
     
-*   [Online Health Coac...](https://pastebin.com/d9W6k4sS)
+*   [My Log File](https://pastebin.com/TQaAGkLF)
     
-    JSON | 23 min ago
+    HTML 5 | 17 min ago
     
-*   [Untitled](https://pastebin.com/njF74CLf)
+*   [My Log File](https://pastebin.com/xLraZaVB)
     
-    Python | 37 min ago
+    HTML 5 | 25 min ago
     
-*   [Збир на елементи в...](https://pastebin.com/QGCxKXCk)
+*   [Untitled](https://pastebin.com/Zb5J5RHy)
     
-    Java | 40 min ago
+    C++ | 25 min ago
     
-*   [Нерекурзивно измин...](https://pastebin.com/qeEDCHTp)
+*   [My Log File](https://pastebin.com/inRRAD4K)
     
-    Java | 41 min ago
+    HTML 5 | 43 min ago
     
-*   [Windows Explorer l...](https://pastebin.com/WVVbPLCz)
+*   [code time](https://pastebin.com/ftBzqSeE)
     
-    Java | 42 min ago
+    Erlang | 48 min ago
     
-*   [Untitled](https://pastebin.com/ycuAxnL1)
+*   [Spotify](https://pastebin.com/sRLLPZwU)
     
-    jQuery | 46 min ago
+    JavaScript | 54 min ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  

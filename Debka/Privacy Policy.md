@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Friday, December 25, 2020  
+Saturday, December 26, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Vaccination drive in top gear, hopes to reach general public in 7-10 days](https://www.debka.com/mivzak/vaccination-drive-in-top-gear-hopes-to-reach-general-public-in-7-10-days/)
+    
+    Dec 26, 2020 @ 12:25
+    
+*   [IDF punishes Hamas for twin-rocket attack on Ashkelon](https://www.debka.com/mivzak/idf-punishes-hamas-for-twin-rocket-attack-on-ashkelon/)
+    
+    Dec 26, 2020 @ 11:40
+    
+*   [Two rockets from Gaza aimed at Ashkelon intercepted by Iron Dome](https://www.debka.com/mivzak/two-rockets-from-gaza-aimed-at-ashkelon-intercepted-by-iron-dome/)
+    
+    Dec 25, 2020 @ 20:35
+    
+*   [FBI probes massive bomb blast in Nashville on Christmas morning, At least 3 injured](https://www.debka.com/mivzak/fbi-probes-massive-bomb-blast-in-nashville-on-christmas-morning-at-least-3-injured/)
+    
+    Dec 25, 2020 @ 18:46
+    
 *   [Nearly 4,000 new covid cases on Thursday](https://www.debka.com/mivzak/nearly-4000-new-covid-cases-on-thursday/)
     
     Dec 25, 2020 @ 09:04
@@ -72,24 +88,24 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Zeev Elkin quits government and Likud to join Saar](https://www.debka.com/mivzak/zeev-elkin-quits-government-and-likud-to-join-saar/)
     
     Dec 23, 2020 @ 20:39
-    
-*   [Four covid mutation cases test positive at Israeli hospital](https://www.debka.com/mivzak/four-covid-mutation-cases-test-positive-at-israeli-hospital/)
-    
-    Dec 23, 2020 @ 17:55
-    
-*   [Netanyahu prepares full lockdown plan for cabinet approval](https://www.debka.com/mivzak/netanyahu-prepares-full-lockdown-plan-for-cabinet-approval/)
-    
-    Dec 22, 2020 @ 18:29
-    
-*   [Probe opened for antisemitic insults targeting Miss France runner-up](https://www.debka.com/mivzak/probe-opened-for-antisemitic-insults-targeting-miss-france-runner-up/)
-    
-    Dec 22, 2020 @ 16:02
-    
-*   [IDF augments Judea and Samaria division combat units](https://www.debka.com/mivzak/idf-augments-judea-and-samaria-division-combat-units/)
-    
-    Dec 22, 2020 @ 15:47
     
 
+*   [Vaccination drive in top gear, hopes to reach general public in 7-10 days](https://www.debka.com/mivzak/vaccination-drive-in-top-gear-hopes-to-reach-general-public-in-7-10-days/)
+    
+    Dec 26, 2020 @ 12:25
+    
+*   [IDF punishes Hamas for twin-rocket attack on Ashkelon](https://www.debka.com/mivzak/idf-punishes-hamas-for-twin-rocket-attack-on-ashkelon/)
+    
+    Dec 26, 2020 @ 11:40
+    
+*   [Two rockets from Gaza aimed at Ashkelon intercepted by Iron Dome](https://www.debka.com/mivzak/two-rockets-from-gaza-aimed-at-ashkelon-intercepted-by-iron-dome/)
+    
+    Dec 25, 2020 @ 20:35
+    
+*   [FBI probes massive bomb blast in Nashville on Christmas morning, At least 3 injured](https://www.debka.com/mivzak/fbi-probes-massive-bomb-blast-in-nashville-on-christmas-morning-at-least-3-injured/)
+    
+    Dec 25, 2020 @ 18:46
+    
 *   [Nearly 4,000 new covid cases on Thursday](https://www.debka.com/mivzak/nearly-4000-new-covid-cases-on-thursday/)
     
     Dec 25, 2020 @ 09:04
@@ -105,22 +121,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Zeev Elkin quits government and Likud to join Saar](https://www.debka.com/mivzak/zeev-elkin-quits-government-and-likud-to-join-saar/)
     
     Dec 23, 2020 @ 20:39
-    
-*   [Four covid mutation cases test positive at Israeli hospital](https://www.debka.com/mivzak/four-covid-mutation-cases-test-positive-at-israeli-hospital/)
-    
-    Dec 23, 2020 @ 17:55
-    
-*   [Netanyahu prepares full lockdown plan for cabinet approval](https://www.debka.com/mivzak/netanyahu-prepares-full-lockdown-plan-for-cabinet-approval/)
-    
-    Dec 22, 2020 @ 18:29
-    
-*   [Probe opened for antisemitic insults targeting Miss France runner-up](https://www.debka.com/mivzak/probe-opened-for-antisemitic-insults-targeting-miss-france-runner-up/)
-    
-    Dec 22, 2020 @ 16:02
-    
-*   [IDF augments Judea and Samaria division combat units](https://www.debka.com/mivzak/idf-augments-judea-and-samaria-division-combat-units/)
-    
-    Dec 22, 2020 @ 15:47
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

@@ -6,6 +6,8 @@
 
 [Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_design = "in\_content"; amzn\_assoc\_asins = "1788622057,1260108414";
+
 Pastebin.com Terms of Service UPDATED
 
 Come into effect 12th Nov 2020  
@@ -326,44 +328,48 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "54a25ab7a8ed2968f8bba9ec6024210c"; amzn\_assoc\_asins = "B07RX6FBFR,B0893TP1FZ,B010KYDNDG,B087NSVXDF"; amzn\_assoc\_search\_bar = "false";
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [giraffe](https://pastebin.com/fR4QA16B)
+*   [Alternative method...](https://pastebin.com/HUHmvtQA)
     
-    C++ | 10 min ago
+    PowerShell | 24 min ago
     
-*   [My Log File](https://pastebin.com/6GHsvakj)
+*   [Untitled](https://pastebin.com/HVHRQqGy)
     
-    HTML 5 | 17 min ago
+    Lua | 27 min ago
     
-*   [My Log File](https://pastebin.com/TQaAGkLF)
+*   [U22-XJ-V004-Androi...](https://pastebin.com/YUdUvzEV)
     
-    HTML 5 | 17 min ago
+    Bash | 28 min ago
     
-*   [My Log File](https://pastebin.com/xLraZaVB)
+*   [флойд](https://pastebin.com/nRciLzZk)
     
-    HTML 5 | 25 min ago
+    C++ | 1 hour ago
     
-*   [Untitled](https://pastebin.com/Zb5J5RHy)
+*   [1619\. House Robber](https://pastebin.com/AgPfvGmL)
     
-    C++ | 25 min ago
+    C++ | 1 hour ago
     
-*   [My Log File](https://pastebin.com/inRRAD4K)
+*   [1284\. Honeycomb Wa...](https://pastebin.com/6dyZmxEM)
     
-    HTML 5 | 43 min ago
+    C++ | 1 hour ago
     
-*   [code time](https://pastebin.com/ftBzqSeE)
+*   [4020\. Orks](https://pastebin.com/YWxyqWnH)
     
-    Erlang | 48 min ago
+    C++ | 1 hour ago
     
-*   [Spotify](https://pastebin.com/sRLLPZwU)
+*   [15\. Mouse and corn...](https://pastebin.com/vcbVVtUy)
     
-    JavaScript | 54 min ago
+    C++ | 1 hour ago
     
+
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "54a25ab7a8ed2968f8bba9ec6024210c"; amzn\_assoc\_asins = "B07M6R4NK3,B07K5ZR6HS,B08FC6C75Y,B08DF248LD"; amzn\_assoc\_search\_bar = "false";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
+  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

@@ -76,6 +76,7 @@ Ruqqus provides you with the ability to create, manage, and moderate communities
 *   Accept payment, gifts, or other compensation in exchange for performing Guildmaster actions. You may execute Guildmaster actions as part of employment duties, (for example, as a social media representative for your employer), but that fact must be plainly disclosed in the description of your Guild.
 *   Penalize users for content or conduct outside of your Guild
 *   Require integration with any third-party platform or service as a prerequisite for user participation in the Guild.
+*   Deliberately miscategorize your Guild.
 
 Multiple Accounts
 -----------------
@@ -87,6 +88,8 @@ You will not use multiple accounts to circumvent per-user limits. Examples of su
 *   Maximum one upvote or downvote per post or comment
 *   Maximum ten Guilds moderated at one time
 *   Maximum two Guilds created per day
+*   Maximum one Guild siege attempt per rolling thirty days
+*   Interaction restrictions due to Guild exiles or user blocks
 
 Additionally, these terms apply to all of your accounts, which may exist now or in the future. Ruqqus LLC reserves the right to take administrative action against all of your accounts in the event of a terms of service violation on any of your accounts.
 

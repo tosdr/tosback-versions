@@ -1,4 +1,4 @@
-[Threema is now open source!](https://threema.ch/en/blog/posts/open-source-discount)
+[Threema is now open source!](https://threema.ch/en/open-source)
 
 [![Threema.](/images/logo.svg)](https://threema.ch/en)
 

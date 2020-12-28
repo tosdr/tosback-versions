@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Sunday, December 27, 2020  
+Monday, December 28, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,70 +57,70 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
-*   [British covid variant identified in several European countries](https://www.debka.com/mivzak/british-covid-variant-identified-in-several-european-countries/)
+*   [Nasrallah claims a Saudi-US-Israel plot on his life](https://www.debka.com/mivzak/nasrallah-claims-a-saudi-us-israel-plot-on-his-life/)
     
-    Dec 26, 2020 @ 20:46
+    Dec 28, 2020 @ 13:35
     
-*   [George Blake, British agent and Soviet spy, dies aged 98](https://www.debka.com/mivzak/george-blake-british-agent-and-soviet-spy-dies-aged-98/)
+*   [New covid infection highest in 7 days,  also 379,000 vaccinations](https://www.debka.com/mivzak/new-covid-infection-highest-in-7-days-also-379000-vaccinations/)
     
-    Dec 26, 2020 @ 17:04
+    Dec 28, 2020 @ 11:21
     
-*   [Vaccination drive in top gear, hopes to reach general public in 7-10 days](https://www.debka.com/mivzak/vaccination-drive-in-top-gear-hopes-to-reach-general-public-in-7-10-days/)
+*   [Trump signs government funding and covid relief package](https://www.debka.com/mivzak/trump-signs-government-funding-and-covid-relief-package/)
     
-    Dec 26, 2020 @ 12:25
+    Dec 28, 2020 @ 10:43
     
-*   [IDF punishes Hamas for twin-rocket attack on Ashkelon](https://www.debka.com/mivzak/idf-punishes-hamas-for-twin-rocket-attack-on-ashkelon/)
+*   [Iran transfers short-range missiles to Iraq – report](https://www.debka.com/mivzak/iran-transfers-short-range-missiles-to-iraq-report/)
     
-    Dec 26, 2020 @ 11:40
+    Dec 27, 2020 @ 21:07
     
-*   [Two rockets from Gaza aimed at Ashkelon intercepted by Iron Dome](https://www.debka.com/mivzak/two-rockets-from-gaza-aimed-at-ashkelon-intercepted-by-iron-dome/)
+*   [Knesset committee rules all school classes to reopen](https://www.debka.com/mivzak/knesset-committee-rules-all-school-classes-to-reopen/)
     
-    Dec 25, 2020 @ 20:35
+    Dec 27, 2020 @ 17:46
     
-*   [FBI probes massive bomb blast in Nashville on Christmas morning, At least 3 injured](https://www.debka.com/mivzak/fbi-probes-massive-bomb-blast-in-nashville-on-christmas-morning-at-least-3-injured/)
+*   [Europe rolls out vaccination program](https://www.debka.com/mivzak/europe-rolls-out-vaccination-program/)
     
-    Dec 25, 2020 @ 18:46
+    Dec 27, 2020 @ 16:45
     
-*   [Nearly 4,000 new covid cases on Thursday](https://www.debka.com/mivzak/nearly-4000-new-covid-cases-on-thursday/)
+*   [Iran threatens strong response to Israeli submarine in the Gulf](https://www.debka.com/mivzak/iran-threatens-strong-response-to-israeli-submarine-in-the-gulf/)
     
-    Dec 25, 2020 @ 09:04
+    Dec 27, 2020 @ 16:36
     
-*   [Opposition sources: Six non-Syrians killed in alleged Israeli strike](https://www.debka.com/mivzak/syria-claims-israel-directed-a-barrage-of-missiles-at-masyaf-center/)
+*   [Vaccinations begin for armed forces on Monday](https://www.debka.com/mivzak/vaccinations-begin-for-armed-forces-on-monday/)
     
-    Dec 25, 2020 @ 08:56
+    Dec 27, 2020 @ 16:28
     
 
-*   [British covid variant identified in several European countries](https://www.debka.com/mivzak/british-covid-variant-identified-in-several-european-countries/)
+*   [Nasrallah claims a Saudi-US-Israel plot on his life](https://www.debka.com/mivzak/nasrallah-claims-a-saudi-us-israel-plot-on-his-life/)
     
-    Dec 26, 2020 @ 20:46
+    Dec 28, 2020 @ 13:35
     
-*   [George Blake, British agent and Soviet spy, dies aged 98](https://www.debka.com/mivzak/george-blake-british-agent-and-soviet-spy-dies-aged-98/)
+*   [New covid infection highest in 7 days,  also 379,000 vaccinations](https://www.debka.com/mivzak/new-covid-infection-highest-in-7-days-also-379000-vaccinations/)
     
-    Dec 26, 2020 @ 17:04
+    Dec 28, 2020 @ 11:21
     
-*   [Vaccination drive in top gear, hopes to reach general public in 7-10 days](https://www.debka.com/mivzak/vaccination-drive-in-top-gear-hopes-to-reach-general-public-in-7-10-days/)
+*   [Trump signs government funding and covid relief package](https://www.debka.com/mivzak/trump-signs-government-funding-and-covid-relief-package/)
     
-    Dec 26, 2020 @ 12:25
+    Dec 28, 2020 @ 10:43
     
-*   [IDF punishes Hamas for twin-rocket attack on Ashkelon](https://www.debka.com/mivzak/idf-punishes-hamas-for-twin-rocket-attack-on-ashkelon/)
+*   [Iran transfers short-range missiles to Iraq – report](https://www.debka.com/mivzak/iran-transfers-short-range-missiles-to-iraq-report/)
     
-    Dec 26, 2020 @ 11:40
+    Dec 27, 2020 @ 21:07
     
-*   [Two rockets from Gaza aimed at Ashkelon intercepted by Iron Dome](https://www.debka.com/mivzak/two-rockets-from-gaza-aimed-at-ashkelon-intercepted-by-iron-dome/)
+*   [Knesset committee rules all school classes to reopen](https://www.debka.com/mivzak/knesset-committee-rules-all-school-classes-to-reopen/)
     
-    Dec 25, 2020 @ 20:35
+    Dec 27, 2020 @ 17:46
     
-*   [FBI probes massive bomb blast in Nashville on Christmas morning, At least 3 injured](https://www.debka.com/mivzak/fbi-probes-massive-bomb-blast-in-nashville-on-christmas-morning-at-least-3-injured/)
+*   [Europe rolls out vaccination program](https://www.debka.com/mivzak/europe-rolls-out-vaccination-program/)
     
-    Dec 25, 2020 @ 18:46
+    Dec 27, 2020 @ 16:45
     
-*   [Nearly 4,000 new covid cases on Thursday](https://www.debka.com/mivzak/nearly-4000-new-covid-cases-on-thursday/)
+*   [Iran threatens strong response to Israeli submarine in the Gulf](https://www.debka.com/mivzak/iran-threatens-strong-response-to-israeli-submarine-in-the-gulf/)
     
-    Dec 25, 2020 @ 09:04
+    Dec 27, 2020 @ 16:36
     
-*   [Opposition sources: Six non-Syrians killed in alleged Israeli strike](https://www.debka.com/mivzak/syria-claims-israel-directed-a-barrage-of-missiles-at-masyaf-center/)
+*   [Vaccinations begin for armed forces on Monday](https://www.debka.com/mivzak/vaccinations-begin-for-armed-forces-on-monday/)
     
-    Dec 25, 2020 @ 08:56
+    Dec 27, 2020 @ 16:28
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

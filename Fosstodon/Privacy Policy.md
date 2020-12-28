@@ -102,7 +102,7 @@ Fosstodon is an English speaking Mastodon instance that is open to anyone who is
 #### fosstodon.org
 
 *   [About](https://fosstodon.org/about/more)
-*   v3.2.2
+*   v3.3.0
 
 #### More…
 

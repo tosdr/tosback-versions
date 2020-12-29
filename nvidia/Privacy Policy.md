@@ -262,7 +262,7 @@ other links
 
 .cls-1 { fill: #79b600; } .cls-2 { fill: #fff; } Back to top
 
-NVIDIAGDC.funcQueue.addToQueue({ id : "navigatione7095510\_89ba\_4a23\_8b9b\_e17ad533636f", method : "navigation", params : \[{ globalSite:false, breadCrumbAdded: true, enableSearchLibrary: false, searchOptions: { destination: "https://www.nvidia.com/en-us/search/", apiUrl: "https://app.nvidia.com/search/graphql", triggerId: 'nvidia-search-box-link', referenceId: 'nvidia-search-box-link' } }\] });
+NVIDIAGDC.funcQueue.addToQueue({ id : "navigation00ca6fd5\_b5e4\_4a32\_959c\_7d30854eced5", method : "navigation", params : \[{ globalSite:false, breadCrumbAdded: true, enableSearchLibrary: false, searchOptions: { destination: "https://www.nvidia.com/en-us/search/", apiUrl: "https://app.nvidia.com/search/graphql", triggerId: 'nvidia-search-box-link', referenceId: 'nvidia-search-box-link' } }\] });
 
 This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the [instructions how to enable JavaScript in your web browser.](http://www.enable-javascript.com/)
 

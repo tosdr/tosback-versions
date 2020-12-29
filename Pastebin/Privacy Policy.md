@@ -6,8 +6,6 @@
 
 [Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_design = "in\_content"; amzn\_assoc\_asins = "B088HH6LW5,B08LXHGD7C";
-
 Pastebin.com Privacy Statement UPDATED
 
 Thank you for entrusting Pastebin with your pastes and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
@@ -168,44 +166,42 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_asins = "B082GR814B,B082G5SPR5,B07VWXCXM7,B06XKNZT1P"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_title = "";
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/VPHq9hSG)
+*   [Untitled](https://pastebin.com/rCz9pV0m)
     
-    C++ | 1 min ago
+    HTML | 15 min ago
     
-*   [3987\. Complete Gra...](https://pastebin.com/WdNwLHR1)
+*   [My Log File](https://pastebin.com/0cS3Rv78)
     
-    C | 4 min ago
+    HTML 5 | 20 min ago
     
-*   [Untitled](https://pastebin.com/53VNB7GF)
+*   [SunProgressAnimati...](https://pastebin.com/07Zz6rS0)
     
-    PostgreSQL | 4 min ago
+    Lua | 34 min ago
     
-*   [AppController.php](https://pastebin.com/nBP1j2wj)
+*   [dollar\_stock\_price](https://pastebin.com/qtQcBqwZ)
     
-    PHP | 6 min ago
+    Python | 39 min ago
     
-*   [Eastern Ranked Son...](https://pastebin.com/9KvFvLMN)
+*   [My Log File](https://pastebin.com/ti5SZEAh)
     
-    JSON | 15 min ago
+    HTML 5 | 46 min ago
     
-*   [Untitled](https://pastebin.com/25m5g4Ld)
+*   [My Log File](https://pastebin.com/PHJLH9Zq)
     
-    C++ | 28 min ago
+    HTML 5 | 46 min ago
     
-*   [Untitled](https://pastebin.com/10CU4f26)
+*   [My Log File](https://pastebin.com/5Bg16c4j)
     
-    C | 28 min ago
+    HTML 5 | 46 min ago
     
-*   [BarHandler](https://pastebin.com/rJaH68TU)
+*   [Script audio buat...](https://pastebin.com/AtKcwJqZ)
     
-    Lua | 30 min ago
+    HTML | 1 hour ago
     
-
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08D44WKC4,B07ZPC9QD4,B08KWLMZV4,B08GFBFJW3";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  

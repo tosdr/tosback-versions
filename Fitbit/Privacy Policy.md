@@ -13,7 +13,7 @@
     *   [Shop All Products](https://www.fitbit.com/global/us/products)
     
     *   EXPERIENCES
-    *   [Setup Process](https://help.fitbit.com/articles/en_US/Help_article/1873.htm)
+    *   [Setup Process](https://www.fitbit.com/global/us/setup)
     
     [](https://www.fitbit.com/global/us/products/smartwatches/sense)
     

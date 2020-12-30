@@ -1,4 +1,4 @@
-**_Last updated: 07/27/20_**
+**_Last updated: 12/28/20_**
 
 These Terms of Service apply to the executable code version of Cocoon
 
@@ -9,8 +9,6 @@ By creating a Cocoon account or Logging In, you acknowledge and agree to Cocoon 
 Members are not permitted to attempt “gaming” or “hacking” the Cocoon program in any way.
 
 Members will not, under any circumstances, encourage other members or any other persons to hack or game the Cocoon program including via online blogs, forums, groups, etc.
-
-Members will not post referral links in an attempt to trick members or any other persons through deceptive means, inaccurate descriptions, fake earning opportunities or other questionable methods as determined by the Cocoon staff.
 
 Cocoon at its sole discretion will and can cancel or remove your account or suspend your account entirely if Cocoon has reasons to believe that rewards were earned through means that are against the Cocoon Terms & Conditions as well as the spirit of the guidelines. Examples of abuse that Cocoon’s automated technology will flag and will not be tolerated include: extended inactivity, software that attempts to manipulate the program in any way, and app usage anomalies outside of normal behavior patterns.
 
@@ -77,27 +75,20 @@ You agree that you are solely responsible for (and that Cocoon has no responsibi
 **Accessing the Service**
 -------------------------
 
-In order to access apps or website, you need a compatible device. You also need access to the Internet through a mobile data plan or an Internet subscription. You are solely responsible for paying any service fees associated with any such access (including data charges). You must provide all equipment, software and access necessary to connect to our service. Our service is not available on all operating systems, devices, or locations. You should note that depending on your device, your device might not be able to access our service while you are using other features of your device.
+In order access apps or website, you need a compatible device. You also need access to the Internet through a mobile data plan or an Internet subscription. You are solely responsible for paying any service fees associated with any such access (including data charges). You must provide all equipment, software and access necessary to connect to our service. Our service is not available on all operating systems, devices, or locations. You should note that depending on your device, your device might not be able to access our service while you are using other features of your device.
 
 In order to ensure the availability and quality of our service for all of our users, by accessing our service, you agree that your device and/or software does not disturb or interfere with our service, including our mobile apps, our tablet apps, or our website. If we suspect that any equipment or software is causing interference with our service, we reserve the right to immediately disconnect that equipment or software from our service, and we reserve the right to immediately suspend or terminate your further use of our service. If any upgrade to the service requires changes in your equipment or software, and you wish to continue using our service, it will be your responsibility to make these changes at your own expense. Any additional features that augment or enhance our service will be subject to these terms and conditions. You agree to comply with all applicable laws in your use of our service.
 
 Cocoon is willing to license the Software to you only upon the condition that you accept all the terms contained in this Agreement. You indicate your acceptance of this Agreement by clicking on the “I Agree” button (if one appears), or simply by downloading, installing or using the Software. By doing any of these actions you have indicated that you understand this Agreement and accept all of its terms. If you are accepting the terms of this Agreement on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind that company or other legal entity to the terms of this Agreement, and, in such event, “you” and “your” will refer to that company or other legal entity. If you are under the age of majority in your jurisdiction of residence, you must have the agreement of your parent/legal guardian to this Agreement on your behalf. If you do not accept all the terms of this Agreement, then Cocoon is unwilling to license the Software to you, and you may not use it, and you must immediately remove the Software from any computers or devices upon which you have downloaded or installed it.
 
-**User Representations and Warranties**  
-By using the Software, you represent, warrant and covenant that you:  
-(i) shall use the Software only as set forth in these Terms of Service;
+User Representations and Warranties. By using the Software, you represent, warrant and covenant that you: (i) shall use the Software only as set forth in these Terms of Service; (ii) have the power and authority to enter into and be bound by the Terms of Service; and (iii) are thirteen years of age or older. If you are under the age of 13, you are not allowed to use the Software. Cocoon and the Cocoon Rewards Platform are only available in the United States. Any rewards earned outside of the locations listed are not eligible for redemption. Cocoon is working to expand into more areas globally.
 
-(ii) have the power and authority to enter into and be bound by the Terms of Service; and
-
-(iii) are thirteen years of age or older. If you are under the age of 13, you are not allowed to use the Software. Cocoon and the Cocoon Rewards Platform are only available in the United States. Any rewards earned outside of the locations listed are not eligible for redemption. Cocoon is working to expand into more areas globally.
-
-**Embedded Reporting; Privacy  
-** You acknowledge that the Software contains automated reporting routines that will automatically identify and analyze certain aspects of use and performance of the Software and the systems with which the Software is used, as well as the operator and operating environment (including problems and issues that arise in connection therewith), and you hereby consent to the Software’s sending such data to Cocoon. Cocoon will be free to use for development, diagnostic, and corrective purposes any data and information it so collects relating to diagnosis, problems, systems, performance, use, or functionality. Please see Cocoon’s Privacy Policy (which is incorporated into this Agreement by reference) for more information and notices concerning Cocoon’s collection and use of your personal information, including how to opt out of collection of this information.
+Embedded Reporting; Privacy. You acknowledge that the Software contains automated reporting routines that will automatically identify and analyze certain aspects of use and performance of the Software and the systems with which the Software is used, as well as the operator and operating environment (including problems and issues that arise in connection therewith), and you hereby consent to the Software’s sending such data to Cocoon. Cocoon will be free to use for development, diagnostic, and corrective purposes any data and information it so collects relating to diagnosis, problems, systems, performance, use, or functionality. Please see Cocoon’s Privacy Policy (which is incorporated into this Agreement by reference) for more information and notices concerning Cocoon’s collection and use of your personal information, including how to opt out of collection of this information.
 
 **Privacy and your personal information**
 -----------------------------------------
 
-For information about Cocoon’s data protection practices, please read Cocoon’s privacy policy at [https://trycocoon.com/privacy/](https://trycocoon.com/privacy/). This policy explains how Cocoon treats your personal information and protects your privacy when you use the Services.
+For information about Cocoon’s data protection practices, please read Cocoon’s privacy policy at https://trycocoon.com/privacy/. This policy explains how Cocoon treats your personal information, and protects your privacy, when you use the Services.
 
 You agree to the use of your data in accordance with Cocoon’s privacy policies.
 
@@ -110,7 +101,7 @@ You understand that all information (such as data files, written text, computer 
 
 You should be aware that Content presented to you as part of the Services, including but not limited to advertisements in the Services and sponsored Content within the Services may be protected by intellectual property rights which are owned by the sponsors or advertisers who provide that Content to Cocoon (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this Content (either in whole or in part) unless you have been specifically told that you may do so by Cocoon or by the owners of that Content, in a separate agreement.
 
-Cocoon reserves the right (but shall have no obligation) to pre-screen, review, flag, filter, modify, refuse or remove any or all Content from any Service. For some of the Services, Cocoon may provide tools to filter out explicit sexual content. These tools include the SafeSearch preference settings (see [https://support.google.com/websearch/answer/510?hl=en](https://support.google.com/websearch/answer/510?hl=en)). In addition, there are commercially available services and software to limit access to material that you may find objectionable.
+Cocoon reserves the right (but shall have no obligation) to pre-screen, review, flag, filter, modify, refuse or remove any or all Content from any Service. For some of the Services, Cocoon may provide tools to filter out explicit sexual content. These tools include the SafeSearch preference settings (see https://support.google.com/websearch/answer/510?hl=en). In addition, there are commercially available services and software to limit access to material that you may find objectionable.
 
 You understand that by using the Services you may be exposed to Content that you may find offensive, indecent or objectionable and that, in this respect, you use the Services at your own risk.
 
@@ -149,7 +140,8 @@ Subject to your compliance with the terms and conditions of this Agreement, Coco
 
 Cocoon reserves all rights in the Software not expressly granted to you in this Agreement. You also agree to abide by the rules of Google’s Play Store and the permitted “Usage Rules” defined by Google.
 
-Restrictions. Except as expressly specified in this Agreement, you may not:
+**Restrictions  
+**Except as expressly specified in this Agreement, you may not:
 
 (a) copy or modify the Software;
 
@@ -159,14 +151,19 @@ Restrictions. Except as expressly specified in this Agreement, you may not:
 
 You acknowledge and agree that portions of the Software, including, without limitation, the source code and the specific design and structure of individual modules or programs, constitute the intellectual property of or contain trade secrets of Cocoon and its licensors. Accordingly, you agree not to disassemble, decompile, or otherwise reverse engineer the Software, in whole or in part, or permit or authorize a third party to do so, except to the extent such activities are expressly permitted by law notwithstanding this prohibition.
 
-**Ownership**  
-The Software is licensed, not sold. You own the media on which the Software is recorded (if any was provided to you), but Cocoon retains ownership of the copy of the Software itself, including all intellectual property rights therein, even if Cocoon incorporates any Feedback (defined below) into subsequent versions of the Software or otherwise uses such Feedback. The Software is protected by the United States, and Canadian copyright law and international treaties. You will not delete or in any manner alter the copyright, trademark, and other proprietary rights notices or markings appearing on the Software as delivered to you.
+**Ownership  
+**The Software is licensed, not sold. You own the media on which the Software is recorded (if any was provided to you), but Cocoon retains ownership of the copy of the Software itself, including all intellectual property rights therein, even if Cocoon incorporates any Feedback (defined below) into subsequent versions of the Software or otherwise uses such Feedback. The Software is protected by United States, and Canadian copyright law and international treaties. You will not delete or in any manner alter the copyright, trademark, and other proprietary rights notices or markings appearing on the Software as delivered to you.
 
-**External Content**  
-Cocoon includes many features that are designed to allow you to import and share content from other parts of the web that are important to you (such as your social network profile, friends, and contact lists) and gives you easy access to that information. You hereby grant Cocoon a worldwide, non-exclusive, royalty-free, sub licensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform this content for the sole purpose of providing you with these features, and you affirm, represent, and warrant that you own or have the necessary licenses, rights, and consents to grant this license to Cocoon. You retain copyright and any other rights you already hold to content you submit, post or display through the Software. Furthermore, you understand that all content (without limitation, text, data files, web pages, software, extensions, audio and video files, and images) which you may have access to through the Software is the responsibility of the person or entity from which the content originated and not the responsibility of Cocoon. You understand that the Software may allow you to access content that is offensive or objectionable to you and that in this respect you use the Software at your own risk
+**External Content**
+
+Cocoon includes many features that are designed to allow you to import and share content from other parts of the web that are important to you (such as your social network profile, friends, and contact lists) and gives you easy access to that information. You hereby grant Cocoon a worldwide, non-exclusive, royalty-free, sub licensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform this content for the sole purpose of providing you with these features, and you affirm, represent, and warrant that you own or have the necessary licenses, rights, and consents to grant this license to Cocoon. You retain copyright and any other rights you already hold to content you submit, post or display through the Software. Furthermore, you understand that all content (without limitation, text, data files, web pages, software, extensions, audio and video files, and images) which you may have access to through the Software is the responsibility of the person or entity from which the content originated and not the responsibility of Cocoon. You understand that the Software may allow you to access content that is offensive or objectionable to you and that in this respect you use the Software at your own risk.
 
 **Content license from you**
 ----------------------------
+
+You retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services.
+
+**Updates and Upgrades; No Obligation.**
 
 You retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services.
 
@@ -178,14 +175,16 @@ Cocoon is not obligated to maintain or support the Software, or to provide you w
 
 The Software which you use may automatically download and install updates from time to time from Cocoon. These updates are designed to improve, enhance and further develop the Services and may take the form of bug fixes, enhanced functions, new software modules and completely new versions. You agree to receive such updates (and permit Cocoon to deliver these to you) as part of your use of the Services.
 
-**Open-Source Software**  
-The Software is distributed with certain independent code that is licensed under open source licenses (“Open Source Code”) and the Open Source Code is licensed to you in accordance with the applicable open source licenses. To the extent that any of the terms and conditions of this Agreement conflict with any such open source licenses, the conflicting terms and conditions will not apply to the corresponding Open Source Code. Please contact us for important information regarding this Software
+**Open-Source Software**
+
+The Software is distributed with certain independent code that is licensed under open source licenses (“Open Source Code”) and the Open Source Code is licensed to you in accordance with the applicable open source licenses. To the extent that any of the terms and conditions of this Agreement conflict with any such open source licenses, the conflicting terms and conditions will not apply to the corresponding Open Source Code. Please contact us for important information regarding this Software.
 
 We use cookies, web beacons, and other tracking technologies to collect information about you when you use this Software. Specifically, we collect your IP address, browser type, operating system, date and time of your visit, time spent on site, and/or browser referral headers.
 
 We may obtain information about you, either individually, or in the aggregate, from other sources, such as third party partners and affiliates. For example, if you navigate to one of our Affiliate Partners on a device with the Cocoon Software and make a purchase, our Affiliate Partner will notify us that you have made a transaction. As part of this notification, we will obtain the name of the Affiliate Store from which you made a purchase, the amount of the purchase, the date of the purchase, in some cases, a description of the item purchased, and your unique tracking ticket. The Affiliate Store does not provide us with any credit card information. We are not responsible for the accuracy of any information that we obtain from third parties.
 
-**User Conduct**  
+**User Conduct**
+
 You agree that you will not engage in any activity that interferes with or disrupts the Software, Cocoon Browser, Apps, Sites or the Services (or the servers and networks which are connected to the Services) or use any service to manipulate your CPU to gain distinct advantage on any of our programs. If you are found in violation, your rewards will be cancelled and your account is subject to be banned.
 
 Unless you have been specifically permitted to do so in a separate agreement with us, you agree that you will not reproduce, duplicate, copy, sell, trade or resell the Services for any purpose.
@@ -230,7 +229,7 @@ Accounts that have not earned a Cocoon Reward within 90 days or more are deemed 
 
 You further agree that Cocoon has the right at any time in its sole discretion to cancel and remove Cocoon Rewards if your account is found in violation of any of the terms held therein or for any reason at all in Cocoon’s sole discretion.
 
-Fair Usage Policy. Cocoon reserves the right to cancel your account and block your IP if it has reasons to believe that you are using the Cocoon apps in a fraudulent manner in Cocoon’s sole discretion. If Cocoon detects unusual activity, we may require you to provide identification or other means of verification in order to verify the authenticity of your account including the number of devices registered to your account, the number of referrals you’ve invited, and the number of people in your household.
+Fair Usage Policy. Cocoon reserves the right to cancel your account and block your IP if it has reasons to believe that you are using the Cocoon apps in a fraudulent manner in Cocoon’s sole discretion. If Cocoon detects unusual activity, we may require you to provide identification or other means of verification in order to verify the authenticity of your account including the number of devices registered to your account and the number of people in your household.
 
 It is against these terms of service to earn through the applications without any user activity for any extensive period of time determined in Cocoon’s sole discretion.
 
@@ -244,21 +243,26 @@ Request or knowingly collect personally identifiable information online or offli
 
 Knowingly use or share personal information from users under 13 years of age with third parties;
 
-We request that children under the age of 13 not submit any Personal Information to us via Cocoon services. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. All points or tokens earned by a member who is later identified as being in violation of these terms will be removed from the account. Questions regarding children’s privacy should be directed to: [https://trycocoon.com/contact/](https://trycocoon.com/contact/)
+We request that children under the age of 13 not submit any Personal Information to us via the Cocoon.com Services. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. All points or tokens earned by a member who is later identified as being in violation of these terms will be removed from the account. Questions regarding children’s privacy should be directed to: [https://trycocoon.com/contact/](https://trycocoon.com/contact/)
 
 **Confidentiality  
-**At times, we may make available to you pre-release versions of the Software. All the terms of this Agreement apply to such pre-release versions of the Software. In addition these pre-release versions are not for use by the general public or any person not participating in the pre-release program and subject to this Agreement.
+**
 
-**Term**  
+At times, we may make available to you pre-release versions of the Software. All the terms of this Agreement apply to such pre-release versions of the Software. In addition these pre-release versions are not for use by the general public or any person not participating in the pre-release program and subject to this Agreement.
+
+**Term**
+
 The license to the Software granted under these Terms of Service remains in effect for a period of 100 years, unless earlier terminated by you or Cocoon in accordance with this provision. You may terminate the license at any time by destroying all copies of the Software in your possession or control. The license granted under this Agreement will automatically terminate, with or without notice from Cocoon, if you breach any term of this Agreement. Upon termination, you must cease all use of the Software and promptly destroy all copies of the Software in your possession or control.
 
 **Changes to this Agreement**  
 Cocoon reserves the right, at its sole discretion and at any time, to modify this Agreement or any portion thereof, at any time and without prior notice. If we modify this Agreement, we will post the modification on our Web site or provide you with notice of the modification. By continuing to access or use the Software after we have posted a modification on the Web site or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified agreement. If the modified Agreement is not acceptable to you, your only option is to stop using the Software and uninstall it from any computers or devices on which you have it installed.
 
-**No Warranty; Disclaimer**  
+**No Warranty; Disclaimer**
+
 To the maximum extent permitted by applicable law, the Software is provided “AS IS”, and “AS AVAILABLE”, without warranty of any kind. TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW, COCOON EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES AND CONDITIONS OF ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, AND ANY WARRANTIES AND CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM Cocoon OR ELSEWHERE WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY STATED IN THIS AGREEMENT.
 
-**Limitation of Liability**  
+**Limitation of Liability**
+
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW YOU EXPRESSLY UNDERSTAND AND AGREE THAT COCOON AND ITS SUBSIDIARIES’ AND AFFILIATES’, AND ITS LICENSORS’ (“COCOON PARTIES”) TOTAL LIABILITY TO YOU FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNTS PAID TO COCOON BY YOU FOR THE SOFTWARE OR, IN THE EVENT THAT COCOON HAS MADE THE SOFTWARE AVAILABLE TO YOU WITHOUT CHARGE, ANY SUCH TOTAL LIABILITY WILL BE LIMITED TO TWENTY DOLLARS ($20). IN NO EVENT WILL COCOON BE LIABLE TO YOU FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF USE, DATA, BUSINESS, PROFITS OR ABILITY TO EXECUTE) OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE EXECUTION OR PERFORMANCE OF THE SOFTWARE, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT Cocoon HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 You agree to indemnify and hold harmless the Cocoon Parties from and against all claims, actions, demands, liabilities, costs, and expenses. Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitations or exclusions may not apply to you.
@@ -299,12 +303,14 @@ IN PARTICULAR, COCOON, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT
 
 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 
-NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COCOON OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COCOON OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT
+
+EXPRESSLY STATED IN THE TERMS.
 
 COCOON FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
-**Copyright and trade mark policies**
--------------------------------------
+**Copyright and trademark policies**
+------------------------------------
 
 It is Cocoon’s policy to respond to notices of alleged copyright infringement that comply with applicable international intellectual property law (including, in the United States, the Digital Millennium Copyright Act) and to terminating the accounts of repeat infringers. Details of Cocoon’s policy can be found at [https://trycocoon.com/ccpa/](https://trycocoon.com/ccpa/).
 
@@ -326,12 +332,9 @@ You acknowledge and agree that Cocoon is not responsible for the availability of
 
 You acknowledge and agree that Cocoon is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
 
-**Changes to the Terms**
-------------------------
-
 Cocoon may make changes to the Universal Terms or Additional Terms from time to time. When these changes are made, Cocoon will make a new copy of the Universal Terms available at [https://trycocoon.com/terms/](https://trycocoon.com/terms/) and any new Additional Terms will be made available to you from within, or through, the affected Services.
 
-You understand and agree that if you use the Services after the date on which the Universal Terms or Additional Terms have changed, Cocoon will treat your use as acceptance of the updated Universal Terms or Additional Terms
+You understand and agree that if you use the Services after the date on which the Universal Terms or Additional Terms have changed, Cocoon will treat your use as acceptance of the updated Universal Terms or Additional Terms.
 
 **General legal terms**
 -----------------------
@@ -385,28 +388,36 @@ We use the information we collect to:
 *   Analyze site and user behavior and prepare aggregated reports
 *   Tell you about our services and those of our corporate family
 
-**Sharing and Disclosure**  
+**Sharing and Disclosure**
+
 We may share data with associates, consultants, vendors and service providers under contract who help with our business operations in which compensation may occur (such as maintaining the Cocoon Network and providing related services). We partner with third-party advertisers to serve ads and/or collect certain information when you visit our websites. These third-parties may use cookies to collect data during your visit to this website in order to help show more relevant advertisements on other websites and other forms of media. To learn more about this ‘behavioral advertising’ practice or to opt-out of this use of your anonymous information, you can visit [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
-**Assets**  
+**Assets**
+
 As our business evolves, the Cocoon Network may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, data may be one of the assets transferred. Other Disclosures. We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on the Cocoon Network; to protect the property or interests of the Cocoon Network, its agents and employees; or to protect personal safety or the public.
 
-**Opting Out of the Services**  
+**Opting Out of the Services**
+
 We provide multiple ways for you to opt out of our services. You may opt out of the collection of data collected by using tools provided by industry groups such as the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (the “DAA”). You may access the NAI opt-out tool here. This opt-out tool allows you to opt out of the data collection and preference-based ad programs of NAI member companies. These opt-out tools are cookie-based. Please note that these tools only prevent our third-parties from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, we will collect data from that browser until an opt-out cookie is reset on that browser.
 
-**Email Communications**  
+**Email Communications**
+
 If you send emails to a recipient through our site, they will receive your email address and any personal message you include. Although we do not retain in any easily retrievable way the addresses you email, these emails are not private communications. You may not use our email tools to send spam or content that violates the User Agreement.
 
-**Anti-Spam Policy**  
+**Anti-Spam Policy**
+
 The Cocoon Network does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our Privacy Department and we will investigate.
 
-**Links to Other Sites**  
+**Links to Other Sites**
+
 The Cocoon Network contains links to other websites. Cocoon is not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site’s own privacy policy.
 
-**Security**  
+**Security**
+
 The Cocoon Network uses physical, electronic and administrative safeguards, including advances firewall and password protection for our databases to help protect the security of information. For example, we restrict access to your information to employees that need to know that information in order to operate, develop or improve our services. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-**Pricing**  
+**Pricing**
+
 MyData Rewards is a product of the parent company Virtual World Computing which provides the monetization of your anonymous data.
 
 MyData Rewards is purchasing your anonymized data at a competitive market rate on a monthly basis for the year 2020.
@@ -423,37 +434,43 @@ Should the MyData Rewards monetization button be disabled, all data collection b
 
 The pricing for monetized pages is subject to change based on advertiser payout rates which are not under our control.
 
-**International Mobile Users Pay Schedule**  
-Mobile users outside the United States that have a balance greater or equal to $5 will be paid monthly in US dollars. To receive payment from MyData Rewards you must provide your PayPal email address in the MyData Rewards Dashboard area “payment” section.  Failure to provide your PayPal email address will negate the user’s ability to receive payment.
+**Geo Location Information  
+**
 
-**Dormancy**  
+Location information is collected in the form of GPS signals (combined with a time-stamp), IP address and other information from sensors and receivers on or around your device, on which the application is installed and activated. In some locations a GPS signal is not available or strong enough to continue collection your geo location information. When the GPS signal is lost or disconnects and information cannot be collected you will not earn rewards for that time period. Once the GPS signal is established again your geo location data will be collected and you will begin earning rewards again.
+
+**International Mobile Users Pay Schedule**
+
+Mobile users outside the United States that have a balance greater or equal to $3 will be paid monthly in US dollars. To receive payment from MyData Rewards you must provide your PayPal email address in the MyData Rewards Dashboard area “payment” section.  Failure to provide your PayPal email address will negate the user’s ability to receive payment.
+
+**Dormancy**
+
 Any account that is not logged into by the user for 6 months will be marked as inactive/dormant. Any rewards balance remaining will be forfeit upon the account being marked inactive/dormant.
 
-**General**  
+**General**
+
 We reserve the right to change this End User Privacy Policy from time to time in our sole discretion. We will post changes on this page and indicate the “last modified” date at the top of this page. Please check back often for any updates. Your continued use of our website or services after any change in this End User Privacy Statement will constitute your acceptance of such change. If we need, or are required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.
 
 Cocoon commits to cooperate with the panel established by the EU data protection authorities (DPAs) and to comply with the advice given by the panel with regard to personal data transferred from the EU. Residents of the EU with inquiries or complaints regarding this Privacy Policy should first contact Cocoon via the contact information listed below. If your privacy concern is not resolved satisfactorily, you may wish to contact your local data protection authority who will refer your complaint to the panel to investigate your query free of charge. Please note that if your complaint is not resolved, you may have the right, under certain limited conditions, to invoke binding arbitration before the Privacy Shield Panel of the U.S. Department of Commerce.
 
 If you have any questions about this privacy policy or the practices of the Cocoon Network, you may e-mail our Privacy Department at [support@getcocoon.com](mailto:support@getcocoon.com) or contact:
 
-**TryCocoon.com**  
+**Cocoon.com**  
 5425 Hollister Ave,Ste 160  
 Santa Barbara, CA 93111
 
 **Cocoon Opt-out Policy**
 -------------------------
 
-1\. Opt out in your device settings  
-If end users do not want Cocoon to identify their mobile device, they can:  
-(a) delete the Customer app or adjust the in-app settings of the Customer app if the app makes that option available (this will limit data collection from this app alone); or  
-(b) opt-out of sharing your mobile advertiser ID by limiting ad tracking on the device.
+1.  Opt out in your device settings  
+    If end users do not want Cocoon to identify their mobile device, they can: (a) delete the Customer app or adjust the in-app settings of the Customer app if the app makes that option available (this will limit data collection from this app alone); or (b) opt-out of sharing your mobile advertiser ID by limiting ad tracking on the device.For iOS, navigate to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android, open your Google Settings app > Ads > Enable “Opt out of interest-based advertising”.
+    
+    Apple opt-out help:
+    
 
-For iOS, navigate to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android, open your Google Settings app > Ads > Enable “Opt out of interest-based advertising”.
+https://support.apple.com/en-us/HT202074
 
-**Apple opt-out help:  
-**[https://support.apple.com/en-us/HT202074](https://support.apple.com/en-us/HT202074)
-
-**Google opt-out help:**  
+Google opt-out help:  
 [https://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
 For more information on specific opt-out choices, please visit: [http://www.networkadvertising.org/mobile-choices](http://www.networkadvertising.org/mobile-choices)

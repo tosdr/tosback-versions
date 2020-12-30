@@ -161,7 +161,7 @@ Promote safety in your business with social distancing stickers.
 
 ##### Most Popular
 
-[Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards)  
+[Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards) 
 
 [Textured Matte](https://www.jukeboxprint.com/textured-matte-business-cards)
 
@@ -410,6 +410,24 @@ EUR
     *   COVID-19 Products
 *   Business Cards
     *   Business Cards
+    *   [Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards)
+    *   [Textured Matte](https://www.jukeboxprint.com/textured-matte-business-cards)
+    *   [Spot UV](https://www.jukeboxprint.com/spot-uv-business-cards)
+    *   [Cannabis](https://www.jukeboxprint.com/cannabis-business-cards)
+    *   [Bamboo](https://www.jukeboxprint.com/bamboo-business-cards)
+    *   [Square](https://www.jukeboxprint.com/square-business-cards)
+    *   [Premium Value](https://www.jukeboxprint.com/premium-value-business-cards)
+    *   [Matte](https://www.jukeboxprint.com/matte-business-cards)
+    *   [Semi Gloss](https://www.jukeboxprint.com/semi-gloss-business-cards)
+    *   [Super Gloss](https://www.jukeboxprint.com/super-gloss-business-cards)
+    *   [Same Day](https://www.jukeboxprint.com/same-day-business-cards)
+    *   [Mini](https://www.jukeboxprint.com/mini-business-cards)
+    *   [Duplex (2-ply)](https://www.jukeboxprint.com/duplex-business-cards)
+    *   [Triplex (3-ply)](https://www.jukeboxprint.com/triplex-business-cards)
+    *   [28pt Mega Thick](https://www.jukeboxprint.com/28pt-mega-thick-business-cards)
+    *   [Kraft](https://www.jukeboxprint.com/kraft-business-cards)
+    *   [Pulp](https://www.jukeboxprint.com/pulp-business-cards)
+    *   [Uncoated](https://www.jukeboxprint.com/uncoated-business-cards)
     *   [Letterpress](https://www.jukeboxprint.com/letterpress-business-cards)
     *   [Wooden](https://www.jukeboxprint.com/wooden-business-cards)
     *   [Colorplan](https://www.jukeboxprint.com/colorplan-business-cards)

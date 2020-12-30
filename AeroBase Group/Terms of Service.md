@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-*   [Congress resurrects MQ-9 Reaper program, adding 16 drones for the Air Force](http://feedproxy.google.com/~r/defense-news/air/~3/q14jMgVWSBY/)  
-    12/22/20 03:14pm  
+*   [COVID-19 pandemic keeps Lockheed from meeting F-35 delivery goal in 2020](http://feedproxy.google.com/~r/defense-news/air/~3/jpJC2Wg9NCI/)  
+    12/29/20 11:06am  
     
-    The sun won't set on the Reaper program for at least another year — as long as a budget bill is passed into law. (Senior Airman Haley Stevens/U.S. Air Force)
+    An F-35A Lightning II assigned to the 62nd Fighter Squadron prepares to land, Nov. 2, 2020, at Luke Air Force Base, Ariz. (Airman 1st Class Brooke Moeder/Air Force)
     
-*   [Britain has one last contract for its Sentinel spy planes: Breaking them up](http://feedproxy.google.com/~r/defense-news/air/~3/vlShu5CRpKQ/)  
-    12/22/20 12:10pm  
+*   [Raise the Black Flag: Nellis launches new Air Force operational test event](http://feedproxy.google.com/~r/defense-news/air/~3/0wFao1lDT8s/)  
+    12/29/20 08:54am  
     
-    An R1 Sentinel aircraft at RAF Waddington. The British Defense Ministry announced in late 2020 that it is looking for a contractor to strip the planes for parts. (Sgt. Nik Howe/British Defence Ministry)
+    F-22s and F-16s from 422nd Test and Evaluation Squadron refuel from a KC-135 over the Nevada Test and Training Range on Nov. 17 for Large Force Test Event 20.03. LFTE 20.03 was the beta version of "Black Flag," a premier joint operational test event hosted by the 53rd Wing that validates tactics in a combat relevant environment. (1st Lt Savanah Bray/Air Force)
     
-*   [Year in review: Top stories from 2020](http://feedproxy.google.com/~r/defense-news/air/~3/p0kh_1Hfh_s/)  
-    12/21/20 05:00am  
+*   [New in 2021: Air Force’s ‘accelerate change’ agenda takes shape](http://feedproxy.google.com/~r/defense-news/air/~3/vtFpmEhxkFw/)  
+    12/29/20 08:57am  
     
-    A fire continues to be fought into the evening on board the amphibious assault ship USS Bonhomme Richard (LHD 6) at Naval Base San Diego, July 12, 2020. (MC2 Austin Haist/Navy)
+    Air Force Chief of Staff Gen. Charles "CQ" Brown speaks with senior leadership and faculty at Air University on Aug. 26. Brown detailed his plans on how the Air Force needs to change to face the challenges of the future in a series of action orders released in December. (Melanie Rodgers Cox/Air Force)
     
-*   [The military is scrambling to understand the aviation crash risk from a new 5G sale](http://feedproxy.google.com/~r/defense-news/air/~3/yEiwPTFq0wU/)  
-    12/21/20 03:45pm  
+*   [New in 2021: Advanced Battle Management System testing begins](http://feedproxy.google.com/~r/defense-news/air/~3/VZ9lD88TurM/)  
+    12/29/20 08:57am  
     
-    (Staff Sgt. Ryan Callaghan/U.S. Air Force)
+    Tech. Sgt. John Rodiguez provides security with a Ghost Robotics Vision 60 prototype at a simulated austere base during the Advanced Battle Management System exercise on Nellis Air Force Base, Nev., Sept. 1, 2020. (Tech. Sgt. Cory D. Payne/Air Force)
     
 
 Recent parts by keyword  
 
-*   [MS20760-20](https://aerobasegroup.com/search/?term=MS20760-20)
-*   [NAS24693-C](https://aerobasegroup.com/search/?term=NAS24693-C)
-*   [Ggg-w-636](https://aerobasegroup.com/search/?term=Ggg-w-636)
-*   [Ggg-f-360](https://aerobasegroup.com/search/?term=Ggg-f-360)
-*   [S096-1](https://aerobasegroup.com/search/?term=S096-1)
-*   [FSA2719M](https://aerobasegroup.com/search/?term=FSA2719M)
-*   [1N5231](https://aerobasegroup.com/search/?term=1N5231)
+*   [ls35345-01](https://aerobasegroup.com/search/?term=ls35345-01)
+*   [tg29d](https://aerobasegroup.com/search/?term=tg29d)
+*   [MS39086-43](https://aerobasegroup.com/search/?term=MS39086-43)
+*   [TF2219-50](https://aerobasegroup.com/search/?term=TF2219-50)
+*   [13228E9870](https://aerobasegroup.com/search/?term=13228E9870)
+*   [EA 9330.3](https://aerobasegroup.com/search/?term=EA+9330.3)
+*   [QQ-C-502](https://aerobasegroup.com/search/?term=QQ-C-502)
 
 The AeroBase Group Family ..
 

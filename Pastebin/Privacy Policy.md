@@ -166,46 +166,44 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
-(function(w,d,s,i){w.ldAdInit=w.ldAdInit||\[\];w.ldAdInit.push({slot:13577583510107238,size:\[0, 0\],id:"ld-6241-5672"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)\[0\];j.async=true;j.src="//cdn2.lockerdomecdn.com/\_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/rCz9pV0m)
+*   [Eastern Ranked Son...](https://pastebin.com/FHRmvfpU)
     
-    HTML | 15 min ago
+    JSON | 15 min ago
     
-*   [My Log File](https://pastebin.com/0cS3Rv78)
+*   [Presents Delivery](https://pastebin.com/5b7c9U7L)
     
-    HTML 5 | 20 min ago
+    Python | 35 min ago
     
-*   [SunProgressAnimati...](https://pastebin.com/07Zz6rS0)
+*   [vimrc colorcolumn](https://pastebin.com/d2nCcZNg)
     
-    Lua | 34 min ago
+    Bash | 48 min ago
     
-*   [dollar\_stock\_price](https://pastebin.com/qtQcBqwZ)
+*   [Script Bee Swarm D...](https://pastebin.com/q89HwrtX)
     
-    Python | 39 min ago
+    Lua | 50 min ago
     
-*   [My Log File](https://pastebin.com/ti5SZEAh)
+*   [Arduino Leonardo S...](https://pastebin.com/QmTLTT0d)
     
-    HTML 5 | 46 min ago
+    C# | 1 hour ago
     
-*   [My Log File](https://pastebin.com/PHJLH9Zq)
+*   [Untitled](https://pastebin.com/C2iYLc93)
     
-    HTML 5 | 46 min ago
+    C++ | 1 hour ago
     
-*   [My Log File](https://pastebin.com/5Bg16c4j)
+*   [Untitled](https://pastebin.com/M7C5yFmg)
     
-    HTML 5 | 46 min ago
+    VeriLog | 1 hour ago
     
-*   [Script audio buat...](https://pastebin.com/AtKcwJqZ)
+*   [new\_metadata](https://pastebin.com/FHR7XwHX)
     
-    HTML | 1 hour ago
+    JSON | 2 hours ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-  
+Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

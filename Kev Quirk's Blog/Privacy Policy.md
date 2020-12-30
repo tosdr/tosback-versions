@@ -3,7 +3,7 @@
 ![Kev's Avatar](/assets/images/avatar.png) Kev Quirk
 ====================================================
 
-[🏠 Home](https://kevq.uk/) [👨 About](https://kevq.uk/about/) [✉️ Contact](https://kevq.uk/contact/) [✏️ Blog](https://kevq.uk/blog/) [📝 Notes](https://kevq.uk/notes/) [🏷 Categories](https://kevq.uk/categories/) [📰 Newsletter](https://kevq.uk/newsletter/) [✏️ Blogroll](https://kevq.uk/blogroll/) [💬 Guestbook](https://users4.smartgb.com/g/g.php?a=s&i=g44-80784-24) [📚 RSS Feeds](https://kevq.uk/rss-feeds/) [🔍 Search](https://kevq.uk/search/)
+[🏠 Home](https://kevq.uk/) [👨 About](https://kevq.uk/about/) [✉️ Contact](https://kevq.uk/contact/) [✏️ Blog](https://kevq.uk/blog/) [💬 Guestbook](https://guestbook.kevq.uk/) [📝 Notes](https://kevq.uk/notes/) [📰 Newsletter](https://kevq.uk/newsletter/) [✏️ Blogroll](https://kevq.uk/blogroll/) [🔍 Search](https://kevq.uk/search/)
 
 More stuff this way ⮕
 
@@ -81,6 +81,8 @@ All public content on this site is published under the Creative Commons Share Al
 
 All work licensed under **CC BY-SA 4.0** unless otherwise stated.  
 [Disclaimer](https://kevq.uk/disclaimer) | [License Info](https://kevq.uk/license-information) | [Privacy](https://kevq.uk/privacy) | [Coffee](https://kevq.uk/buy-me-a-coffee)
+
+| [RSS](https://kevq.uk/rss-feeds)
 
 [![512 Club green team banner](/assets/images/green-team.svg)](https://512kb.club/)
 

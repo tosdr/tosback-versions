@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Privacy Policy last modified: November 11, 2020, 09:31:21, UTC.
+Privacy Policy last modified: December 29, 2020, 14:28:39, UTC.
 
 The short version
 -----------------
@@ -44,6 +44,6 @@ If you have any questions or concerns, please [contact](https://www.nikitin.phot
 
 * * *
 
-Photos and text are © [Copyright](https://www.nikitin.photo/copyright/ "Copyright information") 2020 Niklas Nikitin. All rights reserved. [Contact information](https://www.nikitin.photo/contact/ "To contact Niklas"). [Privacy Policy](https://www.nikitin.photo/privacy/ "Privacy policy").
+All text and photographs are © [Copyright](https://www.nikitin.photo/copyright/ "Copyright information") Niklas Nikitin, 2011 - 2020. All rights reserved. [Privacy Policy](https://www.nikitin.photo/privacy/ "Privacy policy").
 
 [![More images on Instagram](/images/instagram-white.png)](https://www.instagram.com/nikitin.photo "More images on Instagram")

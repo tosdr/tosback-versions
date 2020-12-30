@@ -1,28 +1,7 @@
 var newPDP = true
 
-.site-header .site-header-logo { max-width: 100px; flex-basis: 100px; } .logo > svg { width: 100px; } @media only screen and (max-width: 639px) { .logo > svg { width: 100%; max-width: 100px; } } .site-header, .show-for-large .topbar-nav > li { height: 60px; } @media only screen and (max-width: 639px) { .site-header, .show-for-large .topbar-nav > li { height: 60px; } } @media only screen and (min-width: 640px) { .header-searchbar .search-form .input-search.ss-ac-open + div\[ss-autocomplete\] { top: 60px; } } body > main { padding-top: 60px; padding-top: calc(60px + 24px); } @media only screen and (max-width: 639px) { body > main { padding-top: 60px; padding-top: calc(60px + 24px); } } .site-header .show-for-large .topbar-nav > li > a { font-family: Trade Gothic; color: #ffffff } .site-header .show-for-large .topbar-nav > li > a:hover, .site-header .show-for-large .topbar-nav > li > a.show { color: #ffffff; }
+.site-header .site-header-logo { max-width: 100px; flex-basis: 100px; } .logo > svg { width: 100px; } @media only screen and (max-width: 639px) { .logo > svg { width: 100%; max-width: 100px; } } .site-header, .show-for-large .topbar-nav > li { height: 60px; } @media only screen and (max-width: 639px) { .site-header, .show-for-large .topbar-nav > li { height: 60px; } } @media only screen and (min-width: 640px) { .header-searchbar .search-form .input-search.ss-ac-open + div\[ss-autocomplete\] { top: 60px; } } body > main { padding-top: 60px; } @media only screen and (max-width: 639px) { body > main { padding-top: 60px; } } .site-header .show-for-large .topbar-nav > li > a { font-family: Trade Gothic; color: #ffffff } .site-header .show-for-large .topbar-nav > li > a:hover, .site-header .show-for-large .topbar-nav > li > a.show { color: #ffffff; }
 
-[Review the **Holiday Shipping** cutoff dates](https://gear.bethesda.net/pages/holiday-shipping-information)
-
-*   [Holiday Shopping](https://gear.bethesda.net/collections/holiday-gift-center)
-    
-    *   [Bethesda Gear](https://gear.bethesda.net/collections/all)
-        *   [Sale Items](https://gear.bethesda.net/collections/sale-items)
-        *   [Low Stock](https://gear.bethesda.net/collections/low-stock)
-        *   [Product Bundles](https://gear.bethesda.net/collections/product-bundles)
-        *   [Gift Cards](https://gear.bethesda.net/collections/gift-cards)
-        *   [New Products](https://gear.bethesda.net/collections/new-products)
-        *   [Best Sellers](https://gear.bethesda.net/collections/best-sellers)
-    
-    *   [Holiday Gift Center](https://gear.bethesda.net/collections/holiday-gift-center)
-        *   [Holiday Gift Center](https://gear.bethesda.net/collections/holiday-gift-center)
-        *   [Holiday Products](https://gear.bethesda.net/collections/holiday-products)
-        *   [Gifts $10 & Under](https://gear.bethesda.net/collections/products-10-or-less)
-        *   [Gifts $20 & Under](https://gear.bethesda.net/collections/products-20-or-less)
-        *   [Gifts $50 & Under](https://gear.bethesda.net/collections/products-50-or-less)
-        *   [Gifts $100 & Under](https://gear.bethesda.net/collections/products-100-or-less)
-        *   [Gifts $100 & Over](https://gear.bethesda.net/collections/products-100-and-over)
-    
 *   [Our Catalog](https://gear.bethesda.net/collections/all)
     
     *   [Bethesda Gear](https://gear.bethesda.net/collections/all)
@@ -103,7 +82,6 @@ var newPDP = true
         *   [New Products](https://gear.bethesda.net/collections/new-products)
         *   [Best Sellers](https://gear.bethesda.net/collections/best-sellers)
     
-    *   [Holiday Gift Center](https://gear.bethesda.net/collections/holiday-gift-center)
     *   [Bethesda Gear](https://gear.bethesda.net/collections/all)
         *   [New Products](https://gear.bethesda.net/collections/new-products)
         *   [Best Sellers](https://gear.bethesda.net/collections/best-sellers)
@@ -156,25 +134,6 @@ var newPDP = true
         *   [Video Games](https://gear.bethesda.net/collections/video-games)
     
 
-*   [Holiday Shopping](https://gear.bethesda.net/collections/holiday-gift-center)
-    
-    *   [Bethesda Gear](https://gear.bethesda.net/collections/all)
-        *   [Sale Items](https://gear.bethesda.net/collections/sale-items)
-        *   [Low Stock](https://gear.bethesda.net/collections/low-stock)
-        *   [Product Bundles](https://gear.bethesda.net/collections/product-bundles)
-        *   [Gift Cards](https://gear.bethesda.net/collections/gift-cards)
-        *   [New Products](https://gear.bethesda.net/collections/new-products)
-        *   [Best Sellers](https://gear.bethesda.net/collections/best-sellers)
-    
-    *   [Holiday Gift Center](https://gear.bethesda.net/collections/holiday-gift-center)
-        *   [Holiday Gift Center](https://gear.bethesda.net/collections/holiday-gift-center)
-        *   [Holiday Products](https://gear.bethesda.net/collections/holiday-products)
-        *   [Gifts $10 & Under](https://gear.bethesda.net/collections/products-10-or-less)
-        *   [Gifts $20 & Under](https://gear.bethesda.net/collections/products-20-or-less)
-        *   [Gifts $50 & Under](https://gear.bethesda.net/collections/products-50-or-less)
-        *   [Gifts $100 & Under](https://gear.bethesda.net/collections/products-100-or-less)
-        *   [Gifts $100 & Over](https://gear.bethesda.net/collections/products-100-and-over)
-    
 *   [Our Catalog](https://gear.bethesda.net/collections/all)
     
     *   [Bethesda Gear](https://gear.bethesda.net/collections/all)

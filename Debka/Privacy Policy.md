@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Monday, December 28, 2020  
+Wednesday, December 30, 2020  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,70 +57,70 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
-*   [Nasrallah claims a Saudi-US-Israel plot on his life](https://www.debka.com/mivzak/nasrallah-claims-a-saudi-us-israel-plot-on-his-life/)
+*   [Massive explosions and gunfire at Aden airport after new government lands](https://www.debka.com/mivzak/massive-explosions-and-gunfire-at-aden-airport-after-new-government-lands/)
     
-    Dec 28, 2020 @ 13:35
+    Dec 30, 2020 @ 13:03
     
-*   [New covid infection highest in 7 days,  also 379,000 vaccinations](https://www.debka.com/mivzak/new-covid-infection-highest-in-7-days-also-379000-vaccinations/)
+*   [Tuesday saw 152,000 covid vaccinations in all, as infection stayed high](https://www.debka.com/mivzak/tuesday-saw-152000-covid-vaccinations-in-all-as-infection-stayed-high/)
     
-    Dec 28, 2020 @ 11:21
+    Dec 30, 2020 @ 11:02
     
-*   [Trump signs government funding and covid relief package](https://www.debka.com/mivzak/trump-signs-government-funding-and-covid-relief-package/)
+*   [Damascus alleges second Israeli air strike this week](https://www.debka.com/mivzak/damascus-alleges-second-israeli-air-strike-this-week/)
     
-    Dec 28, 2020 @ 10:43
+    Dec 30, 2020 @ 09:40
     
-*   [Iran transfers short-range missiles to Iraq – report](https://www.debka.com/mivzak/iran-transfers-short-range-missiles-to-iraq-report/)
+*   [Huldai calls his new party “The Israelis”](https://www.debka.com/mivzak/huldai-calls-his-new-party-the-israelis/)
     
-    Dec 27, 2020 @ 21:07
+    Dec 29, 2020 @ 21:25
     
-*   [Knesset committee rules all school classes to reopen](https://www.debka.com/mivzak/knesset-committee-rules-all-school-classes-to-reopen/)
+*   [Gantz will lead Kahol Lavan for the March election](https://www.debka.com/mivzak/174391/)
     
-    Dec 27, 2020 @ 17:46
+    Dec 29, 2020 @ 21:14
     
-*   [Europe rolls out vaccination program](https://www.debka.com/mivzak/europe-rolls-out-vaccination-program/)
+*   [Justice Minister quits the Kahol Lavan party led by Benny Gantz](https://www.debka.com/mivzak/justice-minister-quits-the-kahol-lavan-party-led-by-benny-gantz/)
     
-    Dec 27, 2020 @ 16:45
+    Dec 29, 2020 @ 19:37
     
-*   [Iran threatens strong response to Israeli submarine in the Gulf](https://www.debka.com/mivzak/iran-threatens-strong-response-to-israeli-submarine-in-the-gulf/)
+*   [Government ends quarantine “hotel” program for arrivals](https://www.debka.com/mivzak/government-ends-quarantine-hotel-program-for-arrivals/)
     
-    Dec 27, 2020 @ 16:36
+    Dec 29, 2020 @ 19:16
     
-*   [Vaccinations begin for armed forces on Monday](https://www.debka.com/mivzak/vaccinations-begin-for-armed-forces-on-monday/)
+*   [Covid infection shoots up by 5.6pc, 5,449 new cases](https://www.debka.com/mivzak/covid-infection-shoots-up-by-5-6pc-5449-new-cases/)
     
-    Dec 27, 2020 @ 16:28
+    Dec 29, 2020 @ 13:08
     
 
-*   [Nasrallah claims a Saudi-US-Israel plot on his life](https://www.debka.com/mivzak/nasrallah-claims-a-saudi-us-israel-plot-on-his-life/)
+*   [Massive explosions and gunfire at Aden airport after new government lands](https://www.debka.com/mivzak/massive-explosions-and-gunfire-at-aden-airport-after-new-government-lands/)
     
-    Dec 28, 2020 @ 13:35
+    Dec 30, 2020 @ 13:03
     
-*   [New covid infection highest in 7 days,  also 379,000 vaccinations](https://www.debka.com/mivzak/new-covid-infection-highest-in-7-days-also-379000-vaccinations/)
+*   [Tuesday saw 152,000 covid vaccinations in all, as infection stayed high](https://www.debka.com/mivzak/tuesday-saw-152000-covid-vaccinations-in-all-as-infection-stayed-high/)
     
-    Dec 28, 2020 @ 11:21
+    Dec 30, 2020 @ 11:02
     
-*   [Trump signs government funding and covid relief package](https://www.debka.com/mivzak/trump-signs-government-funding-and-covid-relief-package/)
+*   [Damascus alleges second Israeli air strike this week](https://www.debka.com/mivzak/damascus-alleges-second-israeli-air-strike-this-week/)
     
-    Dec 28, 2020 @ 10:43
+    Dec 30, 2020 @ 09:40
     
-*   [Iran transfers short-range missiles to Iraq – report](https://www.debka.com/mivzak/iran-transfers-short-range-missiles-to-iraq-report/)
+*   [Huldai calls his new party “The Israelis”](https://www.debka.com/mivzak/huldai-calls-his-new-party-the-israelis/)
     
-    Dec 27, 2020 @ 21:07
+    Dec 29, 2020 @ 21:25
     
-*   [Knesset committee rules all school classes to reopen](https://www.debka.com/mivzak/knesset-committee-rules-all-school-classes-to-reopen/)
+*   [Gantz will lead Kahol Lavan for the March election](https://www.debka.com/mivzak/174391/)
     
-    Dec 27, 2020 @ 17:46
+    Dec 29, 2020 @ 21:14
     
-*   [Europe rolls out vaccination program](https://www.debka.com/mivzak/europe-rolls-out-vaccination-program/)
+*   [Justice Minister quits the Kahol Lavan party led by Benny Gantz](https://www.debka.com/mivzak/justice-minister-quits-the-kahol-lavan-party-led-by-benny-gantz/)
     
-    Dec 27, 2020 @ 16:45
+    Dec 29, 2020 @ 19:37
     
-*   [Iran threatens strong response to Israeli submarine in the Gulf](https://www.debka.com/mivzak/iran-threatens-strong-response-to-israeli-submarine-in-the-gulf/)
+*   [Government ends quarantine “hotel” program for arrivals](https://www.debka.com/mivzak/government-ends-quarantine-hotel-program-for-arrivals/)
     
-    Dec 27, 2020 @ 16:36
+    Dec 29, 2020 @ 19:16
     
-*   [Vaccinations begin for armed forces on Monday](https://www.debka.com/mivzak/vaccinations-begin-for-armed-forces-on-monday/)
+*   [Covid infection shoots up by 5.6pc, 5,449 new cases](https://www.debka.com/mivzak/covid-infection-shoots-up-by-5-6pc-5449-new-cases/)
     
-    Dec 27, 2020 @ 16:28
+    Dec 29, 2020 @ 13:08
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });
@@ -147,7 +147,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-BTF\_MPU\_1'); });
 
 ### Archive
 
-Archive Select Month December 2020  (17) November 2020  (24) October 2020  (18) September 2020  (19) August 2020  (22) July 2020  (21) June 2020  (20) May 2020  (22) April 2020  (22) March 2020  (43) February 2020  (23) January 2020  (45) December 2019  (29) November 2019  (48) October 2019  (45) September 2019  (46) August 2019  (48) July 2019  (45) June 2019  (36) May 2019  (49) April 2019  (43) March 2019  (51) February 2019  (49) January 2019  (54) December 2018  (53) November 2018  (50) October 2018  (48) September 2018  (41) August 2018  (42) July 2018  (53) June 2018  (54) May 2018  (64) April 2018  (43) March 2018  (54) February 2018  (49) January 2018  (40) December 2017  (46) November 2017  (53) October 2017  (52) September 2017  (40) August 2017  (44) July 2017  (41) June 2017  (44) May 2017  (45) April 2017  (38) March 2017  (48) February 2017  (35) January 2017  (38) December 2016  (39) November 2016  (39) October 2016  (32) September 2016  (41) August 2016  (39) July 2016  (39) June 2016  (41) May 2016  (43) April 2016  (35) March 2016  (50) February 2016  (45) January 2016  (42) December 2015  (52) November 2015  (39) October 2015  (49) September 2015  (38) August 2015  (47) July 2015  (45) June 2015  (48) May 2015  (40) April 2015  (48) March 2015  (45) February 2015  (39) January 2015  (26) December 2014  (19) November 2014  (1) October 2014  (1) September 2014  (24) August 2014  (54) July 2014  (57) June 2014  (52) May 2014  (56) April 2014  (42) March 2014  (57) February 2014  (49) January 2014  (56) December 2013  (45) November 2013  (54) October 2013  (56) September 2013  (47) August 2013  (53) July 2013  (48) June 2013  (48) May 2013  (48) April 2013  (48) March 2013  (48) February 2013  (49) January 2013  (50) December 2012  (41) November 2012  (60) October 2012  (58) September 2012  (45) August 2012  (61) July 2012  (50) June 2012  (62) May 2012  (54) April 2012  (49) March 2012  (66) February 2012  (55) January 2012  (57) December 2011  (52) November 2011  (59) October 2011  (54) September 2011  (56) August 2011  (55) July 2011  (54) June 2011  (57) May 2011  (62) April 2011  (46) March 2011  (60) February 2011  (65) January 2011  (61) December 2010  (63) November 2010  (62) October 2010  (61) September 2010  (55) August 2010  (60) July 2010  (61) June 2010  (55) May 2010  (70) April 2010  (65) March 2010  (66) February 2010  (40) January 2010  (63) December 2009  (98) November 2009  (71) October 2009  (96) September 2009  (70) August 2009  (73) July 2009  (71) June 2009  (80) May 2009  (85) April 2009  (78) March 2009  (91) February 2009  (77) January 2009  (102) December 2008  (89) November 2008  (92) October 2008  (92) September 2008  (93) August 2008  (96) July 2008  (112) June 2008  (102) May 2008  (109) April 2008  (103) March 2008  (114) February 2008  (107) January 2008  (1762) December 2007  (76) November 2007  (104) October 2007  (101) September 2007  (89) August 2007  (93) July 2007  (99) June 2007  (113) May 2007  (127) April 2007  (148) March 2007  (108) February 2007  (106) January 2007  (106) December 2006  (122) November 2006  (126) October 2006  (124) September 2006  (134) August 2006  (195) July 2006  (252) June 2006  (204) May 2006  (149) April 2006  (154) March 2006  (173) February 2006  (156) January 2006  (189) December 2005  (151) November 2005  (150) October 2005  (79) September 2005  (50) August 2005  (16) July 2005  (12) June 2005  (15) May 2005  (7) April 2005  (15) March 2005  (16) February 2005  (17) January 2005  (16) December 2004  (13) November 2004  (17) October 2004  (16) September 2004  (12) August 2004  (17) July 2004  (12) June 2004  (15) May 2004  (18) April 2004  (17) March 2004  (22) February 2004  (19) January 2004  (20) December 2003  (20) November 2003  (20) October 2003  (11) September 2003  (19) August 2003  (18) July 2003  (17) June 2003  (16) May 2003  (17) April 2003  (22) March 2003  (20) February 2003  (13) January 2003  (18) December 2002  (20) November 2002  (23) October 2002  (19) September 2002  (24) August 2002  (17) July 2002  (20) June 2002  (23) May 2002  (26) April 2002  (29) March 2002  (33) February 2002  (26) January 2002  (36) December 2001  (32) November 2001  (29) October 2001  (30) September 2001  (8) August 2001  (1) July 2001  (1) June 2001  (7) May 2001  (14) March 2001  (2) February 2001  (4) January 2001  (3) December 2000  (6) November 2000  (3) October 2000  (1) September 2000  (3) August 2000  (1) /\* <!\[CDATA\[ \*/ (function() { var dropdown = document.getElementById( "archives-dropdown-2" ); function onSelectChange() { if ( dropdown.options\[ dropdown.selectedIndex \].value !== '' ) { document.location.href = this.options\[ this.selectedIndex \].value; } } dropdown.onchange = onSelectChange; })(); /\* \]\]> \*/
+Archive Select Month December 2020  (19) November 2020  (24) October 2020  (18) September 2020  (19) August 2020  (22) July 2020  (21) June 2020  (20) May 2020  (22) April 2020  (22) March 2020  (43) February 2020  (23) January 2020  (45) December 2019  (29) November 2019  (48) October 2019  (45) September 2019  (46) August 2019  (48) July 2019  (45) June 2019  (36) May 2019  (49) April 2019  (43) March 2019  (51) February 2019  (49) January 2019  (54) December 2018  (53) November 2018  (50) October 2018  (48) September 2018  (41) August 2018  (42) July 2018  (53) June 2018  (54) May 2018  (64) April 2018  (43) March 2018  (54) February 2018  (49) January 2018  (40) December 2017  (46) November 2017  (53) October 2017  (52) September 2017  (40) August 2017  (44) July 2017  (41) June 2017  (44) May 2017  (45) April 2017  (38) March 2017  (48) February 2017  (35) January 2017  (38) December 2016  (39) November 2016  (39) October 2016  (32) September 2016  (41) August 2016  (39) July 2016  (39) June 2016  (41) May 2016  (43) April 2016  (35) March 2016  (50) February 2016  (45) January 2016  (42) December 2015  (52) November 2015  (39) October 2015  (49) September 2015  (38) August 2015  (47) July 2015  (45) June 2015  (48) May 2015  (40) April 2015  (48) March 2015  (45) February 2015  (39) January 2015  (26) December 2014  (19) November 2014  (1) October 2014  (1) September 2014  (24) August 2014  (54) July 2014  (57) June 2014  (52) May 2014  (56) April 2014  (42) March 2014  (57) February 2014  (49) January 2014  (56) December 2013  (45) November 2013  (54) October 2013  (56) September 2013  (47) August 2013  (53) July 2013  (48) June 2013  (48) May 2013  (48) April 2013  (48) March 2013  (48) February 2013  (49) January 2013  (50) December 2012  (41) November 2012  (60) October 2012  (58) September 2012  (45) August 2012  (61) July 2012  (50) June 2012  (62) May 2012  (54) April 2012  (49) March 2012  (66) February 2012  (55) January 2012  (57) December 2011  (52) November 2011  (59) October 2011  (54) September 2011  (56) August 2011  (55) July 2011  (54) June 2011  (57) May 2011  (62) April 2011  (46) March 2011  (60) February 2011  (65) January 2011  (61) December 2010  (63) November 2010  (62) October 2010  (61) September 2010  (55) August 2010  (60) July 2010  (61) June 2010  (55) May 2010  (70) April 2010  (65) March 2010  (66) February 2010  (40) January 2010  (63) December 2009  (98) November 2009  (71) October 2009  (96) September 2009  (70) August 2009  (73) July 2009  (71) June 2009  (80) May 2009  (85) April 2009  (78) March 2009  (91) February 2009  (77) January 2009  (102) December 2008  (89) November 2008  (92) October 2008  (92) September 2008  (93) August 2008  (96) July 2008  (112) June 2008  (102) May 2008  (109) April 2008  (103) March 2008  (114) February 2008  (107) January 2008  (1762) December 2007  (76) November 2007  (104) October 2007  (101) September 2007  (89) August 2007  (93) July 2007  (99) June 2007  (113) May 2007  (127) April 2007  (148) March 2007  (108) February 2007  (106) January 2007  (106) December 2006  (122) November 2006  (126) October 2006  (124) September 2006  (134) August 2006  (195) July 2006  (252) June 2006  (204) May 2006  (149) April 2006  (154) March 2006  (173) February 2006  (156) January 2006  (189) December 2005  (151) November 2005  (150) October 2005  (79) September 2005  (50) August 2005  (16) July 2005  (12) June 2005  (15) May 2005  (7) April 2005  (15) March 2005  (16) February 2005  (17) January 2005  (16) December 2004  (13) November 2004  (17) October 2004  (16) September 2004  (12) August 2004  (17) July 2004  (12) June 2004  (15) May 2004  (18) April 2004  (17) March 2004  (22) February 2004  (19) January 2004  (20) December 2003  (20) November 2003  (20) October 2003  (11) September 2003  (19) August 2003  (18) July 2003  (17) June 2003  (16) May 2003  (17) April 2003  (22) March 2003  (20) February 2003  (13) January 2003  (18) December 2002  (20) November 2002  (23) October 2002  (19) September 2002  (24) August 2002  (17) July 2002  (20) June 2002  (23) May 2002  (26) April 2002  (29) March 2002  (33) February 2002  (26) January 2002  (36) December 2001  (32) November 2001  (29) October 2001  (30) September 2001  (8) August 2001  (1) July 2001  (1) June 2001  (7) May 2001  (14) March 2001  (2) February 2001  (4) January 2001  (3) December 2000  (6) November 2000  (3) October 2000  (1) September 2000  (3) August 2000  (1) /\* <!\[CDATA\[ \*/ (function() { var dropdown = document.getElementById( "archives-dropdown-2" ); function onSelectChange() { if ( dropdown.options\[ dropdown.selectedIndex \].value !== '' ) { document.location.href = this.options\[ this.selectedIndex \].value; } } dropdown.onchange = onSelectChange; })(); /\* \]\]> \*/
 
 ### Search
 

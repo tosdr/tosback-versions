@@ -3,6 +3,7 @@
 *   [Our Product](https://use.expensify.com/our-product)
     *   [Expenses](https://use.expensify.com/)
     *   [Expensify Card](https://use.expensify.com/card)
+    *   [Invoices](https://use.expensify.com/invoices)
     *   [Bill Pay](https://use.expensify.com/bills)
     *   [Travel](https://use.expensify.com/travel)
     *   [Mobile](https://use.expensify.com/mobile)

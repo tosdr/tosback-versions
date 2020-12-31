@@ -201,7 +201,7 @@ This document was last updated on January 1, 2014
 #### Defense News
 
 *   [COVID-19 pandemic keeps Lockheed from meeting F-35 delivery goal in 2020](http://feedproxy.google.com/~r/defense-news/air/~3/jpJC2Wg9NCI/)  
-    12/29/20 11:06am  
+    12/30/20 01:25pm  
     
     An F-35A Lightning II assigned to the 62nd Fighter Squadron prepares to land, Nov. 2, 2020, at Luke Air Force Base, Ariz. (Airman 1st Class Brooke Moeder/Air Force)
     
@@ -223,13 +223,13 @@ This document was last updated on January 1, 2014
 
 Recent parts by keyword  
 
-*   [ls35345-01](https://aerobasegroup.com/search/?term=ls35345-01)
-*   [tg29d](https://aerobasegroup.com/search/?term=tg29d)
-*   [MS39086-43](https://aerobasegroup.com/search/?term=MS39086-43)
-*   [TF2219-50](https://aerobasegroup.com/search/?term=TF2219-50)
-*   [13228E9870](https://aerobasegroup.com/search/?term=13228E9870)
-*   [EA 9330.3](https://aerobasegroup.com/search/?term=EA+9330.3)
-*   [QQ-C-502](https://aerobasegroup.com/search/?term=QQ-C-502)
+*   [5dl1](https://aerobasegroup.com/search/?term=5dl1)
+*   [mil-p-642](https://aerobasegroup.com/search/?term=mil-p-642)
+*   [C5307](https://aerobasegroup.com/search/?term=C5307)
+*   [BMS5-137 ty2](https://aerobasegroup.com/search/?term=BMS5-137+ty2)
+*   [ACM600](https://aerobasegroup.com/search/?term=ACM600)
+*   [acm200](https://aerobasegroup.com/search/?term=acm200)
+*   [AS3581-908](https://aerobasegroup.com/search/?term=AS3581-908)
 
 The AeroBase Group Family ..
 

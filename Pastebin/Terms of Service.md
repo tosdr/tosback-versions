@@ -4,9 +4,9 @@
 
 [paste](https://pastebin.com/)
 
-[Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
+[Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function() { googletag.defineSlot('/43606300/Pastebin\_Pastebin\_Dir\_Des\_Dis\_Lis\_TC', \[970, 90\], 'gpt-passback').addService(googletag.pubads()); googletag.enableServices(); googletag.display('gpt-passback'); });
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_asins = "B0893TP1FZ,B08LYRGMLC"; amzn\_assoc\_design = "in\_content";
 
 Pastebin.com Terms of Service UPDATED
 
@@ -328,42 +328,44 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function() { googletag.defineSlot('/43606300/Pastebin\_Pastebin\_Dir\_Des\_Dis\_Lis\_TC', \[970, 250\], 'gpt-passback').addService(googletag.pubads()); googletag.enableServices(); googletag.display('gpt-passback'); });
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08D44WKC4,B07ZPC9QD4,B08KWLMZV4,B08GFBFJW3";
 
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Eastern Ranked Son...](https://pastebin.com/FHRmvfpU)
+*   [K8s my-dep2](https://pastebin.com/nCLTigF7)
     
-    JSON | 15 min ago
+    YAML | 7 min ago
     
-*   [Presents Delivery](https://pastebin.com/5b7c9U7L)
+*   [Safe ParseInt C++](https://pastebin.com/jdkdMVmT)
     
-    Python | 35 min ago
+    C++ | 27 min ago
     
-*   [vimrc colorcolumn](https://pastebin.com/d2nCcZNg)
+*   [Untitled](https://pastebin.com/RyGcDB8e)
     
-    Bash | 48 min ago
+    Lua | 1 hour ago
     
-*   [Script Bee Swarm D...](https://pastebin.com/q89HwrtX)
+*   [Pain](https://pastebin.com/0ZJKvnrD)
     
-    Lua | 50 min ago
+    Lua | 1 hour ago
     
-*   [Arduino Leonardo S...](https://pastebin.com/QmTLTT0d)
+*   [My Log File](https://pastebin.com/P3Yfuy3F)
     
-    C# | 1 hour ago
+    HTML 5 | 1 hour ago
     
-*   [Untitled](https://pastebin.com/C2iYLc93)
+*   [Proper Wild Item D...](https://pastebin.com/gwY73TDM)
     
-    C++ | 1 hour ago
+    Ruby | 1 hour ago
     
-*   [Untitled](https://pastebin.com/M7C5yFmg)
+*   [Бинарно пребарувач...](https://pastebin.com/mfEhXi8u)
     
-    VeriLog | 1 hour ago
+    Java | 1 hour ago
     
-*   [new\_metadata](https://pastebin.com/FHR7XwHX)
+*   [Black Friday lab8....](https://pastebin.com/Y5JGeNk1)
     
-    JSON | 2 hours ago
+    Java | 1 hour ago
     
+
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08HJ2DKS6,B082G5SPR5,B07VWXCXM7,B06XKNZT1P";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  

@@ -4,7 +4,9 @@
 
 [paste](https://pastebin.com/)
 
-[Sign in](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
+[Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
+
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_design = "in\_content"; amzn\_assoc\_asins = "1788622057,1260108414";
 
 Pastebin.com Privacy Statement UPDATED
 
@@ -166,44 +168,48 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "54a25ab7a8ed2968f8bba9ec6024210c"; amzn\_assoc\_asins = "B07RX6FBFR,B0893TP1FZ,B010KYDNDG,B087NSVXDF"; amzn\_assoc\_search\_bar = "false";
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Eastern Ranked Son...](https://pastebin.com/FHRmvfpU)
+*   [K8s my-dep2](https://pastebin.com/nCLTigF7)
     
-    JSON | 15 min ago
+    YAML | 7 min ago
     
-*   [Presents Delivery](https://pastebin.com/5b7c9U7L)
+*   [Safe ParseInt C++](https://pastebin.com/jdkdMVmT)
     
-    Python | 35 min ago
+    C++ | 27 min ago
     
-*   [vimrc colorcolumn](https://pastebin.com/d2nCcZNg)
+*   [Untitled](https://pastebin.com/RyGcDB8e)
     
-    Bash | 48 min ago
+    Lua | 1 hour ago
     
-*   [Script Bee Swarm D...](https://pastebin.com/q89HwrtX)
+*   [Pain](https://pastebin.com/0ZJKvnrD)
     
-    Lua | 50 min ago
+    Lua | 1 hour ago
     
-*   [Arduino Leonardo S...](https://pastebin.com/QmTLTT0d)
+*   [My Log File](https://pastebin.com/P3Yfuy3F)
     
-    C# | 1 hour ago
+    HTML 5 | 1 hour ago
     
-*   [Untitled](https://pastebin.com/C2iYLc93)
+*   [Proper Wild Item D...](https://pastebin.com/gwY73TDM)
     
-    C++ | 1 hour ago
+    Ruby | 1 hour ago
     
-*   [Untitled](https://pastebin.com/M7C5yFmg)
+*   [Бинарно пребарувач...](https://pastebin.com/mfEhXi8u)
     
-    VeriLog | 1 hour ago
+    Java | 1 hour ago
     
-*   [new\_metadata](https://pastebin.com/FHR7XwHX)
+*   [Black Friday lab8....](https://pastebin.com/Y5JGeNk1)
     
-    JSON | 2 hours ago
+    Java | 1 hour ago
     
+
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "54a25ab7a8ed2968f8bba9ec6024210c"; amzn\_assoc\_asins = "B07M6R4NK3,B07K5ZR6HS,B08FC6C75Y,B08DF248LD"; amzn\_assoc\_search\_bar = "false";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
-Do not share my Personal Information \_\_uspapi('setUSPLink', 1, function() {}, "ccpa\_example");  
+  
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
 Site design & logo © 2020 Pastebin
 

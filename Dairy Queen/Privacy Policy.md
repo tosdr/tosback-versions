@@ -4,7 +4,7 @@ Welcome to our Privacy Statement.
 
 ##### Where does this privacy statement apply?
 
-*    This privacy statement applies to your activity the following websites (we'll call these the "Websites" in this statement):
+*    This privacy statement applies to your activity on the following websites (we'll call these the "Websites" in this statement):
 
 *   DQ.com
 *   DQCakes.com
@@ -20,7 +20,7 @@ Welcome to our Privacy Statement.
 
 ##### Where ISN'T it relevant?
 
-*    Most _DQ_® restaurants are independently owned and operated franchises, and some of them have their own websites or email clubs - we don't own, operate, or control any of those.
+*    Most _DQ_® restaurants are independently owned and operated franchises, and some of them have their own websites or email clubs - we don't own, operate, or control any of those. Also, when you search for a location, some of our franchisees have a “Careers” link that allows you to send your résumé to that franchise. This information doesn’t come to us at the _DQ_® corporate headquarters. It is sent directly to the franchisee.
 *   If you follow links on our site to any site that isn’t one of our Websites – say, to purchase gift cards or _DQ_® gear – you’ll be leaving the realm of our policy. You should check out the privacy policies of those sites to find out how they treat your data!
 
 If you use our Websites, you agree to these terms. We may change them, and when we do, continuing to use the Websites means you agree to the new terms.
@@ -63,19 +63,14 @@ Product Sales
 
 Fan Relations Interactions
 
-*   _What:_ When you use the “Contact Us” page on our Websites, you may give us some “IDENTIFIERS” - your name, postal address, phone number, and email address. We’ll also ask for details about why you are contacting us. If you call us, we’ll ask for the same info.
+*   _What:_ When you use the “Contact Us” page on our Websites, you may give us  your name, postal address, phone number, and email address. We’ll also ask for details about why you are contacting us. If you call us, we’ll ask for the same info.
 *   _Why:_ We really want to make sure that our fans are treated right! If you have a comment about a specific DQ restaurant, we also want to get you in touch with the restaurant that handled your experience – they’re the ones who are in the best position to make it right! So, we send this information on to them.
 *   _Reminder:_ Most of our restaurants are independently owned and operated franchises – we recommend that you contact them first, because they can usually address your concern or celebration more directly. We don’t guarantee any of their privacy practices.
 
 Information about becoming a franchisee
 
 *   _What:_ When you use the “Own a DQ Location” page on dairyqueenfranchising.com, you may give us some information – a contact name, postal address, phone number, email address, and information about your timeline, net worth, and capacity for investment.
-*   _Why:_ We use this information to help us decide if your business meets our minimum requirements for new franchisees, and it helps us prioritize interested businesses.
-
-Franchisee Employment
-
-*   _What:_ Some independently owned and operated restaurants have enabled a feature that allows you to send your résumé to that business. This information does not come to us at the DQ® corporate headquarters. It is sent directly to the restaurant.
-*   _Why:_ To provide you an easy way to get your résumé to the DQ® restaurant you want to work for!
+*   _Why:_ We use this information to help us decide if your business meets our minimum requirements for new franchisees, to help us prioritize interested businesses, and to contact you about available opportunities if it looks like a good fit. Like any good relationship, we may want to get to know each other more, and we may ask you to fill out an application that will ask for more information about your qualifications, which may include current and previous home address, employment information, more financial information, marital status and spouse’s name. Once everyone is feeling confident in the relationship and decides to move forward with a franchise, then a different privacy statement applies to franchisees.
 
 **Information Collected or Used Automatically**
 
@@ -92,14 +87,15 @@ Franchisee Employment
 **A word about cookies**
 
 *   _What:_ Cookies are tiny pieces of code that your web browser stores.
-*   _Why:_ They help us show you the kind of content that you probably want to see. For example, if you choose the Canadian version of our site, a cookie remembers that, and will show you the Canadian version of the next page on our Websites that you visit – as well as next time you navigate to our Websites. We don’t collect any information about specific fans or their interaction with our Websites, and we don’t store any of this data in a way that would let us associate it with a specific person.
+*   _Why:_ They help us show you the kind of content that you probably want to see. For example, if you choose the Canadian version of our site, a cookie remembers that, and will show you the Canadian version of the next page on our Websites that you visit – as well as next time you navigate to our Websites. We don’t store any of this data in a way that would let us associate it with a specific person.
 *   _Other parties' cookies:_
 
-*   Google Analytics tracks how people use and interact with our Websites anonymously. They provide us a report with no personal information in it that helps us understand things like how people find and get to our Websites, what people are looking for when they visit us, what ad campaigns help us entice fans to our restaurants, and how we could make our Websites better. If you want more information about how Google Analytics uses data, you can check it out – or opt out of it – here: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245). (You can also get to this page by navigating to Google’s Product Privacy Guide and looking at the links related to Google Analytics.)
+*   We use Google Analytics for aggregated, anonymized website traffic analysis. To do this, Google feeds your browser a cookie with a randomly-generated ClientID, and also collects your IP address, which Google anonymizes. Google provides us a report with no personal information in it that helps us understand things like how people find and get to our Websites, what people are looking for when they visit us, what ad campaigns help us entice fans to our restaurants, and how we could make our Websites better. If you want more information about how Google Analytics uses data, you can check it out here: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) or by navigating to Google’s Product Privacy Guide and looking at the links related to Google Analytics. You can opt out of having your data used by Google Analytics by downloading the Google Analytics Opt-out Browser Add-on found [here.](https://tools.google.com/dlpage/gaoptout)
 *   Facebook feeds your browser a cookie when you visit our Websites so that your browser can request DQ® ads (amongst other ads, requested by your browser because of different cookies it’s eaten on other websites you’ve visited). You can read more about how Facebook uses data here: [https://www.facebook.com/policy/cookies/](https://www.facebook.com/policy/cookies/). (You can also get to this page by navigating to Facebook’s page and looking for the link to “Cookies” at the bottom of the page.)
+*   Some of our advertising service vendors may also feed your browser cookies when you visit our Websites, in order to help us tailor advertising to you when you visit other websites, and to provide us information about how our fans interact with our advertising and how it relates to traffic on our Websites.
 *   Other parties’ cookies on other websites: Many companies use cookies that track your activity across different websites and collect information about how you interact with content and advertisements. Some of our vendors track information about how fans interact with our advertisements when they see the DQ® brand representin’ on another page, but they don’t collect information associated with a fan – they collect stuff like “how many clicks did this ad get on this site”.
 
-*   _I don’t like cookies._ Hey, we make treats for all kinds! If you would rather not have these cookies, you can use your browser’s cookie settings to control which cookies your browser eats! This is usually managed through a “Settings” menu, although you may have to delve into the “Advanced” segment. You can also control more about how many cookies are a part of your browser’s balanced diet by looking into the YourAdChoices program from the [US Digital Advertising Alliance](https://digitaladvertisingalliance.org/) or the [Digital Advertising Alliance of Canada](https://youradchoices.ca/).
+*   _I don’t like cookies._ Hey, we make treats for all kinds! If you would rather not have these cookies, you can use your browser’s cookie settings to control which cookies your browser eats! This is usually managed through a “Settings” menu, although you may have to delve into the “Advanced” segment. You can also control more about how many cookies are a part of your browser’s balanced diet by looking into the YourAdChoices program from the [US Digital Advertising Alliance](https://digitaladvertisingalliance.org/) or the [Digital Advertising Alliance of Canada](https://youradchoices.ca/), or the [Network Advertising Initiative's opt-out page](https://optout.networkadvertising.org/?c=1).
 
 **Sharing is Caring**  
 . . but sometimes less is more. We don’t really like sharing information, but sometimes we just gotta! So who do we share with?
@@ -139,7 +135,7 @@ Franchisee Employment
 
 *   Section 1798.125: California residents have the right to not be discriminated against for exercising any of their rights under the CCPA.
 
-*   Method for submitting requests: To exercise any of your rights under this law, please follow [this link](https://privacyportal-cdn.onetrust.com/dsarwebform/9d08013a-e357-4ab3-a62e-e4b11eb0e644/b847de5c-1ee6-4a3f-bfd9-eb2988280bcb.html) and submit a request. When you submit a request, you will need to provide your name, email address, and details about your request. We’ll send a link to that email and ask you to click on that link to confirm that it’s your email address.
+*   Method for submitting requests: To exercise any of your rights under this law, please fill out the form at [this link](https://privacyportal-cdn.onetrust.com/dsarwebform/9d08013a-e357-4ab3-a62e-e4b11eb0e644/b847de5c-1ee6-4a3f-bfd9-eb2988280bcb.html) or call 1-866-793-7582 to submit a request. When you submit a request, you will need to provide your name, email address, state, country, and details about your request. We’ll send a link to the email you provide and ask you to click on that link to confirm that it’s really you.
 
 *   Pro-tip: We love to hear from our fans! But the link above is pretty specific to privacy stuff, so if you have non-privacy questions or comments, you’ll have a much better experience reaching out to our fabulous fan relations team using [this link](https://www.dairyqueen.com/us-en/Company/Contact-Us/) instead.
 
@@ -155,7 +151,7 @@ Franchisee Employment
 *   INFERENCES. This sounds a little vague, but basically it means that we may take all the information we have about you and make some inferences about your preferences (um, you’d much prefer that Blizzard® Treat flavor with the chocolate, amirite?).
 
 *   Categories of sources from which personal information is collected: We collect personal information from you directly, either when you give it to us or one of our vendors, or automatically, when you interact with or fill out forms on our Websites.
-*   Business or commercial purposes for collecting or selling personal information: We collect information to fulfill orders, email you, inform our decisions about product and new restaurant development, and make our customer service better. You can find more information about why we collect this information above.
+*   Business or commercial purposes for collecting or selling personal information: We collect information to fulfill orders, email you, inform our decisions about product and new restaurant development, make our customer service better, and to qualify prospective franchisees. You can find more information about why we collect this information above.
 *   Categories of third parties with whom personal information is shared: We share information within our family of companies, with our franchisees as we described earlier in this privacy policy, and with vendors who provide data analytics services, data and communications management services, customer relations services, delivery and loyalty program services, survey services, product fulfillment services, and operating systems and platforms.
 *   Any California resident has a right to request the specific pieces of information the business has collected about the them.
 
@@ -190,4 +186,4 @@ Franchisee Employment
 
   
 
-Last updated: September 30, 2020
+Last updated: December 30, 2020

@@ -57,7 +57,7 @@ Mortgages
 *   [FHA loan rates](http://www.bankrate.com/mortgages/fha-loan-rates/)
 *   [VA loan rates](http://www.bankrate.com/mortgages/va-loan-rates/)
 *   [Jumbo loan rates](http://www.bankrate.com/mortgages/jumbo-loan-rates/)
-*   [Mortgage rate news](http://www.bankrate.com/mortgages/daily-rates/)
+*   [Mortgage rate news](http://www.bankrate.com/mortgages/todays-rates/)
 
 *   Refinance your mortgage
     -----------------------

@@ -129,7 +129,7 @@ These Terms of Use and any other electronic policies and guidelines referenced a
 
 #### COPYRIGHT & TRADEMARK
 
-Copyright © 2020 webSaver.ca. All Rights Reserved. The webSaver.ca logo is a registered trademark of webSaver.ca. All other trademarks, logos and service marks are the property of webSaver.ca or their respective owners.
+Copyright © 2021 webSaver.ca. All Rights Reserved. The webSaver.ca logo is a registered trademark of webSaver.ca. All other trademarks, logos and service marks are the property of webSaver.ca or their respective owners.
 
   
 
@@ -167,7 +167,7 @@ Canada H4P 2N5
 *   [salewhale.ca](https://www.salewhale.ca/en/)
 *   [ratesaver.ca](http://www.ratesaver.ca/)
 
-@ 2020 webSaver.ca. All rights reserved
+@ 2021 webSaver.ca. All rights reserved
 
 [×](#)
 

@@ -497,7 +497,7 @@ Different. In a good way.
 
  [![Facebook](/wp-content/themes/teksavvy/assets/svg/brands/facebook.svg)](http://www.facebook.com/TekSavvySolutionsInc "TekSavvy on Facebook") [ ![Twitter](/wp-content/themes/teksavvy/assets/svg/brands/twitter.svg) ](https://twitter.com/TekSavvyBuzz/ "TekSavvy Buzz on Twitter") [ ![Instagram](/wp-content/themes/teksavvy/assets/svg/brands/instagram.svg) ](https://www.instagram.com/teksavvybuzz/ "TekSavvy Buzz on Instagram") [ ![YouTube](/wp-content/themes/teksavvy/assets/svg/brands/youtube.svg) ](http://www.youtube.com/user/TekSavvySolutionsInc "TekSavvy on YouTube") [![LinkedIn](/wp-content/themes/teksavvy/assets/svg/brands/linkedin.svg)](https://ca.linkedin.com/company/teksavvy_solutions_inc "TekSavvy on LinkedIn") 
 
-© TekSavvy Solutions Inc. 2020 All Rights Reserved
+© TekSavvy Solutions Inc. 2021 All Rights Reserved
 
 Where would you like service?
 -----------------------------

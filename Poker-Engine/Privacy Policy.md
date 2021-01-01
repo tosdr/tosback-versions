@@ -13,7 +13,7 @@
 
   
 
-Poker-Engine.com © 2020[Privacy Policy](https://poker-engine.com/privacy) [Partnership](https://poker-engine.com/partnership)  
+Poker-Engine.com © 2021[Privacy Policy](https://poker-engine.com/privacy) [Partnership](https://poker-engine.com/partnership)  
   
 
 [![www.megastock.com](//demo.poker-engine.com/templates/Default/images/wm_en.png "We accept WebMoney")](https://www.megastock.com/)   [![Payeer](https://poker-engine.com/images/verified/payeer_mc_v.png "Receiving payments via Payeer")](https://payeer.com/)   [![Interkassa](https://poker-engine.com/images/verified/interkassa.png "Receiving payments via InterKassa")](https://www.interkassa.com/)    TrustLogo('https://poker-engine.com/images/verified/sectigo\_trust.png','CL1','none');  [![DMCA.com Protection Status](https://poker-engine.com/images/verified/dmca-badge-w150-5x1-11.png)](https://www.dmca.com/Protection/Status.aspx?ID=6cf0001e-0a15-4fa8-bf5e-e1aed4d405ef "DMCA.com Protection Status")    [![Trustpilot](https://poker-engine.com/images/verified/trust.png "Review us on Trustpilot")](https://www.trustpilot.com/evaluate/poker-engine.com?utm_medium=trustbox&utm_source=TrustBoxReviewCollector)

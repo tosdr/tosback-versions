@@ -6,8 +6,6 @@
 
 [Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_asins = "B0893TP1FZ,B08LYRGMLC"; amzn\_assoc\_design = "in\_content";
-
 Pastebin.com Terms of Service UPDATED
 
 Come into effect 12th Nov 2020  
@@ -328,50 +326,46 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08D44WKC4,B07ZPC9QD4,B08KWLMZV4,B08GFBFJW3";
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [K8s my-dep2](https://pastebin.com/nCLTigF7)
+*   [Company of Heroes...](https://pastebin.com/KuNBCPaC)
     
-    YAML | 7 min ago
+    Lua | 5 min ago
     
-*   [Safe ParseInt C++](https://pastebin.com/jdkdMVmT)
+*   [NINJA LEGENDS 2 SC...](https://pastebin.com/bJFXwrrh)
     
-    C++ | 27 min ago
+    Lua | 46 min ago
     
-*   [Untitled](https://pastebin.com/RyGcDB8e)
+*   [routes/problem](https://pastebin.com/Kivdh3iz)
+    
+    PHP | 1 hour ago
+    
+*   [ButtonApi CC](https://pastebin.com/FS1Axs7X)
     
     Lua | 1 hour ago
     
-*   [Pain](https://pastebin.com/0ZJKvnrD)
+*   [Iteration Structur...](https://pastebin.com/J6rcEuGA)
     
-    Lua | 1 hour ago
+    C | 2 hours ago
     
-*   [My Log File](https://pastebin.com/P3Yfuy3F)
+*   [cosmetics.yml](https://pastebin.com/5gJ7Qmq5)
     
-    HTML 5 | 1 hour ago
+    YAML | 2 hours ago
     
-*   [Proper Wild Item D...](https://pastebin.com/gwY73TDM)
+*   [VRCAntiCrash TCP s...](https://pastebin.com/XyLMUbCC)
     
-    Ruby | 1 hour ago
+    C++ | 2 hours ago
     
-*   [Бинарно пребарувач...](https://pastebin.com/mfEhXi8u)
+*   [elevator](https://pastebin.com/D4n1KX2D)
     
-    Java | 1 hour ago
+    JavaScript | 2 hours ago
     
-*   [Black Friday lab8....](https://pastebin.com/Y5JGeNk1)
-    
-    Java | 1 hour ago
-    
-
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08HJ2DKS6,B082G5SPR5,B07VWXCXM7,B06XKNZT1P";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
   
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  
-Site design & logo © 2020 Pastebin
+Site design & logo © 2021 Pastebin
 
 We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the [Cookies Policy](https://pastebin.com/doc_cookies_policy).  OK, I Understand
 

@@ -432,7 +432,7 @@ Table of Contents
 *   [Security](https://www.voxmedia.com/pages/security)
 *   [Accessibility](https://www.voxmedia.com/legal/accessibility)
 
-© 2020 Vox Media, LLC. All rights reserved.
+© 2021 Vox Media, LLC. All rights reserved.
 
 [Contact Us](https://www.voxmedia.com/contact)
 

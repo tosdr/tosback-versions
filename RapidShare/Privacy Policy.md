@@ -69,7 +69,7 @@ RapidShare reserves the right to edit the above privacy policy at any time. Any 
 
 [Upload a File](https://rapidshare.io/index.html?upload=1)  |  [Register](https://rapidshare.io/register.html)  |  [Go Premium](https://rapidshare.io/upgrade.html)  |  [FAQ](https://rapidshare.io/faq.html)  |  [Login](https://rapidshare.io/login.html)  |  [Terms & Conditions](https://rapidshare.io/terms.html)  |  [Privacy Policy](https://rapidshare.io/privacy.html)  |  [Report a File](https://rapidshare.io/report_file.html)  |  [Check a Link](https://rapidshare.io/link_checker.html)  |  [Contact Us](https://rapidshare.io/contact.html)
 
-Copyright © 2020 - RapidShare.io
+Copyright © 2021 - RapidShare.io
 
 [Scroll](#) var revapi; jQuery(document).ready(function() { revapi = jQuery('.tp-banner').revolution( { delay: 0, startwidth: 1170, startheight: 500, hideThumbs: 10, fullWidth: "on", fullScreen: "on", keyboardNavigation: "off", touchenabled: "off", hideCaptionAtLimit: 400, spinner: "" }); }); //ready
 

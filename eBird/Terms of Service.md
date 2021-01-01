@@ -198,7 +198,7 @@ hbspt.forms.create({ portalId: "95627", formId: "ee3402b4-bebe-48ff-870f-7e51695
 *   [Privacy Policy](https://www.birds.cornell.edu/home/privacy/)
 *   [Terms of use](https://www.birds.cornell.edu/home/terms-of-use/)
 
-Copyright © 2020 Cornell University
+Copyright © 2021 Cornell University
 
 Search this site 
 

@@ -72,7 +72,7 @@ The Company[About](https://threema.ch/en/about "About")[Contact](https://threema
 
 Connect[Twitter](https://twitter.com/ThreemaApp "Twitter")[Blog](https://threema.ch/en/blog "Blog")[Threema Channel](https://threema.ch/en/faq/Threema_Channel "Threema Channel")[GitHub](https://github.com/threema-ch "GitHub")
 
-Made in Switzerland. © 2020 Threema GmbH. [Privacy Policy](https://threema.ch/en/privacy)
+Made in Switzerland. © 2021 Threema GmbH. [Privacy Policy](https://threema.ch/en/privacy)
 
 [Deutsch](https://threema.ch/de/privacy)[English](https://threema.ch/en/privacy)
 

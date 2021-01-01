@@ -48,7 +48,7 @@ Changes to the TOS
 
 DiscourseHosting reserves the right to amend any or all of the above policies, guidelines and disclaimer upon thirty (30) days prior written notice to you.
 
-© Copyright 2013-2020 DiscourseHosting.com. We are not affiliated with discourse.org.
+© Copyright 2013-2021 DiscourseHosting.com. We are not affiliated with discourse.org.
 
 *   [Terms of Service](https://www.discoursehosting.com/tos/)
 *   [Privacy Policy](https://www.discoursehosting.com/privacy-policy/)

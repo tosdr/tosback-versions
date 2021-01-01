@@ -157,7 +157,7 @@ All apparel must be reviewed during de-gowning to ensure compliance, safety and 
 
 [TerraCycle](https://www.terracycle.com/en-US)
 
-Copyright **TerraCycle** 2020. All Rights Reserved
+Copyright **TerraCycle** 2021. All Rights Reserved
 
 ×
 

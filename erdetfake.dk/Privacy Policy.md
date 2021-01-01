@@ -64,4 +64,4 @@ Privacy Policy Changes
 
 Although most changes are likely to be minor, Er det fake may change its Privacy Policy from time to time, and in Er det fake's sole discretion. Er det fake encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Copyright © 2020. A [Ken Christensen](https://kenc.dk/) project.[](https://facebook.com/erdetfake/)[](http://twitter.com/KenmanDK)[](https://www.linkedin.com/in/kencdk/)[](https://www.kenc.dk/)
+Copyright © 2021. A [Ken Christensen](https://kenc.dk/) project.[](https://facebook.com/erdetfake/)[](http://twitter.com/KenmanDK)[](https://www.linkedin.com/in/kencdk/)[](https://www.kenc.dk/)

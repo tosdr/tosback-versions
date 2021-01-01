@@ -10,7 +10,7 @@ Terms of Use
 Terms of User for **www.wishlist.com**
 ======================================
 
-Last Updated June  15, 2020
+Last Updated June  15, 2021
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY.**
 
@@ -139,7 +139,7 @@ If you have ideas for how to make WishList better, [let us know](javascript:void
 
 * * *
 
-Copyrights © 2020 All Rights Reserved by WishList.com
+Copyrights © 2021 All Rights Reserved by WishList.com
 
 We use cookies \- for WishList.com's functionality. By using our website, you accept that we may store and access cookies on your device. [Learn more.](https://www.wishlist.com/cookies) Got it
 

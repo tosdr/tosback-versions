@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+*   [New in 2021: Older planes bound for the Boneyard](http://feedproxy.google.com/~r/defense-news/air/~3/wQ16d2ap5QE/)  
+    12/31/20 09:21am  
+    
+    A B-1 bomber is prepared for a training mission on the flightline during an operational readiness exercise at Ellsworth Air Force Base, S.D., in March 2012. (Airman 1st Class Zachary Hada/Air Force)
+    
 *   [COVID-19 pandemic keeps Lockheed from meeting F-35 delivery goal in 2020](http://feedproxy.google.com/~r/defense-news/air/~3/jpJC2Wg9NCI/)  
     12/30/20 01:25pm  
     
@@ -165,21 +170,16 @@ For further information regarding the applicable laws, regulations, and policies
     
     Air Force Chief of Staff Gen. Charles "CQ" Brown speaks with senior leadership and faculty at Air University on Aug. 26. Brown detailed his plans on how the Air Force needs to change to face the challenges of the future in a series of action orders released in December. (Melanie Rodgers Cox/Air Force)
     
-*   [New in 2021: Advanced Battle Management System testing begins](http://feedproxy.google.com/~r/defense-news/air/~3/VZ9lD88TurM/)  
-    12/29/20 08:57am  
-    
-    Tech. Sgt. John Rodiguez provides security with a Ghost Robotics Vision 60 prototype at a simulated austere base during the Advanced Battle Management System exercise on Nellis Air Force Base, Nev., Sept. 1, 2020. (Tech. Sgt. Cory D. Payne/Air Force)
-    
 
 Recent parts by keyword  
 
-*   [5dl1](https://aerobasegroup.com/search/?term=5dl1)
-*   [mil-p-642](https://aerobasegroup.com/search/?term=mil-p-642)
-*   [C5307](https://aerobasegroup.com/search/?term=C5307)
-*   [BMS5-137 ty2](https://aerobasegroup.com/search/?term=BMS5-137+ty2)
-*   [ACM600](https://aerobasegroup.com/search/?term=ACM600)
-*   [acm200](https://aerobasegroup.com/search/?term=acm200)
-*   [AS3581-908](https://aerobasegroup.com/search/?term=AS3581-908)
+*   [MHY-12A](https://aerobasegroup.com/search/?term=MHY-12A)
+*   [lapping](https://aerobasegroup.com/search/?term=lapping)
+*   [lapping compound](https://aerobasegroup.com/search/?term=lapping+compound)
+*   [45BC03XP4](https://aerobasegroup.com/search/?term=45BC03XP4)
+*   [P6742](https://aerobasegroup.com/search/?term=P6742)
+*   [G3464](https://aerobasegroup.com/search/?term=G3464)
+*   [A35T57](https://aerobasegroup.com/search/?term=A35T57)
 
 The AeroBase Group Family ..
 
@@ -192,7 +192,7 @@ The AeroBase Group Family ..
 *   [![AeroBase NSN](/public/images/abg_nsn_gray.png)](https://aerobasegroup.com/)
 *   National stock number distribution and purchasing services.
 
-© Copyright 2020 AeroBase Group, Inc. | Cage: 74B05
+© Copyright 2021 AeroBase Group, Inc. | Cage: 74B05
 
 All product and company names are trademarks ™ or registered ® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 

@@ -544,6 +544,6 @@ Follow RTÉ
 
 [](https://www.rte.ie/)
 
-© RTÉ 2020. RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Media. RTÉ is not responsible for the content of external internet sites.
+© RTÉ 2021. RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Media. RTÉ is not responsible for the content of external internet sites.
 
 /\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/about.rte.ie\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 \* 1000 ); document.cookie = "pll\_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax"; }());

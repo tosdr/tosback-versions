@@ -362,7 +362,7 @@ If you are dissatisfied with a Jagex Product or any aspect of it, please contact
 
 [](https://www.jagex.com/en-GB/)
 
-Copyright © 1999 - 2020 Jagex Ltd. 220 Science Park, Cambridge, CB4 0WA, United Kingdom
+Copyright © 1999 - 2021 Jagex Ltd. 220 Science Park, Cambridge, CB4 0WA, United Kingdom
 
 [Contact Us](https://www.jagex.com/en-GB/contact-us) | [Gender Pay Gap Report](https://www.jagex.com/en-GB/gender-pay-gap) | [Modern Slavery Act Transparency Statement](https://www.jagex.com/en-GB/modern-slavery-act-transparency-statement)
 

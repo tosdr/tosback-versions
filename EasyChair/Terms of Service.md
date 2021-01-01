@@ -755,4 +755,4 @@ other right or remedy. No single or partial exercise of any right or
 remedy provided under these Terms or by law shall prevent or restrict
 the further exercise of that or any other right or remedy.
 
-Copyright © 2002 – 2020 EasyChair
+Copyright © 2002 – 2021 EasyChair

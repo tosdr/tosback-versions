@@ -161,5 +161,5 @@ Green Bay, WI 54307 (USA)
 *   [Manage Subscriptions](http://subscriptions.ezinearticles.com/)
 *   [EzineArticles RSS](http://ezinearticles.com/rss/)
 
-© 2020 EzineArticles  
+© 2021 EzineArticles  
 All Rights Reserved Worldwide

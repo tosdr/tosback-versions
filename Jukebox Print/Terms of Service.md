@@ -75,9 +75,9 @@ Printed in any shape and size, and most importantly, in 1 business day!
 
 [Flyers](https://www.jukeboxprint.com/flyers)
 
-[Gift Card Holders](https://www.jukeboxprint.com/gift-card-holders) 
+[Gift Card Holders](https://www.jukeboxprint.com/gift-card-holders)
 
-[Greeting Cards](https://www.jukeboxprint.com/greeting-cards) 
+[Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
 
 [Hang Tags](https://www.jukeboxprint.com/hang-tags)
 
@@ -95,11 +95,11 @@ Printed in any shape and size, and most importantly, in 1 business day!
 
 [Posters](https://www.jukeboxprint.com/poster-printing)
 
-[Rubber Stamps](https://www.jukeboxprint.com/rubber-stamps) 
+[Rubber Stamps](https://www.jukeboxprint.com/rubber-stamps)
 
-[Tissue Paper](https://www.jukeboxprint.com/tissue-paper) 
+[Tissue Paper](https://www.jukeboxprint.com/tissue-paper)
 
-[Wrapping Paper](https://www.jukeboxprint.com/wrapping-paper) 
+[Wrapping Paper](https://www.jukeboxprint.com/wrapping-paper)
 
 [Presentation Folders](https://www.jukeboxprint.com/presentation-folders)
 
@@ -161,7 +161,7 @@ Promote safety in your business with social distancing stickers.
 
 ##### Most Popular
 
-[Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards) 
+[Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards)
 
 [Textured Matte](https://www.jukeboxprint.com/textured-matte-business-cards)
 

@@ -83,7 +83,7 @@ We reserve the right, at any time and without notice, to add to, change, update,
 
 [Terms of Service](https://www.filefactory.com/legal/terms.php) - [Acceptable Use Policy](https://www.filefactory.com/legal/acceptableusepolicy.php) - [Privacy Policy](https://www.filefactory.com/legal/privacy.php) - [Fair Use Policy](https://www.filefactory.com/legal/fairusepolicy.php) - [Copyright Policy](https://www.filefactory.com/legal/dmca.php) - [Child Exploitation Policy](https://www.filefactory.com/legal/exploitation.php) - [Support](http://helpdesk.filefactory.com/) - [Resellers](https://www.filefactory.com/reseller/) - [Premium](https://www.filefactory.com/services/premium/) - [Affiliates](https://www.filefactory.com/services/affiliates/) - [Contact Us](https://www.filefactory.com/legal/contact.php)
 
-© FileFactory 2020  —  FileFactory Cloud Storage LLC
+© FileFactory 2021  —  FileFactory Cloud Storage LLC
 
 English Danish Dutch French German Japanese Norwegian Portuguese Swedish Spanish Change Language
 

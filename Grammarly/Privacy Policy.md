@@ -485,4 +485,4 @@ Community
 
 [LinkedIn](https://www.linkedin.com/company/grammarly)
 
-2020 © Grammarly Inc.
+2021 © Grammarly Inc.

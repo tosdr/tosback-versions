@@ -457,5 +457,5 @@ From time to time, we may make changes to the privacy policy. This may be in rel
 
 Last update:  08 July 2020
 
-Copyright © The Economist Newspaper Limited 2020  
+Copyright © The Economist Newspaper Limited 2021  
 Registered in England and Wales. No. 236383 | Registered office: The Adelphi, 1-11 John Adam Street, London, WC2N 6HT | VAT Reg No: GB 340 436 876

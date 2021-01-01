@@ -16,7 +16,7 @@ Any capitalized but undefined term in this Privacy Policy shall have the meaning
 *   [1\. DEFINITIONS](#privacy-1)
 *   [2\. DATA CONTROLLER OR DATA PROCESSOR](#privacy-2)
 *   [3\. WHAT DATA DO WE COLLECT ABOUT YOU AND WHEN?](#privacy-3)
-*   [4\. WHY DO WE PROCESS PERSONAL DATA AND FOR HOW LONG?](#privacy-4)
+*   [4\. PERSONAL DATA WE PROCESS](#privacy-4)
 *   [5\. WHAT WE DO NOT DO?](#privacy-5)
 *   [6\. PERSONAL DATA SECURITY](#privacy-6)
 *   [7\. WITH WHOM DO WE SHARE YOUR PERSONAL DATA?](#privacy-7)
@@ -43,11 +43,11 @@ When we say **"consent"** we mean your explicit consent on the processing of per
 2\. DATA CONTROLLER OR DATA PROCESSOR
 -------------------------------------
 
-In relation to your personal data processed on or via the Website, COING may be either a Data Controller or Data Processor.
+In relation to your personal data processed on or via the Website and the Service, COING may be either a Data Controller or Data Processor.
 
-When COING acts in the capacity of a Data Controller, COING determines the purposes and means of the processing of personal data. The purpose of data processing is the reason why we process your personal data. The table in Section 4 of the Privacy Policy presents the purposes and legal basis for data processing. In such cases, COING is responsible for your personal data.
+When COING acts in the capacity of a Data Controller, COING determines the purposes and means of the processing of personal data. The purpose of data processing is the reason why we process your personal data. The table in Section 4.1 of the Privacy Policy presents the purposes and legal basis for data processing. In such cases, COING is responsible for your personal data.
 
-This Privacy Policy contains information on processing your data in the capacity of a Data Controller. Should you have any inquiries, or you wish to exercise any of the rights of a Data Subject stipulated in Section 10, please contact us:
+Apart from Section 4.2, this Privacy Policy primarily contains information on processing your data in the capacity of a Data Controller. Should you have any inquiries, or you wish to exercise any of the rights of a Data Subject stipulated in Section 10, please contact us:
 
 *   COING Inc.
 *   2100 Geng Road, Suite 210
@@ -55,11 +55,13 @@ This Privacy Policy contains information on processing your data in the capacity
 *   USA
 *   Email: [support@clockify.me](mailto:support@clockify.me)
 
-By using the Service, you may disclose, share, record, or otherwise use various types of data via a Workspace as the User Content. The type of User Content is determined by the person that owns the Workspace and not by us. In that event, COING is a Data Processor and Data Controller is the owner of the Workspace. Thus, COING does not analyze, disclose or access such date unless a User sends a request for support and, in these cases, the access is limited to enabling the functioning of the Service. Should you wish to send an inquiry or exercise any of the Data Subject's rights, please contact the owner of the relevant Workspace via which your personal data has been processed.
+By using the Service, you may disclose, share, record, or otherwise use various types of data via a Workspace as the User Content. The type of User Content is determined by the person that owns the Workspace and not by us. The extent to which personal data is processed while using the Service also depends on the Clockify functionalities that the owner of the Workspace decides to use. In that event, COING is a Data Processor and Data Controller is the owner of the Workspace. Thus, COING does not analyze, disclose or access such data unless a User (including an Enterprise as a User) sends a request for support and, in these cases, the access is limited to enabling the functioning of the Service.
 
-Please also note that we do not collect your personal data if you are End User of Server Clockify. In that case, Client (the company that has Clockify installed on their server) is responsible for your personal data.
+Given that COING strongly supports the principle of transparency of personal data processing, despite being a Data Processor, COING made an additional effort to explain personal data processing via the Service in Section 4.2 of this Privacy Policy. The information contained therein outlines how personal data processing via Clockify functions in general. Nevertheless, should you wish to send an inquiry or exercise any of your Data Subject's rights which you may have under the applicable data protection legislation to the owner of the Workspace, please contact such owner of the relevant Workspace as Data Controller.
 
-If you represent a User that falls under the scope of application of the GDPR, you will need to sign the Data Protection Addendum to these Terms of Use (**"DPA"**), with COING as a Data Processor based outside the EEA. The DPA includes the Standard Contractual Clauses adopted by the European Commission, as applicable, and reflects the Parties' agreement with respect to the terms governing the processing of personal data under the CLOCKIFY's [Terms of Use](https://clockify.me/terms). Signing the DPA will be considered as an amendment to the Agreement (within the meaning of Section 1 of the [Terms of Use](https://clockify.me/terms)) and will be considered to form a part of the Agreement.
+Please also note that we do not collect or process your personal data if you are an End User of Server Clockify. In that case, Client (the company that has Clockify installed on their server) is responsible for your personal data.
+
+If you represent a User that falls under the scope of application of the GDPR or similar data protection legislation, you may sign the Data Protection Addendum to these Terms of Use (**"DPA"**), with COING as a Data Processor based outside the EEA. The DPA includes the Standard Contractual Clauses adopted by the European Commission, as applicable, and reflects the Parties' agreement with respect to the terms governing the processing of personal data under the CLOCKIFY's [Terms of Use](https://clockify.me/terms). Signing the DPA will be considered as an amendment to the Agreement (within the meaning of Section 1 of the [Terms of Use](https://clockify.me/terms)) and will be considered to form a part of the Agreement.
 
 If would like to sign a DPA with us, please contact us at [support@clockify.me](mailto:support@clockify.me) for more information.
 
@@ -72,18 +74,52 @@ We may collect and receive information about you in various ways:
 *   (ii) Information you decide to provide through getting in touch with us via [support@clockify.me](mailto:support@clockify.me).
 *   (iii) Information we collect through the use of cookies in accordance with our Cookie Policy (for example, your time zone).
 
-4\. WHY DO WE PROCESS PERSONAL DATA AND FOR HOW LONG?
------------------------------------------------------
+4\. PERSONAL DATA WE PROCESS
+----------------------------
+
+### 4.1 COING as Data Controller
 
 | DATA WE COLLECT | PURPOSE | LEGAL BASIS | RETENTION |
 | --- | --- | --- | --- |
 | **Email address, password, time zone and sometimes profile photo, name and personal API key**  <br>  <br>(if the User decides to provide such personal data).  <br>  <br>The User will also obtain the User ID so that we can identify that User in the future. | Creating and maintaining a User Account on the Website according to the [Terms of Use](https://clockify.me/terms). | Processing is necessary for the performance of the Agreement (as defined in Section 1 of the [Terms of Use](https://clockify.me/terms)). Without providing an email address, password and time zone, the User may not create the User Account. | Until the account is deleted in accordance with the [Terms of Use](https://clockify.me/terms). |
 | **Financial Data**  <br>  <br>such as name, address, bank account and payment card details. The payer may not be the User subscribing to the Paid Plan, so it is possible to receive the information from another User. | When subscribing to any of the Paid Plans or when changing any Paid Plan in accordance with the [Terms of Use](https://clockify.me/terms), this information is being collected by a third party processor. | Processing is necessary for the User’s performance of the Agreement which includes providing Additional Features based on the selected Paid Plan. | We keep only the last four digits of the credit card number under subscription billing info until such Agreement is terminated and for the period necessary to comply with the applicable financial and tax accounting and other statutory obligations in accordance with the applicable law (Section 22 of the [Terms of Use](https://clockify.me/terms)). |
 | **Additional Data**  <br>  <br>i.e., data you decide to share with us. | If you send us an inquiry at [support@clockify.me](mailto:support@clockify.me) or otherwise request support, we will collect data you decide to share with us. | Processing of personal data is either necessary to provide a Service or part thereof, or the processing is based on your consent. | If the processing is based on your consent, we keep the information until you withdraw your consent or for one year, whichever date comes first. |
-| **Email address**  <br>  <br>If you decide to sign up for our newsletter, we use your e-mail address. | This newsletter allows us to inform you of the new features of the Service, updates, as well as other news relevant to the company. | Processing is based on your consent. You have the right to withdraw your consent at any time, without affecting the lawfulness of the processing based on consent prior to such withdrawal. You may unsubscribe from receiving a newsletter from us. If you wish to do so, simply follow the instructions found at the end of each e-mail. | We may use your email for this purpose until you unsubscribe or until you delete your User Account. |
+| **Email address**  <br>  <br>If you decide to sign up for our newsletter, we use your email address. | This newsletter allows us to inform you of the new features of the Service, updates, as well as other news relevant to the company. | Processing is based on your consent. You have the right to withdraw your consent at any time, without affecting the lawfulness of the processing based on consent prior to such withdrawal. You may unsubscribe from receiving a newsletter from us. If you wish to do so, simply follow the instructions found at the end of each email. | We may use your email for this purpose until you unsubscribe or until you delete your User Account. |
 | **Email address**  <br>  <br>(when provided by other Users) | Users may invite non-users via Clockify to join the Workspace, in which case they provide the non-user’s email address. | Processing is necessary for the performance of the Agreement between us and the User who provided the information and it is also in the User’s legitimate interest. | After sending the message to you we do not keep your personal data unless you decide to become a User, in which case other purposes apply. |
-| **Information necessary for identification** | To allow Data Subjects from EEA to exercise their rights in accordance with this Privacy Policy, as defined in Section 10. | Processing is necessary for compliance with a legal obligation which Controller is subject to. | We keep this information for a period of one year. |
+| **Information necessary for identification** | To allow Data Subjects from EEA to exercise their rights in accordance with this Privacy Policy, as defined in Section 10. | Processing is necessary for compliance with a legal obligation which the Controller is subject to. | We keep this information for a period of one year. |
 | **Other personal data** | For the prevention and detection of fraud, money laundering or other crimes or to respond to a binding request from a public authority or court. | The processing is necessary to comply with legal and regulatory obligations. | In accordance with the applicable statutory deadlines. |
+
+### 4.1 COING as Data Processor
+
+As previously stated, concerning your personal data processed on or via the Service, COING is a Data Processor and the Owner of the Workspace is the Data Controller. COING processes personal data following instructions from the Data Controller and under the [Terms of Use](https://clockify.me/terms) and DPA (if any). The purpose of such personal data processing is productivity management during work hours of the team where the Owner of the Workspace may get an accurate report of the workweek, improve project profitability, compile reports for the clients, track attendance of employees and/or other team members and track their work.
+
+As a processor, COING is permitted to collect, use, disclose and/or otherwise process your personal data only following the instructions of the Owner of the Workspace.
+
+**1\. Processing prior to using the Service**
+
+*   The Owner of the Workspace shares your email address to enable you to access the Service.
+*   The Owner of the Workspace may assign you tasks and projects.
+*   If you have any questions regarding the legal basis for such personal data processing, please contact the Owner of the Workspace who invited you to the Service.
+
+**2\. Processing during the usage of the Service**
+
+If you decide to accept the invitation to use the Service, you will be required to create an account. To create the User Account, you will need to share your email address and password.
+
+You manage personal data you share via your account such as name and surname, photo, email data (personal email address and/or work email address).
+
+In the course of the use of the Service we may process system usage data, IP address, work position, attendance at work, time-tracking data you inserted (for example, the time you started work, the time you finished work, tasks or projects worked on), application integration data, navigational data (including website usage information such as interactions with Clockify, and other electronic data submitted, stored, sent, or received by the Data Controller via the Service.
+
+If the Owner of the Workspace is an Enterprise, depending on whether certain Clockify functionalities have been activated, we may collect screenshots of your desktop screen in low resolution (blurred) and/or GPS location and/or names of applications used on your computer, websites visited and time spent (if you decide to share such data).
+
+Screenshot is an extra feature, which an Enterprise can enable to generate screenshots randomly every 5 minutes while the timer is running on a desktop app. For more information on Screenshots and processing of personal data, please see [here](https://clockify.me/help/extra-features/screenshots).
+
+GPS tracking is an extra feature, which an Enterprise can enable to track who is currently working on-site and everyone's location history throughout the day while the timer is running. For more information on GPS tracking and processing of personal data, please see [here](https://clockify.me/help/extra-features/gps-tracking).
+
+Auto tracker tracks websites and programs that you view for more than 10 seconds (apps you use for less than that won't show up). This data is stored locally on your device and may be visible to other users in your Workspace only after you add it as an entry from the auto tracker table. For more information please see [here](https://clockify.me/help/apps/mac-desktop-app#auto-tracker).
+
+COING does not undertake analysis of any special categories of personal data (including racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic or biometric data, health data, sex life or sexual orientation) and Clockify functionalities are not meant to be used for the processing of any such personal data. However, if you decide to provide such personal data to us or Data Controller via the Service, you will be deemed to have consented to such processing of the data.
+
+For more information on who may access personal data, please see [here](https://clockify.me/help/users/who-can-do-what).
 
 5\. WHAT WE DO NOT DO?
 ----------------------
@@ -112,7 +148,7 @@ We audit their processes and activities prior to contract and during the contrac
 
 This is the list of processors and sub-processors with whom we share your personal data:
 
-| PROCESSOR | ROLE | SEAT |
+| PROCESSOR/SUBPROCESSOR | ROLE | SEAT |
 | --- | --- | --- |
 | The Rocket Science Group, LLC (MailChimp) | Email services based on Cloud | USA |
 | Google, Inc. | Analytics | USA |
@@ -120,6 +156,7 @@ This is the list of processors and sub-processors with whom we share your person
 | SendGrid, Inc. | E-mail services based on Cloud | USA |
 | Stripe, Inc. | Payment provider | USA |
 | Zendesk, Inc. | Email and chat support | USA |
+| Coing DOO | Software development | Serbia |
 
 We may also share your personal data with our outside accountants, legal counsels and auditors.
 
@@ -149,7 +186,13 @@ However, as an exception to the retention periods in Section 4 the data may be p
 10\. YOUR RIGHTS
 ----------------
 
-Given that transparency is one of our cornerstone principles, we grant Data Subjects certain rights in relation to their personal data. These rights may be exercised by Data Subject when COING operates as a Data Controller. If your inquiry or exercise of any of the Data Subject's rights relates to the data on a Workspace, please contact the owner of the relevant Workspace via which your personal data has been processed.
+Given that transparency is one of our cornerstone principles, we grant Data Subjects certain rights in relation to their personal data. These rights may be exercised by Data Subject when COING operates as a Data Controller.
+
+If your inquiry or exercise of any of the Data Subject's rights relates to the data on a Workspace processed as explained in Section 4.2 of the Privacy Policy, please contact the owner of the relevant Workspace via which your personal data has been processed.
+
+In the event COING receives a request for exercising any of these rights directly from a Data
+
+Subject, we are obliged to notify the owner of the relevant Workspace before responding to such a request.
 
 ### Right of Access
 
@@ -200,8 +243,8 @@ If you have any concerns or requests in relation to your personal data, please c
 11\. CHANGES TO PRIVACY POLICY
 ------------------------------
 
-We reserve the right to change Privacy Policy from time to time at our sole discretion. If we make any changes, we will publish the new rules on this web page and, if we have your e-mail, we will notify you directly.
+We reserve the right to change Privacy Policy from time to time at our sole discretion. If we make any changes, we will publish the new rules on this web page and, if we have your email, we will notify you directly.
 
 Where you have previously consented to our Privacy Policy, your continued use of the Website after we make changes is deemed to be acceptance of the updated rules.
 
-Last updated on October 15, 2019
+Last updated on 31/12/2020

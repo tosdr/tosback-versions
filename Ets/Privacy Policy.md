@@ -433,5 +433,5 @@ To advance quality and equity in education by providing fair and valid assessmen
 *   [Privacy and Security](http://www.ets.org/legal/privacy)
 *   [ETS Trademarks](http://www.ets.org/legal/trademarks/owned)
 
-Copyright © 2020 by ETS. All rights reserved.  
+Copyright © 2021 by ETS. All rights reserved.  
 All trademarks are the property of their respective owners.

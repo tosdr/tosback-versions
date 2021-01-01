@@ -234,7 +234,7 @@ English
 
 ![remove.bg](https://static.remove.bg/remove-bg-web/2d3033222293ea1b18e1137be4d4a669ae75c552/assets/logo-footer-4add5d6011751a7a224fa2f1e29859be3ac25d492d299a6c71c4b81e20719415.svg)  made with ♥ by  [![Kaleido](https://static.remove.bg/remove-bg-web/2d3033222293ea1b18e1137be4d4a669ae75c552/assets/logo-footer-kaleido-e1e7a09f241f4fc02fda8c2dd90701fe98ef328c3b1a94d513db891605e377ce.svg)](https://www.kaleido.ai/) 
 
-Copyright 2018-2020 Kaleido AI GmbH - All rights reserved.
+Copyright 2018-2021 Kaleido AI GmbH - All rights reserved.
 
 All trademarks, service marks, trade names, product names, logos and trade dress appearing on our website are the property of their respective owners. Adobe, Creative Cloud and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. 2d3033222293ea1b18e1137be4d4a669ae75c552
 

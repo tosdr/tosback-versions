@@ -142,4 +142,4 @@ Sign up
 *   [Privacy Policy](https://colloq.io/privacy)
 *   [Legal](https://colloq.io/legal)
 *   [Code of Conduct](https://colloq.io/code-of-conduct)
-*   © 2020 Colloq
+*   © 2021 Colloq

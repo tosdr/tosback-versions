@@ -143,7 +143,7 @@ Payment methods
 *   Shop Pay
 *   Visa
 
-© 2020, [bygabyardigo](https://bygabyardigo.com/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2021, [bygabyardigo](https://bygabyardigo.com/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
 Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
 

@@ -211,7 +211,7 @@ The Canadian Dental Association is the nation's voice for dentistry dedicated to
 *   [CDSPI](https://www.cda-adc.ca/en/services/cdspi/)
 *   [Adapting to Professional Life as an Internationally Trained Dentist in Canada](https://www.cda-adc.ca/en/services/internationallytrained/default.asp)
 
-Copyright © 2020 Canadian Dental Association, Inc. All rights reserved.
+Copyright © 2021 Canadian Dental Association, Inc. All rights reserved.
 
 [Important Notices](https://www.cda-adc.ca/en/important_notices/index.asp)  |  [Accessible Customer Service Plan](https://www.cda-adc.ca/en/important_notices/accessible/)
 

@@ -93,7 +93,7 @@ United States
 [customer@endurance.com](mailto:customer@endurance.com)  
 [602-226-2389](tel:602-226-2389)
 
-©2020 Endurance International Group.
+©2021 Endurance International Group.
 
 *   [Privacy Statement](https://www.endurance.com/our-policies/privacy-statement/)
 *   [Terms of Use](https://www.endurance.com/our-policies/terms-of-use/)

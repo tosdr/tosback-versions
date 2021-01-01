@@ -2,7 +2,7 @@ window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function(
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Thursday, December 31, 2020  
+Friday, January 1, 2021  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,30 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [I’m not a short-distance runner, says Benny Gantz as his party crumbles](https://www.debka.com/mivzak/im-not-a-short-distance-runner-says-benny-gantz-as-his-party-crumbles/)
+    
+    Jan 01, 2021 @ 13:50
+    
+*   [Lockdown is not working, says coronavirus director](https://www.debka.com/mivzak/lockdown-is-not-working-says-coronavirus-director/)
+    
+    Jan 01, 2021 @ 11:07
+    
+*   [First 9,000 vaccinations shots for military, incl. submariners, airmen](https://www.debka.com/mivzak/first-9000-vaccinations-shots-for-military-incl-submariners-airmen/)
+    
+    Jan 01, 2021 @ 09:51
+    
+*   [Israel has vaccinated 800,000 people in 12 days](https://www.debka.com/mivzak/israel-has-vaccinated-800000-people-in-12-days/)
+    
+    Dec 31, 2020 @ 18:24
+    
+*   [As covid infection soars higher, tighter restrictions are considered](https://www.debka.com/mivzak/as-covid-infection-soars-tighter-restrictions-are-considered/)
+    
+    Dec 31, 2020 @ 18:21
+    
+*   [Thousands of cops on standby to break up New Year parties](https://www.debka.com/mivzak/thousands-of-cops-on-standby-to-break-up-new-year-parties/)
+    
+    Dec 31, 2020 @ 18:00
+    
 *   [Just-elected US congressman Luke Letlow,41, dies of Covid-19](https://www.debka.com/mivzak/just-elected-us-congressman-luke-letlow41-dies-of-covid-19/)
     
     Dec 30, 2020 @ 19:02
@@ -64,32 +88,32 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [At least 13 killed in explosions at Aden airport as new government lands](https://www.debka.com/mivzak/massive-explosions-and-gunfire-at-aden-airport-after-new-government-lands/)
     
     Dec 30, 2020 @ 13:03
-    
-*   [Tuesday saw 152,000 covid vaccinations in all, as infection stayed high](https://www.debka.com/mivzak/tuesday-saw-152000-covid-vaccinations-in-all-as-infection-stayed-high/)
-    
-    Dec 30, 2020 @ 11:02
-    
-*   [Damascus alleges second Israeli air strike this week](https://www.debka.com/mivzak/damascus-alleges-second-israeli-air-strike-this-week/)
-    
-    Dec 30, 2020 @ 09:40
-    
-*   [Huldai calls his new party “The Israelis”](https://www.debka.com/mivzak/huldai-calls-his-new-party-the-israelis/)
-    
-    Dec 29, 2020 @ 21:25
-    
-*   [Gantz will lead Kahol Lavan for the March election](https://www.debka.com/mivzak/174391/)
-    
-    Dec 29, 2020 @ 21:14
-    
-*   [Justice Minister quits the Kahol Lavan party led by Benny Gantz](https://www.debka.com/mivzak/justice-minister-quits-the-kahol-lavan-party-led-by-benny-gantz/)
-    
-    Dec 29, 2020 @ 19:37
-    
-*   [Government ends quarantine “hotel” program for arrivals](https://www.debka.com/mivzak/government-ends-quarantine-hotel-program-for-arrivals/)
-    
-    Dec 29, 2020 @ 19:16
     
 
+*   [I’m not a short-distance runner, says Benny Gantz as his party crumbles](https://www.debka.com/mivzak/im-not-a-short-distance-runner-says-benny-gantz-as-his-party-crumbles/)
+    
+    Jan 01, 2021 @ 13:50
+    
+*   [Lockdown is not working, says coronavirus director](https://www.debka.com/mivzak/lockdown-is-not-working-says-coronavirus-director/)
+    
+    Jan 01, 2021 @ 11:07
+    
+*   [First 9,000 vaccinations shots for military, incl. submariners, airmen](https://www.debka.com/mivzak/first-9000-vaccinations-shots-for-military-incl-submariners-airmen/)
+    
+    Jan 01, 2021 @ 09:51
+    
+*   [Israel has vaccinated 800,000 people in 12 days](https://www.debka.com/mivzak/israel-has-vaccinated-800000-people-in-12-days/)
+    
+    Dec 31, 2020 @ 18:24
+    
+*   [As covid infection soars higher, tighter restrictions are considered](https://www.debka.com/mivzak/as-covid-infection-soars-tighter-restrictions-are-considered/)
+    
+    Dec 31, 2020 @ 18:21
+    
+*   [Thousands of cops on standby to break up New Year parties](https://www.debka.com/mivzak/thousands-of-cops-on-standby-to-break-up-new-year-parties/)
+    
+    Dec 31, 2020 @ 18:00
+    
 *   [Just-elected US congressman Luke Letlow,41, dies of Covid-19](https://www.debka.com/mivzak/just-elected-us-congressman-luke-letlow41-dies-of-covid-19/)
     
     Dec 30, 2020 @ 19:02
@@ -97,30 +121,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [At least 13 killed in explosions at Aden airport as new government lands](https://www.debka.com/mivzak/massive-explosions-and-gunfire-at-aden-airport-after-new-government-lands/)
     
     Dec 30, 2020 @ 13:03
-    
-*   [Tuesday saw 152,000 covid vaccinations in all, as infection stayed high](https://www.debka.com/mivzak/tuesday-saw-152000-covid-vaccinations-in-all-as-infection-stayed-high/)
-    
-    Dec 30, 2020 @ 11:02
-    
-*   [Damascus alleges second Israeli air strike this week](https://www.debka.com/mivzak/damascus-alleges-second-israeli-air-strike-this-week/)
-    
-    Dec 30, 2020 @ 09:40
-    
-*   [Huldai calls his new party “The Israelis”](https://www.debka.com/mivzak/huldai-calls-his-new-party-the-israelis/)
-    
-    Dec 29, 2020 @ 21:25
-    
-*   [Gantz will lead Kahol Lavan for the March election](https://www.debka.com/mivzak/174391/)
-    
-    Dec 29, 2020 @ 21:14
-    
-*   [Justice Minister quits the Kahol Lavan party led by Benny Gantz](https://www.debka.com/mivzak/justice-minister-quits-the-kahol-lavan-party-led-by-benny-gantz/)
-    
-    Dec 29, 2020 @ 19:37
-    
-*   [Government ends quarantine “hotel” program for arrivals](https://www.debka.com/mivzak/government-ends-quarantine-hotel-program-for-arrivals/)
-    
-    Dec 29, 2020 @ 19:16
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });
@@ -163,7 +163,7 @@ Archive Select Month December 2020  (20) November 2020  (24) October 2020  (1
 *   [Contact Us](https://www.debka.com/contact/)
 *   [About Us](https://www.debka.com/about/)
 
-Copyright © 2000-2020 [DEBKAfile](https://www.debka.com/ "DEBKAfile"). All Rights Reserved.
+Copyright © 2000-2021 [DEBKAfile](https://www.debka.com/ "DEBKAfile"). All Rights Reserved.
 
 [](#masthead)
 
@@ -201,4 +201,4 @@ Close
 
 var pfHeaderImgUrl = ''; var pfHeaderTagline = ''; var pfdisableClickToDel = '0'; var pfImagesSize = 'full-size'; var pfImageDisplayStyle = 'right'; var pfEncodeImages = '0'; var pfDisableEmail = '0'; var pfDisablePDF = '0'; var pfDisablePrint = '0'; var pfCustomCSS = ''; var pfPlatform = 'Wordpress'; /\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/www.debka.com\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/
 
-googletag.pubads().definePassback('/264857099/Debka\_EN/Desktop/Desktop\_Interstitial', \[1, 1\]).display();
+window.googletag = window.googletag || {cmd: \[\]}; googletag.cmd.push(function() { googletag.defineSlot('/22215292831/debka\_en/desktop/desktop\_interstitial', \[1, 1\], 'gpt-passback-desktop\_int').addService(googletag.pubads()); googletag.enableServices(); googletag.display('gpt-passback-desktop\_int'); });

@@ -179,7 +179,7 @@ Instagram
 
 [Sitemap](https://www.omnigroup.com/sitemap/) [Contact](mailto:info@omnigroup.com) [Press](https://www.omnigroup.com/press/) [Legal](https://www.omnigroup.com/legal/)
 
-© 1994–2020 The Omni Group; Apple, MacBook, the Apple logo, iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+© 1994–2021 The Omni Group; Apple, MacBook, the Apple logo, iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
   var \_paq = window.\_paq || \[\]; /\* tracker methods like "setCustomDimension" should be called before "trackPageView" \*/ \_paq.push(\["setCookieDomain", "\*.www.omnigroup.com"\]); \_paq.push(\["setDomains", \["\*.www.omnigroup.com", "\*.omnigroup.com"\]\]); \_paq.push(\["enableCrossDomainLinking"\]); \_paq.push(\["trackPageView"\]); \_paq.push(\["enableLinkTracking"\]); \_paq.push(\['setDownloadClasses', "track-download"\]); (function() { var u = "//piwik.omnigroup.com/"; \_paq.push(\["setTrackerUrl", u + "matomo.php"\]); \_paq.push(\["setSiteId", "1"\]); \_paq.push(\['addTracker', u + 'matomo.php', 17\]); var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")\[0\]; g.type = "text/javascript"; g.async = true; g.defer = true; g.src = u + "matomo.js"; s.parentNode.insertBefore(g, s); })(); 
 

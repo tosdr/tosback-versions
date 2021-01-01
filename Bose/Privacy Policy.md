@@ -506,7 +506,7 @@ You may also contact our Data Protection Officer by using the email address abov
 
 [](https://www.bose.com/en_us/index.html "Bose")
 
-© Bose Corporation 2020
+© Bose Corporation 2021
 
 **AUDIO FOR LIFE**
 

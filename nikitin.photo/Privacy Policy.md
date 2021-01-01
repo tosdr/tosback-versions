@@ -44,6 +44,6 @@ If you have any questions or concerns, please [contact](https://www.nikitin.phot
 
 * * *
 
-All text and photographs are © [Copyright](https://www.nikitin.photo/copyright/ "Copyright information") Niklas Nikitin, 2011 - 2020. All rights reserved. [Privacy Policy](https://www.nikitin.photo/privacy/ "Privacy policy").
+All text and photographs are © [Copyright](https://www.nikitin.photo/copyright/ "Copyright information") Niklas Nikitin, 2011 - 2021. All rights reserved. [Privacy Policy](https://www.nikitin.photo/privacy/ "Privacy policy").
 
 [![More images on Instagram](/images/instagram-white.png)](https://www.instagram.com/nikitin.photo "More images on Instagram")

@@ -116,6 +116,6 @@ Site currently displayed in العربية (Arabic) Български (Bulgaria
 
 [About BeWelcome](https://www.bewelcome.org/about) • [Help support our work](https://www.bewelcome.org/donate) • [Terms of use](https://www.bewelcome.org/terms) • [Privacy policy](https://www.bewelcome.org/privacy) • [Data rights](https://www.bewelcome.org/datarights) • [Legal note](https://www.bewelcome.org/impressum) • [FAQ](https://www.bewelcome.org/about/faq) • [Contact us](https://www.bewelcome.org/feedback) • [Report a bug](https://www.bewelcome.org/feedback?IdCategory=1&RequestURI=https://www.bewelcome.org/)
 
-© 2007 — 2020 [BeVolunteer](https://www.bevolunteer.org/) and contributors - _Running on open source [BW Rox](https://github.com/bewelcome/rox) rev. [6aa6174f4](https://github.com/BeWelcome/rox/commit/6aa6174f4) (2020-09-24 19:14:58)_
+© 2007 — 2021 [BeVolunteer](https://www.bevolunteer.org/) and contributors - _Running on open source [BW Rox](https://github.com/bewelcome/rox) rev. [6aa6174f4](https://github.com/BeWelcome/rox/commit/6aa6174f4) (2020-09-24 19:14:58)_
 
 $(".select2").select2({ theme: 'bootstrap', width: 'auto', dropdownAutoWidth: true }); $(".select2-inline").select2({ theme: 'bootstrap', width: 'auto' }); $(".toast").toast('show');

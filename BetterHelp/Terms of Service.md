@@ -158,7 +158,7 @@ If you are in a crisis or any other person may be in danger - don't use this sit
 
 ](https://twitter.com/betterhelp)[*   Home](https://www.betterhelp.com/)[*   About](https://www.betterhelp.com/about/)[*   FAQ](https://www.betterhelp.com/faq/)[*   Reviews](https://www.betterhelp.com/reviews/)[*   Advice](https://www.betterhelp.com/advice/)[*   Jobs](https://www.betterhelp.com/jobs/)[*   Find a Therapist](https://www.betterhelp.com/therapists/)[*   Online Therapy](https://www.betterhelp.com/online-therapy/)[*   Contact](https://www.betterhelp.com/contact/)[*   For Counselors](https://www.betterhelp.com/counselor_application/)
 
-[*   Terms & Conditions](https://www.betterhelp.com/terms/)[*   Privacy Policy](https://www.betterhelp.com/privacy/)[*   Web Accessibility](https://www.betterhelp.com/accessibility/)*   © 2020 BetterHelp
+[*   Terms & Conditions](https://www.betterhelp.com/terms/)[*   Privacy Policy](https://www.betterhelp.com/privacy/)[*   Web Accessibility](https://www.betterhelp.com/accessibility/)*   © 2021 BetterHelp
 
 We use BetterHelp and third-party cookies and web beacons to help the site function properly, analyze usage, and measure the effectiveness of our ads. Read our [Privacy Policy](https://www.betterhelp.com/privacy/) to learn more.
 

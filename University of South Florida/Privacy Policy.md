@@ -133,7 +133,7 @@ Tampa, FL 33620, USA
 *   [Twitter](https://twitter.com/USF_IT)
 *   [YouTube](http://www.youtube.com/usfitchannel)
 
-Copyright [©](#) 2020, University of South Florida. All rights reserved.
+Copyright [©](#) 2021, University of South Florida. All rights reserved.
 
 This website is maintained by [Information Technology](mailto:webservices@usf.edu).
 

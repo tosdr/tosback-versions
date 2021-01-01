@@ -22,7 +22,7 @@ Resources
 
 About Us
 
-[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Customer Success](https://www.retailzipline.com/product/overview)
+[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Customer Success](https://www.retailzipline.com/product/overview)[Events](https://www.retailzipline.com/about-us/events)[Awards](https://www.retailzipline.com/about-us/awards)
 
 [
 
@@ -209,6 +209,8 @@ Zipline helps retailers coordinate their brick-and-mortar stores by streamlining
     *   [Careers](https://www.retailzipline.com/about-us/careers)
     *   [Press](https://www.retailzipline.com/resources/press)
     *   [Customer Success](https://www.retailzipline.com/how-to-start/customer-care)
+    *   [Events](https://www.retailzipline.com/about-us/events)
+    *   [Awards](https://www.retailzipline.com/about-us/awards)
 *   *   [Privacy](https://www.retailzipline.com/privacy-policy)
     *   [Terms of Service](https://www.retailzipline.com/terms-and-conditions)
 

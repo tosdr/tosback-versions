@@ -1,4 +1,4 @@
-Save 25% TODAY ONLY [Click Here](https://www.hawkhost.com/web-hosting-specials)
+New Years Sale UP TO 60% OFF [Click Here](https://www.hawkhost.com/web-hosting-specials)
 
 [![Hawk Host logo](https://www.hawkhost.com/img/logo.png)](https://www.hawkhost.com/)
 
@@ -152,7 +152,7 @@ Our service is not available to children under the age of 13, and we will not in
 
 [Email Support](https://www.hawkhost.com/Contact/support)
 
-Copyright © 2020 [Hawk Host](https://www.hawkhost.com/), All Rights Reserved
+Copyright © 2021 [Hawk Host](https://www.hawkhost.com/), All Rights Reserved
 
 *   [Privacy Policy](https://www.hawkhost.com/Legal/privacy)
 *   [Terms Of Service](https://www.hawkhost.com/Legal/tos)
@@ -167,22 +167,13 @@ var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.crea
 
 ![Modal Logo](https://www.hawkhost.com/img/logo.png)
 
-DON'T GO!
----------
-
-Our HUGE sale is ending soon! Click below to get your unique code!\*
-
-\*Coupon code not valid for cloud compute or VPS packages.
-
-GET MY COUPON NOW
-
-Close without getting coupon
-
-![Modal Logo](https://www.hawkhost.com/img/logo.png)
-
-Coupon code for 30% off (recurring):
-
-HHI-PNIGH2FQUX
+New Years Sale
 --------------
 
-USE MY COUPON
+Happy Holidays! Save big on all of our plans for a limited time!
+
+UP TO 60% OFF
+
+[VIEW THE DEALS](https://www.hawkhost.com/web-hosting-specials)
+
+Close without viewing deals

@@ -169,6 +169,6 @@ All rights reserved, QWANT® 2019
 *   [Privacy](https://about.qwant.com/legal/privacy/)
 *   [Contact](https://about.qwant.com/contact/)
 
-© 2020 Qwant. All Rights Reserved.
+© 2021 Qwant. All Rights Reserved.
 
 back\_to\_top.onclick = function(){ jQuery('html, body').animate({ scrollTop: 0 }, 500); } jQuery(".qwant\_as\_default").click(function(){ window.external.AddSearchProvider('https://www.qwant.com/opensearch.xml'); }); onscroll = function(){ if(document.documentElement.scrollTop > 300 || document.body.scrollTop > 300){ back\_to\_top.className = "visible"; } else { back\_to\_top.className = ""; } } var sbiajaxurl = "https://about.qwant.com/wp-admin/admin-ajax.php"; /\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/about.qwant.com\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"}; /\* \]\]> \*/

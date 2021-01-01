@@ -189,56 +189,13 @@ Adresse postale : Pole-Emotion Sàrl, CP 12, CH-1424 Champagne
 
 Cours Bonus, Cours Spéciaux, Stages & Shooting
 
-##### Location des salles
-
-Crissier 1
-
-Crissier 2
-
-Monthey
+##### Pole Débutantes « First »
 
 Yverdon Pole
 
-Yverdon Studio 48
+Tu as toujours voulu essayer mais tu n'as jamais osé? Saches que la pole est un sport accessible à toutes même les femmes pas sportives! Nos cours sont ouverts uniquement aux femmes de 16 à 185 ans. Il n'y a pas de rivalité dans nos cours car nos profs sont formées pour créer une ambiance de cohésion de groupe pour s'entraider. **Le cours d'essai est gratuit**! Viens avec une copine!
 
-Lausanne
-
-Gland
-
- 
-
-*   Vous n'avez pas de barre à la maison?
-*   Louez nos salles Pole-Emotion!
-
-Nous mettons à disposition nos salles afin que vous puissiez vous entraîner sans contrainte si vous possédez un abonnement Freedom ou illimité. Il suffit de réserver une salle au minimum 15 jours à l'avance via notre site internet et nous nous occupons du reste. Plus d'infos: https://www.pole-emotion.ch/location-de-salle/  
-
-[Plus d'info](https://www.pole-emotion.ch/produit/location-pendant-covid-des-salles-pole-emotion/)
-
-31
-
-Déc.
-
-2020
-
-##### Cours privé
-
-Crissier 1
-
-Crissier 2
-
-Monthey
-
-Lausanne
-
-Yverdon Studio 48
-
-Yverdon Pole
-
-Gland
-
-Toutes [les disciplines de l’école](https://www.pole-emotion.ch/categories-de-cours/les-cours/) sont disponibles en coaching privé et bien plus encore! De la confiance en soi au striptease, en passant par la pole nous t’organisons à la carte le coaching de ton choix! Envie de faire un striptease à ta moitié? Nous te créons une chorégraphie accessible et selon ton envie avec tous les conseils d'une pro pour te mettre en confiance! Envie de te remettre en forme? Nous t'accueillons dans nos salles et préparons un programme adapté à ta demande et ton but! Envie de reprendre confiance en toi après une rupture ou un coup dur? Nos cours de maintien du corps ou comment marcher en talons te permettrons de te sentir bien en te regardant dans le miroir. Et tellement d'autres !
-
-[Plus d'info](https://www.pole-emotion.ch/produit/cours-prive/)
+[Plus d'info](https://www.pole-emotion.ch/produit/cours-debutantes-first/)
 
 31
 

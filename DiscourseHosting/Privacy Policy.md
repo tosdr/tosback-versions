@@ -61,7 +61,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 _This document was last updated on August 26, 2019._
 
-© Copyright 2013-2020 DiscourseHosting.com. We are not affiliated with discourse.org.
+© Copyright 2013-2021 DiscourseHosting.com. We are not affiliated with discourse.org.
 
 *   [Terms of Service](https://www.discoursehosting.com/tos/)
 *   [Privacy Policy](https://www.discoursehosting.com/privacy-policy/)

@@ -329,4 +329,4 @@ Email  Subscribe
 *   [Terms & Policies](https://www.sketch.com/legal/)
 *   [Status](https://status.sketch.com/)
 
-© 2020 Sketch B.V.
+© 2021 Sketch B.V.

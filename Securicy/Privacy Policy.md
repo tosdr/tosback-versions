@@ -400,7 +400,7 @@ Email: [info@securicy.com](mailto:info@securicy.com)
 
 *   Email\*
     
-*   Comments
+*   Name
     
     This field is for validation purposes and should be left unchanged.
     

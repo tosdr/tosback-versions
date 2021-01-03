@@ -13,37 +13,37 @@
     *   [Shop All Products](https://www.fitbit.com/global/us/products)
     
     *   EXPERIENCES
-    *   [Setup Process](https://www.fitbit.com/global/us/setup)
+    *   [Setup Process](https://help.fitbit.com/articles/en_US/Help_article/1873.htm)
     
     [](https://www.fitbit.com/global/us/products/smartwatches/sense)
     
-    New
+    Save $50
     
     [
     
-    Fitbit Sense
+    Shop Sense
     
     ](https://www.fitbit.com/global/us/products/smartwatches/sense)
     
-    [](http://www.fitbit.com/fitbit/global-master/products/smartwatches/versa3.html)
+    [](https://www.fitbit.com/global/us/products/smartwatches/versa)
     
-    New
-    
-    [
-    
-    Fitbit Versa 3
-    
-    ](http://www.fitbit.com/fitbit/global-master/products/smartwatches/versa3.html)
-    
-    [](https://www.fitbit.com/global/us/products/trackers/inspire2)
-    
-    New
+    Save $30
     
     [
     
-    Fitbit Inspire 2
+    Shop Versa 2
     
-    ](https://www.fitbit.com/global/us/products/trackers/inspire2)
+    ](https://www.fitbit.com/global/us/products/smartwatches/versa)
+    
+    [](https://www.fitbit.com/global/us/products/trackers/charge4)
+    
+    Save $30
+    
+    [
+    
+    Shop Charge 4
+    
+    ](https://www.fitbit.com/global/us/products/trackers/charge4)
     
 *   [TECHNOLOGY](https://www.fitbit.com/global/us/technology)
     

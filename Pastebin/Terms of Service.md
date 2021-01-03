@@ -6,6 +6,8 @@
 
 [Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_design = "in\_content"; amzn\_assoc\_asins = "B088HH6LW5,B08LXHGD7C";
+
 Pastebin.com Terms of Service UPDATED
 
 Come into effect 12th Nov 2020  
@@ -326,40 +328,44 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "374096d2cc37180d77fbbf80160ffd84"; amzn\_assoc\_asins = "B082GR814B,B082G5SPR5,B07VWXCXM7,B06XKNZT1P"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_title = "";
+
 [Public Pastes](https://pastebin.com/archive)
 
-*   [StripMine.lua](https://pastebin.com/Jb380Jj2)
+*   [My Log File](https://pastebin.com/ntC8TcTx)
     
-    Lua | 1 min ago
+    HTML 5 | 1 min ago
     
-*   [Untitled](https://pastebin.com/D4CH6KUw)
+*   [Untitled](https://pastebin.com/qUqUad3K)
     
-    PHP | 51 min ago
+    Lua | 2 min ago
     
-*   [My Log File](https://pastebin.com/SmGL5RiJ)
+*   [Monitor\_Duplicate....](https://pastebin.com/pyKPF3Hi)
     
-    HTML 5 | 52 min ago
+    Lua | 5 min ago
     
-*   [Cities\_by\_Continen...](https://pastebin.com/1VgSdLF6)
+*   [DidiProgram](https://pastebin.com/HL4LgSNX)
     
-    C# | 57 min ago
+    C++ | 9 min ago
     
-*   [C++ script](https://pastebin.com/p5GnxfjM)
+*   [My Log File](https://pastebin.com/sMmrVFSh)
     
-    C++ | 59 min ago
+    HTML 5 | 55 min ago
     
-*   [CCGist](https://pastebin.com/KdUDidMG)
+*   [GameHandler](https://pastebin.com/0EaC3KeL)
     
     Lua | 1 hour ago
     
-*   [VIM controlled Cap...](https://pastebin.com/PDZsgDz4)
+*   [KV\_gui.kv](https://pastebin.com/XV97fpkL)
     
-    Python | 2 hours ago
+    autoconf | 1 hour ago
     
-*   [Untitled](https://pastebin.com/1j9EAVUW)
+*   [SGcraft](https://pastebin.com/9sX90K8r)
     
-    JSON | 2 hours ago
+    Lua | 2 hours ago
     
+
+amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "fa4b44c2b9aa5b2656f2f806ed676199"; amzn\_assoc\_asins = "B08D44WKC4,B07ZPC9QD4,B08KWLMZV4,B08GFBFJW3";
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  

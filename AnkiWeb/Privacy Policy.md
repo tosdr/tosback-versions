@@ -140,5 +140,3 @@ _Last updated 2018-09-02._
 *   [Support](https://help.ankiweb.net/)
 *   [Terms](https://ankiweb.net/account/terms)
 *   [Privacy](https://ankiweb.net/account/privacy)
-
-require("babel-polyfill");

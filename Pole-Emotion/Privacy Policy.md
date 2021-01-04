@@ -30,6 +30,7 @@ jQuery(document).ready(function($){ var canvas = document.querySelector('.canvas
 *   [Plannings](https://www.pole-emotion.ch/planning)
     *   [Crissier 1](https://www.pole-emotion.ch/nos-salles-de-cours/crissier-1/)
     *   [Crissier 2](https://www.pole-emotion.ch/nos-salles-de-cours/crissier-2/)
+    *   [En direct – cours ZOOM](https://www.pole-emotion.ch/nos-salles-de-cours/en-direct-cours-zoom/)
     *   [Gland](https://www.pole-emotion.ch/nos-salles-de-cours/gland/)
     *   [Lausanne](https://www.pole-emotion.ch/nos-salles-de-cours/lausanne/)
     *   [Monthey](https://www.pole-emotion.ch/nos-salles-de-cours/monthey/)
@@ -65,6 +66,7 @@ jQuery(document).ready(function($){ var canvas = document.querySelector('.canvas
     
     *   [Crissier 1](https://www.pole-emotion.ch/nos-salles-de-cours/crissier-1/)
     *   [Crissier 2](https://www.pole-emotion.ch/nos-salles-de-cours/crissier-2/)
+    *   [En direct – cours ZOOM](https://www.pole-emotion.ch/nos-salles-de-cours/en-direct-cours-zoom/)
     *   [Gland](https://www.pole-emotion.ch/nos-salles-de-cours/gland/)
     *   [Lausanne](https://www.pole-emotion.ch/nos-salles-de-cours/lausanne/)
     *   [Monthey](https://www.pole-emotion.ch/nos-salles-de-cours/monthey/)
@@ -189,17 +191,15 @@ Adresse postale : Pole-Emotion Sàrl, CP 12, CH-1424 Champagne
 
 Cours Bonus, Cours Spéciaux, Stages & Shooting
 
-##### Pole Débutantes « First »
+##### Cours en ligne – JANVIER 2021
 
-Yverdon Pole
+En direct - cours ZOOM
 
-Tu as toujours voulu essayer mais tu n'as jamais osé? Saches que la pole est un sport accessible à toutes même les femmes pas sportives! Nos cours sont ouverts uniquement aux femmes de 16 à 185 ans. Il n'y a pas de rivalité dans nos cours car nos profs sont formées pour créer une ambiance de cohésion de groupe pour s'entraider. **Le cours d'essai est gratuit**! Viens avec une copine!
+[Plus d'info](https://www.pole-emotion.ch/produit/cours-en-ligne-novembre-2020/)
 
-[Plus d'info](https://www.pole-emotion.ch/produit/cours-debutantes-first/)
+30
 
-31
-
-Jan.
+Juin
 
 2021
 

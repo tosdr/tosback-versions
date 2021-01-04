@@ -189,9 +189,9 @@ To request access to or deletion of your personal information, or to exercise an
 
 We, Joya, are the data controller of your Personal Information. Our contact information can be found at the end of this Policy.
 
-#### [](#information-according-to-gdpr-article-27)Information according to GDPR Article 27
+#### [](#information-according-to-gdpr-article-27-and-uk-laws)Information according to GDPR Article 27 and UK laws
 
-Joya Communications Inc is a company located outside of the European Union. In order to comply with GDPR Article 27, [GDPR-Rep.eu](https://gdpr-rep.eu/) has been engaged as our representative in the European Union. If you want to make use of your data privacy rights, please visit the [EU privacy dashboard](https://gdpr-rep.eu/gdpr-req/14211202) or email us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+Joya Communications Inc is a company located outside of the European Union. In order to comply with GDPR Article 27 and UK laws, Prighter has been engaged as our representative in the European Union and the UK. If you want to contact us via our representative Prighter or make use of your data subject rights (e.g. requests to access or erase personal data), please visit the [https://prighter.com/q/1421120​2](https://prighter.com/q/14211202) or simply email us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
 We also have an appointed Data Protection Officer, who can be contacted at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
@@ -237,7 +237,7 @@ We welcome your comments or questions about this Policy. You may contact us at [
 
 We may modify this Policy from time to time. If we make any changes, we will change the Last Updated date below. We also may provide additional notice, as applicable, depending on the type of change. If you object to any changes, you may stop using the Service. Your continued use of the Service after we publish or otherwise provide notice about our changes to the Policy means that you have read and understood the updated Policy.
 
-Last Updated on April 28, 2020.
+Last Updated on Jan 3, 2021.
 
 *   [Media Room](https://www.getjoya.com/media/ "Media Room")
 *   [Jobs](https://www.getjoya.com/jobs/ "Jobs")
@@ -248,4 +248,4 @@ Last Updated on April 28, 2020.
 
 **•**
 
-© Joya Communications Inc 2020
+© Joya Communications Inc 2021

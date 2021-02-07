@@ -17,6 +17,7 @@
 
 *   [Global policy](https://www.zoho.com/privacy.html)
 *   [California policy](https://www.zoho.com/us-ca/privacy.html)
+*   [UK policy](https://www.zoho.com/en-uk/privacy.html)
 
 Summary of our Privacy Policy
 =============================
@@ -233,7 +234,7 @@ _Employees and independent contractors_ : We may provide access to your service 
 
 _Collaborators and other users_ : Some of our products or services allow you to collaborate with other users or third parties. Initiating collaboration may enable other collaborators to view some or all of your profile information. For example, when you edit a document that you have shared with other persons for collaboration, your name and profile picture will be displayed next to your edits to allow your collaborators to know that you made those edits.
 
-_Third-party integrations you have enabled_ : Most of our products and services support integrations with third-party products and services. If you choose to enable any third-party integrations, you may be allowing the third party to access your service information and personal information about you. We encourage you to review the privacy practices of the third-party services and products before you enable integrations with them.
+_Third-party integrations you have enabled_ : Most of our products and services support integrations [with third-party products and services](https://www.zoho.com/r/legal/third-party-apis-terms.html). If you choose to enable any third-party integrations, you may be allowing the third party to access your service information and personal information about you. We encourage you to review the privacy practices of the third-party services and products before you enable integrations with them.
 
 _Other cases_ : Other scenarios in which we may share information that are common to information covered under Parts I and II are described in Part III.
 

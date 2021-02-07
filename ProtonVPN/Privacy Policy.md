@@ -229,7 +229,7 @@ Route de la Galaise 32,
 1228 Plan-les-Ouates  
 Geneva, Switzerland
 
-Built with the Support of
+Built with the support of
 -------------------------
 
 [![ProtonMail](/assets/img/media/protonmail-white-transparent.svg)](https://protonmail.com/)
@@ -289,4 +289,4 @@ Iq+BZsCcet5N1/oMYcuXHOMQL99Ue756SsSKhB0ZeK6k8BdlnI3pHPBd+6hJ
 =6uT5
 -----END PGP PUBLIC KEY BLOCK-----
 
-close
+Close

@@ -127,7 +127,7 @@ The social network of the future: No ads, no corporate surveillance, ethical des
 #### social.coop
 
 *   [About](https://social.coop/about/more)
-*   v3.2.1
+*   v3.3.0
 
 #### More…
 

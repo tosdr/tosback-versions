@@ -87,7 +87,7 @@ Roc Boronat 117, Planta 6
 
 [Work with us!](https://softonic.teamtailor.com/)
 
-2020 © All Rights Reserved
+2021 © All Rights Reserved
 
 *   [Legal Information](https://hello.softonic.com/legal-information/)
 *   [Terms of Use](https://hello.softonic.com/terms-of-use/)

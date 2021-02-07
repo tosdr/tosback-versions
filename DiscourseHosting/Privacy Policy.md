@@ -1,16 +1,29 @@
-[DiscourseHosting](https://www.discoursehosting.com/)
+[Communiteq](https://www.discoursehosting.com/)
 
-*   [FAQ](https://www.discoursehosting.com/faq/)
-*   [Pricing](https://www.discoursehosting.com/pricing/)
-*   [Contact](https://www.discoursehosting.com/contact/)
-*   [Log In](https://controlpanel.discoursehosting.com/)
+*   [FAQ](https://www.communiteq.com/discoursehosting/faq/)
+*   [Pricing](https://www.communiteq.com/discoursehosting/pricing/)
+*   [Contact](https://www.communiteq.com/contact/)
+*   [Log In](https://controlpanel.communiteq.com/)
 
-DiscourseHosting Privacy Policy
-===============================
+DiscourseHosting is now known as **Communiteq**.
+
+Same company, different name.
+
+[Read more about this](https://www.discoursehosting.com/discoursehosting-is-now-communiteq/).
+
+DiscourseHosting is now known as **Communiteq**.  
+  
+Same company,  
+different name.  
+  
+[Read more about this](https://www.discoursehosting.com/discoursehosting-is-now-communiteq/).
+
+Communiteq Privacy Policy
+=========================
 
 _Are you looking for a good Privacy Policy for your forum? Don’t copy this one – it’s for our hosting service. Just go [here](https://dg-datenschutz.de/privacy-policy-generator/?lang=en)._
 
-This Privacy Policy governs the manner in which DiscourseHosting.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.discoursehosting.com/](https://www.discoursehosting.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by DiscourseHosting.com.
+This Privacy Policy governs the manner in which Communiteq collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.communiteq.com/](https://www.communiteq.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Communiteq.
 
 ### Personal identification information
 
@@ -26,15 +39,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ### How we use collected information
 
-DiscourseHosting.com may collect and use Users personal information for the following purposes:
+Communiteq may collect and use Users personal information for the following purposes:
 
-*   To improve customer service  
+*   To improve customer service:  
     Information you provide helps us respond to your customer service requests and support needs more efficiently.
-*   To personalize user experience  
+*   To personalize user experience:  
     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-*   To process payments  
+*   To process payments:  
     We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-*   To send periodic emails  
+*   To send periodic emails:  
     We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 ### How we protect your information
@@ -49,7 +62,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Changes to this privacy policy
 
-DiscourseHosting.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Communiteq has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
@@ -61,12 +74,12 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 _This document was last updated on August 26, 2019._
 
-© Copyright 2013-2021 DiscourseHosting.com. We are not affiliated with discourse.org.
+© Copyright 2013-2021 Communiteq.com. We are not affiliated with discourse.org.
 
-*   [Terms of Service](https://www.discoursehosting.com/tos/)
-*   [Privacy Policy](https://www.discoursehosting.com/privacy-policy/)
-*   [About Us](https://www.discoursehosting.com/about-us/)
+*   [Terms of Service](https://www.communiteq.com/tos/)
+*   [Privacy Policy](https://www.communiteq.com/privacy-policy/)
+*   [About Us](https://www.communiteq.com/about-us/)
 
-/\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/www.discoursehosting.com\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpcf7\_recaptcha = {"sitekey":"6LdEWIkUAAAAAMfsTVxMIxOX\_ZwPbfXG90JwMyKV","actions":{"homepage":"homepage","contactform":"contactform"}}; /\* \]\]> \*/
+jQuery(document).ready(function() { console.log('b'); jQuery('input.wpcf7-form-control\[name="your-name"\]').on('focus', function() { console.log('a'); jQuery(window).scrollTop(jQuery(window).scrollTop()+1); }); }); /\* <!\[CDATA\[ \*/ var wpcf7 = {"apiSettings":{"root":"https:\\/\\/www.communiteq.com\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"}}; /\* \]\]> \*/ var fired = false; window.addEventListener("scroll", function(){ if ((document.documentElement.scrollTop != 0 && fired === false) || (document.body.scrollTop != 0 && fired === false)) { var abcf7head = document.getElementsByTagName('head')\[0\]; var script= document.createElement('script'); script.type= 'text/javascript'; script.src= 'https://www.google.com/recaptcha/api.js?render=6LdHzCoaAAAAABFava8co8d6Q2jO4lg9k\_RmCEOO&ver=3.0'; abcf7head.appendChild(script); var wpcf7\_recaptcha = {"sitekey":"6LdHzCoaAAAAABFava8co8d6Q2jO4lg9k\_RmCEOO","actions":{"homepage":"homepage","contactform":"contactform"}}; setTimeout(function(){ wpcf7\_recaptcha.execute = function( action ) { grecaptcha.execute( wpcf7\_recaptcha.sitekey, { action: action } ).then( function( token ) { var event = new CustomEvent( 'wpcf7grecaptchaexecuted', { detail: { action: action, token: token, }, } ); document.dispatchEvent( event ); } ); }; wpcf7\_recaptcha.execute\_on\_homepage = function() { wpcf7\_recaptcha.execute( wpcf7\_recaptcha.actions\[ 'homepage' \] ); }; wpcf7\_recaptcha.execute\_on\_contactform = function() { wpcf7\_recaptcha.execute( wpcf7\_recaptcha.actions\[ 'contactform' \] ); }; grecaptcha.ready( wpcf7\_recaptcha.execute\_on\_homepage ); document.addEventListener( 'change', wpcf7\_recaptcha.execute\_on\_contactform ); document.addEventListener( 'wpcf7submit', wpcf7\_recaptcha.execute\_on\_homepage ); document.addEventListener( 'wpcf7grecaptchaexecuted', function( event ) { var fields = document.querySelectorAll( "form.wpcf7-form input\[name='\_wpcf7\_recaptcha\_response'\]" ); for ( var i = 0; i < fields.length; i++ ) { var field = fields\[ i \]; field.setAttribute( 'value', event.detail.token ); } } ); },4000); fired = true; } }, true)
 
 We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are ok with that.[Ok](#)[](javascript:void(0);)

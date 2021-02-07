@@ -111,7 +111,7 @@
             *   [Contact Support](http://www.wolfram.com/support/contact/?source=nav)
         
         *   Premium Support
-            *   [Premier Service](http://www.wolfram.com/mathematica/pricing/premier-service.php?source=nav)
+            *   [Paid Project Support](https://www.wolfram.com/technical-consulting/?source=nav)
             *   [Technical Consulting](http://www.wolfram.com/technical-consulting/?source=nav)
     *   [All Learning & Support »](http://www.wolfram.com/support/?source=nav)
 *   [Company](http://www.wolfram.com/company/?source=nav)

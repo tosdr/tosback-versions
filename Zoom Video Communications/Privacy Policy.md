@@ -449,7 +449,7 @@ Language
     *   [Tiếng Việt](javascript:;)
     
 
-Copyright ©2020 Zoom Video Communications, Inc. All rights reserved. [Privacy & Legal Policies](https://zoom.us/legal)[About Ads](https://zoom.us/privacy#about-ads)[Security](https://zoom.us/security)
+Copyright ©2021 Zoom Video Communications, Inc. All rights reserved. [Privacy & Legal Policies](https://zoom.us/legal)[About Ads](https://zoom.us/privacy#about-ads)[Security](https://zoom.us/security)
 
  [![backtotop](/docs/image/new/home/gototop_40a6833.png)](#content_container "gototop") 
 

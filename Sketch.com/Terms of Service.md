@@ -29,19 +29,18 @@ Menu
         
         Discover and join your local Sketch community.
         
-        There are no upcoming events.
-        
-        Want to host your own event? [Get in touch](mailto:community@sketch.com).
-        
+        1.  [Feb 6 Real-time Collaboration session with Sketch 71 (Beta)](https://www.sketch.com/community/groups/los-angeles/?event=2021-02-06)
+        2.  [Feb 18 Sketch & Design • Paris #10 : Axure & Sketch, best combo?](https://www.sketch.com/community/groups/courbevoie/?event=2021-02-18)
+        3.  [Feb 25 \[Online\] Real-time collaboration](https://www.sketch.com/community/groups/johannesburg/?event=2021-02-25)
     *   [](https://www.sketch.com/blog/)
         
         [Blog](https://www.sketch.com/blog/)
         
         Get updates, articles and insights from the team.
         
-        1.  [Dec 21 Keeping it real: How Nikola Lazarevic creates photorealistic objects in Sketch](https://www.sketch.com/blog/2020/12/21/keeping-it-real-nikola-lazarevic-on-photorealistic-design-in-sketch/)
-        2.  [Dec 17 Building better: How Sketch helps Salesforce maintain its industry-leading design system](https://www.sketch.com/blog/2020/12/17/how-sketch-helps-salesforce-maintain-its-industry-leading-design-system/)
-        3.  [Dec 2 The new Sketch icon: how we redesigned a classic for Big Sur](https://www.sketch.com/blog/2020/12/02/how-we-redesigned-the-sketch-icon-for-big-sur/)
+        1.  [Jan 27 Objective-C: How Brad Cox’s programming language has shaped Sketch since day one](https://www.sketch.com/blog/2021/01/27/objective-c-how-brad-coxs-programming-language-shaped-sketch/)
+        2.  [Dec 21 Keeping it real: How Nikola Lazarevic creates photorealistic objects in Sketch](https://www.sketch.com/blog/2020/12/21/keeping-it-real-nikola-lazarevic-on-photorealistic-design-in-sketch/)
+        3.  [Dec 17 Building better: How Sketch helps Salesforce maintain its industry-leading design system](https://www.sketch.com/blog/2020/12/17/how-sketch-helps-salesforce-maintain-its-industry-leading-design-system/)
     
 *   [Pricing](https://www.sketch.com/pricing/)
 
@@ -306,7 +305,7 @@ Email  Subscribe
 ### Company
 
 *   [About Us](https://www.sketch.com/about-us/)
-*   [Careers](https://www.sketch.com/careers/)
+*   [Careers 9](https://www.sketch.com/careers/#job-openings)
 *   [Press](https://www.sketch.com/press/)
 *   [Labs](https://www.sketch.com/labs/)
 

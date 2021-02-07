@@ -1,12 +1,10 @@
 [Pastebin](https://pastebin.com/)
 
-[GO](https://pastebin.com/pro) [API](https://pastebin.com/doc_api) [tools](https://pastebin.com/tools) [faq](https://pastebin.com/faq)
+[API](https://pastebin.com/doc_api) [tools](https://pastebin.com/tools) [faq](https://pastebin.com/faq)
 
 [paste](https://pastebin.com/)
 
 [Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
-
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_linkid = "cbd9a24628bbdbf7bc9996f683a6a3dd"; amzn\_assoc\_asins = "B077WZSHJV,B076HZSWTM"; amzn\_assoc\_design = "in\_content";
 
 Pastebin.com Privacy Statement UPDATED
 
@@ -168,46 +166,42 @@ Contacting Pastebin
 
 Questions regarding Pastebin's Privacy Statement or information practices should be directed to our [contact form](https://pastebin.com/contact).
 
-amzn\_assoc\_placement = "adunit0"; amzn\_assoc\_search\_bar = "false"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_ad\_mode = "manual"; amzn\_assoc\_ad\_type = "smart"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_title = ""; amzn\_assoc\_linkid = "cbd9a24628bbdbf7bc9996f683a6a3dd"; amzn\_assoc\_asins = "B07J4521M3,B085VSX3ZF,B01LZOCVN9,B007I8S1TY";
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [Untitled](https://pastebin.com/bNeQLfM3)
+*   [E4\_2017](https://pastebin.com/PwfB6YFQ)
     
-    Lua | 16 min ago
+    C | 8 min ago
     
-*   [Untitled](https://pastebin.com/jBkzVDPK)
+*   [NewFaceGui](https://pastebin.com/EdqdAak4)
     
-    JSON | 45 min ago
+    Python | 9 min ago
     
-*   [Untitled](https://pastebin.com/7e9P4pzt)
+*   [Ex 23 POO versiune...](https://pastebin.com/rzdDjWCz)
     
-    C | 54 min ago
+    C | 17 min ago
     
-*   [Untitled](https://pastebin.com/R6xqYfhn)
+*   [Untitled](https://pastebin.com/cLtrwpA7)
     
-    Python | 1 hour ago
+    Java | 32 min ago
     
-*   [Untitled](https://pastebin.com/9uAz01EF)
-    
-    Python | 1 hour ago
-    
-*   [SortArrayMethod](https://pastebin.com/ZazmqrLe)
+*   [Untitled](https://pastebin.com/r94txHEZ)
     
     Java | 1 hour ago
     
-*   [Untitled](https://pastebin.com/Qd0jkckE)
-    
-    Python | 1 hour ago
-    
-*   [Array Sorting](https://pastebin.com/pe8CxdiW)
+*   [Untitled](https://pastebin.com/tTFU9bJC)
     
     Java | 1 hour ago
     
+*   [Untitled](https://pastebin.com/iS3wKLvf)
+    
+    Java | 1 hour ago
+    
+*   [myguibox](https://pastebin.com/dRpsst8u)
+    
+    Python | 1 hour ago
+    
 
-amzn\_assoc\_ad\_type = "banner"; amzn\_assoc\_marketplace = "amazon"; amzn\_assoc\_region = "US"; amzn\_assoc\_placement = "assoc\_banner\_placement\_default"; amzn\_assoc\_campaigns = "kindle"; amzn\_assoc\_banner\_type = "category"; amzn\_assoc\_p = "14"; amzn\_assoc\_isresponsive = "false"; amzn\_assoc\_banner\_id = "0M2G1WVMSWQZ3G40BF02"; amzn\_assoc\_width = "160"; amzn\_assoc\_height = "600"; amzn\_assoc\_tracking\_id = "pastebin02a-20"; amzn\_assoc\_linkid = "9b48384763769d79ed5e3e601178362f";
-
-[create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)  
+[create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)   / [pro](https://pastebin.com/pro)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  
   
 By using Pastebin.com you agree to our [cookies policy](https://pastebin.com/doc_cookies_policy) to enhance your experience.  

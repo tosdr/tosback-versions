@@ -216,6 +216,14 @@ These third-parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. Below is a list of all advertising technology partners we may work with.
 
+When you opt-into personalised ads these partners may use your browsing history to decide whether to advertise to you.
+
+#### Opt-in to personalized ads
+
+Yes No
+
+.cookie-gdprpp { text-align: center; } .cookie-gdprpp .button.outline { border-color: currentColor; background-color: transparent; color: #c00; font-weight: 400; } .cookie-gdprpp .button { -webkit-appearance: none; display: inline-block; background-image: none; background-color: #c00; border: 1px solid transparent; text-shadow: none; color: #fff; outline: 0; padding: .375em .75em; font-size: 1.4em; font-family: inherit; font-weight: 700; line-height: 1; cursor: pointer; vertical-align: middle; margin: .75rem .25rem 2rem; } .cookie-gdprpp .button.true { background-color: #c00; color: #fff; } .cookie-gdprpp .button:hover { border-color: currentColor; color: inherit; }
+
 ### Analytics
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.

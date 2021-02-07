@@ -1,5 +1,3 @@
-[Headline of the Year 2020 Winners](https://www.fark.com/comments/blog996/Fark-NotNewsletter-Extra-The-2020-Fark-Headlines-of-Year)
-
 > Contents
 > --------
 > 

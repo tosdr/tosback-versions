@@ -53,7 +53,7 @@ Search fidelity.com or get a quote
     *   [My Goals](https://myguidance.fidelity.com/ftgw/pna/customer/pgc/hub/)
     *   [Financial Basics](https://www.fidelity.com/financial-basics/overview)
     *   [Building Savings](https://www.fidelity.com/building-savings/overview)
-    *   [Digital Investing & Advice](https://www.fidelity.com/digital-investing-and-advice/hybrid-robo-advisor/overview)
+    *   [Robo Investing Plus Financial Advice](https://www.fidelity.com/digital-investing-and-advice/overview)
     *   [Wealth Management](https://www.fidelity.com/wealth-management/overview)
     *   [Find an advisor](https://digital.fidelity.com/prgw/digital/faa/0/connect-with-an-advisor)
     *   [Retirement](https://www.fidelity.com/retirement-planning/overview)
@@ -324,6 +324,7 @@ Please view our [additional information for California residents](https://commun
 *   Empire Fidelity Investments Life Insurance Company
 *   Fidelity Health Insurance Services, LLC
 *   Fidelity Insurance Agency, Inc.
+*   Fidelity Wealth Technologies LLC
 *   FIAM LLC
 *   National Financial Services LLC
 *   Strategic Advisers LLC
@@ -352,7 +353,7 @@ The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investme
 
   
 
-Effective June 2020  
+Effective November, 2020  
 ©1998-2020 FMR LLC. All Rights Reserved.
 
   
@@ -366,7 +367,7 @@ Effective June 2020
 
 [View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)](http://personal.fidelity.com/bin-public/060_www_fidelity_com/documents/PDF_fidelity-privacy-notice.pdf)
 
-935048.1.0
+935048.2.0
 
 *   [Mutual Funds](https://www.fidelity.com/mutual-funds/overview)
 *   [ETFs](https://www.fidelity.com/etfs/overview)
@@ -383,7 +384,7 @@ Effective June 2020
 *   [Life Insurance & Long Term Care](https://www.fidelity.com/life-insurance/overview)
 *   [Small Business Retirement Plans](https://www.fidelity.com/retirement-ira/small-business/overview)
 *   [529 Plans](https://www.fidelity.com/529-plans/overview)
-*   [FAQs](https://www.fidelity.com/faqs/overview)
+*   [Guest Access](https://guest.fidelity.com/GA/profile)
 
 *   [IRAs](https://www.fidelity.com/retirement-ira/overview)
 *   [Retirement Products](https://www.fidelity.com/retirement-ira/overview)
@@ -391,7 +392,6 @@ Effective June 2020
 *   [Charitable Giving](https://www.fidelity.com/building-savings/charitable-giving)
 *   [FidSafe](https://www.fidsafe.com/)
 *   [FINRA's BrokerCheck](https://brokercheck.finra.org/Firm/Summary/7784)
-*   [Guest Access](https://guest.fidelity.com/GA/profile)
 *   [Health Savings Account](https://www.fidelity.com/go/hsa/why-hsa)
 
 ### Stay Connected
@@ -402,11 +402,13 @@ Locate an Investor Center by ZIP Code
 
 Please enter a valid ZIP code
 
-*   ![Facebook](/bin-public/060_www_fidelity_com/images/facebook.png)  [Facebook](https://www.facebook.com/fidelityinvestments)
-*   ![Twitter](/bin-public/060_www_fidelity_com/images/twitter-icon.png)  [Twitter](https://www.twitter.com/fidelity)
+*   ![](/bin-public/060_www_fidelity_com/images/instagram.png)  [Instagram](https://www.instagram.com/fidelity)
 *   ![LinkedIn](/bin-public/060_www_fidelity_com/images/linkedin.png)  [LinkedIn](https://www.linkedin.com/company/fidelity-investments)
 *   ![YouTube](/bin-public/060_www_fidelity_com/images/youtube.png)  [YouTube](https://www.youtube.com/user/fidelityinvestments)
+*   ![Twitter](/bin-public/060_www_fidelity_com/images/twitter-icon.png)  [Twitter](https://www.twitter.com/fidelity)
+*   ![Facebook](/bin-public/060_www_fidelity_com/images/facebook.png)  [Facebook](https://www.facebook.com/fidelityinvestments)
 *   ![Fidelity Mobile](/bin-public/060_www_fidelity_com/images/fidelity-mobile-icon.png)  [Fidelity Mobile®](https://www.fidelity.com/mobile/overview)
+*   ![](/bin-public/060_www_fidelity_com/images/refer-social.png)  [Refer a Friend](https://www.fidelity.com/customer-service/friendsandfamily3a?ccsource=RAFFooterNav)
 
 ![Fidelity.com Home](/bin-public/060_www_fidelity_com/images/Fidelity-footer-logo.png "Fidelity.com Home") 
 
@@ -415,7 +417,7 @@ Please enter a valid ZIP code
 *   [About Fidelity](https://www.fidelity.com/about-fidelity/our-company)
 *   [International](https://www.fidelityinternational.com/global/default.page)
 
-Copyright 1998-2020 FMR LLC. All Rights Reserved.
+Copyright 1998-2021 FMR LLC. All Rights Reserved.
 
 *   [Terms of Use](https://www.fidelity.com/terms-of-use)
 *   [Privacy](https://www.fidelity.com/privacy-policy)
@@ -426,6 +428,6 @@ Copyright 1998-2020 FMR LLC. All Rights Reserved.
 *   [Share Your Screen](#) window.addEventListener("load", function(){ document .getElementById("share-user-screen") .addEventListener("click", function(){ GLANCE.Cobrowse.Visitor.showTerms({ sessionKey: "GLANCE\_KEYTYPE\_RANDOM" }); }); });
 *   [Disclosures](https://communications.fidelity.com/information/crs/)
 
-[This is for persons in the U.S. only.](http://personal.fidelity.com/terms-of-use#For)
+[This is for persons in the US only.](http://personal.fidelity.com/terms-of-use#For)
 
-var formValidationRules = \[{rule:"leadgen-address",expression:/^\[a-zA-Z0-9'.;#,\\-\\s\]+$/},{rule:"leadgen-city",expression:/^\[a-zA-Z0-9\`.'\\-\\s\]+$/},{rule:"leadgen-firstLastName",expression:/^\[a-zA-Z'\\-\\s\]+$/},{rule:"leadgen-fullName",expression:/^\[a-zA-Z',\\-\\s\]+\\s\[a-zA-Z',\\-\]+$/},{rule:"leadgen-email",expression:/^\[\_A-Za-z0-9-\\+\]+(\\.\[\_A-Za-z0-9-\]+)\*@\[A-Za-z0-9-\]+(\\.\[A-Za-z0-9\]+)\*(\\.\[A-Za-z\]{2,})$/},{rule:"guest-hintAns",expression:/^\[a-zA-Z0-9,\\s\]+$/}\]; var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/content/e4d0476370rn1885d0a07033f48056df'\]);
+var formValidationRules = \[{rule:"leadgen-address",expression:/^\[a-zA-Z0-9'.;#,\\-\\s\]+$/},{rule:"leadgen-city",expression:/^\[a-zA-Z0-9\`.'\\-\\s\]+$/},{rule:"leadgen-firstLastName",expression:/^\[a-zA-Z'\\-\\s\]+$/},{rule:"leadgen-fullName",expression:/^\[a-zA-Z',\\-\\s\]+\\s\[a-zA-Z',\\-\]+$/},{rule:"leadgen-email",expression:/^\[\_A-Za-z0-9-\\+\]+(\\.\[\_A-Za-z0-9-\]+)\*@\[A-Za-z0-9-\]+(\\.\[A-Za-z0-9\]+)\*(\\.\[A-Za-z\]{2,})$/},{rule:"guest-hintAns",expression:/^\[a-zA-Z0-9,\\s\]+$/}\]; var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resource/e73df902d2rn1885d0a07033f48056df'\]);

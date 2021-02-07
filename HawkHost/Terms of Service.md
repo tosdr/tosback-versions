@@ -78,6 +78,37 @@ Hawk Host general policy is to act as a neutral provider of access to the global
 
 The following are considered violations of Hawk Host AUP (acceptable use policy)
 
+#### Table of Contents
+
+1.  [Illegal Use](#illegal)
+2.  [Threats](#threats)
+3.  [Harassment](#harassment)
+4.  [Forgery](#forgery)
+5.  [Fraudulent Activity](#fraudulent-activity)
+6.  [Spam](#spam)
+7.  [Spam Continued](#spam-continued)
+8.  [E-mail Bombing](#email-bombing)
+9.  [E-mail Forging](#email-forging)
+10.  [Usenet Spam](#usenet-spam)
+11.  [Unauthorized Access](#unauthorized-access)
+12.  [Copyright & Trademark Infringement](#copyright-trademark-infringement)
+13.  [Personal Data Collection](#personal-data-collection)
+14.  [Network Disruptions](#network-disruptions)
+15.  [Fraud](#fraud)
+16.  [Copyright Infringement](#copyright-infringement)
+17.  [Virus Distribution](#virus-distribution)
+18.  [Inappropriate Use of Software](#inappropriate-use-of-software)
+19.  [Third Party Accountability](#third-party-accountability)
+20.  [Reseller Free Domain Hosting](#free-domain-hosting)
+21.  [Torrent Trackers](#torrent-trackers)
+22.  [Proxy Scripts](#proxy-scripts)
+23.  [High Yield Investment Programs](#high-yield-investment-programs)
+24.  [CDN](#cdn)
+25.  [Abuse Complaints](#abuse-complaints)
+26.  [Tor Exit Nodes](#tor-exit-nodes)
+
+* * *
+
 1.  Illegal use: Hawk Host's services may not be used for illegal purposes, or in support of illegal activities. Hawk Host reserves the right to cooperate with legal authorities and/or injured third parties in the investigation of any suspected crime or civil wrongdoing.
 2.  Threats: Use of the Hawk Host service to transmit any material (by e-mail, uploading, posting or otherwise) that threatens or encourages bodily harm or destruction of property.
 3.  Harassment: Use of the Hawk Host service to transmit any material (by e-mail, uploading, posting or otherwise) that harasses another.
@@ -103,6 +134,7 @@ The following are considered violations of Hawk Host AUP (acceptable use policy)
 23.  HYIP: High-yield investment program sites of any kind, including those related to cryptocurrency.
 24.  Accounts may not be used as part of a CDN (content delivery network) or any similar service meant to serve videos, media, or other high bandwidth applications.
 25.  Any accounts receiving a high volume of verified abuse complaints may be removed from our network.
+26.  Tor exit nodes are not allowed to be operated on any of our services.
 
 #### Hawk Host
 
@@ -146,7 +178,7 @@ Copyright © 2021 [Hawk Host](https://www.hawkhost.com/), All Rights Reserved
 
  [![Visa Accepted Here](https://www.hawkhost.com/img/payments/visa.png) ![Mastercard Accepted Here](https://www.hawkhost.com/img/payments/mastercard.png) ![American Express Accepted Here](https://www.hawkhost.com/img/payments/american-express.png) ![Paypal Accepted Here](https://www.hawkhost.com/img/payments/paypal.png) ![Bitcoin & Bitcoin Cash Accepted Here](https://www.hawkhost.com/img/payments/bitcoin.png) ![Alipay Accepted Here](https://www.hawkhost.com/img/payments/ali-pay.png) ![Ethereum Accepted Here](https://www.hawkhost.com/img/payments/ethereum.png)](https://www.hawkhost.com/Paymentmethod/index) 
 
-var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true; lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js'; var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(lc, s); })();
+window.addEventListener("load", function () { window.cookieconsent.initialise({ "palette": { "popup": { "background": "#000" }, "button": { "background": "#f1d600" } }, "cookie": { "domain": "hawkhost.com" }, "type": "opt-in", "content": { "href": "https://www.hawkhost.com/Legal/cookies" }, "position": "bottom-left", onInitialise: function (status) { var type = this.options.type; var didConsent = this.hasConsented(); if (type == 'opt-in' && didConsent) { ga('set', 'anonymizeIp', false); } if (type == 'opt-out' && !didConsent) { ga('set', 'anonymizeIp', true); } }, onStatusChange: function (status, chosenBefore) { var type = this.options.type; var didConsent = this.hasConsented(); if (type == 'opt-in' && didConsent) { ga('set', 'anonymizeIp', false); } if (type == 'opt-out' && !didConsent) { ga('set', 'anonymizeIp', true); } }, onRevokeChoice: function () { var type = this.options.type; if (type == 'opt-in') { ga('set', 'anonymizeIp', true); } if (type == 'opt-out') { ga('set', 'anonymizeIp', false); } }, }) }); var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true; lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js'; var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(lc, s); })();
 
 ![Modal Close Button](https://www.hawkhost.com/img/close.png)
 
@@ -167,7 +199,7 @@ Close without getting coupon
 
 Coupon code for 30% off (recurring):
 
-HHI-14COPCCBP9
+HHI-028RTJJ3WX
 --------------
 
 USE MY COUPON

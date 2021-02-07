@@ -622,6 +622,6 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
 
 _Last updated: August 2020_
 
-©2020 Verizon Media. All Rights Reserved.
+©2021 Verizon Media. All Rights Reserved.
 
 var custKeys = {st\_sec:"us.oathpol",mrkt:mrktParm,lang:langParm,pt:pageType,pct:"story",paid:pageId,ver:"drupal7"}; var rapidConfig = { spaceid:spaceId, anonymized: true, keys:custKeys } ; var myRapidInstance = new YAHOO.i13n.Rapid(rapidConfig);

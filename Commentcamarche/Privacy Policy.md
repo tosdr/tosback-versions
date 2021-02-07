@@ -337,7 +337,7 @@ OAS\_AD('Position1');
 *   [Charte](https://www.commentcamarche.net/contents/130-charte-d-utilisation-de-commentcamarche-net)
 *   [Formation](https://formation.ccmbenchmark.com/formations)
 *   [Annonceurs](http://media.figaro.fr/)
-*   [© 2020 CCM Benchmark](http://www.ccmbenchmark.com/)
+*   [© 2021 CCM Benchmark](http://www.ccmbenchmark.com/)
 
  [![CCM Benchmark Group](https://astatic.ccmbg.com/ccmcms_commentcamarche/img/front/footer/logo-groupe.svg)](http://www.ccmbenchmark.com/) 
 

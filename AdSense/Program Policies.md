@@ -6,7 +6,7 @@ AdSense Program policies
 
 [](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)[Next: Policy enforcements](https://support.google.com/adsense/topic/1342777?hl=en&ref_topic=1250104)
 
-[You can also check our official blog for updates, examples and FAQs regarding program policies.](https://adsense.blogspot.com/search/label/Program%20Policies?sourceid=aso&subid=ww-en-et-policy_blogpromotion&medium=link)
+[You can also check our official blog for updates, examples and FAQs about the Program policies.](https://blog.google/products/adsense)
 
 All publishers are required to adhere to the following policies, so please read them carefully. If you fail to comply with these policies without permission from Google, we reserve the right to disable ad serving to your site and/or disable your AdSense account at any time. If your account is disabled, you will not be eligible for further participation in the AdSense program.
 

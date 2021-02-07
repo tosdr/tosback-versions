@@ -18,7 +18,7 @@ The White House
 
 ](https://www.whitehouse.gov/)
 
-[The White House #wh-oval-601fffc0d17b7 .st0{fill:#0A2458;} #wh-oval-601fffc0d17b7 .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;} #wh-oval-601fffc0d17b7 .st2{opacity:0.5;fill:#FFFFFF;} #wh-oval-601fffc0d17b7 .st3{fill:#FFFFFF;}](https://www.whitehouse.gov/)
+[The White House #wh-oval-602067166ba4b .st0{fill:#0A2458;} #wh-oval-602067166ba4b .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;} #wh-oval-602067166ba4b .st2{opacity:0.5;fill:#FFFFFF;} #wh-oval-602067166ba4b .st3{fill:#FFFFFF;}](https://www.whitehouse.gov/)
 
 *   [Home](https://www.whitehouse.gov/)
 
@@ -45,7 +45,7 @@ To search this site, enter a search term    Search
 Mobile Menu Overlay
 -------------------
 
-[#wh-oval-nofill-601fffc0d8a35 .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0A2458;} #wh-oval-nofill-601fffc0d8a35 .st1{opacity:0.5;fill:#0A2458;} #wh-oval-nofill-601fffc0d8a35 .st2{fill:#0A2458;}](https://www.whitehouse.gov/)
+[#wh-oval-nofill-60206716723a2 .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0A2458;} #wh-oval-nofill-60206716723a2 .st1{opacity:0.5;fill:#0A2458;} #wh-oval-nofill-60206716723a2 .st2{fill:#0A2458;}](https://www.whitehouse.gov/)
 
 *   [Administration](https://www.whitehouse.gov/administration/) Show submenu for “Administration””
     *   [President Joe Biden](https://www.whitehouse.gov/administration/president-biden/)
@@ -339,4 +339,4 @@ Scroll to Top
 
 Top](#content)
 
-/\* <!\[CDATA\[ \*/ var emailSignupL10n = {"fakeOrInvalid":"This email address looks fake or invalid. Please enter a real email address.","tooManySignups":"Email address has too many recent signup requests","thankYou":"Thanks for signing up!","defaultError":"There was an error processing your email"}; /\* \]\]> \*/ window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"9360826e15","applicationID":"825650222,484304241,484396381","transactionName":"MVNbZhQFXEAEVBBfWQgZeFESDV1dSkcFUVM=","queueTime":0,"applicationTime":323,"atts":"HRRMEFwfTx9HVkYMTRtL","errorBeacon":"bam-cell.nr-data.net","agent":""}
+/\* <!\[CDATA\[ \*/ var emailSignupL10n = {"fakeOrInvalid":"This email address looks fake or invalid. Please enter a real email address.","tooManySignups":"Email address has too many recent signup requests","thankYou":"Thanks for signing up!","defaultError":"There was an error processing your email"}; /\* \]\]> \*/ window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"9360826e15","applicationID":"825650222,484304241,484396381","transactionName":"MVNbZhQFXEAEVBBfWQgZeFESDV1dSkcFUVM=","queueTime":0,"applicationTime":312,"atts":"HRRMEFwfTx9HVkYMTRtL","errorBeacon":"bam-cell.nr-data.net","agent":""}

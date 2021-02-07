@@ -78,6 +78,11 @@ Exceptions
 
 _**Please note**: Reasonable exceptions may apply to the above policy, for example to comply with applicable laws. The MetaBrainz server administrators (about five people in all) can of course see any information on the system they want to, but to be honest we're probably not interested enough to look._
 
+Privacy/GDPR Representative
+---------------------------
+
+If you have any questions about our GDPR statement, please [contact us](https://metabrainz.org/contact). To report any privacy problems, violations or leaks, our GDPR representative is our Executive Director Robert Kaye and for privacy issues contact him at **[gdpr@metabrainz.org](mailto:gdpr@metabrainz.org)**.
+
 * * *
 
 [Foundation](https://metabrainz.org/about)

@@ -24,7 +24,7 @@ piAId = '856833'; piCId = '27386'; piHostname = 'pi.pardot.com'; (function() { f
     
     [![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-customer-recognition.svg)Customer Recognition Improve your customer experience.](https://www.fullcontact.com/solutions/customer-recognition/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-media-amplification.svg)Media Amplification Extend media reach to improve ROAS.](https://www.fullcontact.com/solutions/media-amplification/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-omnichannel-measure.svg)Omnichannel Measurement Create a common view across channels.](https://www.fullcontact.com/solutions/omnichannel-measurement/)
     
-    PRIVACY & CONSENT SOLUTIONS
+    PRIVACY & PERMISSION SOLUTIONS
     
     [![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-safe-haven.svg)Private Identity Cloud Manage, obfuscate, and store first-party data.](https://www.fullcontact.com/solutions/private-identity-cloud/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-private-sharing.svg)Private Identity Sharing Enable privacy-safe relationships and make first-party data securely available.](https://www.fullcontact.com/solutions/private-identity-sharing/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-privacy.svg)Privacy Compliance Enable privacy for everyone and respond to consumer data requests in real-time.](https://www.fullcontact.com/solutions/privacy-compliance/)[View All Solutions](https://www.fullcontact.com/solutions)
     
@@ -40,7 +40,6 @@ piAId = '856833'; piCId = '27386'; piHostname = 'pi.pardot.com'; (function() { f
     *   [Insights Bundles](https://www.fullcontact.com/insights-bundles/)
     *   [API Status](https://status.fullcontact.com/)
     *   [Engineering Blog](https://www.fullcontact.com/blog/engineering/)
-    *   [Dashboard Log In](https://dashboard.fullcontact.com/login)
 *   [Resources](https://www.fullcontact.com/resources/)
     *   [Support Center](https://support.fullcontact.com/portal/home)
     *   [Resource Library](https://www.fullcontact.com/resources/)
@@ -59,7 +58,6 @@ piAId = '856833'; piCId = '27386'; piHostname = 'pi.pardot.com'; (function() { f
     *   [Insights Bundles](https://www.fullcontact.com/insights-bundles/)
     *   [API Status](https://status.fullcontact.com/)
     *   [Engineering Blog](https://www.fullcontact.com/blog/engineering/)
-    *   [Dashboard Log In](https://dashboard.fullcontact.com/login)
 *   [Resources](https://www.fullcontact.com/resources/)
     *   [Support Center](https://support.fullcontact.com/portal/home)
     *   [Resource Library](https://www.fullcontact.com/resources/)
@@ -109,7 +107,7 @@ piAId = '856833'; piCId = '27386'; piHostname = 'pi.pardot.com'; (function() { f
     
     [![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-customer-recognition.svg)Customer Recognition Improve your customer experience.](https://www.fullcontact.com/solutions/customer-recognition/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-media-amplification.svg)Media Amplification Extend media reach to improve ROAS.](https://www.fullcontact.com/solutions/media-amplification/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-omnichannel-measure.svg)Omnichannel Measurement Create a common view across channels.](https://www.fullcontact.com/solutions/omnichannel-measurement/)
     
-    PRIVACY & CONSENT SOLUTIONS
+    PRIVACY & PERMISSION SOLUTIONS
     
     [![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-safe-haven.svg)Private Identity Cloud Manage, obfuscate, and store first-party data.](https://www.fullcontact.com/solutions/private-identity-cloud/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-private-sharing.svg)Private Identity Sharing Enable privacy-safe relationships and make first-party data securely available.](https://www.fullcontact.com/solutions/private-identity-sharing/)[![](https://1a3asl4eps7u26kl661u3bi9-wpengine.netdna-ssl.com/wp-content/themes/fc-theme/assets/images/nav-icons/icon-privacy.svg)Privacy Compliance Enable privacy for everyone and respond to consumer data requests in real-time.](https://www.fullcontact.com/solutions/privacy-compliance/)
     
@@ -132,14 +130,14 @@ var t = new Canvi({ content: '.site-header', isDebug: false, navbar: '.site-head
 Privacy Policy
 ==============
 
-[CLAIM YOUR PROFILE](https://dashboard.fullcontact.com/claim)
+[CLAIM YOUR PROFILE](https://platform.fullcontact.com/claim)
 
 *   [Privacy Notice](https://www.fullcontact.com/privacy/privacy-notice/)
 *   [Privacy Policy](https://www.fullcontact.com/privacy/privacy-policy/)
 *   [Terms of Use](https://www.fullcontact.com/privacy/terms-of-use/)
 *   [Services Agreement](https://www.fullcontact.com/privacy/services-agreement/)
 *   [GDPR FAQs](https://www.fullcontact.com/privacy/gdpr-faqs/)
-[CLAIM YOUR PROFILE](https://dashboard.fullcontact.com/claim)
+[CLAIM YOUR PROFILE](https://platform.fullcontact.com/claim)
 
 Privacy Notice for Data Subjects
 ================================
@@ -161,18 +159,18 @@ The information in our system also helps the people and companies you interact w
 
 We also allow people or companies to search in our system for individuals who meet certain criteria. For example, a professional who’s trying to find an expert in their field can use our Services to find the right person. Similarly, an organization could search for the most appropriate audience for their offerings.
 
-In all cases, our goal is to help people and companies make better, more valuable connections. We recognize, however, that not everyone is comfortable sharing their contact information with others. For this reason, anyone can take ownership of their information in our system at any time here: [Own Your Personal Data.](https://dashboard.fullcontact.com/claim)
+In all cases, our goal is to help people and companies make better, more valuable connections. We recognize, however, that not everyone is comfortable sharing their contact information with others. For this reason, anyone can take ownership of their information in our system at any time here: [Own Your Personal Data.](https://platform.fullcontact.com/claim)
 
-Actually, we hope that you do choose to take ownership of your information and help keep our “phone book” as accurate and up-to-date as possible. It is only through the contributions of people like you that we can provide this valuable service to you and everyone else. Our dream is to have everyone owning their data, fully controlling where it flows, and seeing better relationships in return. We may ask in time for your consent to use that data but as of right now we shall keep our “books open” and you can restrict processing of some parts or all of your data. Period. Please reach out at any time with any ideas on how we can serve you better. [Own Your Personal Data](https://dashboard.fullcontact.com/claim)
+Actually, we hope that you do choose to take ownership of your information and help keep our “phone book” as accurate and up-to-date as possible. It is only through the contributions of people like you that we can provide this valuable service to you and everyone else. Our dream is to have everyone owning their data, fully controlling where it flows, and seeing better relationships in return. We may ask in time for your consent to use that data but as of right now we shall keep our “books open” and you can restrict processing of some parts or all of your data. Period. Please reach out at any time with any ideas on how we can serve you better. [Own Your Personal Data](https://platform.fullcontact.com/claim)
 
 Your Rights
 -----------
 
-Anyone, in any country across the world, may access, rectify, or restrict their Personal Data within FullContact Database at any time by visiting [Own Your Personal Data](https://dashboard.fullcontact.com/claim). Please note that we may ask you to verify your identity before taking action on your request. If you ask us to erase your data, we may still have to retain certain data about you to ensure that your Personal Data does not re-enter our system and protect your rights. Specifically, we will mark your Personal Data as “hidden” and “restrict processing” such that your data is no longer used or made available to anyone.
+Anyone, in any country across the world, may access, rectify, or restrict their Personal Data within FullContact Database at any time by visiting [Own Your Personal Data](https://platform.fullcontact.com/claim). Please note that we may ask you to verify your identity before taking action on your request. If you ask us to erase your data, we may still have to retain certain data about you to ensure that your Personal Data does not re-enter our system and protect your rights. Specifically, we will mark your Personal Data as “hidden” and “restrict processing” such that your data is no longer used or made available to anyone.
 
 ### California Privacy Rights
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in Section 8.2 of the Privacy Policy, you can opt-out of our sharing of your personal information with anyone (including with third parties for the third parties’ direct marketing purposes) by clicking on the [“Own Your Personal Data”](https://dashboard.fullcontact.com/claim) in that section of our Privacy Policy and choosing to “Do Not Share”. To find out more about your opt-out rights, please contact us at the address listed in Section 11 of the Privacy Policy. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in Section 8.2 of the Privacy Policy, you can opt-out of our sharing of your personal information with anyone (including with third parties for the third parties’ direct marketing purposes) by clicking on the [“Own Your Personal Data”](https://platform.fullcontact.com/claim) in that section of our Privacy Policy and choosing to “Do Not Share”. To find out more about your opt-out rights, please contact us at the address listed in Section 11 of the Privacy Policy. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
 
 ### General Data Protection Regulation (GDPR)
 
@@ -180,9 +178,9 @@ Individuals in the EU may exercise any of the rights described in this section b
 
 The purpose for processing, categories of Personal Data concerned, and categories of recipients of Personal Data are described in the “Overview” section above. Our lawful basis for processing is our legitimate interest in providing contact management services to our Users, enabling them to better connect and build their relationships with you. Personal Data will be retained as long as necessary to serve that purpose or until you decide it is not in your best interest to keep your information in the FullContact Database. You have the right to object to the processing of your Personal Data at any time.
 
-If you have taken ownership of your data by following the necessary steps at ([Own Your Personal Data](https://dashboard.fullcontact.com/claim)) or by contacting us directly, we may ask for your explicit permission to share certain of your Personal Data. If you choose to give permission to share certain information, then our lawful basis for processing is your Consent. You have the right to withdraw your Consent at any time. You also have the right of portability for any data that you have provided us.
+If you have taken ownership of your data by following the necessary steps at ([Own Your Personal Data](https://platform.fullcontact.com/claim)) or by contacting us directly, we may ask for your explicit permission to share certain of your Personal Data. If you choose to give permission to share certain information, then our lawful basis for processing is your Consent. You have the right to withdraw your Consent at any time. You also have the right of portability for any data that you have provided us.
 
-You have the right to request from us access to and rectification or erasure of Personal Data or restriction of processing. You may exercise these rights at ([Own Your Personal Data](https://dashboard.fullcontact.com/claim)) or by contacting us directly. Requests for erasure can not be met because erasing your Personal Data would not achieve the desired result of your Personal Data not being in our system: we receive data continuously and would likely have your Personal Data in our system again quickly. Instead, we will mark your Personal Data as “hidden” and “restrict processing” such that your data is no longer used in providing our service and is no longer made available to anyone.
+You have the right to request from us access to and rectification or erasure of Personal Data or restriction of processing. You may exercise these rights at ([Own Your Personal Data](https://platform.fullcontact.com/claim)) or by contacting us directly. Requests for erasure can not be met because erasing your Personal Data would not achieve the desired result of your Personal Data not being in our system: we receive data continuously and would likely have your Personal Data in our system again quickly. Instead, we will mark your Personal Data as “hidden” and “restrict processing” such that your data is no longer used in providing our service and is no longer made available to anyone.
 
 You have the right to request the sources of your Personal Data. You may do so by contacting us as indicated in the “Contact Us” section below. Please note that to protect the rights of other data subjects, we may only be able to provide you with the general categories of sources.
 
@@ -418,7 +416,7 @@ Capitalized terms not defined in this Privacy Policy have the meanings given in 
     
     **7.2 Access, Correction, and Deletion**
     
-    FullContact allows any individual, including the End Users of our Services, to access, modify, and set permissions with respect to Personal Data that it holds about them. You and any individual may access and make corrections and choices about their Personal Data by choosing “[Own Your Personal Data](https://dashboard.fullcontact.com/claim)” on the FullContact Site.
+    FullContact allows any individual, including the End Users of our Services, to access, modify, and set permissions with respect to Personal Data that it holds about them. You and any individual may access and make corrections and choices about their Personal Data by choosing “[Own Your Personal Data](https://platform.fullcontact.com/claim)” on the FullContact Site.
     
     Please note however that, if you request that we delete your Personal Data, we will not do so to protect your rights and freedoms because, if we do, another User may later upload your contact information and we will not have a record that you requested that your contact information be deleted. Were permitted or required by applicable law, instead of deleting your End User Contact Data from the FullContact Database, we will retain it but flag it, restrict any further processing and not use or share it with any third parties. Finally, FullContact provides you with the ability to export your Personal Data, End User Contact Data, or Completed Contact Data from some of our Services at any time using industry standard formats.
     
@@ -453,9 +451,9 @@ Capitalized terms not defined in this Privacy Policy have the meanings given in 
     | 1.5.a Prospect Lists | Yes | No  |
     | 1.6.a.Authorization Data | Yes | No  |
     
-    **8.2 Right to Opt Out of Disclosure of Personal Data for Valuable Consideration**. Residents of California have the right to direct us to not sell Personal Data. To exercise the right to opt-out, you (or your authorized agent) may submit a request to us by visiting the following link: [“Own Your Personal Data”](https://dashboard.fullcontact.com/claim). Once you make an opt-out request, we will wait at least twelve months before asking you to reauthorize Personal Data sales. However, you may change your mind and opt back into Personal Data sales at any time by visiting the following webpage link: [“Own Your Personal Data”](https://dashboard.fullcontact.com/claim). You do not need to create an Account with us to exercise your opt-out rights. We will only use Personal Data provided in an opt-out request to review and comply with the request.
+    **8.2 Right to Opt Out of Disclosure of Personal Data for Valuable Consideration**. Residents of California have the right to direct us to not sell Personal Data. To exercise the right to opt-out, you (or your authorized agent) may submit a request to us by visiting the following link: [“Own Your Personal Data”](https://platform.fullcontact.com/claim). Once you make an opt-out request, we will wait at least twelve months before asking you to reauthorize Personal Data sales. However, you may change your mind and opt back into Personal Data sales at any time by visiting the following webpage link: [“Own Your Personal Data”](https://platform.fullcontact.com/claim). You do not need to create an Account with us to exercise your opt-out rights. We will only use Personal Data provided in an opt-out request to review and comply with the request.
     
-    **8.3 Notice of Disclosure for Direct Marketing**. California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. You can opt-out of our sharing of your Personal Data with third parties for their direct marketing purposes by clicking on the [“Own Your Personal Data”](https://dashboard.fullcontact.com/claim) in that section of our Privacy Policy and choosing to “Do Not Share”. To find out more about your opt-out rights, please contact us at the address listed in Section 12 of the Privacy Policy. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+    **8.3 Notice of Disclosure for Direct Marketing**. California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. You can opt-out of our sharing of your Personal Data with third parties for their direct marketing purposes by clicking on the [“Own Your Personal Data”](https://platform.fullcontact.com/claim) in that section of our Privacy Policy and choosing to “Do Not Share”. To find out more about your opt-out rights, please contact us at the address listed in Section 12 of the Privacy Policy. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
     
 *   **EUROPEAN PRIVACY RIGHTS**
     
@@ -541,7 +539,7 @@ Capitalized terms not defined in this Privacy Policy have the meanings given in 
     
     +1-888-330-6943
     
-    To exercise your choices or opt out rights as described in this Privacy Policy, please use the following webform: [“Own Your Personal Data”](https://dashboard.fullcontact.com/claim).
+    To exercise your choices or opt out rights as described in this Privacy Policy, please use the following webform: [“Own Your Personal Data”](https://platform.fullcontact.com/claim).
     
     **Addendum – 1.1 FullContact EU Privacy Shield Certification Information**
     
@@ -632,7 +630,7 @@ Capitalized terms not defined in this Privacy Policy have the meanings given in 
     
     **User’s RIGHT to access their data:**
     
-    FullContact takes privacy, trust and the management of personal information very seriously. Our link to manage your publicly available contact information is here – [Own Your Personal Data](https://dashboard.fullcontact.com/claim). Through this interface a user can;
+    FullContact takes privacy, trust and the management of personal information very seriously. Our link to manage your publicly available contact information is here – [Own Your Personal Data](https://platform.fullcontact.com/claim). Through this interface a user can;
     
     *   Control and promote your single online identity
     *   Control the information that others see about you
@@ -1000,12 +998,12 @@ Our data is stored on Amazon Web Services (AWS) servers that are located in the 
 
 As an Apps user in the EU, you can alter how FullContact uses your data at any time by adjusting your consent in the Privacy Settings which can be found in Settings screen in all apps (or Preferences in FullContact for Mac), or by visiting the following page: [https://app.fullcontact.com/account/privacy.](https://app.fullcontact.com/account/privacy)
 
-[CLAIM YOUR PROFILE](https://dashboard.fullcontact.com/claim)
+[CLAIM YOUR PROFILE](https://platform.fullcontact.com/claim)
 
 ### [From Our Blog](https://www.fullcontact.com/blog/)
 
-*   [Resiliency and Hopefulness: A Look Back At 2020](https://www.fullcontact.com/blog/2020/12/22/resiliency-and-hopefulness-a-look-back-at-2020/) December 22, 2020
-*   [The Fight For Control](https://www.fullcontact.com/blog/2020/12/01/fight-for-control/) December 1, 2020
+*   [Be Awesome With People: #HealthyFullContact and Covid-19](https://www.fullcontact.com/blog/2021/02/04/be-awesome-with-people-healthyfullcontact-and-covid-19/) February 4, 2021
+*   [Why We Need to Focus on Privacy](https://www.fullcontact.com/blog/2021/01/28/why-we-need-to-focus-on-privacy/) January 28, 2021
 
 ### Menu
 
@@ -1025,7 +1023,7 @@ As an Apps user in the EU, you can alter how FullContact uses your data at any t
 *   [Careers](https://www.fullcontact.com/careers/)
 *   [Our Team](https://www.fullcontact.com/our-team/)
 *   [Resources](https://www.fullcontact.com/resources/)
-*   [Own Your Data](https://dashboard.fullcontact.com/claim)
+*   [Own Your Data](https://platform.fullcontact.com/claim)
 *   [Contact Us](https://www.fullcontact.com/contact/)
 
 ### About Us
@@ -1039,6 +1037,6 @@ FullContact is a privacy-safe Identity Resolution company building trust between
 © 2020 FullContact
 
 [Privacy Policy and Terms](https://www.fullcontact.com/privacy-policy#privacy-notice)  
-[Do Not Sell My Personal Information](https://dashboard.fullcontact.com/claim)
+[Do Not Sell My Personal Information](https://platform.fullcontact.com/claim)
 
 piAId = '856833'; piCId = '27386'; piHostname = 'pi.pardot.com'; (function() { function async\_load(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js'; var c = document.getElementsByTagName('script')\[0\]; c.parentNode.insertBefore(s, c); } if(window.attachEvent) { window.attachEvent('onload', async\_load); } else { window.addEventListener('load', async\_load, false); } })();

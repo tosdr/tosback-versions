@@ -187,6 +187,7 @@ This document was last updated on January 1, 2014
 *   **Parts**
 *   [Pricing and Availability](https://aerobasegroup.com/rfq/)
 *   [Parts by End Item](https://aerobasegroup.com/end_items/)
+*   [Parts by Series](https://aerobasegroup.com/parts-series/)
 *   [Commercial Aircraft Parts](https://aerobasegroup.com/aircraft-parts-catalog/)
 *   [Commercial Hardware](https://aerobasegroup.com/commercial-hardware/)
 *   [NSN Drilldown](https://aerobasegroup.com/nsn-drilldown/)
@@ -200,36 +201,36 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
-*   [New in 2021: Older planes bound for the Boneyard](http://feedproxy.google.com/~r/defense-news/air/~3/wQ16d2ap5QE/)  
-    12/31/20 09:21am  
+*   [US Air Force’s ‘Golden Horde’ swarming munitions program to get second chance](http://feedproxy.google.com/~r/defense-news/air/~3/SPaL-CPXCtk/)  
+    02/05/21 09:25am  
     
-    A B-1 bomber is prepared for a training mission on the flightline during an operational readiness exercise at Ellsworth Air Force Base, S.D., in March 2012. (Airman 1st Class Zachary Hada/Air Force)
+    Four Collaborative Small Diameter Bombs, or CSDBs, hang from the wing of an F-16 Fighting Falcon from the Air Force Test Center’s 96th Test Wing at Eglin Air Force Base, Fla., Nov. 14, 2020. Two of the bombs were dropped during the first flight demonstration of the Air Force Golden Horde Vanguard program.
     
-*   [COVID-19 pandemic keeps Lockheed from meeting F-35 delivery goal in 2020](http://feedproxy.google.com/~r/defense-news/air/~3/jpJC2Wg9NCI/)  
-    12/30/20 01:25pm  
+*   [With Biden’s ‘full support,’ the Space Force is officially here to stay](http://feedproxy.google.com/~r/defense-news/air/~3/QmfhuWAwnvg/)  
+    02/03/21 04:07pm  
     
-    An F-35A Lightning II assigned to the 62nd Fighter Squadron prepares to land, Nov. 2, 2020, at Luke Air Force Base, Ariz. (Airman 1st Class Brooke Moeder/Air Force)
+    Vice Chief of Space Operations Gen. David Thompson swears in the first four enlisted recruits to the Space Force at Military Entrance Processing Station-Baltimore in Maryland on Oct. 20, 2020. (U.S. Defense Department)
     
-*   [Raise the Black Flag: Nellis launches new Air Force operational test event](http://feedproxy.google.com/~r/defense-news/air/~3/0wFao1lDT8s/)  
-    12/29/20 08:54am  
+*   [Air Force study on future aerial refueling tanker could start in 2022](http://feedproxy.google.com/~r/defense-news/air/~3/BDGUEcFFRbo/)  
+    02/05/21 10:25am  
     
-    F-22s and F-16s from 422nd Test and Evaluation Squadron refuel from a KC-135 over the Nevada Test and Training Range on Nov. 17 for Large Force Test Event 20.03. LFTE 20.03 was the beta version of "Black Flag," a premier joint operational test event hosted by the 53rd Wing that validates tactics in a combat relevant environment. (1st Lt Savanah Bray/Air Force)
+    The Air Force's future aerial refueling tanker could be unmanned, like the Navy's MQ-25 Stingray currently under development by Boeing. (Boeing)
     
-*   [New in 2021: Air Force’s ‘accelerate change’ agenda takes shape](http://feedproxy.google.com/~r/defense-news/air/~3/vtFpmEhxkFw/)  
-    12/29/20 08:57am  
+*   [US Air Force bomber unit sets up shop in Norway](http://feedproxy.google.com/~r/defense-news/air/~3/rU6hIJNGDKQ/)  
+    02/03/21 02:06am  
     
-    Air Force Chief of Staff Gen. Charles "CQ" Brown speaks with senior leadership and faculty at Air University on Aug. 26. Brown detailed his plans on how the Air Force needs to change to face the challenges of the future in a series of action orders released in December. (Melanie Rodgers Cox/Air Force)
+    B-1B Lancers fly with Norwegian F-35s during a training mission for Bomber Task Force Europe in May 2020. (Royal Norwegian Air Force)
     
 
 Recent parts by keyword  
 
-*   [C20645-5](https://aerobasegroup.com/search/?term=C20645-5)
-*   [MS24694S11](https://aerobasegroup.com/search/?term=MS24694S11)
-*   [74D2682](https://aerobasegroup.com/search/?term=74D2682)
-*   [Nas1149c1416r](https://aerobasegroup.com/search/?term=Nas1149c1416r)
-*   [Nas1149c1032r](https://aerobasegroup.com/search/?term=Nas1149c1032r)
-*   [Nas1149c0732r](https://aerobasegroup.com/search/?term=Nas1149c0732r)
-*   [plt5115-8](https://aerobasegroup.com/search/?term=plt5115-8)
+*   [30130c6](https://aerobasegroup.com/search/?term=30130c6)
+*   [trent](https://aerobasegroup.com/search/?term=trent)
+*   [1B1000-1G](https://aerobasegroup.com/search/?term=1B1000-1G)
+*   [Armor](https://aerobasegroup.com/search/?term=Armor)
+*   [nsn2-91-001-3634](https://aerobasegroup.com/search/?term=nsn+2910-01-363-4376)
+*   [an520-10R6](https://aerobasegroup.com/search/?term=an520-10R6)
+*   [an124990](https://aerobasegroup.com/search/?term=an124990)
 
 The AeroBase Group Family ..
 

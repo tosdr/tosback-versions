@@ -3,7 +3,7 @@
 *   [News Blog](https://news.windowslogic.co.uk/ "Get the latest news about our antics.")
 *   [LexDocs](https://docs.windowslogic.co.uk/ "Get help with our software and services.")
 *   [Software](https://www.windowslogic.co.uk/software.php "Download our software and games.")
-*   [Music Library](https://windowslogic.bandcamp.com/ "Browse our audio library.")
+*   [Gallery](https://www.windowslogic.co.uk/gallery.php "Browse RealityReaper_BC's art gallery.")
 *   [Contact & Support](https://www.windowslogic.co.uk/contact.php "Contact us or get support.")
 *   [About](https://www.windowslogic.co.uk/about.php "Learn about us and what we do.")
 
@@ -91,57 +91,11 @@ I reserve the right to send out formal Cease & Desist notifications if you are v
 _This document was last updated: 09/06/2019 (9th June 2019)_
 ------------------------------------------------------------
 
-﻿### Donations
-
-Help us continue doing what we love by donating so we can improve servers and services.
-
- [![](img/donate.png) Donate via PayPal](https://paypal.me/windowslogic)
-
-### Social Media
-
-Follow our social media to get notified about everything we make and post.
-
-[YouTube Channel 1](https://www.youtube.com/windowslogic) [YouTube Channel 2](https://www.youtube.com/channel/UCz8QBVtSg8o-e2z_UDcs4wQ) [DeviantArt](https://windowslogic.deviantart.com/) [Instagram](https://www.instagram.com/windowslogic) [SoundCloud](https://www.soundcloud.com/windowslogic) [Bandcamp](https://windowslogic.bandcamp.com/)
-
-### Site Map
-
-Navigate to various parts of the site in one click.
-
-### Main Links
-
-[Home](https://www.windowslogic.co.uk/index.php)
-
-[News Blog](https://news.windowslogic.co.uk/)
-
-[LexDocs](https://docs.windowslogic.co.uk/)
-
-[Software](https://www.windowslogic.co.uk/software.php)
-
-[Contact & Support](https://www.windowslogic.co.uk/contact.php)
-
-[About](https://www.windowslogic.co.uk/about.php)
-
-### Software & Services
-
-[Amino For Desktop](https://www.windowslogic.co.uk/amino.php)
-
-[Tweeter](https://www.windowslogic.co.uk/tweeter.php)
-
-Discontinued Applications
-
-[Vivian](https://www.windowslogic.co.uk/vivian.php)
-
-### Important
-
-[Privacy Policy](https://www.windowslogic.co.uk/privacy-policy.php)
-
-[Terms of Service](https://www.windowslogic.co.uk/terms.php)
-
-[Software Agreement](https://www.windowslogic.co.uk/appagreement.php)
-
-[Send Feedback](https://www.windowslogic.co.uk/feedback.php)
-
-### Copyright © 2011 - 2020 WindowsLogic Productions. All rights reserved.
-
-  
+﻿  
 ![](img/footerbanner.png "Software and services made with passion.")
+
+Copyright © 2011 - 2021 WindowsLogic Productions. All rights reserved.
+
+All other trademarks and copyrights are the property of their respective owners. All rights reserved.
+
+[Donate](https://paypal.me/windowslogic) - [Privacy Policy](https://windowslogic.co.uk/privacy-policy.php) - [Terms](https://windowslogic.co.uk/terms.php) - [Software Agreement](https://windowslogic.co.uk/appagreement.php) - [Feedback](https://windowslogic.co.uk/feedback.php) - [![](img/youtube.png)](https://youtube.com/windowslogic "WLP Channel 1") [![](img/youtube.png)](https://www.youtube.com/channel/UCz8QBVtSg8o-e2z_UDcs4wQ "WLP Channel 2") [![](img/twitter.png)](https://twitter.com/windowslogic "Twitter") [![](img/deviantart.png)](https://deviantart.com/windowslogic "DeviantArt") [![](img/soundcloud.png)](https://soundcloud.com/windowslogic "SoundCloud") [![](img/bandcamp.png)](https://windowslogic.bandcamp.com/ "Bandcamp")

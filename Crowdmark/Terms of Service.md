@@ -188,4 +188,4 @@ CANADA
 *   [![Twitter](https://d140dcqr6pqow0.cloudfront.net/website/images/fa-twitter.svg)](http://twitter.com/Crowdmark "Crowdmark on Twitter")
 *   [![Facebook](https://d140dcqr6pqow0.cloudfront.net/website/images/fa-facebook.svg)](http://facebook.com/Crowdmark "Crowdmark on Facebook")
 
-© 2020 Crowdmark, Inc. All rights reserved. USA Patent US9805614B2.
+© 2021 Crowdmark, Inc. All rights reserved. USA Patent US9805614B2.

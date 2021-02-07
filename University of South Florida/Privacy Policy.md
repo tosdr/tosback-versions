@@ -52,6 +52,7 @@ Secondary Navigation
 *   [Data Security](https://www.usf.edu/it/documentation/data-security.aspx)
 *   [Email](https://www.usf.edu/it/documentation/email.aspx)
 *   [NetID Account](https://www.usf.edu/it/documentation/netid.aspx)
+*   [Guest Account System](https://www.usf.edu/it/documentation/guest.aspx)
 *   [Office 365](https://www.usf.edu/it/documentation/office365/index.aspx)
 *   [Research Computing](https://www.usf.edu/it/documentation/research-computing.aspx)
 *   [USF Data and Analytics](https://www.usf.edu/it/data-and-analytics/index.aspx)
@@ -63,7 +64,6 @@ Secondary Navigation
 *   [Qualtrics Survey Tool](https://www.usf.edu/it/documentation/qualtrics.aspx)
 *   [DUO FAQs](https://www.usf.edu/it/documentation/duo-faq.aspx)
 *   [Barracuda AntiSpam](https://www.usf.edu/it/antispam/index.aspx)
-*   [Guest Account System](https://www.usf.edu/it/documentation/guest.aspx)
 
 USF Privacy Policy
 ------------------
@@ -113,7 +113,7 @@ Menu
 
 *   [Partner with USF](https://www.usf.edu/partner)
 *   [Administrative Units](https://www.usf.edu/about-usf/administrative-units.aspx)
-*   [Regulations & Policies](https://www.usf.edu/general-counsel/regulations-policies/index.aspx)
+*   [Regulations & Policies](https://www.usf.edu/regulations-policies/index.aspx)
 *   [Human Resources](https://www.usf.edu/hr/index.aspx)
 *   [Work at USF](https://www.usf.edu/work-at-usf/index.aspx)
 *   [Emergency & Safety](https://www.usf.edu/administrative-services/emergency-management/index.aspx)

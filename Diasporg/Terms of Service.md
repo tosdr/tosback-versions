@@ -1,4 +1,4 @@
-diaspora\* - Terms of Service Last Updated: 18rd October, 2020
+diaspora\* - Terms of Service Last Updated: 26th January, 2021
 ==============================================================
 
 Here are the important things you need to know about accessing and using the **diaspora\*** (https://diasp.org/) website and service (collectively, "Service"). These are our terms of service ("Terms"). Please read them carefully.
@@ -60,7 +60,7 @@ In order to make **diaspora\*** a great place for all of us, please do not post,
 *   Pornographic content of any kind; http://www.merriam-webster.com/dictionary/pornography
 *   Artistic content that depics minors or images/language that sexulises minors;
 *   Automated content posting of any sort. No Bot, RSS readers, or scripts that post content automatically from other sources may be used.
-*   Approved bot accounts: juniorsdisk@diasp.org
+*   Dangerous Speech as exampled by https://dangerousspeech.org/about-dangerous-speech
 *   Content that is libelous, defamatory, bigoted, fraudulent or deceptive;
 *   Hate Speech as defined by Article 20 of the ICCPR: https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
 *   Content that is illegal or unlawful, that would otherwise create liability;

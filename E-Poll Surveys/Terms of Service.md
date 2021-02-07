@@ -1,6 +1,6 @@
 list check donate female help male shop user twitter facebook instagram mobile snapchat
 
- [![express yourself!](//cdn.www.epollsurveys.com/revaab3033/resources/images/logo.png)](https://www.epollsurveys.com/epoll/clients/home.htm) Toggle navigation 
+ [![express yourself!](//cdn.www.epollsurveys.com/rev6253f66/resources/images/logo.png)](https://www.epollsurveys.com/epoll/clients/home.htm) Toggle navigation 
 
 *   [Help](https://www.epollsurveys.com/epoll/clients/help.htm)
 *   [Find Out More](https://www.epollsurveys.com/epoll/clients/findoutmore.htm)
@@ -10,7 +10,7 @@ list check donate female help male shop user twitter facebook instagram mobile s
 **Privacy Policy and Terms of Use**
 -----------------------------------
 
-![Reliability Seal](//cdn.www.epollsurveys.com/revaab3033/resources/images/bbb_logo.jpg)
+![Reliability Seal](//cdn.www.epollsurveys.com/rev6253f66/resources/images/bbb_logo.jpg)
 
 **How we keep your privacy safe**
 

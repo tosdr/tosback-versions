@@ -1,5 +1,7 @@
 [Skip to main content](#content)
 
+There are disaster alerts in [Alabama](https://www.tricare.mil/Resources/DisasterInfo/DisasterAlerts/01_26_2021_Alabama_Tornado), [New Jersey](https://www.tricare.mil/Resources/DisasterInfo/DisasterAlerts/02_01_2021_Winter_Storm_Orlena), and [California](https://www.tricare.mil/Resources/DisasterInfo/DisasterAlerts/02_02_2021_California_Debris) in affected counties. Emergency refill procedures are in place. [\>> Learn more](https://www.tricare.mil/Resources/DisasterInfo).
+
  [![TRICARE logo](/TRICARE-T17/img/TRICARElogo.svg) Go to TRICARE home](https://www.tricare.mil/) 
 
 Search

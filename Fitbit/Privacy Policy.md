@@ -13,52 +13,55 @@
     *   [Shop All Products](https://www.fitbit.com/global/us/products)
     
     *   EXPERIENCES
-    *   [Setup Process](https://help.fitbit.com/articles/en_US/Help_article/1873.htm)
+    *   [Setup Process](https://www.fitbit.com/global/us/setup)
     
-    [](https://www.fitbit.com/global/us/products/smartwatches/sense)
+    [](https://www.fitbit.com/global/us/products.gifts-under-150)
     
-    Save $50
-    
-    [
-    
-    Shop Sense
-    
-    ](https://www.fitbit.com/global/us/products/smartwatches/sense)
-    
-    [](https://www.fitbit.com/global/us/products/smartwatches/versa)
-    
-    Save $30
+    ONE FOR YOU, ONE FOR THEM
     
     [
     
-    Shop Versa 2
+    Gifts under $150
     
-    ](https://www.fitbit.com/global/us/products/smartwatches/versa)
+    ](https://www.fitbit.com/global/us/products.gifts-under-150)
     
-    [](https://www.fitbit.com/global/us/products/trackers/charge4)
+    [](https://www.fitbit.com/global/us/products/smartwatches/versa3)
     
-    Save $30
+    VALENTINE'S SALE
     
     [
     
-    Shop Charge 4
+    Save $30 on Versa 3
     
-    ](https://www.fitbit.com/global/us/products/trackers/charge4)
+    ](https://www.fitbit.com/global/us/products/smartwatches/versa3)
+    
+    [](https://www.fitbit.com/global/us/products/accessories)
+    
+    LOOKS YOU'LL LOVE
+    
+    [
+    
+    Save on select accessories
+    
+    ](https://www.fitbit.com/global/us/products/accessories)
     
 *   [TECHNOLOGY](https://www.fitbit.com/global/us/technology)
     
     *   HOW WE INNOVATE
-    *   [Sleep Technology](https://www.fitbit.com/global/us/technology)
-    *   [Health Metrics + SpO2](https://www.fitbit.com/global/us/technology/health-metrics)
+    *   [Health Metrics & SpO2](https://www.fitbit.com/global/us/technology/health-metrics)
     *   [ECG](https://www.fitbit.com/global/us/technology/ecg)
     *   [Stress Management](https://www.fitbit.com/global/us/technology/stress)
-    *   [Voice](https://www.fitbit.com/global/us/technology/voice)
+    *   [24/7 Heart Rate](https://www.fitbit.com/global/us/technology/heart-rate)
+    *   [Sleep Tracking](https://www.fitbit.com/global/us/technology/sleep)
+    *   [Active Zone Minutes](https://www.fitbit.com/global/us/technology/active-zone-minutes)
+    *   [Voice Assistants](https://www.fitbit.com/global/us/technology/voice)
     *   [Fitbit Pay](https://www.fitbit.com/global/us/technology/fitbit-pay)
     
-    *   HOW WE CONNECT
+    *   HOW WE INTEGRATE
     *   [Compatible Devices](https://www.fitbit.com/global/us/technology/compatible-devices)
     *   [Works with Fitbit](https://www.fitbit.com/global/us/technology/partnership)
     *   [Smartwatch Apps & Clock Faces](https://gallery.fitbit.com/)
+    *   [Fitbit OS](https://www.fitbit.com/global/us/technology/fitbit-os)
     
 *   MOTIVATION
     
@@ -77,16 +80,19 @@
 TECHNOLOGY
 
 *   HOW WE INNOVATE
-*   [Sleep Technology](https://www.fitbit.com/global/us/technology)
-*   [Health Metrics + SpO2](https://www.fitbit.com/global/us/technology/health-metrics)
+*   [Health Metrics & SpO2](https://www.fitbit.com/global/us/technology/health-metrics)
 *   [ECG](https://www.fitbit.com/global/us/technology/ecg)
 *   [Stress Management](https://www.fitbit.com/global/us/technology/stress)
-*   [Voice](https://www.fitbit.com/global/us/technology/voice)
+*   [24/7 Heart Rate](https://www.fitbit.com/global/us/technology/heart-rate)
+*   [Sleep Tracking](https://www.fitbit.com/global/us/technology/sleep)
+*   [Active Zone Minutes](https://www.fitbit.com/global/us/technology/active-zone-minutes)
+*   [Voice Assistants](https://www.fitbit.com/global/us/technology/voice)
 *   [Fitbit Pay](https://www.fitbit.com/global/us/technology/fitbit-pay)
-*   HOW WE CONNECT
+*   HOW WE INTEGRATE
 *   [Compatible Devices](https://www.fitbit.com/global/us/technology/compatible-devices)
 *   [Works with Fitbit](https://www.fitbit.com/global/us/technology/partnership)
 *   [Smartwatch Apps & Clock Faces](https://gallery.fitbit.com/)
+*   [Fitbit OS](https://www.fitbit.com/global/us/technology/fitbit-os)
 
 MOTIVATION
 
@@ -457,6 +463,7 @@ COMPANY
 *   [About Us](https://www.fitbit.com/global/us/about-us)
 *   [Careers](https://www.fitbit.com/global/us/careers)
 *   [Buzz](https://www.fitbit.com/global/us/buzz)
+*   [Sustainability](https://www.fitbit.com/global/us/sustainability)
 *   [Activity Index](https://www.fitbit.com/global/us/activity-index)
 *   [Investor Relations](https://investor.fitbit.com/overview/default.aspx)
 *   [Press Releases](https://investor.fitbit.com/press/press-releases/default.aspx)
@@ -466,6 +473,7 @@ COMPANY
 *   [About Us](https://www.fitbit.com/global/us/about-us)
 *   [Careers](https://www.fitbit.com/global/us/careers)
 *   [Buzz](https://www.fitbit.com/global/us/buzz)
+*   [Sustainability](https://www.fitbit.com/global/us/sustainability)
 *   [Activity Index](https://www.fitbit.com/global/us/activity-index)
 *   [Investor Relations](https://investor.fitbit.com/overview/default.aspx)
 *   [Press Releases](https://investor.fitbit.com/press/press-releases/default.aspx)
@@ -488,7 +496,7 @@ HEALTH SOLUTIONS
 *   [Researchers](https://healthsolutions.fitbit.com/researchers/)
 *   [Partners](https://healthsolutions.fitbit.com/partners/)
 
-©2020 Fitbit, Inc. All rights reserved
+©2021 Fitbit, Inc. All rights reserved
 
  [United States](https://www.fitbit.com/global/us/countries) 
 

@@ -1,274 +1,342 @@
-[Skip to content](#main-content)
+if ((document.cookie.match('(^|; )contrast-cookie=(\[^;\]\*)') || 0)\[2\] === 'true') { document.body.className = document.body.className.replace(' no-con', ''); document.body.className += ' accessibility\_\_contrast'; } if ((document.cookie.match('(^|; )font-size-cookie=(\[^;\]\*)') || 0)\[2\] === 'true') { document.body.className = document.body.className.replace(' no-font', ''); document.body.className += ' accessibility\_\_fontsize'; } [Skip to content](#content)
 
-**Open Menu**
+You have JavaScript disabled. Please enable JavaScript to use this feature.
 
-[WhiteHouse.gov **WhiteHouse.gov.st0{fill:#fff}.st1{fill:#cbcbca}.st2,.st3{fill:#d9dce1}**](https://www.whitehouse.gov/)
+Toggle High Contrast
 
-[**Copy URL to your clipboard** Share](https://www.whitehouse.gov/privacy-policy/?utm_source=link&utm_medium=header)
+Toggle High Contrast
 
-*   [Economy](https://www.whitehouse.gov/issues/economy-jobs/)
-*   [National Security](https://www.whitehouse.gov/issues/national-security-defense/)
-*   [Budget](https://www.whitehouse.gov/issues/budget-spending/)
-*   [Immigration](https://www.whitehouse.gov/issues/immigration/)
-*   [Coronavirus.gov](http://www.coronavirus.gov/)
+Toggle Large Font Size
 
-[Search WhiteHouse.gov **Open Search**](https://www.whitehouse.gov/search/)
+Toggle Large Font Size
+
+[
+
+The White House
+
+The White House
+
+](https://www.whitehouse.gov/)
+
+[The White House #wh-oval-601ff92f4448a .st0{fill:#0A2458;} #wh-oval-601ff92f4448a .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;} #wh-oval-601ff92f4448a .st2{opacity:0.5;fill:#FFFFFF;} #wh-oval-601ff92f4448a .st3{fill:#FFFFFF;}](https://www.whitehouse.gov/)
+
+*   [Home](https://www.whitehouse.gov/)
+
+*   [Administration](https://www.whitehouse.gov/administration/)
+*   [Priorities](https://www.whitehouse.gov/priorities/)
+*   [COVID-19](https://www.whitehouse.gov/priorities/covid-19/)
+*   [Briefing Room](https://www.whitehouse.gov/briefing-room/)
+*   [Español](https://www.whitehouse.gov/es/privacidad/)
+
+*   [InstagramOpens in a new window](https://www.instagram.com/whitehouse/)
+*   [FacebookOpens in a new window](https://www.facebook.com/WhiteHouse/)
+*   [TwitterOpens in a new window](https://twitter.com/whitehouse)
+*   [YouTubeOpens in a new window](https://www.youtube.com/user/whitehouse)
+
+*   [Contact Us](https://www.whitehouse.gov/contact/)
+*   [Privacy Policy](https://www.whitehouse.gov/privacy/)
+*   [Copyright Policy](https://www.whitehouse.gov/copyright/)
+*   [Accessibility Statement](https://www.whitehouse.gov/accessibility/)
+
+Menu Close
+
+To search this site, enter a search term    Search
+
+Mobile Menu Overlay
+-------------------
+
+[#wh-oval-nofill-601ff92f4aec6 .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0A2458;} #wh-oval-nofill-601ff92f4aec6 .st1{opacity:0.5;fill:#0A2458;} #wh-oval-nofill-601ff92f4aec6 .st2{fill:#0A2458;}](https://www.whitehouse.gov/)
+
+*   [Administration](https://www.whitehouse.gov/administration/) Show submenu for “Administration””
+    *   [President Joe Biden](https://www.whitehouse.gov/administration/president-biden/)
+    *   [Vice President Kamala Harris](https://www.whitehouse.gov/administration/vice-president-harris/)
+    *   [First Lady Dr. Jill Biden](https://www.whitehouse.gov/administration/dr-jill-biden/)
+    *   [Second Gentleman Douglas Emhoff](https://www.whitehouse.gov/administration/douglas-emhoff/)
+    *   [The Cabinet](https://www.whitehouse.gov/administration/cabinet/)
+*   [Executive Offices](https://www.whitehouse.gov/administration/executive-office-of-the-president/) Show submenu for “Executive Offices””
+    *   [Council of Economic Advisers](https://www.whitehouse.gov/cea/)
+    *   [Council on Environmental Quality](https://www.whitehouse.gov/ceq/)
+    *   [Domestic Policy Council](https://www.whitehouse.gov/dpc/)
+    *   [National Economic Council](https://www.whitehouse.gov/nec/)
+    *   [National Security Council](https://www.whitehouse.gov/nsc/)
+    *   [Office of Intergovernmental Affairs](https://www.whitehouse.gov/iga/)
+    *   [Office of Management and Budget](https://www.whitehouse.gov/omb/)
+    *   [Office of National Drug Control Policy](https://www.whitehouse.gov/ondcp/)
+    *   [Office of Public Engagement](https://www.whitehouse.gov/ope/)
+    *   [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/)
+*   [Priorities](https://www.whitehouse.gov/priorities/)
+
+*   [Briefing Room](https://www.whitehouse.gov/briefing-room/)
+*   [The White House](https://www.whitehouse.gov/about-the-white-house/) Show submenu for “The White House””
+    *   [Presidents](https://www.whitehouse.gov/about-the-white-house/presidents/)
+    *   [First Families](https://www.whitehouse.gov/about-the-white-house/first-families/)
+    *   [The Grounds](https://www.whitehouse.gov/about-the-white-house/the-grounds/)
+    *   [Our Government](https://www.whitehouse.gov/about-the-white-house/our-government/)
+*   [Get Involved](https://www.whitehouse.gov/get-involved/) Show submenu for “Get Involved””
+    *   [Write or Call The White House](https://www.whitehouse.gov/get-involved/write-or-call/)
+    *   [Join Us](https://www.whitehouse.gov/get-involved/join-us/)
+    *   [White House Fellows](https://www.whitehouse.gov/get-involved/fellows/)
+
+*   [Español](https://www.whitehouse.gov/es/privacidad/)
+
+*   [Contact Us](https://www.whitehouse.gov/contact/)
+*   [Privacy Policy](https://www.whitehouse.gov/privacy/)
+*   [Copyright Policy](https://www.whitehouse.gov/copyright/)
+*   [Accessibility Statement](https://www.whitehouse.gov/accessibility/)
+
+*   [InstagramOpens in a new window](https://www.instagram.com/whitehouse/)
+*   [FacebookOpens in a new window](https://www.facebook.com/WhiteHouse/)
+*   [TwitterOpens in a new window](https://twitter.com/whitehouse)
+*   [YouTubeOpens in a new window](https://www.youtube.com/user/whitehouse)
+
+**The White House**  
+1600 Pennsylvania Ave NW  
+Washington, DC 20500
+
+![](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/wh-outline.svg)
+
+To search this site, enter a search term    Search
 
 Privacy Policy
 ==============
 
-* * *
+The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, or visit White House pages hosted by other sites (such as our official profiles on social networking sites). This Privacy Policy describes what information is made available to the White House and how that information is used and retained, and provides information on:
 
-* * *
+*   Information we receive (when you provide it, visit WhiteHouse.gov, receive email updates, or interact with official White House presences on third-party sites)
+*   How this information is used
+*   Sharing of this information
+*   Data retention
+*   Third-party tools and sites
+*   Children and privacy
+*   Security
 
-THE WHITE HOUSE IS COMMITTED TO PROTECTING INDIVIDUAL PRIVACY AND SECURING THE PERSONAL INFORMATION MADE AVAILABLE TO US WHEN YOU VISIT WHITEHOUSE.GOV OR VISIT WHITE HOUSE PAGES HOSTED BY OTHER SITES (SUCH AS OUR OFFICIAL PROFILES ON SOCIAL NETWORKING SITES). THIS PRIVACY POLICY DESCRIBES WHAT INFORMATION IS MADE AVAILABLE TO THE WHITE HOUSE AND HOW THAT INFORMATION IS USED AND RETAINED, AND PROVIDES INFORMATION ON:
+If you have questions about this policy or suggestions for its improvement, please let us know at [WhiteHouse.gov/Contact/](https://www.whitehouse.gov/contact).
 
-*   INFORMATION WE RECEIVE (WHEN YOU PROVIDE IT, VISIT WHITEHOUSE.GOV, RECEIVE EMAIL UPDATES, OR INTERACT WITH OFFICIAL WHITE HOUSE PRESENCES ON THIRD-PARTY SITES)
-*   HOW THIS INFORMATION IS USED
-*   SHARING OF THIS INFORMATION
-*   DATA RETENTION
-*   THIRD-PARTY TOOLS AND SITES
-*   CHILDREN AND PRIVACY
-*   SECURITY
+Information Received and Retained by White House Online Platforms
+-----------------------------------------------------------------
 
-**IF YOU HAVE QUESTIONS ABOUT THIS POLICY OR SUGGESTIONS FOR ITS IMPROVEMENT, PLEASE LET US KNOW AT [WHITEHOUSE.GOV/CONTACT](https://www.whitehouse.gov/contact/).**
+### Information You Give Us
 
-INFORMATION YOU GIVE US
+You do not have to provide the White House with any personal information or create a user account to access information on WhiteHouse.gov. However, for some services, we may need some personal information from you such as your name, address, telephone number, email address, and other contact or identifying information about yourself or others that you choose to provide or authorize us to collect, including resume information. For example:
 
-YOU DO NOT HAVE TO PROVIDE THE WHITE HOUSE WITH ANY PERSONAL INFORMATION OR CREATE A USER ACCOUNT TO ACCESS INFORMATION ON WHITEHOUSE.GOV. HOWEVER, FOR SOME SERVICES, WE MAY NEED SOME PERSONAL INFORMATION FROM YOU SUCH AS YOUR NAME, ADDRESS, TELEPHONE NUMBER, AND EMAIL ADDRESS. FOR EXAMPLE:
+*   The [“Contact the White House” form](https://www.whitehouse.gov/contact/) asks for basic contact information so we can respond to your request;
+*   When we ask users to share their story or how a policy decision will impact them, we generally ask for their name, zip code, and email address;
+*   We may ask for personal information from people applying to, registering for, or participating in a White House event or competition.
+*   We will ask for personal information of people applying to jobs in the Biden-Harris administration through WhiteHouse.gov.
 
-*   THE [“CONTACT THE WHITE HOUSE” FORM](https://www.whitehouse.gov/contact/) ASKS FOR BASIC CONTACT INFORMATION SO WE CAN RESPOND TO YOUR REQUEST;
-*   WHEN WE ASK USERS TO SHARE THEIR STORY OR HOW A POLICY DECISION WILL IMPACT THEM, WE GENERALLY ASK FOR THEIR NAME, ZIP CODE, AND EMAIL ADDRESS;
-*   CREATING A USER ACCOUNT FOR OUR ONLINE PETITIONS PLATFORM “WE THE PEOPLE” REQUIRES A VALID EMAIL ADDRESS AND A FIRST AND LAST NAME; AND
-*   WE MAY ASK FOR PERSONAL INFORMATION FROM PEOPLE APPLYING TO, REGISTERING FOR, OR PARTICIPATING IN A WHITE HOUSE EVENT OR COMPETITION.
+### Visits to WhiteHouse.gov
 
-VISITS TO WHITEHOUSE.GOV
+When you visit WhiteHouse.gov, the following basic information is automatically received and stored by the web servers hosting WhiteHouse.gov:
 
-WHEN YOU VISIT WHITEHOUSE.GOV, THE FOLLOWING BASIC INFORMATION IS AUTOMATICALLY RECEIVED AND STORED BY THE WEB SERVERS HOSTING WHITEHOUSE.GOV:
+*   The originating Internet Protocol (IP) address;
+*   The internet domain name;
+*   Information about your computer or mobile set-up (e.g., type and version of web browser, operating system, screen resolution, and connection speed);
+*   The pages on WhiteHouse.gov that you visit;
+*   The internet address, or URL, of the website that connected you to our site, if you accessed WhiteHouse.gov via a link on another page (i.e., “referral traffic”); and
+*   The amount of data transmitted from WhiteHouse.gov to your computer.
 
-*   THE ORIGINATING INTERNET PROTOCOL (IP) ADDRESS;
-*   THE INTERNET DOMAIN NAME;
-*   INFORMATION ABOUT YOUR COMPUTER OR MOBILE SET-UP (E.G., TYPE AND VERSION OF WEB BROWSER, OPERATING SYSTEM, SCREEN RESOLUTION, AND CONNECTION SPEED);
-*   THE PAGES ON WHITEHOUSE.GOV THAT YOU VISIT;
-*   THE INTERNET ADDRESS, OR URL, OF THE WEBSITE THAT CONNECTED YOU TO OUR SITE, IF YOU ACCESSED WHITEHOUSE.GOV VIA A LINK ON ANOTHER PAGE (I.E., “REFERRAL TRAFFIC”); AND
-*   THE AMOUNT OF DATA TRANSMITTED FROM WHITEHOUSE.GOV TO YOUR COMPUTER.
+The White House also uses web measurement and customization technologies (such as “cookies”). You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing your browser settings. 
 
-THE WHITE HOUSE ALSO USES WEB MEASUREMENT AND CUSTOMIZATION TECHNOLOGIES (SUCH AS “COOKIES”). YOU CAN CHOOSE NOT TO ACCEPT COOKIES FROM ANY WEBSITE, INCLUDING WHITEHOUSE.GOV, BY CHANGING YOUR BROWSER SETTINGS. CLICK HERE TO LEARN MORE ABOUT HOW WE USE COOKIES.
+### Email Subscriptions
 
-EMAIL SUBSCRIPTIONS
+In order to manage White House email subscription lists, we retain the names and email addresses of our email subscribers, as well as other information they may have shared with us (e.g., addresses and phone numbers), logs of emails we send, and automatically generated email data used to improve our email communications. This automatically generated email data (generated through simple tools such as “pixel tags” and link redirects) includes:
 
-IN ORDER TO MANAGE WHITE HOUSE EMAIL SUBSCRIPTION LISTS, WE RETAIN THE NAMES AND EMAIL ADDRESS OF OUR EMAIL SUBSCRIBERS, AS WELL AS OTHER INFORMATION THEY MAY HAVE SHARED WITH US (E.G., ADDRESSES AND PHONE NUMBERS), LOGS OF EMAILS WE SEND, AND AUTOMATICALLY GENERATED EMAIL DATA USED TO IMPROVE OUR EMAIL COMMUNICATIONS. THIS AUTOMATICALLY GENERATED EMAIL DATA (GENERATED THROUGH SIMPLE TOOLS SUCH AS “PIXEL TAGS” AND LINK REDIRECTS) INCLUDES:
+*   The recipient’s email client;
+*   Whether the email was opened;
+*   If a link in the message was clicked;
+*   Whether an email was delivered;
+*   If the email was forwarded; and
+*   If the email was printed.
 
-*   THE RECIPIENT’S EMAIL CLIENT;
-*   WHETHER THE EMAIL WAS OPENED;
-*   IF A LINK IN THE MESSAGE WAS CLICKED;
-*   WHETHER AN EMAIL WAS DELIVERED;
-*   IF THE EMAIL WAS FORWARDED; AND
-*   IF THE EMAIL WAS PRINTED.
+If, at any time, you wish to stop receiving our messages, simply click on the “Unsubscribe” link at the bottom of each email message.
 
-IF, AT ANY TIME, YOU WISH TO STOP RECEIVING OUR MESSAGES, SIMPLY CLICK ON THE “UNSUBSCRIBE” LINK AT THE BOTTOM OF EACH EMAIL MESSAGE.
+### Third-Party Websites
 
-THIRD-PARTY WEBSITES
+The White House maintains official pages or accounts on third-party websites in order to better engage with the American public (a current list is here). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
-THE WHITE HOUSE MAINTAINS OFFICIAL PAGES OR ACCOUNTS ON THIRD-PARTY WEBSITES IN ORDER TO BETTER ENGAGE WITH THE AMERICAN PUBLIC. YOUR ACTIVITY ON THOSE SITES IS GOVERNED BY THE THIRD-PARTY WEBSITE’S SECURITY AND PRIVACY POLICIES. USERS OF THIRD-PARTY SITES OFTEN SHARE INFORMATION WITH THE GENERAL PUBLIC, USER COMMUNITY, AND/OR THE THIRD-PARTY OPERATING THE SITE. CONSEQUENTLY, YOU SHOULD REVIEW THE PRIVACY POLICIES OF THIRD-PARTY SITES BEFORE USING THEM AND ENSURE THAT YOU UNDERSTAND HOW YOUR INFORMATION MAY BE SHARED AND USED. YOU SHOULD ALSO ADJUST PRIVACY SETTINGS ON YOUR ACCOUNT ON ANY THIRD-PARTY SITE TO MATCH YOUR PREFERENCES.
+To comply with the [Presidential Records Act](https://www.archives.gov/about/laws/presidential-records.html), the White House may archive information that users submit or publish when engaging with the White House through official White House pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. 
 
-FOR THE SOLE PURPOSE OF COMPLYING WITH THE [PRESIDENTIAL RECORDS ACT](https://www.archives.gov/about/laws/presidential-records.html), THE WHITE HOUSE ARCHIVES SOME INFORMATION THAT USERS SUBMIT OR PUBLISH WHEN ENGAGING WITH THE WHITE HOUSE THROUGH OFFICIAL WHITE HOUSE PAGES OR ACCOUNTS ON THIRD-PARTY WEBSITES (E.G., BY SENDING A MESSAGE, POSTING A COMMENT, “FOLLOWING,” “FRIENDING,” OR TAKING SIMILAR ACTIONS). THIS INFORMATION MAY CONTAIN PERSONAL INFORMATION, SUCH AS AN INDIVIDUAL’S USERNAME AND OTHER PUBLIC ACCOUNT INFORMATION, WHEN SUCH INFORMATION IS AVAILABLE BASED ON THE USER’S PRIVACY SETTINGS AND THE TERMS OF THE SITE. FOR EXAMPLE:
+For aggregate statistical analysis and to improve the quality of our services, we may integrate web measurement tools with our social media pages. These tools enable basic analysis of social media traffic (such as the number of people visiting a certain page) and do not collect personally identifiable information.
 
-*   ON TWITTER, THE WHITE HOUSE AUTOMATICALLY ARCHIVES “TWEETS” FROM OFFICIAL WHITE HOUSE ACCOUNTS, AND MAY CAPTURE “MENTIONS” (TWEETS FROM OTHER USERS TO OFFICIAL WHITE HOUSE ACCOUNTS; THESE TWEETS CONTAIN AN @ AND THE USERNAME OF AN OFFICIAL WHITE HOUSE ACCOUNT (E.G., @WHITEHOUSE).
-*   ON FACEBOOK, THE WHITE HOUSE AUTOMATICALLY ARCHIVES ALL CONTENT CREATED BY OFFICIAL WHITE HOUSE PAGES AND MAY CAPTURE ANY CONTENT POSTED ON OFFICIAL WHITE HOUSE PAGES (FOR EXAMPLE, THE NUMBER OF LIKES TO THE PAGE AND COMMENTS POSTED).
+How Information is Used
+-----------------------
 
-FOR AGGREGATE STATISTICAL ANALYSIS AND TO IMPROVE THE QUALITY OF OUR SERVICES, WE MAY INTEGRATE WEB MEASUREMENT TOOLS WITH OUR SOCIAL MEDIA PAGES. THESE TOOLS ENABLE BASIC ANALYSIS OF SOCIAL MEDIA TRAFFIC (SUCH AS THE NUMBER OF PEOPLE VISITING A CERTAIN PAGE) AND DO NOT COLLECT PERSONALLY IDENTIFIABLE INFORMATION.
+If you choose to provide us with information, we may use that information to contact you, respond to your message, or provide you the information or services you requested. In order to serve you better, we may analyze multiple sources of data you have provided (for example, to look up whether you previously contacted the White House about the same topic so that we do not send you a duplicative response). We may also use messages or comments collected through WhiteHouse.gov or official social media pages for our own purposes, such as to inform policy decisions or in public advocacy.
 
-HOW INFORMATION IS USED
+We may use data you provide and automatically generated data for statistical analysis to assess, for example, what information is of interest to users, technical design specifications, and system performance. This allows us to make general improvements to our site as well as to offer tailored content to email subscribers (e.g., a follow-up message to subscribers interested in a specific topic based on information they have provided or automatically generated data). We may also use your information in order to detect, prevent, and respond to security issues and other harmful or unlawful activities on the Site. For resume information submitted, your information may be used for employment consideration.
 
-IF YOU CHOOSE TO PROVIDE US WITH INFORMATION, WE MAY USE THAT INFORMATION TO CONTACT YOU, RESPOND TO YOUR MESSAGE OR PETITION, OR PROVIDE YOU THE INFORMATION OR SERVICES YOU REQUESTED. IN ORDER TO SERVE YOU BETTER, WE MAY ANALYZE MULTIPLE SOURCES OF DATA YOU HAVE PROVIDED (FOR EXAMPLE, TO LOOK UP WHETHER YOU PREVIOUSLY CONTACTED THE WHITE HOUSE ABOUT THE SAME TOPIC SO THAT WE DO NOT SEND YOU A DUPLICATIVE RESPONSE). WE MAY ALSO USE MESSAGES OR COMMENTS COLLECTED THROUGH WHITEHOUSE.GOV OR OFFICIAL SOCIAL MEDIA PAGES FOR OUR OWN PURPOSES, SUCH AS TO INFORM POLICY DECISIONS OR IN PUBLIC ADVOCACY.
+Sharing of this Information
+---------------------------
 
-WE MAY USE DATA YOU PROVIDE AND AUTOMATICALLY GENERATED DATA FOR STATISTICAL ANALYSIS TO ASSESS, FOR EXAMPLE, WHAT INFORMATION IS OF INTEREST TO USERS, TECHNICAL DESIGN SPECIFICATIONS, AND SYSTEM PERFORMANCE. THIS ALLOWS US TO MAKE GENERAL IMPROVEMENTS TO OUR SITE AS WELL AS TO OFFER TAILORED CONTENT TO EMAIL SUBSCRIBERS (E.G., A FOLLOW-UP MESSAGE TO SUBSCRIBERS INTERESTED IN A SPECIFIC TOPIC BASED ON INFORMATION THEY HAVE PROVIDED OR AUTOMATICALLY GENERATED DATA).
+Information you choose to share with the White House (directly and via third party sites) may be treated as public information. We may, for example, publish compilations of messages or comments collected through WhiteHouse.gov or official social media pages and provide them to national leaders, members of the press, or other individuals outside of the Federal Government. However, we exercise discretion to limit such disclosures to protect your privacy (for example, we generally do not publish last names of commenters).
 
-SHARING OF THIS INFORMATION
+The White House uses a third-party analytics provider (currently Google Analytics) to analyze data from cookies. The third-party analytics provider does not receive personally identifiable information through these cookies. We have also limited the provider’s ability to see your full IP address (a process known as “IP masking”). Please review Google Analytics’ privacy policy for additional information.
 
-INFORMATION YOU CHOOSE TO SHARE WITH THE WHITE HOUSE (DIRECTLY AND VIA THIRD PARTY SITES) MAY BE TREATED AS PUBLIC INFORMATION. WE MAY, FOR EXAMPLE, PUBLISH COMPILATIONS OF MESSAGES OR COMMENTS COLLECTED THROUGH WHITEHOUSE.GOV OR OFFICIAL SOCIAL MEDIA PAGES AND PROVIDE THEM TO NATIONAL LEADERS, MEMBERS OF THE PRESS, OR OTHER INDIVIDUALS OUTSIDE OF THE FEDERAL GOVERNMENT. AND THE WE THE PEOPLE API ALLOWS PUBLIC ACCESS TO SOME WE THE PEOPLE SIGNATURE DATA. HOWEVER, WE EXERCISE DISCRETION TO LIMIT SUCH DISCLOSURES TO PROTECT YOUR PRIVACY (FOR EXAMPLE, WE GENERALLY DO NOT PUBLISH LAST NAMES OF COMMENTERS).
+Within the White House, we restrict access to personally identifiable information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position.
 
-THE WHITE HOUSE USES A THIRD-PARTY ANALYTICS PROVIDER (CURRENTLY GOOGLE ANALYTICS) TO ANALYZE DATA FROM COOKIES. THE THIRD-PARTY ANALYTICS PROVIDER DOES NOT RECEIVE PERSONALLY IDENTIFIABLE INFORMATION THROUGH THESE COOKIES. WE HAVE ALSO LIMITED THE PROVIDER’S ABILITY TO SEE YOUR FULL IP ADDRESS (A PROCESS KNOWN AS “IP MASKING”). PLEASE REVIEW GOOGLE ANALYTICS’ PRIVACY POLICY FOR ADDITIONAL INFORMATION.
+In some cases, we may share information you have provided or automatically generated information with other government agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats. Additionally, if you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
 
-WITHIN THE WHITE HOUSE, WE RESTRICT ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION TO EMPLOYEES, CONTRACTORS, AND VENDORS SUBJECT TO NON-DISCLOSURE REQUIREMENTS WHO REQUIRE ACCESS TO THIS INFORMATION IN ORDER TO PERFORM THEIR OFFICIAL DUTIES AND EXERCISE CONTROLS TO LIMIT WHAT DATA THEY CAN VIEW BASED ON THE SPECIFIC NEEDS OF THEIR POSITION.
+We do not use or share your information for commercial purposes and, except as described above, we do not exchange or otherwise disclose this information.
 
-IN SOME CASES, WE MAY SHARE INFORMATION YOU HAVE PROVIDED OR AUTOMATICALLY GENERATED INFORMATION WITH OTHER GOVERNMENT AGENCIES IN RESPONSE TO LAWFUL LAW ENFORCEMENT REQUESTS OR TO PROTECT WHITEHOUSE.GOV FROM SECURITY THREATS. ADDITIONALLY, IF YOU SEEK ASSISTANCE ON A MATTER WITHIN THE JURISDICTION OF A FEDERAL AGENCY, WE MAY SHARE YOUR INFORMATION WITH THAT AGENCY FOR THE LIMITED PURPOSE OF ADDRESSING YOUR REQUEST FOR ASSISTANCE.
+Data Retention
+--------------
 
-WE DO NOT USE OR SHARE YOUR INFORMATION FOR COMMERCIAL PURPOSES AND, EXCEPT AS DESCRIBED ABOVE, WE DO NOT EXCHANGE OR OTHERWISE DISCLOSE THIS INFORMATION.
+Under the [Presidential Records Act (PRA)](https://www.archives.gov/about/laws/presidential-records.html), we are generally required to retain information until the end of the current Administration, at which time it will be transferred to the National Archives and Records Administration (NARA). NARA may eventually release this material to the public, but will withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released. Access to this information may be requested under the Freedom of Information Act (FOIA) five years after the end of the current Administration.
 
-DATA RETENTION
+NARA or the White House may choose to dispose of information lacking in historical value through procedures under the PRA. 
 
-UNDER THE [PRESIDENTIAL RECORDS ACT (PRA)](https://www.archives.gov/about/laws/presidential-records.html), WE ARE GENERALLY REQUIRED TO RETAIN INFORMATION UNTIL THE END OF THE CURRENT ADMINISTRATION, AT WHICH TIME IT WILL BE TRANSFERRED TO THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA). NARA MAY EVENTUALLY RELEASE THIS MATERIAL TO THE PUBLIC, BUT WILL WITHHOLD ANY INFORMATION THAT WOULD CONSTITUTE A CLEARLY UNWARRANTED INVASION OF PERSONAL PRIVACY IF RELEASED. ACCESS TO THIS INFORMATION MAY BE REQUESTED UNDER THE FREEDOM OF INFORMATION ACT (FOIA) FIVE YEARS AFTER THE END OF THE CURRENT ADMINISTRATION.
+Third-Party Tools and Sites
+---------------------------
 
-NARA OR THE WHITE HOUSE MAY CHOOSE TO DISPOSE OF INFORMATION LACKING IN HISTORICAL VALUE THROUGH PROCEDURES UNDER THE PRA. THE WHITE HOUSE CURRENTLY DISPOSES OF CERTAIN INFORMATION UNDER THOSE PROCEDURES:
+### Links to External Sites
 
-*   SERVER LOG ENTRIES MAY BE RETAINED FOR OVER ONE YEAR;
-*   COOKIE DATA LINKED TO INDIVIDUAL USERS WILL BE RETAINED FOR 13 MONTHS;
-*   OTHER COOKIE DATA MAY BE RETAINED BY THE WHITE HOUSE UNTIL THE END OF THE CURRENT ADMINISTRATION; AND
-*   AUTOMATICALLY GENERATED EMAIL DATA MAY BE RETAINED BY THE WHITE HOUSE UNTIL THE END OF THE CURRENT ADMINISTRATION
+WhiteHouse.gov and other White House platforms and pages may link to websites created and maintained by other public and/or private organizations and individuals. When you follow a link to an external site, you are leaving WhiteHouse.gov and are subject to the external site’s privacy and security policies. We do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on an external site. We also do not endorse the site’s sponsor, any views they express, or any products or services they offer.
 
-THIRD-PARTY TOOLS AND SITES
+### White House Pages on Third-Party Websites
 
-LINKS TO EXTERNAL SITES
+Your activity on third-party website sites is governed by the third-party website’s security and privacy policies. 
 
-WHITEHOUSE.GOV AND OTHER WHITE HOUSE PLATFORMS AND PAGES MAY LINK TO WEBSITES CREATED AND MAINTAINED BY OTHER PUBLIC AND/OR PRIVATE ORGANIZATIONS AND INDIVIDUALS. WHEN YOU FOLLOW A LINK TO AN EXTERNAL SITE, YOU ARE LEAVING WHITEHOUSE.GOV AND ARE SUBJECT TO THE EXTERNAL SITE‘S PRIVACY AND SECURITY POLICIES. WE DO NOT CONTROL OR GUARANTEE THE ACCURACY, RELEVANCE, TIMELINESS, OR COMPLETENESS OF INFORMATION CONTAINED ON AN EXTERNAL SITE. WE ALSO DO NOT ENDORSE THE SITE’S SPONSOR, ANY VIEWS THEY EXPRESS, OR ANY PRODUCTS OR SERVICES THEY OFFER.
+### White House Content Embedded in Third-Party Sites
 
-WHITE HOUSE PAGES ON THIRD-PARTY WEBSITES
+In some instances, a third-party website may feature embedded White House content served by WhiteHouse.gov. The embedded WhiteHouse.gov content automatically generates White House server logs (see Visits to WhiteHouse.gov) and may set a White House cookie.
 
-YOUR ACTIVITY ON THOSE SITES IS GOVERNED BY THE THIRD-PARTY WEBSITE’S SECURITY AND PRIVACY POLICIES.
+Children and Privacy on WhiteHouse.gov
+--------------------------------------
 
-WHITE HOUSE CONTENT EMBEDDED IN THIRD-PARTY SITES
+We believe in the importance of protecting the privacy of children online. The [Children’s Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. Our site is not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please [contact us](https://www.whitehouse.gov/contact/).
 
-IN SOME INSTANCES, A THIRD-PARTY WEBSITE MAY FEATURE EMBEDDED WHITE HOUSE CONTENT SERVED BY WHITEHOUSE.GOV.  THE EMBEDDED WHITEHOUSE.GOV CONTENT AUTOMATICALLY GENERATES WHITE HOUSE SERVER LOGS (SEE VISITS TO WHITEHOUSE.GOV) AND MAY SET A WHITE HOUSE COOKIE (SEE COOKIES).
+Security
+--------
 
-CHILDREN AND PRIVACY ON WHITEHOUSE.GOV
+We take reasonable precautions to protect our site and information automatically collected by WhiteHouse.gov or voluntarily submitted to WhiteHouse.gov or an official White House page on a third-party site. For example, we restrict access to personally identifiable information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position. Access to official White House accounts on third-party sites is limited to the individuals who administer those accounts, and all official White House accounts are clearly labeled.
 
-WE BELIEVE IN THE IMPORTANCE OF PROTECTING THE PRIVACY OF CHILDREN ONLINE. THE [CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA)](http://www.business.ftc.gov/privacy-and-security/childrens-privacy) GOVERNS INFORMATION GATHERED ONLINE FROM OR ABOUT CHILDREN UNDER THE AGE OF 13. VERIFIABLE CONSENT FROM A CHILD’S PARENT OR GUARDIAN IS REQUIRED BEFORE COLLECTING, USING, OR DISCLOSING PERSONAL INFORMATION FROM A CHILD UNDER AGE 13. OUR SITE IS NOT INTENDED TO SOLICIT INFORMATION OF ANY KIND FROM CHILDREN UNDER AGE 13. IF YOU BELIEVE THAT WE HAVE RECEIVED INFORMATION FROM OR ABOUT CHILDREN UNDER AGE 13, PLEASE CONTACT US THROUGH THE [PRIVACY FEEDBACK FORM](https://www.whitehouse.gov/contact/).
+We also utilize commonly used practices and technical controls to protect the information in our possession or control, along with WhiteHouse.gov itself. These practices and controls include, but are not limited to: encrypting the transfer of personal information over the internet via Secure Sockets Layer (SSL), using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information, and maintaining strict technical controls and procedures to ensure the integrity of all data on WhiteHouse.gov.
 
-SECURITY
+We periodically review our processes and systems to verify compliance with industry best practices and to ensure the highest level of security for our website.
 
-WE TAKE REASONABLE PRECAUTIONS TO PROTECT OUR SITE AND INFORMATION AUTOMATICALLY COLLECTED BY WHITEHOUSE.GOV OR VOLUNTARILY SUBMITTED TO WHITEHOUSE.GOV OR AN OFFICIAL WHITE HOUSE PAGE ON A THIRD-PARTY SITE. FOR EXAMPLE, WE RESTRICT ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION TO EMPLOYEES, CONTRACTORS, AND VENDORS SUBJECT TO NON-DISCLOSURE REQUIREMENTS WHO REQUIRE ACCESS TO THIS INFORMATION IN ORDER TO PERFORM THEIR OFFICIAL DUTIES AND EXERCISE CONTROLS TO LIMIT WHAT DATA THEY CAN VIEW BASED ON THE SPECIFIC NEEDS OF THEIR POSITION. ACCESS TO OFFICIAL WHITE HOUSE ACCOUNTS ON THIRD-PARTY SITES IS LIMITED TO THE INDIVIDUALS WHO ADMINISTER THOSE ACCOUNTS, AND ALL OFFICIAL WHITE HOUSE ACCOUNTS ARE CLEARLY LABELED.
+Updates to This Privacy Policy
+------------------------------
 
-WE ALSO UTILIZE COMMONLY USED PRACTICES AND TECHNICAL CONTROLS TO PROTECT THE INFORMATION IN OUR POSSESSION OR CONTROL, ALONG WITH WHITEHOUSE.GOV ITSELF. THESE PRACTICES AND CONTROLS INCLUDE, BUT ARE NOT LIMITED TO: ENCRYPTING THE TRANSFER OF PERSONAL INFORMATION OVER THE INTERNET VIA SECURE SOCKETS LAYER (SSL), USING HIGH-STRENGTH FIREWALLS AND INTRUSION DETECTION SYSTEMS (IDS) TO SAFEGUARD PERSONAL INFORMATION, AND MAINTAINING STRICT TECHNICAL CONTROLS AND PROCEDURES TO ENSURE THE INTEGRITY OF ALL DATA ON WHITEHOUSE.GOV.
+We will revise or update this policy from time to time. If we make significant changes to how we handle personal information, we will post changes to the policy on our site and change the date at the bottom. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made.
 
-WE PERIODICALLY REVIEW OUR PROCESSES AND SYSTEMS TO VERIFY COMPLIANCE WITH INDUSTRY BEST PRACTICES AND TO ENSURE THE HIGHEST LEVEL OF SECURITY FOR OUR WEBSITE.
+Updated: January 20, 2021
 
-UPDATES TO THIS PRIVACY POLICY
+Glossary
+--------
 
-WE WILL REVISE OR UPDATE THIS POLICY FROM TIME TO TIME. IF WE MAKE SIGNIFICANT CHANGES TO HOW WE HANDLE PERSONAL INFORMATION, WE WILL POST CHANGES TO THE POLICY ON OUR SITE AND CHANGE THE DATE AT THE BOTTOM. WE WILL PROVIDE ADDITIONAL NOTICE IN ADVANCE (E.G., A DISCLAIMER ON OUR WEBSITE OR AN EMAIL TO SUBSCRIBERS) IF MATERIAL CHANGES ARE BEING MADE.
+Internet Protocol (IP): A computer’s IP address establishes its location on the internet and allows other computers, such as those hosting WhiteHouse.gov, to send it content and other information.
 
-UPDATED: DECEMBER 13, 2017
+Domain name: For example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you are connecting from a university’s domain.
 
-GLOSSARY
+Cookies: A small piece of data sent from a website and stored in a user’s web browser while the user is browsing that website.
 
-**INTERNET PROTOCOL (IP):** A COMPUTER’S IP ADDRESS ESTABLISHES ITS LOCATION ON THE INTERNET AND ALLOWS OTHER COMPUTERS, SUCH AS THOSE HOSTING WHITEHOUSE.GOV, TO SEND IT CONTENT AND OTHER INFORMATION.
+Device token: A unique string used to identify devices.
 
-**DOMAIN NAME:** FOR EXAMPLE, “XCOMPANY.COM” IF YOU USE A PRIVATE INTERNET ACCESS ACCOUNT, OR “YOURSCHOOL.EDU” IF YOU ARE CONNECTING FROM A UNIVERSITY’S DOMAIN.
+Email client: The email client is the program used to access and manage a user’s email (e.g., Gmail, Outlook, Yahoo!).
 
-**COOKIES:** A SMALL PIECE OF DATA SENT FROM A WEBSITE AND STORED IN A USER’S WEB BROWSER WHILE THE USER IS BROWSING THAT WEBSITE.  
-.  
-**DEVICE TOKEN:** A UNIQUE STRING USED TO IDENTIFY DEVICES.
+WhiteHouse.gov Cookies
+----------------------
 
-**EMAIL CLIENT:** THE EMAIL CLIENT IS THE PROGRAM USED TO ACCESS AND MANAGE A USER’S EMAIL (E.G., GMAIL, OUTLOOK, YAHOO!).
+WhiteHouse.gov uses the following cookies (defined and organized per the Office of Management and Budget’s “Guidance for Online Use of Web Measurement and Customization Technologies” ([OMB M-10-22](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)):
 
-WHEN YOU VISIT A PAGE ON WHITEHOUSE.GOV, THE INTERNET BROWSER ON YOUR COMPUTER MAY DOWNLOAD A SMALL FILE FROM WHITEHOUSE.GOV (COMMONLY CALLED A “COOKIE”) SO THAT OUR WEBSITE CAN RECOGNIZE YOUR COMPUTER WHEN YOU USE WHITEHOUSE.GOV IN THE FUTURE. TO LEARN HOW TO MANAGE OR REFUSE COOKIES FROM WHITEHOUSE.GOV OR ANY OTHER SITE SEE [USA.GOV](http://www.usa.gov/optout_instructions.shtml).
+**Single-session cookies** are used for technical purposes, such as enabling better navigation through the site, facilitating the use of user accounts, and generating aggregated statistics about how the website is used. Single-session cookies may use a unique identifier, but do not publicly expose personal information.
 
-WHITEHOUSE.GOV COOKIES
+[_Under the framework of OMB M-10-22, this qualifies as a Tier 1 use._](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
 
-WHITEHOUSE.GOV USES THE FOLLOWING COOKIES (DEFINED AND ORGANIZED PER THE OFFICE OF MANAGEMENT AND BUDGET’S “GUIDANCE FOR ONLINE USE OF WEB MEASUREMENT AND CUSTOMIZATION TECHNOLOGIES” (OMB M-10-22):
+**Multi-session or persistent cookies** are used to recognize a computer that has previously visited WhiteHouse.gov, which can improve a user’s experience, for example, by continuing preference settings from previous visits.
 
-**SINGLE-SESSION COOKIES** ARE USED FOR TECHNICAL PURPOSES, SUCH AS ENABLING BETTER NAVIGATION THROUGH THE SITE, FACILITATING THE USE OF USER ACCOUNTS, AND GENERATING AGGREGATED STATISTICS ABOUT HOW THE WEBSITE IS USED. SINGLE-SESSION COOKIES MAY USE A UNIQUE IDENTIFIER, BUT DO NOT PUBLICLY EXPOSE PERSONAL INFORMATION.
+[_Under the framework of OMB M-10-22, this qualifies as a Tier 2 use._](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
 
-_UNDER THE FRAMEWORK OF OMB M-10-22, THIS QUALIFIES AS A TIER 1 USE._
+**WhiteHouse.gov currently uses the following cookies:**
 
-**MULTI-SESSION OR PERSISTENT COOKIES** ARE USED TO RECOGNIZE A COMPUTER THAT HAS PREVIOUSLY VISITED WHITEHOUSE.GOV, WHICH CAN IMPROVE A USER’S EXPERIENCE, FOR EXAMPLE, BY CONTINUING PREFERENCE SETTINGS FROM PREVIOUS VISITS.
+*   WhiteHouse.gov currently uses single session and multi-session cookies to ensure that WhiteHouse.gov displays correctly and measure website metrics, such as which pages are popular and how often people visit the website.
 
-_UNDER THE FRAMEWORK OF OMB M-10-22, THIS QUALIFIES AS A TIER 2 USE._
+These cookies do not capture personally identifiable information, such as your name or email, or track interactions outside of WhiteHouse.gov and other White House sites/pages.
 
-WHITEHOUSE.GOV CURRENTLY USES SINGLE SESSION AMD MULTI-SESSION COOKIES TO ENSURE THAT WHITEHOUSE.GOV DISPLAYS CORRECTLY AND MEASURE WEBSITE METRICS, SUCH AS WHICH PAGES ARE POPULAR AND HOW OFTEN PEOPLE VISIT THE WEBSITE. THESE COOKIES DO NOT CAPTURE PERSONALLY IDENTIFIABLE INFORMATION, SUCH AS YOUR NAME OR EMAIL, OR TRACK INTERACTIONS OUTSIDE OF WHITEHOUSE.GOV AND OTHER WHITE HOUSE SITES/PAGES.
+This list does not include cookies associated with third-party content or functionality included on WhiteHouse.gov (see Third-Party Cookies).
 
-THIS LIST DOES NOT INCLUDE COOKIES ASSOCIATED WITH THIRD-PARTY CONTENT OR FUNCTIONALITY INCLUDED ON WHITEHOUSE.GOV (SEE THIRD-PARTY COOKIES).
+The White House uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the cookies with a name beginning \_utm. The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference WhiteHouse.gov information with any other information. We have also limited the provider’s ability to see your full IP address (a process known as “IP masking”). Please review Google Analytics’s [privacy policy](https://marketingplatform.google.com/about/) for additional information.
 
-THE WHITE HOUSE USES A THIRD-PARTY ANALYTICS PROVIDER (CURRENTLY GOOGLE ANALYTICS) TO ANALYZE THE DATA COLLECTED THROUGH THE COOKIES WITH A NAME BEGINNING \_UTM. THE THIRD-PARTY ANALYTICS PROVIDER DOES NOT RECEIVE PERSONALLY IDENTIFIABLE INFORMATION THROUGH THESE COOKIES AND DOES NOT COMBINE, MATCH, OR CROSS-REFERENCE WHITEHOUSE.GOV INFORMATION WITH ANY OTHER INFORMATION. WE HAVE ALSO LIMITED THE PROVIDER’S ABILITY TO SEE YOUR FULL IP ADDRESS (A PROCESS KNOWN AS “IP MASKING”). PLEASE REVIEW GOOGLE ANALYTICS’S [PRIVACY POLICY](http://www.google.com/intl/en/analytics/privacyoverview.html) FOR ADDITIONAL INFORMATION.
+Cookies for Email Subscribers
+-----------------------------
 
-COOKIES FOR EMAIL SUBSCRIBERS
+In order to improve email subscribers’ experience and the overall quality of our services, we may use cookies to measure the effectiveness of our email communications and to better tailor email content. Specifically, we may connect the data showing that an email subscriber clicked a link in an email to a subsequent action taken by that individual on the White House website, such as completing a webform.
 
-IN ORDER TO IMPROVE EMAIL SUBSCRIBERS’ EXPERIENCE AND THE OVERALL QUALITY OF OUR SERVICES, WE MAY USE COOKIES TO MEASURE THE EFFECTIVENESS OF OUR EMAIL COMMUNICATIONS AND TO BETTER TAILOR EMAIL CONTENT. SPECIFICALLY, WE MAY CONNECT THE DATA SHOWING THAT AN EMAIL SUBSCRIBER CLICKED A LINK IN AN EMAIL TO A SUBSEQUENT ACTION TAKEN BY THAT INDIVIDUAL ON THE WHITE HOUSE WEBSITE, SUCH AS COMPLETING A WEBFORM.
+Because this links cookie data with an individual user, [_this would qualify as a Tier 3 use under the framework of OMB M-10-22_](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). We would therefore only connect cookie data to individual users who have consented and opted in to receiving emails. 
 
-BECAUSE THIS LINKS COOKIE DATA WITH AN INDIVIDUAL USER, _THIS WOULD QUALIFY AS A TIER 3 USE UNDER THE FRAMEWORK OF OMB M-10-22_. WE WOULD THEREFORE ONLY CONNECT COOKIE DATA TO INDIVIDUAL USERS WHO HAVE CONSENTED AND OPTED IN TO RECEIVING EMAILS.
+For data captured in this manner, we would restrict access to individual-level information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position.
 
-FOR DATA CAPTURED IN THIS MANNER, WE WOULD RESTRICT ACCESS TO INDIVIDUAL-LEVEL INFORMATION TO EMPLOYEES, CONTRACTORS, AND VENDORS SUBJECT TO NON-DISCLOSURE REQUIREMENTS WHO REQUIRE ACCESS TO THIS INFORMATION IN ORDER TO PERFORM THEIR OFFICIAL DUTIES AND EXERCISE CONTROLS TO LIMIT WHAT DATA THEY CAN VIEW BASED ON THE SPECIFIC NEEDS OF THEIR POSITION.
+Third-Party Cookies
+-------------------
 
-THIRD-PARTY COOKIES
+Some pages on WhiteHouse.gov may include web content or functionality from third parties, such as embedded videos hosted by non-WhiteHouse.gov services.  
 
-SOME PAGES ON WHITEHOUSE.GOV MAY INCLUDE WEB CONTENT OR FUNCTIONALITY FROM THIRD PARTIES, SUCH AS EMBEDDED VIDEOS HOSTED BY NON-WHITEHOUSE.GOV SERVICES. FOR EXAMPLE, AS OF APRIL 18, 2014, CONTENT OR FUNCTIONALITY FROM THE FOLLOWING THIRD PARTIES MAY BE PRESENT ON SOME WHITEHOUSE.GOV PAGES.
+These third parties may use web measurement and customization technologies (such as cookies) in conjunction with the provision of this content or functionality. You should consult the privacy policies of these third parties for further information. We do not knowingly use third-party tools that place a multi-session cookie prior to the user interacting with the tool, for example by playing an embedded video. If you become aware of a third-party tool on WhiteHouse.gov that places a multi-session cookie prior to any user interaction, please contact us at [WhiteHouse.gov/Contact/](https://www.whitehouse.gov/contact)
 
-THESE THIRD PARTIES MAY USE WEB MEASUREMENT AND CUSTOMIZATION TECHNOLOGIES (SUCH AS COOKIES) IN CONJUNCTION WITH THE PROVISION OF THIS CONTENT OR FUNCTIONALITY. YOU SHOULD CONSULT THE PRIVACY POLICIES OF THESE THIRD PARTIES FOR FURTHER INFORMATION. WE DO NOT KNOWINGLY USE THIRD-PARTY TOOLS THAT PLACE A MULTI-SESSION COOKIE PRIOR TO THE USER INTERACTING WITH THE TOOL, FOR EXAMPLE BY PLAYING AN EMBEDDED VIDEO. IF YOU BECOME AWARE OF A THIRD-PARTY TOOL ON WHITEHOUSE.GOV THAT PLACES A MULTI-SESSION COOKIE PRIOR TO ANY USER INTERACTION, PLEASE CONTACT US AT [WHITEHOUSE.GOV/CONTACT](https://www.whitehouse.gov/contact/).
+How to Manage Cookies
+---------------------
 
-HOW TO MANAGE COOKIES
+Visitors can control aspects of website measurement and customization technologies used on WhiteHouse.gov and still have access to comparable information and services on WhiteHouse.gov.
 
-VISITORS CAN CONTROL ASPECTS OF WEBSITE MEASUREMENT AND CUSTOMIZATION TECHNOLOGIES USED ON WHITEHOUSE.GOV AND STILL HAVE ACCESS TO COMPARABLE INFORMATION AND SERVICES ON WHITEHOUSE.GOV.
+You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing the settings of your browser. You can also delete cookies stored in your browser at any time.
 
-YOU CAN CHOOSE NOT TO ACCEPT COOKIES FROM ANY WEBSITE, INCLUDING WHITEHOUSE.GOV, BY CHANGING THE SETTINGS OF YOUR BROWSER. YOU CAN ALSO DELETE COOKIES STORED IN YOUR BROWSER AT ANY TIME.
+For more information about cookies, including how to delete them from your computer and configure your browser to refuse them from WhiteHouse.gov or any other site, visit the following resource, or refer to your individual browser settings for additional information on disabling cookies:
 
-FOR MORE INFORMATION ABOUT COOKIES, INCLUDING HOW TO DELETE THEM FROM YOUR COMPUTER AND CONFIGURE YOUR BROWSER TO REFUSE THEM FROM WHITEHOUSE.GOV OR ANY OTHER SITE, VISIT THE FOLLOWING RESOURCE, OR REFER TO YOUR INDIVIDUAL BROWSER SETTINGS FOR ADDITIONAL INFORMATION ON DISABLING COOKIES:
+*   [USA.gov](https://www.usa.gov/optout-instructions)
 
-*   [USA.GOV](http://www.usa.gov/optout_instructions.shtml)
+![](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/bottomcta-logo.svg)
 
-ANOTHER FORM OF WEBSITE MEASUREMENT AND CUSTOMIZATION TECHNOLOGY IS THE USE OF “FLASH COOKIES” WHICH ARE CREATED BY ADOBE FLASH, A TECHNOLOGY THAT POWERS WEB CONTENT SUCH AS VIDEOS. TO MANAGE THESE, [VISIT THE WEBSITE STORAGE SETTINGS PANEL ON ADOBE.COM](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). WHITEHOUSE.GOV DOES NOT CURRENTLY USE FIRST-PARTY FLASH COOKIES, BUT THEY MAY BE USED BY EMBEDDED THIRD-PARTY TECHNOLOGIES.
+Stay Connected
+--------------
 
-[WhiteHouse.gov **WhiteHouse.gov.st0{fill:#fff}.st1{fill:#cbcbca}.st2,.st3{fill:#d9dce1}**](https://www.whitehouse.gov/)
+Thanks for signing up!
+----------------------
 
-The White House
+Email Address\* 
 
-* * *
+ZIP Code 
 
-* * *
+ 
 
-*   [Live](https://www.whitehouse.gov/live/)
-*   [Jobs](https://apply.whitehouse.gov/)
+We'll be in touch with the latest information on how President Biden and his administration are working for the American people, as well as ways you can get involved and help our country build back better.
+
+Share
+
+*   [Share this page on Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.whitehouse.gov%2Fprivacy&t=Privacy%20Policy)
+*   [Share this page on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.whitehouse.gov%2Fprivacy&text=Privacy+Policy)
+*   https://www.whitehouse.gov/privacy/
+
+![](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/footer-seal.svg)
+
+*   [Home](https://www.whitehouse.gov/)
+*   [The Administration](https://www.whitehouse.gov/administration/)
+*   [Executive Offices](https://www.whitehouse.gov/administration/executive-office-of-the-president/)
+*   [Priorities](https://www.whitehouse.gov/priorities/)
+*   [Briefing Room](https://www.whitehouse.gov/briefing-room/)
+*   [The White House](https://www.whitehouse.gov/about-the-white-house/)
 *   [Get Involved](https://www.whitehouse.gov/get-involved/)
+*   [Español](https://www.whitehouse.gov/es/privacidad/)
+
+*   [Contact Us](https://www.whitehouse.gov/contact/)
+*   [Privacy Policy](https://www.whitehouse.gov/privacy/)
 *   [Copyright Policy](https://www.whitehouse.gov/copyright/)
-*   [Privacy Policy](https://www.whitehouse.gov/privacy-policy/)
+*   [Accessibility Statement](https://www.whitehouse.gov/accessibility/)
 
-*   [Twitter](https://twitter.com/whitehouse)
-*   [Facebook](https://www.facebook.com/WhiteHouse/)
-*   [Instagram](https://www.instagram.com/whitehouse/)
-*   [Contact](https://www.whitehouse.gov/contact/)
+*   [InstagramOpens in a new window](https://www.instagram.com/whitehouse/)
+*   [FacebookOpens in a new window](https://www.facebook.com/WhiteHouse/)
+*   [TwitterOpens in a new window](https://twitter.com/whitehouse)
+*   [YouTubeOpens in a new window](https://www.youtube.com/user/whitehouse)
 
-window.site = new Site();
+**The White House**  
+1600 Pennsylvania Ave NW  
+Washington, DC 20500
 
- ![Close Menu](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/close.svg) ![Open Menu](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/hamburger.svg) ![Close Search](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/close.svg) ![Open Search](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/search.svg) 
+[WH.gov](https://www.whitehouse.gov/)
 
-Menu
-----
+[
 
-*   [News](https://www.whitehouse.gov/news/)
-    *   [Remarks](https://www.whitehouse.gov/remarks/)
-    *   [Briefings & Statements](https://www.whitehouse.gov/briefings-statements/)
-    *   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
-    *   [Articles](https://www.whitehouse.gov/articles/)
-    *   [All News](https://www.whitehouse.gov/news/)
-*   [Issues](https://www.whitehouse.gov/issues/)
-    *   [Education](https://www.whitehouse.gov/issues/education/)
-    *   [National Security & Defense](https://www.whitehouse.gov/issues/national-security-defense/)
-    *   [Budget & Spending](https://www.whitehouse.gov/issues/budget-spending/)
-    *   [Immigration](https://www.whitehouse.gov/issues/immigration/)
-    *   [Healthcare](https://www.whitehouse.gov/issues/healthcare/)
-    *   [All Issues](https://www.whitehouse.gov/issues/)
-*   [The Administration](https://www.whitehouse.gov/the-trump-administration/)
-    *   [President Donald J. Trump](https://www.whitehouse.gov/people/donald-j-trump/)
-    *   [Vice President Michael R. Pence](https://www.whitehouse.gov/people/mike-pence/)
-    *   [First Lady Melania Trump](https://www.whitehouse.gov/people/melania-trump/)
-    *   [Second Lady Karen Pence](https://www.whitehouse.gov/people/karen-pence/)
-    *   [The Cabinet](https://www.whitehouse.gov/the-trump-administration/the-cabinet/)
-    *   [Disclosures](https://www.whitehouse.gov/disclosures/)
-*   [Executive Offices](#)
-    *   [Council of Economic Advisers](https://www.whitehouse.gov/cea/)
-    *   [Council on Environmental Quality](https://www.whitehouse.gov/ceq/)
-    *   [National Security Council](https://www.whitehouse.gov/nsc/)
-    *   [Office of Management and Budget](https://www.whitehouse.gov/omb/)
-    *   [Office of National Drug Control Policy](https://www.whitehouse.gov/ondcp/)
-    *   [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/)
-*   [About The White House](https://www.whitehouse.gov/about-the-white-house/)
-    *   [White House Tours](https://www.whitehouse.gov/about-the-white-house/tours-events/)
-    *   [Past Presidents](https://www.whitehouse.gov/about-the-white-house/presidents/)
-    *   [Past First Ladies](https://www.whitehouse.gov/about-the-white-house/first-ladies/)
-    *   [The Grounds](https://www.whitehouse.gov/about-the-white-house/the-grounds/)
-    *   [Our Government](https://www.whitehouse.gov/about-the-white-house/our-government/)
-*   [Get Involved](https://www.whitehouse.gov/get-involved/)
-    *   [Write or Call the White House](https://www.whitehouse.gov/get-involved/write-or-call/)
-    *   [White House Internship Program](https://www.whitehouse.gov/get-involved/internships/)
-    *   [White House Fellows](https://www.whitehouse.gov/get-involved/fellows/)
-*   [Contact](https://www.whitehouse.gov/contact/)
-*   [Live](https://www.whitehouse.gov/live/)
+Scroll to Top
 
-![Presidential Crest](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/presidential-crest-gray.svg)
+Top](#content)
 
-Search
-------
-
-Type Your Search  Press enter to search
-
-window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"9360826e15","applicationID":"81062413,484304241,484396381","transactionName":"MVNbZhQFXEAEVBBfWQgZeFESDV1dSgZJVVkKQ1Rc","queueTime":0,"applicationTime":248,"atts":"HRRYEFwfT04=","errorBeacon":"bam-cell.nr-data.net","agent":""}
+/\* <!\[CDATA\[ \*/ var emailSignupL10n = {"fakeOrInvalid":"This email address looks fake or invalid. Please enter a real email address.","tooManySignups":"Email address has too many recent signup requests","thankYou":"Thanks for signing up!","defaultError":"There was an error processing your email"}; /\* \]\]> \*/ window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"9360826e15","applicationID":"798553828,484304241,484396381","transactionName":"MVNbZhQFXEAEVBBfWQgZeFESDV1dSkcFUVM=","queueTime":0,"applicationTime":313,"atts":"HRRMEFwfTx9HVkYMTRtL","errorBeacon":"bam-cell.nr-data.net","agent":""}

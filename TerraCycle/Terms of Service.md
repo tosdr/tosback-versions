@@ -135,7 +135,6 @@ All apparel must be reviewed during de-gowning to ensure compliance, safety and 
 *   [Contact Us](https://www.terracycle.com/en-US/contact-us)
 *   [Investor Relations](https://ownterracycle.com/)
 *   [Media Room](https://www.terracycle.com/en-US/pages/media-room)
-*   [Sitemap](https://www.terracycle.com/en-US/sitemap)
 
 #### Shop
 
@@ -146,7 +145,7 @@ All apparel must be reviewed during de-gowning to ensure compliance, safety and 
 #### More
 
 *   [Select Country](https://www.terracycle.com/en-US/select-country)
-*   [Careers](https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C09AB623D93DE9F019013738C22FAB82)
+*   [Careers](https://recruiting.paylocity.com/recruiting/jobs/All/0e6f52c3-18b3-4884-ab4d-e1d9947cbe07/TerraCycle)
 *   [Blog](https://blog.terracycle.com/)
 *   [API](https://www.terracycle.com/en-US/devportal/?locale=en-US)
 
@@ -163,6 +162,4 @@ Copyright **TerraCycle** 2021. All Rights Reserved
 
 #### WeChat
 
-(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)\[0\]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "https://connect.facebook.net/en\_US/sdk.js#xfbml=1&version=v2.5"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); window.twttr = (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)\[0\], t = window.twttr || {}; if (d.getElementById(id)) return t; js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); t.\_e = \[\]; t.ready = function(f) { t.\_e.push(f); }; return t; }(document, "script", "twitter-wjs")); (function(i,s,o,g,r,a,m){ i\['GoogleAnalyticsObject'\]=r; i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments) }, i\[r\].l=1\*new Date(); a=s.createElement(o), m=s.getElementsByTagName(o)\[0\]; a.async=1; a.src=g; m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-20380580-1', 'auto'); ga('require', 'linkid'); ga('send', 'pageview'); /\* <!\[CDATA\[ \*/ var google\_conversion\_id = 845454813; var google\_custom\_params = window.google\_tag\_params; var google\_remarketing\_only = true; /\* \]\]> \*/
-
-![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/845454813/?guid=ON&script=0)
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)\[0\]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "https://connect.facebook.net/en\_US/sdk.js#xfbml=1&version=v2.5"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); window.twttr = (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)\[0\], t = window.twttr || {}; if (d.getElementById(id)) return t; js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); t.\_e = \[\]; t.ready = function(f) { t.\_e.push(f); }; return t; }(document, "script", "twitter-wjs"));

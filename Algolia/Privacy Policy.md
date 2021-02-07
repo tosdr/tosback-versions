@@ -1,8 +1,16 @@
+@media (min-width:768px){.css-1f749o5{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/morphl-top-banner.svg');}}
+
+[
+
+The AI platform **Morphl joins Algolia**.
+
+Read More](https://www.globenewswire.com/NewsRoom/ReleaseNg/3944187)
+
 This website works better with JavaScript enabled, Please enable JavaScript if you want to benefit from all the website’s features ( Click to dismiss )
 
-\*{box-sizing:border-box;}html{font-size:unset;}body{margin:0;font-family:"Hind",Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:100%;}::selection{background:#5468ff;color:#fff;}.no-outlines \*:focus{outline:0;}#gatsby-noscript{background-color:#ed5a6a;text-align:center;color:white;z-index:10;position:relative;display:block;font-weight:bold;padding:8px;cursor:pointer;}#gatsby-noscript small{padding-left:8px;opacity:0.8;}#toggle-noscript{display:none;}#toggle-noscript:checked ~ #gatsby-noscript{display:none;}.cookies-eu{padding:15px;border-radius:3px;position:fixed;bottom:20px;left:20px;width:529px;z-index:10000;line-height:24px;height:89px;background-image:linear-gradient(to top,#f5f5fa,white);box-shadow:0 5px 15px 0 rgba(37,44,97,0.15),0 2px 4px 0 rgba(93,100,148,0.2);padding:16px 30px 16px 40px;border-radius:100px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}@media (max-width:760px){.cookies-eu{padding-top:1.8em;position:relative;top:0;left:0;right:0;border-radius:0;height:auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:auto;}}.cookies-eu .js-cookies-eu-ok{width:49px;height:49px;background-image:linear-gradient(to bottom,white,#e4e4e9);box-shadow:0 7px 11px -3px rgba(45,35,66,0.2),0 2px 4px 0 rgba(45,35,66,0.4),inset 0 -3px 0 0 #cfd1e3;float:right;margin-left:20px;border-radius:100%;cursor:pointer;font-weight:bold;color:#5d6494;text-shadow:0 1px 1px rgba(255,255,255,0.5);-webkit-appearance:none;-moz-appearance:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;border:none;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}.cookies-eu .js-cookies-eu-ok:focus,.cookies-eu .js-cookies-eu-ok:active{outline:0 !important;}.cookies-eu .js-cookies-eu-ok:hover,.cookies-eu .js-cookies-eu-ok:focus{background-image:linear-gradient(to bottom,#f2f2f2,#d6d6de);}@media (max-width:760px){.cookies-eu .js-cookies-eu-ok{text-align:center;margin:1.5em auto 1em;width:200px;border-radius:100px;}}.cookies-eu .cookies-eu-message{color:#5d6494;font-size:16px;}.cookies-eu .cookies-eu-message a{color:#5468ff;-webkit-text-decoration:none;text-decoration:none;background-color:transparent;}.cookies-eu .cookies-eu-message a.active,.cookies-eu .cookies-eu-message a:hover{outline:0;}.rc-tooltip{position:absolute;z-index:100;}.rc-tooltip-hidden{display:none;}.rc-tooltip-content{position:relative;}.rc-tooltip-arrow{width:0;height:0;position:absolute;}.rc-tooltip-inner{padding:8px;font-size:14px;background-color:#3a416f;color:white;max-width:300px;border-radius:4px;}.rc-tooltip-placement-right{padding-left:8px;}.rc-tooltip-placement-top{padding-left:8px;padding-bottom:12px;}.rc-tooltip-placement-bottom{padding-left:8px;padding-top:8px;}.rc-tooltip-placement-right .rc-tooltip-arrow,.rc-tooltip-placement-left .rc-tooltip-arrow{top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);}.rc-tooltip-placement-top .rc-tooltip-arrow,.rc-tooltip-placement-bottom .rc-tooltip-arrow{left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}.rc-tooltip-placement-right .rc-tooltip-arrow{right:100%;border-top:8px solid transparent;border-bottom:8px solid transparent;border-right:8px solid #3a416f;}.rc-tooltip-placement-left .rc-tooltip-arrow{left:100%;border-top:8px solid transparent;border-bottom:8px solid transparent;border-left:8px solid #3a416f;}.rc-tooltip-placement-top .rc-tooltip-arrow{top:100%;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #3a416f;}.rc-tooltip-placement-bottom .rc-tooltip-arrow{bottom:100%;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #3a416f;}.help-gradient{background-image:linear-gradient(#fff,#f5f5fa);}.help-dotStyle{background-size:132px;background-repeat:no-repeat;}.help-dotStyleGrey{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-grey.svg');background-position:top left,top 3vh right 2vw,bottom 5vh right 8vw,bottom 3vh left 1vw;}.help-dotStyleGreen{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-green.svg');background-position:top left,top 3vh right 2vw,bottom 5vh right 8vw,bottom 3vh left 1vw;}.help-dotStylePurple{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-purple.svg');background-position:top left 8vw,top 6vh right 0,bottom 0 right 0,bottom 3vh left 1vw;}.help-dotStyleOrange{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1608208017/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-orange.svg');background-position:top left,top 3vh right 2vw,bottom 3vh right 3vw,bottom 3vh left 1vw;}.help-numberTab{font-feature-settings:'tnum';font-variant-numeric:tabular-nums;}.press-heroButtonStyle{min-width:auto !important;}@media (min-width:960px){.press-heroButtonStyle{min-width:200px !important;}}.carousel-buttonIconRight{left:1px;}.infra-heroImage{background-position:calc(100% - 20px) 80%;}@media (min-width:1200px){.infra-heroImage{width:280px;}}.perso-heroImage{left:45%;}@media (min-width:1200px){.perso-heroImage{left:40%;}}.nlu-heroImage{left:45% !important;}@media (min-width:1200px){.nlu-heroImage{left:45% !important;}}.zendesk-darkCard:before{content:'';width:0;height:0;border-top:10px solid transparent;border-bottom:10px solid transparent;border-right:10px solid #21243d;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);left:-10px;display:none;}@media (min-width:960px){.zendesk-darkCard:before{display:block;}}.carousel-buttonIconLeft{left:-1px;}.carousel-buttonIconRight{left:1px;}@media (min-width:960px){.whatsnew-mobile{width:300px !important;}}@media (min-width:1200px){.whatsnew-mobile{width:480px !important;}}.drift-widget-slider{display:none !important;}.css-19g0wby-root-slideOut-HintAssets{-webkit-transition:-webkit-transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);-webkit-transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);will-change:transform;-webkit-transform:translateX(-420px);-ms-transform:translateX(-420px);transform:translateX(-420px);}.css-1lyhtrk-root-dark-Card-root-slideOut-HintAssets{-webkit-transition:-webkit-transform 0.2s ease-out,box-shadow 0.2s ease-out;-webkit-transition:transform 0.2s ease-out,box-shadow 0.2s ease-out;transition:transform 0.2s ease-out,box-shadow 0.2s ease-out;background-image:radial-gradient( circle at 50% 0,#3a416f,#21243d );-webkit-transition:-webkit-transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);-webkit-transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);will-change:transform;-webkit-transform:translateX(-420px);-ms-transform:translateX(-420px);transform:translateX(-420px);}
+@font-face{font-family:'Hind';font-style:normal;font-weight:400;font-display:swap;src:url('/fonts/Hind-Regular.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Hind';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/Hind-SemiBold.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/Poppins-Bold.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}\*{box-sizing:border-box;}html{font-size:unset;}body{margin:0;font-family:"Hind",Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:100%;}::selection{background:#5468ff;color:#fff;}.no-outlines \*:focus{outline:0;}#gatsby-noscript{background-color:#ed5a6a;text-align:center;color:white;z-index:10;position:relative;display:block;font-weight:bold;padding:8px;cursor:pointer;}#gatsby-noscript small{padding-left:8px;opacity:0.8;}#toggle-noscript{display:none;}#toggle-noscript:checked ~ #gatsby-noscript{display:none;}.cookies-eu{padding:15px;border-radius:3px;position:fixed;bottom:20px;left:20px;width:529px;z-index:10000;line-height:24px;height:89px;background-image:linear-gradient(to top,#f5f5fa,white);box-shadow:0 5px 15px 0 rgba(37,44,97,0.15),0 2px 4px 0 rgba(93,100,148,0.2);padding:16px 30px 16px 40px;border-radius:100px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}@media (max-width:760px){.cookies-eu{padding-top:1.8em;position:relative;top:0;left:0;right:0;border-radius:0;height:auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:auto;}}.cookies-eu .js-cookies-eu-ok{width:49px;height:49px;background-image:linear-gradient(to bottom,white,#e4e4e9);box-shadow:0 7px 11px -3px rgba(45,35,66,0.2),0 2px 4px 0 rgba(45,35,66,0.4),inset 0 -3px 0 0 #cfd1e3;float:right;margin-left:20px;border-radius:100%;cursor:pointer;font-weight:bold;color:#5d6494;text-shadow:0 1px 1px rgba(255,255,255,0.5);-webkit-appearance:none;-moz-appearance:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;border:none;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}.cookies-eu .js-cookies-eu-ok:focus,.cookies-eu .js-cookies-eu-ok:active{outline:0 !important;}.cookies-eu .js-cookies-eu-ok:hover,.cookies-eu .js-cookies-eu-ok:focus{background-image:linear-gradient(to bottom,#f2f2f2,#d6d6de);}@media (max-width:760px){.cookies-eu .js-cookies-eu-ok{text-align:center;margin:1.5em auto 1em;width:200px;border-radius:100px;}}.cookies-eu .cookies-eu-message{color:#5d6494;font-size:16px;}.cookies-eu .cookies-eu-message a{color:#5468ff;-webkit-text-decoration:none;text-decoration:none;background-color:transparent;}.cookies-eu .cookies-eu-message a.active,.cookies-eu .cookies-eu-message a:hover{outline:0;}.rc-tooltip{position:absolute;z-index:100;}.rc-tooltip-hidden{display:none;}.rc-tooltip-content{position:relative;}.rc-tooltip-arrow{width:0;height:0;position:absolute;}.rc-tooltip-inner{padding:8px;font-size:14px;background-color:#3a416f;color:white;max-width:300px;border-radius:4px;}.rc-tooltip-placement-right{padding-left:8px;}.rc-tooltip-placement-top{padding-left:8px;padding-bottom:12px;}.rc-tooltip-placement-bottom{padding-left:8px;padding-top:8px;}.rc-tooltip-placement-right .rc-tooltip-arrow,.rc-tooltip-placement-left .rc-tooltip-arrow{top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);}.rc-tooltip-placement-top .rc-tooltip-arrow,.rc-tooltip-placement-bottom .rc-tooltip-arrow{left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}.rc-tooltip-placement-right .rc-tooltip-arrow{right:100%;border-top:8px solid transparent;border-bottom:8px solid transparent;border-right:8px solid #3a416f;}.rc-tooltip-placement-left .rc-tooltip-arrow{left:100%;border-top:8px solid transparent;border-bottom:8px solid transparent;border-left:8px solid #3a416f;}.rc-tooltip-placement-top .rc-tooltip-arrow{top:100%;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #3a416f;}.rc-tooltip-placement-bottom .rc-tooltip-arrow{bottom:100%;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #3a416f;}.help-gradient{background-image:linear-gradient(#fff,#f5f5fa);}.help-dotStyle{background-size:132px;background-repeat:no-repeat;}.help-dotStyleGrey{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-grey.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-grey.svg');background-position:top left,top 3vh right 2vw,bottom 5vh right 8vw,bottom 3vh left 1vw;}.help-dotStyleGreen{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-green.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-green.svg');background-position:top left,top 3vh right 2vw,bottom 5vh right 8vw,bottom 3vh left 1vw;}.help-dotStylePurple{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-purple.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-purple.svg');background-position:top left 8vw,top 6vh right 0,bottom 0 right 0,bottom 3vh left 1vw;}.help-dotStyleOrange{background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-2x2-orange.svg'),url('https://res.cloudinary.com/hilnmyskv/image/upload/q\_auto/v1611661165/Algolia\_com\_Website\_assets/images/shared/dot-patch-1x1-orange.svg');background-position:top left,top 3vh right 2vw,bottom 3vh right 3vw,bottom 3vh left 1vw;}.help-numberTab{font-feature-settings:'tnum';font-variant-numeric:tabular-nums;}.press-heroButtonStyle{min-width:auto !important;}@media (min-width:960px){.press-heroButtonStyle{min-width:200px !important;}}.carousel-buttonIconRight{left:1px;}.infra-heroImage{background-position:calc(100% - 20px) 80%;}@media (min-width:1200px){.infra-heroImage{width:280px;}}.perso-heroImage{left:45%;}@media (min-width:1200px){.perso-heroImage{left:40%;}}.nlu-heroImage{left:45% !important;}@media (min-width:1200px){.nlu-heroImage{left:45% !important;}}.zendesk-darkCard:before{content:'';width:0;height:0;border-top:10px solid transparent;border-bottom:10px solid transparent;border-right:10px solid #21243d;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);left:-10px;display:none;}@media (min-width:960px){.zendesk-darkCard:before{display:block;}}.carousel-buttonIconLeft{left:-1px;}.carousel-buttonIconRight{left:1px;}@media (min-width:960px){.whatsnew-mobile{width:300px !important;}}@media (min-width:1200px){.whatsnew-mobile{width:480px !important;}}.drift-has-chat{display:none !important;}.drift-has-chat.drift-chat-open{display:block !important;}.css-1wj33h2-root-slideOut-HintAssets{-webkit-transition:-webkit-transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);-webkit-transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);will-change:transform;-webkit-transform:translateX(-450px);-ms-transform:translateX(-450px);transform:translateX(-450px);}.css-38261r-root-dark-Card-root-slideOut-HintAssets{-webkit-transition:-webkit-transform 0.2s ease-out,box-shadow 0.2s ease-out;-webkit-transition:transform 0.2s ease-out,box-shadow 0.2s ease-out;transition:transform 0.2s ease-out,box-shadow 0.2s ease-out;background-image:radial-gradient( circle at 50% 0,#3a416f,#21243d );-webkit-transition:-webkit-transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);-webkit-transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);transition:transform 0.55s cubic-bezier(0.8,0.5,0.2,1.2);will-change:transform;-webkit-transform:translateX(-450px);-ms-transform:translateX(-450px);transform:translateX(-450px);}
 
-![Algolia logo blueprint](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/algolia_logo/algolia-mark-blueprint.svg)
+![Algolia logo blueprint](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/algolia_logo/algolia-mark-blueprint.svg)
 
 Looking for our logo?
 
@@ -49,111 +57,118 @@ Products overview
 
 .css-1kqxqy4-SubNav{top:-1px;}.css-zb3l6z-root-IconWrapper-SubNav{-webkit-backface-visibility:hidden;backface-visibility:hidden;top:-1px;}](https://www.algolia.com/products/)
 
-*   [![Pricing icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/pricing.svg)
+*   [![Pricing icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/pricing.svg)
     
     Pricing
     
     Pricing that scales with the value of your business
     
     ](https://www.algolia.com/pricing/)
-*   [![Search API icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/search-api.svg)
+*   [![Search API icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/search-api.svg)
     
     Search API
     
     Powerful, hosted search API to create fast and relevant search
     
     ](https://www.algolia.com/products/search/)
-*   [![Analytics icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/analytics.svg)
-    
-    Analytics
-    
-    Understand your users, uncover hidden opportunities
-    
-    ](https://www.algolia.com/products/analytics/)
-*   [![Rules icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/query-rules.svg)
-    
-    Rules
-    
-    Optimize results ranking for your users’ queries
-    
-    ](https://www.algolia.com/products/rules/)
-*   [![A/B Testing icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/ab-testing.svg)
-    
-    A/B Testing
-    
-    Uncover the best performing relevance strategies
-    
-    ](https://www.algolia.com/products/ab-testing/)
-*   [![InstantSearch icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/instantsearch.svg)
-    
-    InstantSearch
-    
-    A set of UI components to design the perfect experience
-    
-    ](https://www.algolia.com/products/instantsearch/)
-*   [![Personalization icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/personalization.svg)
-    
-    Personalization
-    
-    Tailor the Search and Discovery to your users
-    
-    ](https://www.algolia.com/products/personalization/)
-*   [![Crawler icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/crawler.svg)
-    
-    Crawler
-    
-    Automatically extract and enrich your website content
-    
-    ](https://www.algolia.com/products/crawler/)
-*   [![Visual Editor icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/visual-editor.svg)
+*   [![Visual Editor icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/visual-editor.svg)
     
     Visual Editor
     
     Get control over Search and Discovery to reflect your business goals
     
     ](https://www.algolia.com/products/visual-editor/)
-*   [![What’s new icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/whats-new.svg)
+*   [![AI Studio icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/ai-studio.svg)
     
-    What’s new
+    AI Studio
     
-    What’s new in Algolia Fall ‘20
+    A suite of extensible fully managed AI & Machine Learning APIs
     
-    ](https://www.algolia.com/products/whats-new/)
-*   [![Algolia AI icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/ai.svg)
+    ](https://www.algolia.com/products/ai-studio/)
+*   [![Crawler icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/crawler.svg)
     
-    Algolia AI
+    Crawler
+    
+    Automatically extract and enrich your website content
+    
+    ](https://www.algolia.com/products/crawler/)
+*   [![Rules icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/query-rules.svg)
+    
+    Rules
+    
+    Optimize results ranking for your users’ queries
+    
+    ](https://www.algolia.com/products/rules/)
+*   [![AI Search icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/ai.svg)
+    
+    AI Search
     
     A family of AI algorithms that optimize every dimension of Search and Discovery
     
     ](https://www.algolia.com/products/ai-search/)
-*   [![Answers icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/answers.svg)
+*   [![InstantSearch icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/instantsearch.svg)
     
-    Answers
+    InstantSearch
     
-    Natural language search to find answers deep within content
+    A set of UI components to design the perfect experience
     
-    ](https://www.algolia.com/products/answers-for-publishers/)
-*   [![Understand icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/understand.svg)
+    ](https://www.algolia.com/products/instantsearch/)
+*   [![Personalization icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/personalization.svg)
     
-    Understand
+    Personalization
     
-    Natural language understanding to get customers from search to conversion faster
+    Tailor the Search and Discovery to your users
     
-    ](https://www.algolia.com/products/natural-language-understanding-ecommerce/)
-*   [![Dynamic Synonym Suggestions icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/dynamic_synonyms.svg)
+    ](https://www.algolia.com/products/personalization/)
+*   [![Dynamic Synonym Suggestions icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/dynamic_synonyms.svg)
     
     Dynamic Synonym Suggestions
     
     AI generated synonyms to get users to relevant results no matter the words they use
     
     ](https://www.algolia.com/products/dynamic-synonym-suggestions/)
-*   [![Dynamic Re-ranking icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/re_ranking.svg)
+*   [![Analytics icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/analytics.svg)
+    
+    Analytics
+    
+    Understand your users, uncover hidden opportunities
+    
+    ](https://www.algolia.com/products/analytics/)
+*   [![Answers for Publishers icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/answers.svg)
+    
+    Answers for Publishers
+    
+    Natural language search to find answers deep within content
+    
+    ](https://www.algolia.com/products/answers-for-publishers/)
+*   [![Dynamic Re-ranking icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/re_ranking.svg)
     
     Dynamic Re-ranking
     
     Optimizes the ranking of results for each search for higher conversion rate
     
     ](https://www.algolia.com/products/dynamic-search-re-ranking/)
+*   [![A/B Testing icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/ab-testing.svg)
+    
+    A/B Testing
+    
+    Uncover the best performing relevance strategies
+    
+    ](https://www.algolia.com/products/ab-testing/)
+*   [![Answers for Support icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/answers-for-support.svg)
+    
+    Answers for Support
+    
+    ML-powered Q&A search to reduce support costs
+    
+    ](https://www.algolia.com/products/answers-for-support/)
+*   [![Understand icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/understand.svg)
+    
+    Understand
+    
+    Natural language understanding to get customers from search to conversion faster
+    
+    ](https://www.algolia.com/products/natural-language-understanding-ecommerce/)
 
 .css-100l165-subNavItem-SubNav{-webkit-transition:opacity 0.2s ease-out,-webkit-transform 0.2s ease-out;-webkit-transition:opacity 0.2s ease-out,transform 0.2s ease-out;transition:opacity 0.2s ease-out,transform 0.2s ease-out;}@media (min-width:960px){.css-100l165-subNavItem-SubNav{-webkit-transform:translateY(-10px);-ms-transform:translateY(-10px);transform:translateY(-10px);}.css-100l165-subNavItem-SubNav:hover,.css-100l165-subNavItem-SubNav:focus{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);}}
 
@@ -241,22 +256,22 @@ Solutions overview
 
 ### Popular Solutions
 
-*   [![Magento icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/magento.svg)
+*   [![Magento icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/magento.svg)
     
     Magento
     
     ](https://www.algolia.com/solutions/magento/)
-*   [![Salesforce Commerce Cloud icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/salesforce.svg)
+*   [![Salesforce Commerce Cloud icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/salesforce.svg)
     
     Salesforce Commerce Cloud
     
     ](https://www.algolia.com/solutions/salesforce-commercecloud/)
-*   [![Shopify icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/shopify.svg)
+*   [![Shopify icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/shopify.svg)
     
     Shopify
     
     ](https://www.algolia.com/solutions/shopify/)
-*   [![Netlify icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/icons/netlify.svg)
+*   [![Netlify icon](https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/icons/netlify.svg)
     
     Netlify
     
@@ -267,6 +282,11 @@ Solutions overview
     Developer hub
     
     ](https://www.algolia.com/developers/)
+*   [
+    
+    Get started
+    
+    ](https://www.algolia.com/developers/get-started)
 *   [
     
     Documentation
@@ -350,7 +370,7 @@ Relating to the use of Algolia's Website and Services.
 
 .css-lwqdme-root h1,.css-lwqdme-root h2,.css-lwqdme-root h3,.css-lwqdme-root h4,.css-lwqdme-root h5,.css-lwqdme-root h6{color:#3a416f;}.css-lwqdme-root a{color:#5468ff;-webkit-text-decoration:none;text-decoration:none;}.css-lwqdme-root table{text-align:left;border-spacing:0;width:100%;border:1px solid #c5c9e0;}.css-lwqdme-root thead th{padding:8px;border-bottom:1px solid #c5c9e0;}.css-lwqdme-root tbody > \*:nth-child(odd){background-color:#fff;}.css-lwqdme-root tbody > \*:nth-child(even){background-color:#f5f5fa;}.css-lwqdme-root tbody td{font-size:14px;padding:8px;}.css-lwqdme-root \*:first-child{margin-top:0;}.css-lwqdme-root \*:last-child{margin-bottom:0;}.css-lwqdme-root ul li p{margin:0;}
 
-Effective Date: January 29, 2020
+Effective Date: January 29, 2021
 
 We take our obligation to protect the privacy of your personal information seriously.
 -------------------------------------------------------------------------------------
@@ -532,7 +552,7 @@ We may share your personal information that we collect or you provide as follows
 
 Algolia may disclose aggregated statistical data that does not contain Personal Data with third-parties.
 
-Algolia partners with third-parties that serve content or applications. These partners, including (i) third-parties that either display advertising on our Websites or manage our advertising on other sites and (ii) applications providers such as Github, may collect your information as you interact with them through our Websites. Such third-party partners may also use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, click [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads.
+Algolia partners with third-parties that serve content or applications. These partners, including (i) third-parties that either display advertising on our Websites or manage our advertising on other sites and (ii) applications providers such as Github, may collect your information as you interact with them through our Websites. Such third-party partners may also use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, click [here](http://optout.aboutads.info/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads.
 
 You may login to our Websites using a sign-in service such as your Github profile, Google profile, or Heroku profile. These services authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-in form and collection of your personal information may occur as a result of login to our Websites using these sign-in services.
 
@@ -721,7 +741,7 @@ See Algolia in action
 
 .css-1fwgava-root-nebula-shine-Button{height:42px;-webkit-transition:box-shadow 0.15s ease,-webkit-transform 0.15s ease;-webkit-transition:box-shadow 0.15s ease,transform 0.15s ease;transition:box-shadow 0.15s ease,transform 0.15s ease;will-change:box-shadow,transform;background:radial-gradient( 100% 100% at 100% 0%,#89E5FF 0%,#5468FF 100% );box-shadow:0px 2px 4px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px rgba(58,65,111,0.5);text-shadow:0 1px 0 rgba(0,0,0,0.4);}@media (min-width:1200px){.css-1fwgava-root-nebula-shine-Button{height:48px;}}.css-1fwgava-root-nebula-shine-Button:hover{box-shadow:0px 4px 8px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px #3C4FE0;-webkit-transform:translateY(-2px);-ms-transform:translateY(-2px);transform:translateY(-2px);}.css-1fwgava-root-nebula-shine-Button:focus{box-shadow:inset 0 0 0 1.5px #3C4FE0,0px 2px 4px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px #3C4FE0;}.css-1fwgava-root-nebula-shine-Button:active{box-shadow:inset 0px 3px 7px #3C4FE0;-webkit-transform:translateY(2px);-ms-transform:translateY(2px);transform:translateY(2px);}.css-1fwgava-root-nebula-shine-Button::before{content:'';position:absolute;z-index:1;left:0;top:0;width:var(--size);height:var(--size);background:radial-gradient( circle closest-side,var(--shineColor),transparent );-webkit-transform:translate(calc(-50% + var(--x)),calc(-50% + var(--y)));-ms-transform:translate(calc(-50% + var(--x)),calc(-50% + var(--y)));transform:translate(calc(-50% + var(--x)),calc(-50% + var(--y)));-webkit-transition:height 0.2s ease;transition:height 0.2s ease;will-change:width,height,transform;}[Request a demo](https://www.algolia.com/demorequest/).css-130f1ab-root-white-Button{height:42px;-webkit-transition:box-shadow 0.15s ease,-webkit-transform 0.15s ease;-webkit-transition:box-shadow 0.15s ease,transform 0.15s ease;transition:box-shadow 0.15s ease,transform 0.15s ease;will-change:box-shadow,transform;background:#FCFCFD;box-shadow:0px 2px 4px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px #D6D6E7;}@media (min-width:1200px){.css-130f1ab-root-white-Button{height:48px;}}.css-130f1ab-root-white-Button:hover{box-shadow:0px 4px 8px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px #D6D6E7;-webkit-transform:translateY(-2px);-ms-transform:translateY(-2px);transform:translateY(-2px);}.css-130f1ab-root-white-Button:focus{box-shadow:inset 0 0 0 1.5px #D6D6E7,0px 2px 4px rgba(45,35,66,0.4),0px 7px 13px -3px rgba(45,35,66,0.3),inset 0px -3px 0px #D6D6E7;}.css-130f1ab-root-white-Button:active{box-shadow:inset 0px 3px 7px #D6D6E7;-webkit-transform:translateY(2px);-ms-transform:translateY(2px);transform:translateY(2px);}[Start Free](https://www.algolia.com/users/sign_up)
 
-.css-db84xo-waves{padding-bottom:26.5%;bottom:calc(100% - 2px);background-size:100% 100%;background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/v1602492921/ui-library/footer/footer-waves.svg');}
+.css-ozwals-waves{padding-bottom:26.5%;bottom:calc(100% - 2px);background-size:100% 100%;background-image:url('https://res.cloudinary.com/hilnmyskv/image/upload/v1610353255/ui-library/footer/footer-waves.svg');}
 
 #### Products
 
@@ -736,8 +756,10 @@ See Algolia in action
 *   [Personalization](https://www.algolia.com/products/personalization/)
 *   [Crawler](https://www.algolia.com/products/crawler/)
 *   [Visual Editor](https://www.algolia.com/products/visual-editor/)
-*   [Algolia AI](https://www.algolia.com/products/ai-search/)
+*   [AI Studio](https://www.algolia.com/products/ai-studio/)
+*   [AI Search](https://www.algolia.com/products/ai-search/)
 *   [Answers for Publishers](https://www.algolia.com/products/answers-for-publishers/)
+*   [Answers for Support](https://www.algolia.com/products/answers-for-support/)
 *   [Understand](https://www.algolia.com/products/natural-language-understanding-ecommerce/)
 *   [Dynamic Synonym Suggestions](https://www.algolia.com/products/dynamic-synonym-suggestions/)
 *   [Dynamic Re-ranking](https://www.algolia.com/products/dynamic-search-re-ranking/)
@@ -766,13 +788,14 @@ See Algolia in action
 #### Developers
 
 *   [Developer Hub](https://www.algolia.com/developers/)
+*   [Get Started](https://www.algolia.com/developers/get-started)
 *   [Documentation](https://www.algolia.com/doc)
 *   [Integrations](https://www.algolia.com/developers/#integrations)
 *   [Algolia for Open Source](https://www.algolia.com/for-open-source/)
 *   [Support](https://www.algolia.com/support/)
 *   [Community](https://community.algolia.com/)
 *   [DocSearch](https://docsearch.algolia.com/)
-*   [Changelog](https://www.algolia.com/changes/)
+*   [Changelog](https://www.algolia.com/doc/changelog/)
 
 #### Resources
 
@@ -801,11 +824,11 @@ See Algolia in action
     *   [Instagram](https://www.instagram.com/algolialife/)
     *   [YouTube](https://www.youtube.com/channel/UCTNkiq-SO8hay1PRx-it9Cw)
 
-Algolia logo2020 Algolia - All rights reserved.
+Algolia logo2021 Algolia - All rights reserved.
 
 *   [Privacy policy](https://www.algolia.com/policies/privacy/)
 *   [Terms of service](https://www.algolia.com/policies/terms/)
 *   [Acceptable use policy](https://www.algolia.com/policies/acceptable-use/)
 *   [Service level agreement](https://www.algolia.com/policies/sla/)
 
-/\*<!\[CDATA\[\*/window.pagePath="/policies/privacy/";/\*\]\]>\*//\*<!\[CDATA\[\*/window.\_\_\_chunkMapping={"polyfill":\[\],"app":\[\],"component---src-pages-2018-tsx":\[\],"component---src-pages-404-tsx":\[\],"component---src-pages-about-tsx":\[\],"component---src-pages-algolia-vs-elasticsearch-tsx":\[\],"component---src-pages-careers-tsx":\[\],"component---src-pages-changes-tsx":\[\],"component---src-pages-contactus-tsx":\[\],"component---src-pages-covid-19-tsx":\[\],"component---src-pages-demorequest-tsx":\[\],"component---src-pages-developers-tsx":\[\],"component---src-pages-docsearch-tsx":\[\],"component---src-pages-embed-sign-up-tsx":\[\],"component---src-pages-events-tsx":\[\],"component---src-pages-for-open-source-tsx":\[\],"component---src-pages-index-tsx":\[\],"component---src-pages-integrations-zendesk-tsx":\[\],"component---src-pages-press-tsx":\[\],"component---src-pages-pricing-tsx":\[\],"component---src-pages-products-ab-testing-tsx":\[\],"component---src-pages-products-ai-search-tsx":\[\],"component---src-pages-products-analytics-tsx":\[\],"component---src-pages-products-answers-for-publishers-tsx":\[\],"component---src-pages-products-crawler-tsx":\[\],"component---src-pages-products-dynamic-search-re-ranking-tsx":\[\],"component---src-pages-products-dynamic-synonym-suggestions-tsx":\[\],"component---src-pages-products-instantsearch-tsx":\[\],"component---src-pages-products-natural-language-understanding-ecommerce-tsx":\[\],"component---src-pages-products-personalization-tsx":\[\],"component---src-pages-products-rules-tsx":\[\],"component---src-pages-products-search-tsx":\[\],"component---src-pages-products-tsx":\[\],"component---src-pages-products-visual-editor-tsx":\[\],"component---src-pages-products-whats-new-summer-2019-tsx":\[\],"component---src-pages-products-whats-new-tsx":\[\],"component---src-pages-products-whats-new-winter-2020-tsx":\[\],"component---src-pages-redeem-tsx":\[\],"component---src-pages-resources-customers-tsx":\[\],"component---src-pages-search-tsx":\[\],"component---src-pages-social-impact-tsx":\[\],"component---src-pages-solutions-algolia-on-azure-tsx":\[\],"component---src-pages-solutions-ecommerce-tsx":\[\],"component---src-pages-solutions-enterprise-tsx":\[\],"component---src-pages-solutions-geo-search-tsx":\[\],"component---src-pages-solutions-headless-commerce-tsx":\[\],"component---src-pages-solutions-infrastructure-tsx":\[\],"component---src-pages-solutions-magento-tsx":\[\],"component---src-pages-solutions-marketplace-search-tsx":\[\],"component---src-pages-solutions-media-tsx":\[\],"component---src-pages-solutions-mobile-search-tsx":\[\],"component---src-pages-solutions-saas-tsx":\[\],"component---src-pages-solutions-salesforce-commercecloud-tsx":\[\],"component---src-pages-solutions-security-tsx":\[\],"component---src-pages-solutions-shopify-tsx":\[\],"component---src-pages-solutions-site-search-tsx":\[\],"component---src-pages-solutions-tsx":\[\],"component---src-pages-solutions-voice-search-tsx":\[\],"component---src-pages-state-of-site-search-and-discovery-tsx":\[\],"component---src-templates-coupons-tsx":\[\],"component---src-templates-job-tsx":\[\],"component---src-templates-policies-tsx":\[\],"component---src-templates-referrers-tsx":\[\],"component---src-templates-simple-tsx":\[\]};/\*\]\]>\*/
+/\*<!\[CDATA\[\*/window.pagePath="/policies/privacy/";/\*\]\]>\*//\*<!\[CDATA\[\*/window.\_\_\_chunkMapping={"polyfill":\[\],"app":\[\],"component---src-pages-2018-tsx":\[\],"component---src-pages-404-tsx":\[\],"component---src-pages-about-tsx":\[\],"component---src-pages-algolia-vs-elasticsearch-tsx":\[\],"component---src-pages-careers-tsx":\[\],"component---src-pages-contactus-tsx":\[\],"component---src-pages-covid-19-tsx":\[\],"component---src-pages-demorequest-tsx":\[\],"component---src-pages-developers-get-started-tsx":\[\],"component---src-pages-developers-tsx":\[\],"component---src-pages-docsearch-tsx":\[\],"component---src-pages-embed-about-you-tsx":\[\],"component---src-pages-embed-business-information-tsx":\[\],"component---src-pages-embed-check-email-tsx":\[\],"component---src-pages-embed-sign-up-tsx":\[\],"component---src-pages-events-tsx":\[\],"component---src-pages-for-open-source-tsx":\[\],"component---src-pages-index-tsx":\[\],"component---src-pages-integrations-zendesk-tsx":\[\],"component---src-pages-press-tsx":\[\],"component---src-pages-pricing-tsx":\[\],"component---src-pages-products-ab-testing-tsx":\[\],"component---src-pages-products-ai-search-tsx":\[\],"component---src-pages-products-ai-studio-tsx":\[\],"component---src-pages-products-analytics-tsx":\[\],"component---src-pages-products-answers-for-publishers-tsx":\[\],"component---src-pages-products-answers-for-support-tsx":\[\],"component---src-pages-products-crawler-tsx":\[\],"component---src-pages-products-dynamic-search-re-ranking-tsx":\[\],"component---src-pages-products-dynamic-synonym-suggestions-tsx":\[\],"component---src-pages-products-instantsearch-tsx":\[\],"component---src-pages-products-natural-language-understanding-ecommerce-tsx":\[\],"component---src-pages-products-personalization-tsx":\[\],"component---src-pages-products-rules-tsx":\[\],"component---src-pages-products-search-tsx":\[\],"component---src-pages-products-tsx":\[\],"component---src-pages-products-visual-editor-tsx":\[\],"component---src-pages-products-whats-new-summer-2019-tsx":\[\],"component---src-pages-products-whats-new-tsx":\[\],"component---src-pages-products-whats-new-winter-2020-tsx":\[\],"component---src-pages-redeem-tsx":\[\],"component---src-pages-resources-customers-tsx":\[\],"component---src-pages-search-tsx":\[\],"component---src-pages-social-impact-tsx":\[\],"component---src-pages-solutions-algolia-on-azure-tsx":\[\],"component---src-pages-solutions-ecommerce-tsx":\[\],"component---src-pages-solutions-enterprise-tsx":\[\],"component---src-pages-solutions-geo-search-tsx":\[\],"component---src-pages-solutions-headless-commerce-tsx":\[\],"component---src-pages-solutions-infrastructure-tsx":\[\],"component---src-pages-solutions-magento-tsx":\[\],"component---src-pages-solutions-marketplace-search-tsx":\[\],"component---src-pages-solutions-media-tsx":\[\],"component---src-pages-solutions-mobile-search-tsx":\[\],"component---src-pages-solutions-saas-tsx":\[\],"component---src-pages-solutions-salesforce-commercecloud-tsx":\[\],"component---src-pages-solutions-security-tsx":\[\],"component---src-pages-solutions-shopify-tsx":\[\],"component---src-pages-solutions-site-search-tsx":\[\],"component---src-pages-solutions-tsx":\[\],"component---src-pages-solutions-voice-search-tsx":\[\],"component---src-pages-state-of-site-search-and-discovery-tsx":\[\],"component---src-templates-coupons-tsx":\[\],"component---src-templates-job-tsx":\[\],"component---src-templates-policies-tsx":\[\],"component---src-templates-referrers-tsx":\[\],"component---src-templates-simple-tsx":\[\]};/\*\]\]>\*/

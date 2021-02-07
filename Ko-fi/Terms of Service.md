@@ -370,7 +370,7 @@ Help & Support
 
 [Terms](https://more.ko-fi.com/terms)[Privacy](https://more.ko-fi.com/privacy)[Help](https://help.ko-fi.com/)[We're Hiring](https://more.ko-fi.com/careers)[Affiliates](https://more.ko-fi.com/research/affiliates-hidden)[Patreon Alternative](https://more.ko-fi.com/patreon-alternative)
 
-Ko-fi Labs ©2020
+Ko-fi Labs ©2021
 
 [
 

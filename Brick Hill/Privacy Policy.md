@@ -69,6 +69,6 @@ Your information will be used to settle disputes when needed for legal obligatio
 
 (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
-© 2020 Brick Hill. All rights reserved.
+© 2021 Brick Hill. All rights reserved.
 
 [Terms of Service](https://www.brick-hill.com/terms) | [Privacy Policy](https://www.brick-hill.com/privacy) | [Staff](https://www.brick-hill.com/staff)

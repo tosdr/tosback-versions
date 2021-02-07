@@ -27,11 +27,12 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
 
   [](https://www.bose.com/en_us/myaccount/registration.html)  [ Stores ](https://www.bose.com/en_us/store_locator.html)    [Cart](https://www.bose.com/en_us/my-cart.html) 
 
+*   [Valentine's Day](https://www.bose.com/en_us/products/gift_ideas/gifts_for_valentines_day.html "Valentine's Day")
 *   [Headphones](https://www.bose.com/en_us/products/headphones.html "Headphones")
     
     *   [Shop all](https://www.bose.com/en_us/shop_all/headphones/headphones.html "Shop all
         ")
-    *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
+    *   [New](https://www.bose.com/en_us/shop_all/shop_all_products/new.html "New")
     *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
     *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")
@@ -41,8 +42,9 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     *   [Wireless](https://www.bose.com/en_us/products/headphones/wireless_headphones.html "Wireless")
     *   [Sport](https://www.bose.com/en_us/products/headphones/sports_headphones.html "Sport")
     *   [Earbuds](https://www.bose.com/en_us/products/headphones/earbuds.html "Earbuds")
-    *   [Gaming headset](https://www.bose.com/en_us/products/headphones/gaming_headset.html "Gaming headset")
+    *   [Open Ear](https://www.bose.com/en_us/products/headphones/open_ear_headphones.html "Open Ear")
     
+    *   [Gaming headset](https://www.bose.com/en_us/products/headphones/gaming_headset.html "Gaming headset")
     *   [Aviation headsets](https://www.bose.com/en_us/products/headphones/aviation_headsets.html "Aviation headsets")
     *   [Sleep](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds.html "Sleep")
     *   [SoundComm Headsets](https://www.bose.com/en_us/products/headphones/professional_communications.html "SoundComm Headsets")
@@ -52,12 +54,12 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     
     *   [Shop all](https://www.bose.com/en_us/shop_all/speakers/speakers.html "Shop all
         ")
-    *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
+    *   [New](https://www.bose.com/en_us/shop_all/shop_all_products/new.html "New")
     *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
     *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")
     
-    *   [Portable](https://www.bose.com/en_us/products/speakers/portable_speakers.html "Portable")
+    *   [Portable Bluetooth](https://www.bose.com/en_us/products/speakers/portable_speakers.html "Portable Bluetooth")
     *   [Smart home](https://www.bose.com/en_us/products/speakers/smart_home.html "Smart home")
     *   [Home theater](https://www.bose.com/en_us/products/speakers/home_theater.html "Home theater")
     *   [Soundbars](https://www.bose.com/en_us/products/speakers/soundbars.html "Soundbars")
@@ -72,7 +74,7 @@ Log in/Create an account](https://www.bose.com/en_us/myaccount/login.html)[](htt
     
     *   [Shop all](https://www.bose.com/en_us/shop_all/frames/frames.html "Shop all
         ")
-    *   [STORIES](https://www.bose.com/en_us/better_with_bose.html "STORIES")
+    *   [New](https://www.bose.com/en_us/shop_all/shop_all_products/new.html "New")
     *   [Special offers](https://www.bose.com/en_us/special_offers.html#drawer=show&facet=promotionApplied%7CpromotionApplied "Special offers")
     *   [Outlet](https://www.bose.com/en_us/products/outlet.html "Outlet")
     *   [Gifts](https://www.bose.com/en_us/products/gift_ideas.html "Gifts")

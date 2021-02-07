@@ -67,10 +67,10 @@ Fan Relations Interactions
 *   _Why:_ We really want to make sure that our fans are treated right! If you have a comment about a specific DQ restaurant, we also want to get you in touch with the restaurant that handled your experience – they’re the ones who are in the best position to make it right! So, we send this information on to them.
 *   _Reminder:_ Most of our restaurants are independently owned and operated franchises – we recommend that you contact them first, because they can usually address your concern or celebration more directly. We don’t guarantee any of their privacy practices.
 
-Information about becoming a franchisee
+Developing a franchise
 
-*   _What:_ When you use the “Own a DQ Location” page on dairyqueenfranchising.com, you may give us some information – a contact name, postal address, phone number, email address, and information about your timeline, net worth, and capacity for investment.
-*   _Why:_ We use this information to help us decide if your business meets our minimum requirements for new franchisees, to help us prioritize interested businesses, and to contact you about available opportunities if it looks like a good fit. Like any good relationship, we may want to get to know each other more, and we may ask you to fill out an application that will ask for more information about your qualifications, which may include current and previous home address, employment information, more financial information, marital status and spouse’s name. Once everyone is feeling confident in the relationship and decides to move forward with a franchise, then a different privacy statement applies to franchisees.
+*   _What:_ When you use the “Own a DQ Location” page on dairyqueenfranchising.com (for US or Canada), you may give us some information – a contact name, postal address, phone number, email address, and information about your timeline, net worth, and capacity for investment. Or for international opportunities, if you contact us via email or phone (such as at internationaldevelopment2@idq.com or at another email address or phone number) you may give us your name, email address, and phone number. 
+*   _Why:_ We use this information to help us decide if your business meets our minimum requirements for new franchisees, to help us prioritize interested businesses, and to contact you about available opportunities if it looks like a good fit. Like any good relationship, we may want to get to know each other more, and we may ask you to fill out an application or provide more information about your qualifications, which may include current and previous home address, employment information, more financial information, marital status and spouse’s name. Once everyone is feeling confident in the relationship and decides to move forward with a franchise, then a different privacy statement applies to franchisees.
 
 **Information Collected or Used Automatically**
 
@@ -164,6 +164,43 @@ Information about becoming a franchisee
 *   We know you have a lot on your plate, so if you would like to designate an authorized agent to exercise any of your CCPA rights, shoot privacy@idq.com an email from the email address on your account, with the name and email address of your agent. Don’t we all have multiple email addresses, right? Well, we need it to be from the email address on your account because that’s how we verify that it is a legitimate request. We want to make sure we are taking actions that you authorized (instead of your uncle’s best friend’s daughter’s neighbor named Carl).
 *   The CCPA allows us to offer fans financial incentives for sharing their personal information with us. We don’t do it very often, but we do sometimes offer perks if you give us your info. Things like the mobile app rewards program, which we need personal information to offer, otherwise we have no way to track how many sweet rewards points you have! Another example is that we ask for your info to enter a contests or sweepstakes. Your participation in these types of things is always optional and you can head back up to the beginning of this privacy statement to understand the what and why.
 
+**Additional Info for EU Residents**
+------------------------------------
+
+The information in this section is for EU residents and supplements the disclosures in this privacy statement. If you are an EU resident and you express interest in developing a franchise, we collect the personal information described above in the "Developing a Franchise" section.  
+  
+**Lawful Basis for Processing**  
+By submitting your personal information to us, you are consenting to our use and processing as described in this privacy statement.  
+   
+We may also process personal information because the processing is necessary for our legitimate business interests, for things such as: (1) providing, improving, and promoting ADQ's websites, products, and services; (2) communicating with potential franchisees and their individual points of contact; (3) other business development purposes; (4) sharing information within the DQ/Orange Julius family of companies, as well as with service providers and other third parties; and (5) maintaining the safety and security of our products, services, and employees.  
+  
+**Cross-Border Transfer**  
+Since ADQ's world headquarters are in the United States, this means any personal information you submit will be transferred to the U.S. By submitting any personal information:  
+1\. you explicitly consent to the transfer of your personal information to the U.S.;  
+2\. you understand that no adequacy decision and no adequate safeguards apply to these transfers; and  
+3\. you understand that U.S. surveillance laws fundamentally clash with EU data protection rights, and that your personal information may become exposed to the U.S. government.  
+   
+**Retention**  
+Our current retention practices are:  
+1\. any personal information kept in our email system will be deleted after 8 years; or  
+2\. for any of your personal information we keep in other systems, we'll use some of the following factors to determine retention: legal requirements to retain data, retention obligations related to actual or potential litigation or government investigations, the date of our last communication together, whether you go on to become a franchisee, the sensitivity of the data, and the purposes for which the data was collected.  
+   
+**Your Rights**  
+You have a variety of rights including the right to request access to, correction of, or deletion of your personal information, to restrict the processing or object to the processing of your personal information, or to get a copy of your personal information. There may be limitations on these rights. To exercise any of your rights, please email privacy@idq.com.  
+   
+**If You Don’t Give Us Your Personal Information**  
+Giving us your personal information is a pre-contractual requirement to be considered for developing a franchise. If you don't give us your personal information, we won't be able to consider you for developing a franchise.  
+   
+**Withdrawal of Consent**  
+You have the right to withdraw consent at any time, without affecting the lawfulness of the processing based on consent before withdrawal.  
+   
+**Make a Complaint**  
+You have the right to lodge a complaint with your local Data Protection Supervisory Authority. Also, your personal information is controlled by American Dairy Queen Corporation (ADQ) and you can contact ADQ at privacy@idq.com or using the contact information at the end of this privacy statement.
+
+  
+  
+**And leaving the EU to return to our regular programming…**
+
 **How can you control your info?**
 
 *   You can click the link at the bottom of any email that comes from us to unsubscribe from that email list, or to correct your info for that email list.
@@ -186,4 +223,4 @@ Information about becoming a franchisee
 
   
 
-Last updated: December 30, 2020
+Last updated: January 22, 2020

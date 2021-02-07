@@ -15,7 +15,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective September 30, 2020 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20200930/r9u74aii/google_privacy_policy_en_us.pdf)
+Effective February 4, 2021 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20210204/3jla0xz1/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -100,7 +100,7 @@ We collect information about your activity in our services, which we use to do t
 *   Activity on third-party sites and apps that use our services
 *   Chrome browsing history you’ve [synced with your Google Account](https://policies.google.com/privacy#footnote-chrome-sync)
 
-If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy#footnote-calls-messages), we may collect telephony log information like your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information, and types of calls.
+If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy#footnote-calls-messages), we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
 
 You can visit your Google Account to find and manage activity information that’s saved in your account.
 
@@ -173,7 +173,7 @@ Depending on your settings, we may also show you [personalized ads](https://poli
 
 ![](https://www.gstatic.com/policies/privacy/a8e78fa7fa279aa946fe1a9d6a0508f2.svg)
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer [may link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
 
 ### Communicate with you
 
@@ -429,72 +429,46 @@ We maintain [servers around the world](https://policies.google.com/privacy#footn
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
-California requirements
------------------------
+European requirements
+---------------------
 
-The California Consumer Privacy Act (CCPA) requires specific disclosures for California residents.
+If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
 
-This Privacy Policy is designed to help you understand how Google handles your information:
+For users based in the European Economic Area or Switzerland, the data controller responsible for your information is Google Ireland Limited, unless otherwise stated in a service-specific privacy notice. In other words, Google Ireland Limited is the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws.
 
-*   We explain the categories of information Google collects and the sources of that information in [Information Google collects](https://policies.google.com/privacy#infocollect).
-*   We explain how Google uses information in [Why Google collects data](https://policies.google.com/privacy#whycollect).
-*   We explain when Google may share information in [Sharing your information](https://policies.google.com/privacy#infosharing). Google does not sell your personal information.
+We process your information for the purposes described in this policy, based on the following legal grounds:
 
-The CCPA also provides the right to request information about how Google collects, uses, and discloses your personal information. And it gives you the right to access your information and request that Google delete that information. Finally, the CCPA provides the right to not be discriminated against for exercising your privacy rights.
+### With your consent
 
-We describe the choices you have to manage your privacy and data across Google’s services in [Your privacy controls](https://policies.google.com/privacy#infochoices). You can exercise your rights by using these controls, which allow you to access, review, update and delete your information, as well as [export and download](https://takeout.google.com/settings/takeout?utm_source=pp) a copy of it. When you use them, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA, you (or your authorized agent) can also [contact Google](https://support.google.com/policies/answer/9581826).
+We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your [Google Account](https://myaccount.google.com/).
 
-The CCPA requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
+### When we’re pursuing legitimate interests
 
-### Categories of personal information we collect
+We process your information for our legitimate interests and those of [third parties](https://policies.google.com/privacy#footnote-third-parties) while applying [appropriate safeguards](https://policies.google.com/privacy#footnote-safeguards) that protect your privacy. This means that we process your information for things like:
 
-**Identifiers** such as your [name, phone number](https://myaccount.google.com/personal-info), and address, as well as [unique identifiers](https://policies.google.com/privacy#footnote-unique-id) tied to the browser, application, or device you’re using.
+*   Providing, maintaining, and improving our services to meet the needs of our users
+*   Developing new products and features that are useful for our users
+*   Understanding how people use our services to [ensure and improve](https://policies.google.com/privacy#footnote-improve) the performance of our services
+*   [Customizing our services](https://policies.google.com/privacy#footnote-customizing) to provide you with a better user experience
+*   Marketing to inform users about our services
+*   Providing advertising, which keeps many of our services free (and when ads are personalized, we ask for your consent)
+*   Detecting, preventing, or otherwise addressing fraud, abuse, security, or technical issues with our services
+*   Protecting against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law, including disclosing information to government authorities
+*   Performing research that improves our services for our users and benefits the public
+*   Fulfilling obligations to our partners like developers and rights holders
+*   Enforcing legal claims, including investigation of potential violations of applicable Terms of Service
 
-**Demographic information**, such as your [age](https://myaccount.google.com/personal-info), [gender](https://myaccount.google.com/gender) and [language](https://myaccount.google.com/language).
+### When we’re providing a service
 
-**Commercial information** such as your [payment information](https://myaccount.google.com/payments-and-subscriptions) and a history of [purchases](https://myaccount.google.com/purchases) you make on Google’s services.
+We process your data to provide a service you’ve asked for under a contract. For example, we process your payment information when you buy extra storage for Google Drive.
 
-**Biometric information** if you choose to provide it, such as fingerprints in Google’s product development studies.
+### When we’re complying with legal obligations
 
-**Internet, network, and other activity information** such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in [My Activity](https://myactivity.google.com/myactivity?utm_source=pp).
+We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to [legal process or an enforceable governmental request](https://policies.google.com/privacy#footnote-legal).
 
-**Geolocation data**, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Learn more about [Google’s use of location information](https://policies.google.com/technologies/location-data).
+* * *
 
-**Audio, electronic, visual and similar information**, such as [voice and audio information](https://support.google.com/websearch/answer/6030020) when you use audio features.
-
-**Professional, employment, and education information**, such as information [you provide](https://myaccount.google.com/profile) or that is maintained through a G Suite account by an organization at which you study or work.
-
-**Other information you create or provide**, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). [Google Dashboard](https://myaccount.google.com/dashboard) allows you to manage information associated with specific products.
-
-**Inferences** drawn from the above, like your [ads interest categories](https://adssettings.google.com/authenticated?utm_source=pp).
-
-### Business purposes for which information may be used or disclosed
-
-**Protecting against security threats, abuse, and illegal activity**: Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.
-
-**Auditing and measurement**: Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.
-
-**Maintaining our services**: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
-
-**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate.
-
-**Use of service providers**: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
-
-**Advertising**: Google processes information, including online identifiers and information about your interactions with advertisements, to provide advertising. This keeps Google’s services and many of the websites and services you use free of charge. You can control what information we use to show you ads by visiting your [ad settings](https://adssettings.google.com/?utm_source=pp).
-
-**Legal reasons**: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our [Transparency Report](https://transparencyreport.google.com/user-data/overview).
-
-### Parties with whom information may be shared
-
-**Other people with whom you choose to share your information**, like docs or photos, and videos or comments on YouTube.
-
-**Third parties to whom you consent to sharing your information**, such as services that integrate with Google’s services. You can [review and manage third party apps and sites](https://myaccount.google.com/permissions) with access to data in your Google Account.
-
-**Service providers**, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-**Domain administrators**, if you work or study at an organization that uses Google services like G Suite.
-
-**Law enforcement or other third parties**, for the legal reasons described in [Sharing your information](https://policies.google.com/privacy#infosharing).
+If you have questions, [you can contact Google and our data protection office](https://support.google.com/policies/troubleshooter/7575787). And you can contact your local data protection authority if you have concerns regarding your rights under local law.
 
 About this policy
 =================
@@ -527,10 +501,12 @@ The following privacy notices provide additional information about some Google s
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 *   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
-*   [Read Along](https://readalong.google/intl/en_US/privacy)
+*   [Read Along](https://readalong.google/intl/en_DE/privacy)
 *   [YouTube Kids](https://kids.youtube.com/privacynotice)
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 *   [Voice and Audio Collection from Children’s Features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/)
+
+If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice).
 
 Other useful resources
 ----------------------
@@ -642,6 +618,10 @@ For example, advertisers may upload data from their loyalty-card programs so tha
 
 Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone’s camera and phone dialer, text-to-speech conversion, keyboard input, and security features.
 
+### appropriate safeguards
+
+For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you. [Learn more](https://policies.google.com/technologies/anonymization)
+
 ### combine the information we collect
 
 Some examples of how we combine the information we collect include:
@@ -654,6 +634,10 @@ Some examples of how we combine the information we collect include:
 ### customized search results
 
 For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity). You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito) or turn off [signed-out search personalization](https://www.google.com/history/optout?utm_source=pp).
+
+### Customizing our services
+
+For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
 
 ### deliver our services
 
@@ -750,8 +734,11 @@ For example, we operate data centers located [around the world](https://www.goog
 
 Examples of these services include:
 
-*   Google Hangouts, for making domestic and international calls
-*   Google Voice, for making calls, sending text messages, and managing voicemail
+*   Google Voice, for making and receiving calls, sending text messages, and managing voicemail
+*   Google Meet, for making and receiving video calls
+*   Gmail, for sending and receiving emails
+*   Google Chat, for sending and receiving messages
+*   Google Duo, for making and receiving video calls and sending and receiving messages
 *   Google Fi, for a phone plan
 
 ### show trends

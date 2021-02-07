@@ -115,7 +115,7 @@ Printed in any shape and size, and most importantly, in 1 business day!
 
 [
 
-#### Customize this Holiday Season with Wrapping Paper
+#### Custom Wrapping Paper Printing
 
 Available in four eco friendly paper types
 
@@ -321,7 +321,7 @@ Our tool makes it easy for you upload your own design and tile it instantly
 
 ](https://www.jukeboxprint.com/creator/custom-wrapping-paper-maker)
 
-![US Dollar Currency](https://storage.jukeboxprint.com/s/images/header/flags/flag-c-US.svg)
+![Euro Currency](https://storage.jukeboxprint.com/s/images/header/flags/flag-c-EU.svg)
 
 [
 
@@ -365,7 +365,7 @@ Don't have an account? [Sign Up](https://www.jukeboxprint.com/register/)
 
 [![](https://storage.jukeboxprint.com/s/images/icons/0287-user.png)](https://www.jukeboxprint.com/customer/)
 
-![US Dollar Currency](https://storage.jukeboxprint.com/s/images/header/flags/flag-c-US.svg)
+![Euro Currency](https://storage.jukeboxprint.com/s/images/header/flags/flag-c-EU.svg)
 
 [
 

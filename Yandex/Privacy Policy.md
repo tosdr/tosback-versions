@@ -247,7 +247,7 @@ If you are not satisfied with how Yandex processes your Personal information, pl
 
 11.1 **What cookies Yandex uses and why**
 
-Cookies are small text files accepted and processed by device that you use to access our Sites. They contain information that is collected from your device and sent back to the Sites on each subsequent visit. Their use helps your navigation through the Sites and allows us remember your preferences over time. For more information on cookies, their description, purposes of use and possible options to disable follow our Cookie Policy ([https://yandex.ru/legal/cookies\_policy](https://yandex.ru/legal/cookies_policy/)).
+Cookies are small text files accepted and processed by device that you use to access our Sites. They contain information that is collected from your device and sent back to the Sites on each subsequent visit. Their use helps your navigation through the Sites and allows us remember your preferences over time. For more information on cookies, their description, purposes of use and possible options to disable follow our [Cookie Policy](https://yandex.com/legal/cookies_policy_eng/).
 
 The following types of cookies are used on the Sites:
 

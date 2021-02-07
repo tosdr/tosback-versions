@@ -150,17 +150,17 @@ Do Not Track is a privacy preference that you can set in your web browser to ind
 
 We may use technologies to understand how many household members access your Canary Product(s) and what features they use within the app. We use this information to understand and optimize how our Products are used, and to provide content and features that may be of interest to you. Please refer to our Ads & Cookie Statement for more information about your choices around cookies and related technologies and third party advertising.
 
-#### Email & SMS Communications
+### 9\. Email & SMS Communications
 
 You may choose to submit your email address through a form located on our Site to sign up for marketing communications from Canary. You may also provide your mobile phone number to Canary in connection with account registration or otherwise. We may use the email address and mobile phone number associated with your account, in accordance with applicable law, to send you news about Canary, such as new features or marketing promotions, account updates, promotional offers, and information regarding Membership and other premium services. We may use one or more service providers to administer these messages. Canary does not share your email address or phone number with spammers or any other non-affiliated third parties for their own marketing purposes without your permission. You may opt out of receiving newsletters or marketing communications from us by following the unsubscribe instructions or by contacting us at support@canary.is.
 
-### 9\. Security of Your Information
+### 10\. Security of Your Information
 
   
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the information transmitted to us, both during transmission and upon receipt. No method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Products, contact us at support@canary.is.
 
-### 10\. Other Rights & Important Notices
+### 11\. Other Rights & Important Notices
 
   
 
@@ -209,7 +209,7 @@ Nevada residents have the right to opt-out of the sale of certain personal infor
 **Notification of Privacy Policy Changes**  
 We may update this Policy to reflect changes to our information practices or changes to our Products. If we make any material changes, we will notify you by email (sent to the email address specified in your account), through a push-notification, or by means of a notice in the app prior to the change becoming effective. We encourage you to periodically review this Policy for the latest information on our privacy practices.
 
-### 11\. Contact Us
+### 12\. Contact Us
 
   
 

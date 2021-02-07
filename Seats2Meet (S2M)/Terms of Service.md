@@ -131,9 +131,7 @@ _S2MT 20190308_
 
 Language Dutch (Netherlands) English German Japanese Portuguese Spanish (Spain)
 
-Country Argentina Bangladesh Belgium Bosnia-Herzegovina Brazil Canada Chile China Ecuador Finland France Germany Greece India Indonesia Japan Kazakhstan North Korea Mexico Netherlands New Zealand Peru Portugal Singapore Slovenia South Africa Spain Switzerland Thailand Ukraine United Kingdom United States
-
-[![](/Content/Frontend/Images/Website/B_BCorp_logo_NEG.png)](http://bcorporation.eu/community/seats2meetcom-international-bv)
+Country Afghanistan Argentina Aruba Bangladesh Belgium Bosnia-Herzegovina Brazil Canada Chile China Colombia Ecuador Egypt Finland France Georgia Germany Greece Hungary India Indonesia Ireland Italy Japan Jordan Kazakhstan Kenya North Korea Malaysia Mexico Morocco Nepal Netherlands New Zealand Nigeria Peru Poland Portugal Romania Singapore Slovenia South Africa Spain Sudan Switzerland Thailand Turkey Ukraine United Kingdom United States Vietnam
 
 ✕
 

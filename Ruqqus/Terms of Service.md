@@ -44,7 +44,7 @@ You accept full liability for all content you upload to, or embed within, ruqqus
 Intellectual Property
 ---------------------
 
-You grant Ruqqus a permanent, worldwide, and irrevocable license to store, modify, copy, distribute, and distribute modifications of, all content that you submit to or upload to Ruqqus, including any creative works. Additionally, you grant Ruqqus a permanent, worldwide, and irrevocable license to sublicense these same rights to Ruqqus's service providers. Additionally, you warrant that you are authorized to grant Ruqqus these rights.
+You grant Ruqqus a permanent, worldwide, and irrevocable license to store, modify, copy, and distribute all content that you submit to or upload to Ruqqus, including any creative works. Additionally, you grant Ruqqus a permanent, worldwide, and irrevocable license to sublicense these same rights to Ruqqus's service providers. Additionally, you warrant that you are authorized to grant Ruqqus these rights.
 
 You retain all other intellectual property rights, including ownership.
 
@@ -99,7 +99,7 @@ Your Privacy
 Ruqqus will never intentionally share your personal information with third parties, except:
 
 *   As required by United States law.
-*   We will share your data with our own service providers which are necessary for ruqqus.com operations. The exact service providers are subject to change without notice, but will always be available [here](https://ruqqus.com/about/services).
+*   We will share your data with our own service providers which are necessary for ruqqus.com operations. The exact service providers are subject to change without notice.
 *   At our discretion, Ruqqus may share your information with United States law enforcement in the event of an emergency, if we have good cause to believe that doing so would avert or mitigate the emergency.
 
 Ruqqus will make all reasonable efforts to ensure that user information is kept confidential.

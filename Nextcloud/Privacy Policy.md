@@ -109,7 +109,7 @@
         For mission-critical use
         
         ](https://nextcloud.com/enterprise)
-*   [Demo](https://demo.nextcloud.com/)
+*   [Demo](https://try.nextcloud.com/)
 *   [GDPR](https://nextcloud.com/gdpr)
 
 *   *   [Deutsch](https://nextcloud.com/de/privacy)

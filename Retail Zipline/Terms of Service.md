@@ -22,7 +22,7 @@ Resources
 
 About Us
 
-[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Customer Success](https://www.retailzipline.com/product/overview)[Events](https://www.retailzipline.com/about-us/events)[Awards](https://www.retailzipline.com/about-us/awards)
+[Our Story](https://www.retailzipline.com/about-us/for-retail-by-retail)[Careers](https://www.retailzipline.com/about-us/careers)[Press](https://www.retailzipline.com/resources/press)[Awards](https://www.retailzipline.com/about-us/awards)
 
 [
 
@@ -34,7 +34,7 @@ Products
 
 Resources
 
-[Blog](https://www.retailzipline.com/resources/blog)[Case Studies](https://www.retailzipline.com/resources/case-studies)
+[Blog](https://www.retailzipline.com/resources/blog)[Case Studies](https://www.retailzipline.com/resources/case-studies)[Events](https://www.retailzipline.com/about-us/events)[Webinars](https://www.retailzipline.com/resources/webinars)
 
 [Pricing](https://www.retailzipline.com/how-to-start/pricing)
 
@@ -126,6 +126,8 @@ These TERMS AND CONDITIONS (the “Agreement”) govern your use of the retail f
 |
 
 [Privacy Policy](https://www.retailzipline.com/privacy-policy)
+
+[![Review](https://www.greatplacetowork.com/images/profiles/7011467/companyBadge.png)](http://www.greatplacetowork.com/certified-company/7011467 "Rating and Review")
 
 Zipline helps retailers coordinate their brick-and-mortar stores by streamlining communications between HQ and the field. By easily centralizing and personalizing messages, retailers boost accountability and employee engagement.
 

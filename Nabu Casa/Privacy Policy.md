@@ -1,3 +1,7 @@
+.alert-banner { z-index: 1040; width: 100%; text-align: center; margin: 0; padding: 8px 0px; background-color: #ffcc0087; }
+
+Cannot access your remote UI? Be sure to check your email or read the Home Assistant Security Bulletin. [Learn more](https://www.nabucasa.com/more-info/insecure-instance)
+
  [![Nabu Casa Logo](/img/logo-two-column.svg)](https://www.nabucasa.com/) 
 
 *   [About us](https://www.nabucasa.com/about//)

@@ -208,12 +208,27 @@ If you have any questions about this section or our data practices generally, pl
 
   
 
-**Designated representative and contact information:**  
+**Designated EU representative and contact information:**  
 DP-Dock GmbH  
 Ballindamm 39  
 20095 Hamburg  
+Germany  
   
 **Email:** [IFTTT@gdpr-rep.com](mailto:IFTTT@gdpr-rep.com)  
 **Tel:** +49 (0) 40 99999 - 3430  
 **Fax:** +49 (0) 40 99999 - 3332  
+[www.dp-dock.com](https://www.dp-dock.com/)
+
+  
+
+**Designated UK representative and contact information:**  
+DP Data Protection Services UK Ltd.  
+Attn: IFTTT Inc.  
+16 Great Queen Street  
+Covent Garden  
+London  
+WC2B 5AH  
+United Kingdom  
+  
+**Email:** [IFTTT@gdpr-rep.com](mailto:IFTTT@gdpr-rep.com)  
 [www.dp-dock.com](https://www.dp-dock.com/)

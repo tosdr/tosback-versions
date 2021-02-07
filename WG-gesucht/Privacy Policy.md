@@ -6,13 +6,7 @@ var password\_contains\_word\_password = /^p\[a|@|ä|á|à\]\[s|\\$|5\]{2,}w\[o|
 
  [![WG-Gesucht.de](https://www.wg-gesucht.de/img/wg-gesucht-logo.png "WG-Gesucht.de")](https://www.wg-gesucht.de/) 
 
-[Registrieren](#) [Login](#)
-
-[Anzeige inserieren](#)
-
-*   [Angebot](https://www.wg-gesucht.de/angebot-aufgeben.html)
-
-*   [Gesuch](https://www.wg-gesucht.de/gesuch-aufgeben.html)
+[Für Unternehmen](https://www.wg-gesucht.de/fuer-unternehmen.html) [Registrieren](#) [Login](#)
 
  [![WG-Gesucht.de](/img/wgg-logo-mobile.svg) WG-Gesucht.de](https://www.wg-gesucht.de/) 
 
@@ -71,6 +65,11 @@ var password\_contains\_word\_password = /^p\[a|@|ä|á|à\]\[s|\\$|5\]{2,}w\[o|
     *   [Wohnen in](https://www.wg-gesucht.de/info/wohnen-in)
     
     *   [MIETRECHT](https://www.wg-gesucht.de/mietrecht.html)
+*   [Für Unternehmen](https://www.wg-gesucht.de/fuer-unternehmen.html)
+*   [Anzeige inserieren](#)
+    *   [Angebot](https://www.wg-gesucht.de/angebot-aufgeben.html)
+    
+    *   [Gesuch](https://www.wg-gesucht.de/gesuch-aufgeben.html)
 
 if ($('.navbar-control').is(':hidden')) { // Desktop: Hover effect to slide menus up/down on devices with a mouse $('ul.nav li.dropdown').on('mouseenter', function() { $(this).find('.dropdown-menu').stop(true, true).fadeIn(10); }).on('mouseleave', function() { $(this).find('.dropdown-menu').stop(true, true).fadeOut(10); }); } else { // Mobile: Center logo vertically var wrap\_height = $('.navbar').height(); var logo\_height = $('.mobile\_logo').height(); var mobile\_logog\_margin\_top = (wrap\_height - logo\_height) / 2; mobile\_logog\_margin\_top = mobile\_logog\_margin\_top - 6; // The 6 comes from CSS padding rule for .navbar-brand if (mobile\_logog\_margin\_top != wrap\_height) { $('.mobile\_logo').css('margin-top', mobile\_logog\_margin\_top + 'px'); } // Mobile: When one menu is already dropped down and user clicks on another // menu item, close the first menu. This code is required to overcome // a bug where when you click very quickly on two menu buttons both menus // were staying open $('.navbar-menu-toggle').on('click', function(){ if ($(this).attr('id') != 'fav\_wrap\_span') { var clicked\_toggle = $(this).data('target'); $('.navbar-menu-toggle').each(function(){ var $this = $(this); if ($this.data('target') !== clicked\_toggle) { $this.addClass('collapsed'); $this.attr('aria-expanded', 'false'); } }); clicked\_toggle = clicked\_toggle.substr(1); $('.navbar-collapse').each(function(){ var $this = $(this); if ($this.attr('id') !== clicked\_toggle) { $this.removeClass('in').hide(); $this.attr('aria-expanded', 'false'); $this.css('height', '1px'); $this.css('display', 'none'); } else if ($this.hasClass('in')) { $this.css('display', 'none'); } else { $this.css('display', 'block'); } }); } }); } // Tablets need ontouch event handlers to hide/show top nav drop downs is\_tablet\_for\_top\_nav = false;
 
@@ -431,7 +430,7 @@ $('#hide\_login\_show\_register').on('click', function() { $('#login\_modal').mo
 
 Sie haben die erste Checkbox nicht markiert. Damit können Sie Ihren Account nicht mehr nutzen. Bitte beachten Sie, dass sich am Umgang mit Ihren Daten auf WG-Gesucht.de nach dem 25. Mai nichts ändert. Bei Ihrer Registrierung haben Sie unseren AGB und den Datenschutzbestimmungen bereits zugestimmt. Wir sind aufgrund des EU-Gesetzes allerdings verpflichtet, die Zustimmung erneut einzuholen.
 
-var gdpr\_read\_more\_button = "Lesen Sie mehr dazu"; var gdpr\_read\_less\_button = "Text ausblenden"; // Opening a modal the instant another modal closes, fails to add the modal-open class to the body, thus preventing scroll $('#gdpr\_modal').on('shown.bs.modal', function(e) { $('body').addClass('modal-open'); });
+var gdpr\_read\_more\_button = "Lesen Sie mehr dazu"; var gdpr\_read\_less\_button = "Text ausblenden"; // Opening a modal the instant another modal closes, fails to add the modal-open class to the body, thus preventing scroll $('#gdpr\_modal').on('shown.bs.modal', function(e) { $('body').addClass('modal-open'); }); window.gdpr\_policies = GdprPolicies({ language: site\_language, domain\_base: domain\_base, min\_log\_level: '5' })
 
 ×
 

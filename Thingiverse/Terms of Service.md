@@ -92,6 +92,7 @@ Submit
     *   *   [3D Printers](https://store.makerbot.com/3d-printers "Link to 3D Printers")
         *   [Extruders](https://store.makerbot.com/3d-printers-extruders "Link to Extruders")
         *   [Materials](https://store.makerbot.com/3d-printers-materials "Link to Materials")
+        *   [Winter Promo](https://store.makerbot.com/3d-printers/method-winter21-promo?_gl=1*1yaq7gz*_gcl_aw*R0NMLjE2MDMzNzY4MzMuQ2owS0NRancyOFQ4QlJEYkFSSXNBRU9NQmN5aElldVYzVDdIb205TkZtV0tVQ3lMR2t5Nng1Zmx3ZllrY0NXQ014TkpoTTFaTHV1aDduSWFBdWNBRUFMd193Y0I. "Link to Winter Promo")
     *   *   [Request a Quote](https://www.makerbot.com/contact-us/)
         *   [Buy](https://store.makerbot.com/)
 
@@ -122,7 +123,7 @@ Submit
 [![](https://3qcbdntxdyb43ubh6h0b0qgz-wpengine.netdna-ssl.com/wp-content/themes/genesis-makerbot/images/icon-cart.png)](https://store.makerbot.com/checkout/cart)
 
 *   [Log In](https://login.makerbot.com/)
-*   [You](https://my.makerbot.com/)
+*   [You](https://cloudprint.makerbot.com/settings/account/info)
 *   [3D Printers](https://www.makerbot.com/3d-printers/)
     
     [Back](#)[](https://www.makerbot.com/legal/terms/)
@@ -190,6 +191,7 @@ Submit
     *   [3D Printers](https://store.makerbot.com/3d-printers)
     *   [Extruders](https://store.makerbot.com/3d-printers-extruders)
     *   [Materials](https://store.makerbot.com/3d-printers-materials)
+    *   [Winter Promo](https://store.makerbot.com/3d-printers/method-winter21-promo?_gl=1*1yaq7gz*_gcl_aw*R0NMLjE2MDMzNzY4MzMuQ2owS0NRancyOFQ4QlJEYkFSSXNBRU9NQmN5aElldVYzVDdIb205TkZtV0tVQ3lMR2t5Nng1Zmx3ZllrY0NXQ014TkpoTTFaTHV1aDduSWFBdWNBRUFMd193Y0I.)
 
  
 
@@ -222,11 +224,11 @@ MakerBot Terms of Use
 
    
 
-**LAST DATE UPDATED**: August 18, 2020
+**LAST DATE UPDATED**: January 26, 2021
 
 We updated the MakerBot Terms of Use to:
 
-*   Update the Trademark notices.
+*   Update the trademark information.
 
 IMPORTANT PLEASE READ THESE TERMS OF USE CAREFULLY. THIS IS A LEGAL AGREEMENT BETWEEN YOU AND THE COMPANY FOR THE USE OF THE SITES AND SERVICES. BY ACCESSING OR USING THE SITES YOU ARE ACCEPTING THESE TERMS OF USE (ON BEHALF OF YOURSELF OR THE ENTITY THAT YOU REPRESENT) AND YOU REPRESENT AND WARRANT THAT YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO ENTER INTO THESE TERMS OF USE (ON BEHALF OF YOURSELF OR THE ENTITY THAT YOU REPRESENT). IF YOU DO NOT AGREE WITH ALL OF THE PROVISIONS OF THESE TERMS OF USE, DO NOT ACCESS OR USE THE SITES.
 
@@ -336,9 +338,9 @@ We will terminate the accounts of users who repeatedly infringe intellectual pro
 
 12.3 **Entire Agreement**. These Terms of Use, and any supplemental terms, policies, and guidelines incorporated herein, including, but not limited to the MakerBot Terms of Sale, MakerBot Privacy Policy, and related Company End-User License agreements, constitute the entire agreement between you and us regarding the use of the Sites and Services. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. The section titles in these Terms of Use are for convenience only and have no legal or contractual effect. The word including means including without limitation. If any provision of these Terms of Use is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms of Use will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. Your relationship to the Company is that of an independent contractor, and neither party is an agent or partner of the other. These Terms of Use, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without the Company’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void. These Terms of Use shall be binding upon assignees.
 
-12.4 **Copyright/Trademark Information**. Copyright ©2010-2020 MakerBot Industries, LLC. All rights reserved. All trademarks, logos and service marks (“**Marks**“) displayed on the Sites are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
+12.4 **Copyright/Trademark Information**. Copyright ©2010-2021 MakerBot Industries, LLC. All rights reserved. All trademarks, logos and service marks (“**Marks**“) displayed on the Sites are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
 
-MAKERBOT, the MAKERBOT logo, BOTCAVE, BOTFARM, MAKERBOT ACADEMY, MAKERBOT CERTIFICATION, MAKERBOT CLOUD, MAKERBOT CLOUDPRINT, MAKERBOT DESKTOP, MAKERBOT DIGITIZER, MAKERBOT EDUCATION, MAKERBOT EDUCATOR, MAKERBOT INNOVATION CENTER, MAKERBOT LABS, MAKERBOT METHOD, MAKERBOT METHOD X, MAKERBOT MOBILE, MAKERBOT MULTISCAN, MAKERBOT PRINT, MAKERBOT PRINTSHOP, MAKERBOT REPLICATOR, MAKERBOT SKETCH, MAKERBOT SKETCH CLASSROOM, MAKERBOT STUDIO, MAKERBOT TOUGH, MAKERCARE, MAKERWARE, METHOD, MIGHTY BOARD, PRECISION, REAL-TIME PROTOTYPING, SKETCH, STEPSTRUDER, THE REPLICATOR, THING-O-MATIC, THINGIVERSE, THINGIVERSE EDUCATION, THINGIVERSE MOBILE, TOUGH, and TOUGH PLA  are trademarks or registered marks of MakerBot Industries, LLC. All rights reserved.
+MAKERBOT, the MAKERBOT logo, BOTCAVE, BOTFARM, MAKERBOT ACADEMY, MAKERBOT CERTIFICATION, MAKERBOT CLOUD, MAKERBOT CLEAN AIR, MAKERBOT CLOUDPRINT, MAKERBOT DESKTOP, MAKERBOT DIGITIZER, MAKERBOT EDUCATION, MAKERBOT EDUCATOR, MAKERBOT INNOVATION CENTER, MAKERBOT LABS, MAKERBOT METHOD, MAKERBOT METHOD X, MAKERBOT MOBILE, MAKERBOT MULTISCAN, MAKERBOT PRINT, MAKERBOT PRINTSHOP, MAKERBOT REPLICATOR, MAKERBOT SKETCH, MAKERBOT SKETCH CLASSROOM, MAKERBOT STUDIO, MAKERBOT TOUGH, MAKERCARE, MAKERWARE, METHOD, MIGHTY BOARD, PRECISION, REAL-TIME PROTOTYPING, SKETCH, STEPSTRUDER, THE REPLICATOR, THING-O-MATIC, THINGIVERSE, THINGIVERSE EDUCATION, THINGIVERSE MOBILE, TOUGH, and TOUGH PLA  are trademarks or registered marks of MakerBot Industries, LLC. All rights reserved.
 
 STRATASYS and SR-30 are trademarks of Stratasys, Inc.
 
@@ -354,14 +356,14 @@ Footer
 *   [About Us](https://www.makerbot.com/about-us/)
 *   [Legal](https://www.makerbot.com/legal/home/)
 *   [Privacy Policy](https://www.makerbot.com/legal/privacy/)
-*   [Careers](https://www.makerbot.com/careers/)
 *   [Press Materials](https://www.makerbot.com/press/)
 *   [MakerBot Stories](https://www.makerbot.com/stories/)
 *   [MakerBot LATAM](https://www.makerbotstore.com.br/)
 *   [Partner Portal](https://makerbot.force.com/communitylogin)
 *   [Become a Reseller](https://pages.makerbot.com/reseller-signup.html)
 *   [AUTHORIZED SERVICE PARTNERS](https://www.makerbot.com/service-partners/)
+*   [MakerBot Careers](https://www.makerbot.com/open-roles/)
 
 [![MakerBot logo](https://3qcbdntxdyb43ubh6h0b0qgz-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MB-SSYS-Logo.png)](https://www.makerbot.com/) © 2009–2020 MakerBot Industries, LLC One MetroTech Center, 21st Fl, Brooklyn, NY 11201 USA
 
-var initESW = function(gslbBaseURL) { embedded\_svc.settings.displayHelpButton = true; //Or false embedded\_svc.settings.language = ''; //For example, enter 'en' or 'en-US' //embedded\_svc.settings.defaultMinimizedText = '...'; //(Defaults to Chat with an Expert) //embedded\_svc.settings.disabledMinimizedText = '...'; //(Defaults to Agent Offline) //embedded\_svc.settings.loadingText = ''; //(Defaults to Loading) //embedded\_svc.settings.storageDomain = 'yourdomain.com'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session) // Settings for Chat //embedded\_svc.settings.directToButtonRouting = function(prechatFormData) { // Dynamically changes the button ID based on what the visitor enters in the pre-chat form. // Returns a valid button ID. //}; //embedded\_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields //embedded\_svc.settings.fallbackRouting = \[\]; //An array of button IDs, user IDs, or userId\_buttonId //embedded\_svc.settings.offlineSupportMinimizedText = '...'; //(Defaults to Contact Us) embedded\_svc.settings.enabledFeatures = \['LiveAgent'\]; embedded\_svc.settings.entryFeature = 'LiveAgent'; embedded\_svc.init( 'https://makerbot.my.salesforce.com', 'https://makerbot.force.com', gslbBaseURL, '00Dj0000000HOnW', 'Web\_Chat\_v1', { baseLiveAgentContentURL: 'https://c.la3-c1-dfw.salesforceliveagent.com/content', deploymentId: '5720a000000TZyF', buttonId: '5730a000000TblT', baseLiveAgentURL: 'https://d.la3-c1-dfw.salesforceliveagent.com/chat', eswLiveAgentDevName: 'EmbeddedServiceLiveAgent\_Parent04I0a000000003eEAA\_17010e8ae8d', isOfflineSupportEnabled: true } ); }; if (!window.embedded\_svc) { var s = document.createElement('script'); s.setAttribute('src', 'https://makerbot.my.salesforce.com/embeddedservice/5.0/esw.min.js'); s.onload = function() { initESW(null); }; document.body.appendChild(s); } else { initESW('https://service.force.com'); } /\* <!\[CDATA\[ \*/ var genesis\_responsive\_menu = {"mainMenu":"<span class=\\"hamburger-box\\"><span class=\\"hamburger-inner\\"><\\/span><\\/span>","menuIconClass":"hamburger hamburger--slider","subMenu":"Submenu","subMenuIconsClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":\[".nav-primary",".nav-header"\],"others":\[\]}}; /\* \]\]> \*/
+< var initESW = function(gslbBaseURL) { embedded\_svc.settings.displayHelpButton = true; //Or false embedded\_svc.settings.language = ''; //For example, enter 'en' or 'en-US' //embedded\_svc.settings.defaultMinimizedText = '...'; //(Defaults to Chat with an Expert) //embedded\_svc.settings.disabledMinimizedText = '...'; //(Defaults to Agent Offline) //embedded\_svc.settings.loadingText = ''; //(Defaults to Loading) //embedded\_svc.settings.storageDomain = 'yourdomain.com'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session) // Settings for Chat //embedded\_svc.settings.directToButtonRouting = function(prechatFormData) { // Dynamically changes the button ID based on what the visitor enters in the pre-chat form. // Returns a valid button ID. //}; //embedded\_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields //embedded\_svc.settings.fallbackRouting = \[\]; //An array of button IDs, user IDs, or userId\_buttonId //embedded\_svc.settings.offlineSupportMinimizedText = '...'; //(Defaults to Contact Us) embedded\_svc.settings.enabledFeatures = \['LiveAgent'\]; embedded\_svc.settings.entryFeature = 'LiveAgent'; embedded\_svc.init( 'https://makerbot.my.salesforce.com', 'https://makerbot.force.com', gslbBaseURL, '00Dj0000000HOnW', 'Web\_Chat\_v1', { baseLiveAgentContentURL: 'https://c.la3-c1-dfw.salesforceliveagent.com/content', deploymentId: '5720a000000TZyF', buttonId: '5730a000000TblT', baseLiveAgentURL: 'https://d.la3-c1-dfw.salesforceliveagent.com/chat', eswLiveAgentDevName: 'EmbeddedServiceLiveAgent\_Parent04I0a000000003eEAA\_17010e8ae8d', isOfflineSupportEnabled: true } ); }; if (!window.embedded\_svc) { var s = document.createElement('script'); s.setAttribute('src', 'https://makerbot.my.salesforce.com/embeddedservice/5.0/esw.min.js'); s.onload = function() { initESW(null); }; document.body.appendChild(s); } else { initESW('https://service.force.com'); } /\* <!\[CDATA\[ \*/ var genesis\_responsive\_menu = {"mainMenu":"<span class=\\"hamburger-box\\"><span class=\\"hamburger-inner\\"><\\/span><\\/span>","menuIconClass":"hamburger hamburger--slider","subMenu":"Submenu","subMenuIconsClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":\[".nav-primary",".nav-header"\],"others":\[\]}}; /\* \]\]> \*/

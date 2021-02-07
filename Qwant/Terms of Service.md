@@ -10,7 +10,7 @@
 
 
 *   [products & advertising](https://about.qwant.com/products/)
-*   [blog](https://blog.qwant.com/)
+*   [blog](https://betterweb.qwant.com/en)
 *   [help center](https://help.qwant.com/)
 *   [jobs](https://about.qwant.com/jobs/)
 *   [press](https://about.qwant.com/press/)

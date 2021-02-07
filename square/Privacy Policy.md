@@ -310,7 +310,7 @@ We do a lot to keep your data safe. While we think we have strong defenses in pl
 
 We take reasonable measures, including administrative, technical, and physical safeguards, to protect your information from loss, theft, and misuse, and unauthorized access, disclosure, alteration, and destruction. Nevertheless, the internet is not a 100% secure environment, and we cannot guarantee absolute security of the transmission or storage of your information. We hold information about you both at our own premises and with the assistance of third-party service providers.
 
-For more information about our security practices, please visit [https://squareup.com/security](https://squareup.com/security).
+For more information about our security practices, please visit [https://squareup.com/us/en/security](https://squareup.com/us/en/security).
 
 ### STORAGE AND PROCESSING
 

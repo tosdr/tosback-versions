@@ -98,6 +98,7 @@ United States
 *   [Privacy Statement](https://www.endurance.com/our-policies/privacy-statement/)
 *   [Terms of Use](https://www.endurance.com/our-policies/terms-of-use/)
 *   [Infringement Policy](https://www.endurance.com/our-policies/infringement-policy/)
+*   [Do Not Call Policy](https://www.endurance.com/privacy/do-not-call-policy)
 
 *   [Our Company](https://www.endurance.com/our-company)
     

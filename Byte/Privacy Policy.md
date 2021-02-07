@@ -187,7 +187,7 @@ Email: [hello@byte.co](mailto:hello@byte.co)
 
 Address: Byte, PO Box 611, New York, NY 10272
 
-[jobs](https://jobs.lever.co/byte-2)
+[jobs](https://jobs.lever.co/clashapp)
 
 [community](https://community.byte.co/)
 

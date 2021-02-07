@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Privacy Policy last modified: December 29, 2020, 14:28:39, UTC.
+Privacy Policy last modified: January 08, 2021, 16:06:24, UTC.
 
 The short version
 -----------------

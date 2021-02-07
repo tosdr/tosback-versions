@@ -15,6 +15,7 @@ You will also want to read and understand **[What Happens to Your Personal Data]
 *   [H. Service Data](https://www.ccleaner.com/about/privacy-policy/what-happens-to-your-data#H)
 *   [I. Account Data](https://www.ccleaner.com/about/privacy-policy/what-happens-to-your-data#I)
 *   [J. Live Events and Competitions](https://www.ccleaner.com/about/privacy-policy/what-happens-to-your-data#J)
+*   [K. Kamo Privacy Policy](https://www.ccleaner.com/about/privacy-policy/what-happens-to-your-data#K)
 
 You may also click on the links below to move easily to the sections on this page:
 

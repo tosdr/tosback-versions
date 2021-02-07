@@ -1,7 +1,7 @@
 ![](https://www.facebook.com/tr?id=181106412480226&ev=PageView
 &noscript=1)  (function(w,d,s,l,i){w\[l\]=w\[l\]||\[\];w\[l\].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)\[0\], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-N93TS24'); Static.COOKIE\_BANNER\_CAPABLE = true; (function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){(i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-44676098-1', 'auto');ga('send', 'pageview');
 
- [![Pear Deck](//static1.squarespace.com/static/5a5031001f318dd30f2083e1/t/5f1c9ee485d7250b810d052e/1608334938929/?format=1500w)](https://www.peardeck.com/) 
+ [![Pear Deck](//static1.squarespace.com/static/5a5031001f318dd30f2083e1/t/5f1c9ee485d7250b810d052e/1612561909976/?format=1500w)](https://www.peardeck.com/) 
 
 Get Started Teaching Resources Community For Schools & Districts [Pricing](https://www.peardeck.com/pricing)
 
@@ -19,7 +19,7 @@ Back [Learning Science](https://www.peardeck.com/efficacy) [Remote Learning Reso
 
 [Get Started](https://www.peardeck.com/menu-get-started) [Remote Learning](https://www.peardeck.com/remote-learning) [For Google](https://www.peardeck.com/googleslides) [For Microsoft](https://www.peardeck.com/microsoft) [Flashcard Factory](https://www.peardeck.com/pear-deck-vocabulary) [Teaching Resources](https://www.peardeck.com/menu-teaching-resources) [Explore Content](https://www.peardeck.com/orchard) [Help Videos](https://www.peardeck.com/help-videos) [Training & Webinars](https://www.peardeck.com/learn-pear-deck) [Teaching Blog](https://www.peardeck.com/blog) [Be Internet Awesome](https://www.peardeck.com/be-internet-awesome) [Active Learning](https://www.peardeck.com/active-learning) [Knowledge Base](http://help.peardeck.com/) [Community](https://www.peardeck.com/community) [Achievements](https://www.peardeck.com/achievements) [Inspearational Educators](https://www.peardeck.com/inspearational-educators) [Share the Pear](https://www.peardeck.com/sharethepear) [Coach Program](https://www.peardeck.com/coach-interest-form) [Giving Back](https://www.peardeck.com/peary-good-works) [For Schools & Districts](https://www.peardeck.com/schools-districts) [Learning Science](https://www.peardeck.com/efficacy) [Remote Learning Resources](https://www.peardeck.com/remote-learning-admin) [Support Great Teaching](https://www.peardeck.com/pricing) [LMS Integrations](https://www.peardeck.com/lms) [Privacy & Security](https://www.peardeck.com/privacy) [Pricing](https://www.peardeck.com/pricing)
 
- [![Pear Deck](//static1.squarespace.com/static/5a5031001f318dd30f2083e1/t/5f1c9ee485d7250b810d052e/1608334938929/?format=1500w)](https://www.peardeck.com/) 
+ [![Pear Deck](//static1.squarespace.com/static/5a5031001f318dd30f2083e1/t/5f1c9ee485d7250b810d052e/1612561909976/?format=1500w)](https://www.peardeck.com/) 
 
 Powerful Learning Moments
 
@@ -256,12 +256,22 @@ Hours
 
 [**About Us**](https://www.peardeck.com/about) **|** [**Join the Team**](https://pear-deck.breezy.hr/) **|** [**Help Desk**](https://www.peardeck.com/help-request)
 
-**Mailing Address**  
-308 E Burlington St #303,  
-Iowa City, IA 52240-1602
+[
+
+![GoGuardian_logo_1c_white.png](https://images.squarespace-cdn.com/content/v1/5a5031001f318dd30f2083e1/1611766550360-EAKBYLV63GIFAVX7MQ42/ke17ZwdGBToddI8pDm48kNPWSATGCKk63dWp_XCB0rHlfiSMXz2YNBs8ylwAJx2qgRUppHe6ToX8uSOdETM-XldvY_sAIyUlfjhoEMtv77FdwsWTiYN9rJ66lB7Ar3xKHnUu4XYw0BnjPKiYRayIVX7PBodWlwmxZqFX5vTq65E/GoGuardian_logo_1c_white.png)
+
+
+
+](https://www.goguardian.com/)
+
+[**GoGuardian Admin**](https://www.goguardian.com/admin/)[**GoGuardian Teacher**](https://www.goguardian.com/teacher/)[**GoGuardian Beacon**](https://www.goguardian.com/beacon/)[**Request a GoGuardian Quote**](https://www.goguardian.com/pricing/)[**GoGuardian Blog**](https://www.goguardian.com/blog/)
 
 Tel [**319-209-5165**](tel:+13192095165)   
 Fax [**319-483-6949**](tel:+13194836949)Help [**1-833-PEARDECK**](tel:183373273325)
+
+**Mailing Address**  
+308 E Burlington St #303,  
+Iowa City, IA 52240-1602
 
 ©2020 Pear Deck, Inc. All Rights Reserved. [**Terms of Service**](https://github.com/peardeck/policies/blob/master/terms-of-service.md)  |  [**Privacy Policy**](https://github.com/peardeck/policies/blob/master/privacy-policy.md)
 

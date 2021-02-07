@@ -15,7 +15,7 @@ Helping people feel close to one another
 Privacy Policy
 ==============
 
-This privacy policy ("Policy") sets out how we, Joya Communications Inc. ("Joya"), makers of the Marco Polo®video sharing app (the “Marco Polo App”) and Marco Polo Channels app (the “Channels App,” and together with the Marco Polo App, the “Apps,” use and protect the personal information of people who use the Apps or who visit Marco Polo websites such as www.marcopolo.me (the “Marco Polo Website”). We will refer to the Marco Polo App, Channels App, and Marco Polo Website collectively as the "Service" or “Marco Polo.”
+This privacy policy ("Policy") sets out how we, Joya Communications Inc. ("Joya"), makers of the Marco Polo® video sharing app (the “Marco Polo App”) and Marco Polo Channels app (the “Channels App,” and together with the Marco Polo App, the “Apps,” use and protect the personal information of people who use the Apps or who visit Marco Polo websites such as www.marcopolo.me (the “Marco Polo Website”). We will refer to the Marco Polo App, Channels App, and Marco Polo Website collectively as the "Service" or “Marco Polo.”
 
 ### [](#privacy-principles)Privacy Principles
 
@@ -70,7 +70,7 @@ Other Channels group members will see your name and photo, but your email and mo
 
 If you subscribe to a Channels group, the Channels leader and other members will also receive any other personal information you choose to share with the group.
 
-To be a Channels member, you need to provide a valid credit card number, expiration date, CCV, and billing zipcode. This data is directly processed by Stripe and only the last four digits of the credit card number and billing zip code are made available to Joya and the group leader. Although we receive the last four digits of Channels members’ credit card number, we do not store it. Also, although Channels leaders may also see the last four digits of members’ credit card number, they are contractually obligated to not share or otherwise use that information. For more information about how Stripe will use this information, please visit Stripe’s privacy policy at [https://stripe.com/privacy-center/legal](https://stripe.com/privacy-center/legal).
+To be a Channels member, you pay the subscription fee directly to the Channels leader or through Joya. If through Joya, you need to provide a valid credit card number, expiration date, CCV, and billing zipcode. This data is directly processed by Stripe and only the last four digits of the credit card number and billing zip code are made available to Joya and the group leader. Although we receive the last four digits of Channels members’ credit card number, we do not store it. Also, although Channels leaders may also see the last four digits of members’ credit card number, they are contractually obligated to not share or otherwise use that information. For more information about how Stripe will use this information, please visit Stripe’s privacy policy at [https://stripe.com/privacy-center/legal](https://stripe.com/privacy-center/legal).
 
 #### [](#3-user-support)3\. User Support
 
@@ -98,7 +98,7 @@ With Chrome:
 2.  At the bottom, click Advanced.
 3.  Under "Privacy and security," turn on "Do Not Track."
 
-With Firefox, follow the instructions [here](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature/).
+With Firefox, follow the instructions [here](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature/).
 
 **Managing your Information**
 
@@ -156,7 +156,7 @@ If you unsubscribe, we may still need to send you non-marketing emails about you
 
 We may also send you text notifications. You may opt out of receiving text messages by replying to the last message received or by emailing us at privacy@marcopolo.me with your mobile number and a request to stop sending messages.
 
-You may also send requests about your Personal Information to [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy). You can also request to change your contact choices, opt-out of our sharing with others, and update your Personal Information.
+You may also send requests about your Personal Information to [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy). You can also request to change your contact choices, opt-out of our sharing with others, and update your Personal Information.
 
 ### [](#links-to-other-sites)Links to Other Sites
 
@@ -168,22 +168,17 @@ We are committed to protecting the security of your Personal Information. We hav
 
 ### [](#california-consumer-privacy-act-ccpa-and-general-data-protection-regulation-gdpr)California Consumer Privacy Act (CCPA) and General Data Protection Regulation (GDPR)
 
-The CCPA and GDPR provides rights to certain individuals located in California and the European Union. **We apply these rights to all of our users**. You can contact us about these rights at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+The CCPA and GDPR provides rights to certain individuals located in California and the European Union. **We apply these rights to all of our users**. You can contact us about these rights at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
 #### [](#ccpa)CCPA
 
 We do not disclose Personal Information beyond what is described in this Policy. All our users, including those in California, have the following rights.
 
-*   Right to access: You have the right to know and see what data we have collected about you over the past 12 months including:
-*   *   categories of personal information we have collected about you;
-    *   categories of sources from which the personal information is collected;
-    *   the business or commercial purpose for collecting your personal information;
-    *   the categories of third parties with whom we have shared your personal information; and
-    *   the specific pieces of personal information we have collected about you.
+*   Right to access: You have the right to know and see what data we have collected about you over the past 12 months including: - categories of personal information we have collected about you; - categories of sources from which the personal information is collected; - the business or commercial purpose for collecting your personal information; - the categories of third parties with whom we have shared your personal information; and - the specific pieces of personal information we have collected about you.
 *   Right to deletion: You have the right to request that we delete in certain circumstances the personal information we have collected from you.
 *   Right not to be discriminated against: You have the right not to be discriminated against for exercising any of these rights.
 
-To request access to or deletion of your personal information, or to exercise any other data rights under the CCPA, please contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+To request access to or deletion of your personal information, or to exercise any other data rights under the CCPA, please contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
 ### [](#general-data-protection-regulation-gdpr)General Data Protection Regulation (GDPR)
 
@@ -191,11 +186,11 @@ We, Joya, are the data controller of your Personal Information. Our contact info
 
 #### [](#information-according-to-gdpr-article-27-and-uk-laws)Information according to GDPR Article 27 and UK laws
 
-Joya Communications Inc is a company located outside of the European Union. In order to comply with GDPR Article 27 and UK laws, Prighter has been engaged as our representative in the European Union and the UK. If you want to contact us via our representative Prighter or make use of your data subject rights (e.g. requests to access or erase personal data), please visit the [https://prighter.com/q/1421120​2](https://prighter.com/q/14211202) or simply email us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+Joya Communications Inc is a company located outside of the European Union. In order to comply with GDPR Article 27 and UK laws, Prighter has been engaged as our representative in the European Union and the UK. If you want to contact us via our representative Prighter or make use of your data subject rights (e.g. requests to access or erase personal data), please visit the [https://prighter.com/q/1421120​2](https://prighter.com/q/14211202) or simply email us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
-We also have an appointed Data Protection Officer, who can be contacted at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+We also have an appointed Data Protection Officer, who can be contacted at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
-All our users, including those in the European Economic Area (EEA), have the following rights, about which you can contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+All our users, including those in the European Economic Area (EEA), have the following rights, about which you can contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
 1.  Right to access: the right to request certain information about, access to and copies of the Personal Information about you that we are holding;
 2.  Right to request that we rectify, limit, cease processing or erase information we hold about you in certain circumstances;
@@ -231,13 +226,13 @@ If you delete your Account, your Personal Information will be deleted plus you w
 
 ### [](#contact-information)Contact Information
 
-We welcome your comments or questions about this Policy. You may contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
+We welcome your comments or questions about this Policy. You may contact us at [privacy@marcopolo.me](mailto:privacy@marcopolo.me?Subject=Privacy).
 
 ### [](#changes-to-privacy-policy)Changes to Privacy Policy
 
 We may modify this Policy from time to time. If we make any changes, we will change the Last Updated date below. We also may provide additional notice, as applicable, depending on the type of change. If you object to any changes, you may stop using the Service. Your continued use of the Service after we publish or otherwise provide notice about our changes to the Policy means that you have read and understood the updated Policy.
 
-Last Updated on Jan 3, 2021.
+Last Updated on Jan 29, 2021.
 
 *   [Media Room](https://www.getjoya.com/media/ "Media Room")
 *   [Jobs](https://www.getjoya.com/jobs/ "Jobs")

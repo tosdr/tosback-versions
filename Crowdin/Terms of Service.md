@@ -652,7 +652,7 @@ Your Crowdin Team.
 
 $(function() { $('table', '#article-body').addClass('table margin-top'); });
 
-*   © 2020 Crowdin
+*   © 2021 Crowdin
 *   [Contact](https://crowdin.com/contacts)
 
 *   [Status](https://status.crowdin.com/)

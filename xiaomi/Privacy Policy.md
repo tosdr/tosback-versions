@@ -35,12 +35,6 @@ Mi Phones
 
  [](https://www.mi.com/global/list/) [More](https://www.mi.com/global/list/) 
 
- [](https://www.mi.com/global/mi-10-pro/) [Mi 10 Pro](https://www.mi.com/global/mi-10-pro/) 
-
- [](https://www.mi.com/global/mi-10/) [Mi 10](https://www.mi.com/global/mi-10/) 
-
- [](https://www.mi.com/global/mi-9-lite/) [Mi 9 Lite](https://www.mi.com/global/mi-9-lite/) 
-
 POCOPHONE
 
  [](https://www.poco.net/global/) [POCO M3](https://www.poco.net/global/) 
@@ -53,15 +47,15 @@ POCOPHONE
 
 Redmi Phones
 
+ [](https://www.mi.com/global/redmi-note-9t/overview) [Redmi Note 9T](https://www.mi.com/global/redmi-note-9t/overview) 
+
+ [](https://www.mi.com/global/redmi-9t/overview) [Redmi 9T](https://www.mi.com/global/redmi-9t/overview) 
+
  [](https://www.mi.com/global/redmi-9c/) [Redmi 9C](https://www.mi.com/global/redmi-9c/) 
 
  [](https://www.mi.com/global/redmi-9a/) [Redmi 9A](https://www.mi.com/global/redmi-9a/) 
 
  [](https://www.mi.com/global/redmi-9) [Redmi 9](https://www.mi.com/global/redmi-9) 
-
- [](https://www.mi.com/global/redmi-note-9-pro) [Redmi Note 9 Pro](https://www.mi.com/global/redmi-note-9-pro) 
-
- [](https://www.mi.com/global/redmi-note-9) [Redmi Note 9](https://www.mi.com/global/redmi-note-9) 
 
  [](https://www.mi.com/global/list/) [More](https://www.mi.com/global/list/) 
 
@@ -81,19 +75,17 @@ Mi TV
 
 Smart Devices
 
- [](https://www.mi.com/global/mi-smart-band-4c/) [ Mi Smart Band 4C](https://www.mi.com/global/mi-smart-band-4c/) 
-
- [](https://www.mi.com/global/mi-electric-scooter-1S/) [Mi Electric Scooter 1S](https://www.mi.com/global/mi-electric-scooter-1S/) 
+ [](https://www.mi.com/global/mi-smart-band-5/) [Mi Smart Band 5](https://www.mi.com/global/mi-smart-band-5/) 
 
  [](https://www.mi.com/global/mi-true-wireless-earphone-2-basic/) [Mi True Wireless Earphones 2 Basic](https://www.mi.com/global/mi-true-wireless-earphone-2-basic/) 
 
+ [](https://www.mi.com/global/mi-electric-scooter-1S/) [Mi Electric Scooter 1S](https://www.mi.com/global/mi-electric-scooter-1S/) 
+
  [](https://www.mi.com/global/mi-smart-led-bulb-cool-white) [Mi Smart LED Bulb (Cool White)](https://www.mi.com/global/mi-smart-led-bulb-cool-white) 
 
- [](https://www.mi.com/global/mi-smart-band-5/) [Mi Smart Band 5](https://www.mi.com/global/mi-smart-band-5/) 
+ [](https://www.mi.com/global/mi-smart-band-4c/) [ Mi Smart Band 4C](https://www.mi.com/global/mi-smart-band-4c/) 
 
  [](https://www.mi.com/global/list/) [More](https://www.mi.com/global/list/) 
-
- [](https://www.mi.com/global/mi-tv-stick/) [Mi TV Stick](https://www.mi.com/global/mi-tv-stick/) 
 
 [All Products](https://www.mi.com/global/list/)
 
@@ -105,7 +97,7 @@ Smart Devices
 
 xmot('clickWith', { targetSelector :'.main-category a\[data-ot-info\]', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = data.elementName || '' data.elementTitle = data.elementTitle || '' data.subModuleTitle = data.subModuleTitle || '' data.linkUrl = el.href data.tip = data.tip || {} data.tip.d = data.d data.tip.c = 3 data.tip.e = 3084 return data }) xmot('clickWith', { targetSelector : '.products-exhibit .product-image\[data-ot-info\]', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = data.elementName || '' data.elementTitle = data.elementTitle || '' data.subModuleTitle = data.subModuleTitle || '' data.linkUrl = el.href data.tip = data.tip || {} data.tip.d = data.d data.tip.c = data.c data.tip.e = 3084 return data })
 
-xmot('clickWith', { targetSelector : '#J\_signEntries a', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = 'account\_menu' data.elementTitle = data.elementName data.subModuleTitle = data.subModuleTitle data.linkUrl = el.href data.tip = data.tip || {} data.tip.c = "3|topbar\_nav" data.tip.d = data.d data.tip.e = 3084 return data }) xmot('clickWith', { targetSelector : '.accountMenu', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = data.elementName data.elementTitle = data.elementTitle data.subModuleTitle = data.subModuleTitle data.linkUrl = el.href data.tip = data.tip || {} data.tip.c = "3|topbar\_nav" data.tip.d = data.d data.tip.e = 3084 return data }) window.\_\_VERSION\_\_=Math.max(window.\_\_VERSION\_\_||0,1608012960222)
+xmot('clickWith', { targetSelector : '#J\_signEntries a', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = 'account\_menu' data.elementTitle = data.elementName data.subModuleTitle = data.subModuleTitle data.linkUrl = el.href data.tip = data.tip || {} data.tip.c = "3|topbar\_nav" data.tip.d = data.d data.tip.e = 3084 return data }) xmot('clickWith', { targetSelector : '.accountMenu', targetDataAttr : 'data-ot-info', }, function(data, el) { data.elementName = data.elementName data.elementTitle = data.elementTitle data.subModuleTitle = data.subModuleTitle data.linkUrl = el.href data.tip = data.tip || {} data.tip.c = "3|topbar\_nav" data.tip.d = data.d data.tip.e = 3084 return data }) window.\_\_VERSION\_\_=Math.max(window.\_\_VERSION\_\_||0,1611213079330)
 
 [About Us](https://www.mi.com/global/about/) [Press & Media](https://www.mi.com/global/about/mediakit/) [Social Media](https://www.mi.com/global/social/) [User Agreement](https://www.mi.com/global/about/agreement/) [Privacy Policy](https://www.mi.com/global/about/privacy/) [Certification](https://www.mi.com/global/certification/) [Environment](https://www.mi.com/global/about/environment/)
 
@@ -277,11 +269,11 @@ We want to hear from you!
 
 LEARN MORE
 
-[Mi 9 Lite](https://www.mi.com/global/mi-9-lite/)
+[Mi 10T Pro](https://www.mi.com/global/mi-10t-pro/)
 
-[Redmi Note 7](https://www.mi.com/global/redmi-note-7/)
+[Redmi Note 9T](https://www.mi.com/global/redmi-note-9t/overview)
 
-[MI 9T Pro](https://www.mi.com/global/mi-9-t-pro/)
+[Mi 10T Lite](https://www.mi.com/global/mi-10t-lite/)
 
 SUPPORT
 
@@ -290,6 +282,8 @@ SUPPORT
 [Warranty](https://www.mi.com/global/service/warranty/)
 
 [User Guide](https://www.mi.com/global/service/userguide/)
+
+[EU Declaration of Conformity](https://www.mi.com/global/service/support/declaration.html)
 
 [Scooter Safety Notice](https://www.mi.com/global/support/scooter-safety-notice)
 
@@ -323,7 +317,7 @@ FOLLOW MI
 
 [More Regions](https://www.mi.com/global/social/ "More Regions")
 
-Copyright © 2010 - 2020 [Xiaomi](https://www.mi.com/global/index.html). All Rights Reserved
+Copyright © 2010 - 2021 Xiaomi. All Rights Reserved
 
 
 
@@ -349,4 +343,4 @@ var GLOBAL\_CONFIG = { goeventurl: 'https://hd.c.mi.com/global', wwwSite: 'https
 
 ![](https://www.facebook.com/tr?id=1174139212665166&ev=PageView&noscript=1)
 
-var \_msq = \_msq || \[\], idc = 'global'; \_msq.push(\['setDomainId', 110\]); \_msq.push(\['trackPageView'\]); (function() { var ms = document.createElement('script'); ms.type = 'text/javascript'; ms.async = true; switch (idc) { case 'in': ms.src = "https://s01.appmifile.com/stat/xmst-in.js"; break; case 'ru': ms.src = 'https://i01.appmifile.com/webfile/globalweb/stat/js/xmst\_ru.js'; break; default: ms.src = 'https://i01.appmifile.com/webfile/globalweb/stat/js/xmst-sg.js?v=20180712'; } var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(ms, s); })(); xmot('clickWith', { targetSelector: '.footer \[data-ot-click\]', }, function(data) { data.modulePos = 0 data.moduleTitle = 'footer' data.tip = data.tip || {} data.tip.e = 3924 return data }) window.\_\_VERSION\_\_=Math.max(window.\_\_VERSION\_\_||0,1608012954272)
+var \_msq = \_msq || \[\], idc = 'global'; \_msq.push(\['setDomainId', 110\]); \_msq.push(\['trackPageView'\]); (function() { var ms = document.createElement('script'); ms.type = 'text/javascript'; ms.async = true; switch (idc) { case 'in': ms.src = "https://s01.appmifile.com/stat/xmst-in.js"; break; case 'ru': ms.src = 'https://i01.appmifile.com/webfile/globalweb/stat/js/xmst\_ru.js'; break; default: ms.src = 'https://i01.appmifile.com/webfile/globalweb/stat/js/xmst-sg.js?v=20180712'; } var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(ms, s); })(); xmot('clickWith', { targetSelector: '.footer \[data-ot-click\]', }, function(data) { data.modulePos = 0 data.moduleTitle = 'footer' data.tip = data.tip || {} data.tip.e = 3924 return data }) window.\_\_VERSION\_\_=Math.max(window.\_\_VERSION\_\_||0,1611025588364)

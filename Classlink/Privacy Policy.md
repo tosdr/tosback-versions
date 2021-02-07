@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061dfa3081aaf9_classlink%20white.svg)](https://www.classlink.com/)
+[![ClassLink](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/601820fedaacb853412ae87d_cl-logo-blue.svg)](https://www.classlink.com/)
 
 [
 
@@ -6,7 +6,7 @@ K-12
 
 ](https://www.classlink.com/k-12/overview)
 
-[K-12 Overview](https://www.classlink.com/k-12/overview)[LaunchPad](https://www.classlink.com/k-12/launchpad)[File Access](https://www.classlink.com/k-12/file-access)[Analytics](https://www.classlink.com/k-12/analytics)[OneSync](https://www.classlink.com/k-12/onesync)[Roster Server](https://www.classlink.com/k-12/roster-server)[Login Options](https://www.classlink.com/k-12/sign-in-methods)
+[K-12 Overview](https://www.classlink.com/k-12/overview)[LaunchPad](https://www.classlink.com/k-12/launchpad)[Analytics](https://www.classlink.com/k-12/analytics)[File Access](https://www.classlink.com/k-12/file-access)[OneSync](https://www.classlink.com/k-12/onesync)[Roster Server](https://www.classlink.com/k-12/roster-server)[Login Options](https://www.classlink.com/k-12/sign-in-methods)
 
 [
 
@@ -14,7 +14,7 @@ Higher Ed
 
 ](https://www.classlink.com/higher-ed/overview)
 
-[Higher Ed Overview](https://www.classlink.com/higher-ed/overview)[LaunchPad](https://www.classlink.com/higher-ed/launchpad)[File Access](https://www.classlink.com/higher-ed/file-access)[Analytics](https://www.classlink.com/higher-ed/analytics)[OneSync](https://www.classlink.com/higher-ed/onesync)
+[Higher Ed Overview](https://www.classlink.com/higher-ed/overview)[LaunchPad](https://www.classlink.com/higher-ed/launchpad)[Analytics](https://www.classlink.com/higher-ed/analytics)[File Access](https://www.classlink.com/higher-ed/file-access)[OneSync](https://www.classlink.com/higher-ed/onesync)
 
 [
 
@@ -22,7 +22,7 @@ Company
 
 ](https://www.classlink.com/company/about)
 
-[News](https://www.classlink.com/company/news)[About Us](https://www.classlink.com/company/about)[Privacy](https://www.classlink.com/company/privacy)[Trust](http://status.classlink.com/)[Awards](https://www.classlink.com/company/awards)[Partners](https://www.classlink.com/company/partners)[Careers](https://www.classlink.com/company/careers)[Contact Us](https://www.classlink.com/request-demo)
+[News](https://www.classlink.com/company/news)[About Us](https://www.classlink.com/company/about)[Privacy](https://www.classlink.com/company/privacy)[Security](https://www.classlink.com/company/security)[Trust](http://status.classlink.com/)[Awards](https://www.classlink.com/company/awards)[Partners](https://www.classlink.com/company/partners)[Careers](https://www.classlink.com/company/careers)
 
 [
 
@@ -30,7 +30,7 @@ Resources
 
 ](https://www.classlink.com/resources/videos)
 
-[Videos](https://www.classlink.com/resources/videos)[Case Studies](https://www.classlink.com/resources/case-studies)[Remote Learning](https://www.classlink.com/resources/remote-learning)[Blog](https://www.classlink.com/resources/blog)[Support](http://docs.classlink.com/)[Webinars](https://www.classlink.com/resources/webinars)[BYOD Central](https://www.classlink.com/resources/byod)
+[Videos](https://www.classlink.com/resources/videos)[Case Studies](https://www.classlink.com/resources/case-studies)[Remote Learning](https://www.classlink.com/resources/remote-learning)[Blog](https://www.classlink.com/resources/blog)[Support](http://docs.classlink.com/)[Webinars](https://www.classlink.com/resources/webinars)[LinkedUp Podcasts](https://www.classlink.com/resources/linkedup)[Deal Registration](https://www.classlink.com/resources/deal-registration)[BYOD Central](https://www.classlink.com/resources/byod)
 
 [
 
@@ -44,15 +44,15 @@ Contact
 
 ](#)
 
-[Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[Support Docs](https://support.classlink.com/hc/en-us)
+[Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[General](https://www.classlink.com/contact)
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd926fb452e689_usa-flag.svg)
+![USA Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd926fb452e689_usa-flag.svg)
 
 EN
 
 [
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922e8e52e68a_spain-flag.svg)
+![Spain Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922e8e52e68a_spain-flag.svg)
 
 ES
 
@@ -60,7 +60,7 @@ ES
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd923c0e52e691_saudi-arabia-flag.svg)
+![Saudi Arabia Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd923c0e52e691_saudi-arabia-flag.svg)
 
 AR
 
@@ -68,7 +68,7 @@ AR
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92224052e68b_japan-flag.svg)
+![Japan Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92224052e68b_japan-flag.svg)
 
 JA
 
@@ -76,7 +76,7 @@ JA
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922f9952e690_portugal-flag.svg)
+![Portugal Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd922f9952e690_portugal-flag.svg)
 
 PT
 
@@ -84,7 +84,7 @@ PT
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92c57052e68f_china-flag.svg)
+![China Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92c57052e68f_china-flag.svg)
 
 TW
 
@@ -92,7 +92,7 @@ TW
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92107a52e68c_france-flag.svg)
+![France Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92107a52e68c_france-flag.svg)
 
 FR
 
@@ -100,7 +100,7 @@ FR
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd9258d052e68e_germany-flag.svg)
+![Germany Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd9258d052e68e_germany-flag.svg)
 
 DE
 
@@ -108,7 +108,7 @@ DE
 
 ](#)[
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92dd4b52e68d_indonesia-flag.svg)
+![Indonesia Flag](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5fa17ce6a0bd92dd4b52e68d_indonesia-flag.svg)
 
 ID
 
@@ -118,7 +118,7 @@ ID
 
 Contact Us
 
-[Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[Support Docs](https://support.classlink.com/hc/en-us)
+[Tech Support](https://support.classlink.com/hc/en-us/requests/new)[Request Demo](https://www.classlink.com/request-demo)[General](https://www.classlink.com/contact)
 
 [
 
@@ -130,11 +130,12 @@ Privacy Statement
 
 ====================
 
-Updated November 24, 2020  
+Updated January 11, 2021  
 
 ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our [security protocols](https://www.classlink.com/company/security).  
 
-**Our guiding principles on personal data**
+Our guiding principles on personal data
+---------------------------------------
 
 *   Data Ownership: ClassLink acknowledges that all personally identifiable information (PII) about students, teachers, administrators, and parents is the property of the customers that ClassLink serves.  
     
@@ -156,10 +157,10 @@ ClassLink is committed to ensuring that your information is secure and your priv
 [International  
 ](#international)[USA](#usa)[Individual States](#states)
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e411e93c0d73383b3c3b6_student-privacy-pledge.jpg)
+![Student Privacy Pledge Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e411e93c0d73383b3c3b6_student-privacy-pledge.jpg)
 
-**International –** [**Student Privacy Pledge**](https://studentprivacypledge.org/)**, introduced by Future of Privacy Forum (FPF) and The Software & Information Industry Association (SIIA)  
-**
+International – [Student Privacy Pledge](https://studentprivacypledge.org/), introduced by Future of Privacy Forum (FPF) and The Software & Information Industry Association (SIIA)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ClassLink is a signatory to the Student Privacy Pledge and abides by the commitments therein as follows:  
 
@@ -188,9 +189,10 @@ ClassLink is a signatory to the Student Privacy Pledge and abides by the commitm
 12.  Allow a successor entity to maintain the student personal information, in the case of our merger or acquisition by another entity, provided the successor entity is subject to these same commitments for the previously collected student personal information.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84da8122bd01817f803dda_SDPC%20Member%20Badge%20-%20PNG.PNG)
+![Student Data Privacy Consortium Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84da8122bd01817f803dda_SDPC%20Member%20Badge%20-%20PNG.PNG)
 
-**Student Data Privacy Consortium (**[**SDPC**](https://privacy.a4l.org/)**)**
+Student Data Privacy Consortium ([SDPC](https://privacy.a4l.org/))
+------------------------------------------------------------------
 
 ClassLink is a member of the Student Data Privacy Consortium (SDPC).  
   
@@ -203,19 +205,19 @@ The Student Data Privacy Consortium is:
 *   Leverages the work ongoing by various organizations already providing guidance to schools and states regarding student data privacy. Its main focus is on issues being faced by “on-the-ground” practitioners.  
     
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d285381ac9d_SOC2-TypeII-Compliant_logo%20(003).png)](https://kirkpatrickprice.com/)
+[![SOC 2 Type II Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d285381ac9d_SOC2-TypeII-Compliant_logo%20(003).png)](https://kirkpatrickprice.com/)
 
-**SOC 2 Type II Audit  
-**
+SOC 2 Type II Audit
+-------------------
 
 A SOC 2 Type II audit provides evidence that a company has a strong commitment to deliver high quality services to its clients by demonstrating they have the necessary internal controls and processes in place.  
   
 ClassLink has successfully completed a SOC 2 Type II audit which was performed by the licensed CPA firm KirkpatrickPrice.  The SOC 2 audit is based on the AICPA's Trust Services Criteria, and focuses on ClassLink's controls as they relate to security, availability, and confidentiality.  A successful SOC 2 audit assures our customers of their reliance on ClassLink's controls to protect their data.  
 
-[![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)](https://kirkpatrickprice.com/)
+[![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)](https://kirkpatrickprice.com/)
 
-**Data Sovereignty  
-**
+Data Sovereignty
+----------------
 
 Nearly all countries have laws that protect personal data privacy. Some countries require that personal data be stored exclusively on servers located in-country. Further, some countries limit the transfer of personal data outside of their jurisdiction.  
   
@@ -230,9 +232,10 @@ ClassLink software and systems are designed to comply with these various regulat
 *   ClassLink software and system processes can only transmit personal data with the express instruction of the customer.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db7b581ac7f_Privacy-Shield-Logo-02-300x206-002_0003_Layer-2%5B1%5D.png)
+![GDPR Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db7b581ac7f_Privacy-Shield-Logo-02-300x206-002_0003_Layer-2%5B1%5D.png)
 
-**European Union – General Data Protection Regulation (**[**GDPR**](http://www.privacy-regulation.eu/en/index.htm)**)**
+European Union – General Data Protection Regulation ([GDPR](http://www.privacy-regulation.eu/en/index.htm))
+-----------------------------------------------------------------------------------------------------------
 
 GDPR is the newest body of regulation regarding the handling of personal data for citizens of the European Union (EU). The primary objective of the GDPR is to give citizens control of their personal data.  Select ClassLink products are compliant with the EU General Data Protection Regulation.  
   
@@ -253,10 +256,10 @@ GDPR includes 11 chapters and nearly 100 articles. Below are some of the most re
 *   Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the [European Commission](https://ec.europa.eu/commission/index_en) to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers are always in control over the storage and transmission of their personal data. Customers located in the EU or UK utilize a secure data center located within the EU zone (Frankfurt, Germany). No servers, outside of these options, are used to store data for EU or UK based customers.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e4426017d75d60b0ce839_privacy_shield.png)
+![European Union Privacy Shield Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e7e4426017d75d60b0ce839_privacy_shield.png)
 
-**European Union – Privacy Shield  
-**
+European Union – Privacy Shield
+-------------------------------
 
 In July, 2016, the Privacy Shield framework was designed by the U.S. Department of Commerce, the European Commission, and the Swiss Administration to help companies comply with data protection requirements of the EU and Switzerland.  
   
@@ -283,7 +286,7 @@ ClassLink conforms to the Privacy Shield Principles as follows:
 *   Recourse, Enforcement and Liability: ClassLink protects against the unauthorized access of personal data through a variety of measures, including those enumerated within the EU standard contractual clauses related to data protection.  
     
 
-ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is [www.classlink.com/contact](https://www.classlink.com/request-demo).  
+ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is [classlink.com/contact](https://www.classlink.com/contact).  
   
 ClassLink participates in the Independent Recourse Mechanism (IRM) provided by the European Union Dispute Resolution Procedures (EU DPAs) for Privacy Shield dispute resolution.  
   
@@ -291,22 +294,25 @@ ClassLink is subject to the investigatory and enforcement powers of the Federal 
   
 ClassLink recognizes the possibility for an individual to invoke binding arbitration pursuant to the Privacy Shield.  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d420481ab5a_ADA-Security-Badge.png)
+![WCAG Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d420481ab5a_ADA-Security-Badge.png)
 
-**United States – Section 508 & ADA Compliance**
+United States – Section 508 & ADA Compliance
+--------------------------------------------
 
 **Web Content Accessibility Guidelines**  
 ClassLink is compliant with the web content accessibility guidelines of [WCAG 2.0 Level AA](http://www.w3.org/TR/WCAG20) as accepted by [Section 508 of the Rehabilitation Act of 1973](https://www.section508.gov/), and the [Americans with Disabilities Act (ADA)](https://www.ada.gov/).  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5faebc3133b578915c4d326a_csa-star-logo.PNG)
+![CSA Star Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5faebc3133b578915c4d326a_csa-star-logo.PNG)
 
-**United States – Cloud Security Alliance (CSA) Star Recipient**
+United States – Cloud Security Alliance (CSA) Star Recipient
+------------------------------------------------------------
 
 ClassLink is proud to hold the [Cloud Security Alliance (CSA) STAR](https://cloudsecurityalliance.org/). CSA enables solution providers to validate their cloud security and offer proof to current and future customers of the controls in place. The CSA STAR Certification is a rigorous third-party independent assessment of the security of a cloud service provider. The technology-neutral certification leverages the requirements of the ISO/IEC 27001:2013 management system standard together with the CSA Cloud Controls Matrix. Certification certificates follow normal ISO/IEC27001 protocol and expire after three years unless updated.  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
-**United States – Children’s Internet Protection Act (**[**CIPA**](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act)**)**
+United States – Children’s Internet Protection Act ([CIPA](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act))
+-----------------------------------------------------------------------------------------------------------------------------------
 
 **‍**The Children’s Internet Protection Act (CIPA) requires schools and libraries receiving certain e-Rate benefits from the Federal Communications Commission (FCC) to adhere to policies that provide safe internet experiences for minors. These include policies related to:  
 
@@ -323,27 +329,28 @@ ClassLink is proud to hold the [Cloud Security Alliance (CSA) STAR](https://clou
 
 Although ClassLink does not itself prevent access to inappropriate websites, that burden belongs to the school or library, ClassLink can help create an intentional internet experience for young students by enabling instant access to positive online resources from any device.  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d494081ab8e_iKS_COPPA2-e1522876563962.png)
+![COPPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d494081ab8e_iKS_COPPA2-e1522876563962.png)
 
-**United States – Children’s Online Privacy Protection Act (**[**COPPA**](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule)**)  
-**
+United States – Children’s Online Privacy Protection Act ([COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule))
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ClassLink is compliant with the regulations put forth by the Children’s Online Privacy Protection Act (COPPA). ClassLink maintains and protects only that information which enables users to operate ClassLink services.  
   
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/coppa/): _The iKeepSafe COPPA Safe Harbor Certification program ensures that practices surrounding collection, use, maintenance and disclosure of personal information from children under the age of 13 are consistent with principles and requirements of the Children’s Online Privacy Protection Act (COPPA). Companies that comply with the guidelines are awarded a badge, making it easy for parents and schools to identify products that are compliant with COPPA._  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db15c81ab5c_iKS_FERPA2-e1522875912267.png)
+![FERPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db15c81ab5c_iKS_FERPA2-e1522875912267.png)
 
-**United States – Family Educational Rights and Privacy Act (**[**FERPA**](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html)**)  
-**
+United States – Family Educational Rights and Privacy Act ([FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html))
+-------------------------------------------------------------------------------------------------------------------------
 
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.  
   
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/ferpa/): _The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile._  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
+![CSPC Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
 
-**California – California Student Privacy Certification (CSPC) issued by iKeepSafe**
+California – California Student Privacy Certification (CSPC) issued by iKeepSafe
+--------------------------------------------------------------------------------
 
 _The_ [_CSPC_](https://ikeepsafe.org/certification/cspc/) _builds on iKeepSafe’s FERPA Assessment and COPPA Safe Harbor, which help educators and parents find products that meet the expectations of federal privacy laws. This certification is recommended for operators and providers of websites and online services that are, whole or in part, intended for use in and by schools. Earning the_ [_iKeepSafe CSPC_](https://ikeepsafe.org/certification/cspc/) _asserts that your technology company is a leader in student privacy._  
   
@@ -362,24 +369,24 @@ _The certification assesses for federal and California laws governing student da
 *   _Student Online Personal Information Protection Act (“_[_SOPIPA_](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1177)_”)_  
     
 
-ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is [www.classlink.com/contact](https://www.classlink.com/company/contact).  
+ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is [classlink.com/contact](https://www.classlink.com/contact).  
   
 In addition to the above guiding principles on personal data:  
 
 *   _Location: ClassLink contracts with educational agencies in California are governed by and construed in accordance with the laws of the State of California. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States._  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84a53c2643556777b26f9f_colorado-doe.png)
+![Colorado Student Data Transparency and Security Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e84a53c2643556777b26f9f_colorado-doe.png)
 
-**Colorado - The Student Data Transparency and Security Act  
-**
+Colorado - The Student Data Transparency and Security Act
+---------------------------------------------------------
 
 ClassLink is compliant with the regulations put forth by the Colorado Department of Education. Effective August 10, 2016, the [Student Data Transparency and Security Act (PDF)](https://www.cde.state.co.us/dataprivacyandsecurity/crs22-16-101) (HB16-1423; C.R.S.22-16-101 et seq.), brought statewide attention to Student Data Privacy. The purpose of this Law is to increase the transparency and security of all Student Personally Identifiable Information (Student PII) that the Colorado Department of Education (CDE) and [Local Education Providers](https://www.cde.state.co.us/dataprivacyandsecurity/definitionspage) (LEPs) collect and maintain. The Law aims to maximize trust in the use of student data in the elementary and secondary education system, by having vendors contracting with schools or educational agencies in Colorado contractually agree to comply with certain requirements if they are to collect information from students.  
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
-**Connecticut – §** [**10-234aa**](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234aa) **through §** [**10-234dd**](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234dd)**, Student Data Privacy  
-**
+Connecticut – § [10-234aa](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234aa) through § [10-234dd](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234dd), Student Data Privacy
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ClassLink is compliant with the regulations put forth by § [10-234aa](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234aa) through § [10-234dd,](https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-234dd) An Act Concerning Student Data Privacy.  
   
@@ -388,9 +395,10 @@ In addition to the above guiding principles on personal data:
 *   Location: ClassLink contracts with educational agencies in Connecticut are governed by and construed in accordance with the laws of the State of Connecticut. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
-**Florida – Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty (**[**§1002.22**](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.22.html)**); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records (**[**§1002.222**](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.222.html)**)**
+Florida – Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty ([§1002.22](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.22.html)); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records ([§1002.222](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.222.html))
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **‍**ClassLink is compliant with the regulations put forth by Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty (§1002.22); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records (§1002.222).  
   
@@ -401,9 +409,10 @@ In addition to the above guiding principles on personal data:
 *   Location: ClassLink contracts with educational agencies in Florida are governed by and construed in accordance with the laws of the State of Florida. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
+![Privacy Shield Icon](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d72c64f4f28ea0bea39724d_security_badge.svg)
 
-**New York State – Education Law §2-d (**[**Section 2-d**](https://www.nysenate.gov/legislation/laws/EDN/2-D)**) and the Personal Privacy Protection Law, Article 6- A of the Public Officers Law (**[**PPPL**](https://www.dos.ny.gov/coog/pppl.html)**)**
+New York State – Education Law §2-d ([Section 2-d](https://www.nysenate.gov/legislation/laws/EDN/2-D)) and the Personal Privacy Protection Law, Article 6- A of the Public Officers Law ([PPPL](https://www.dos.ny.gov/coog/pppl.html))
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **‍**ClassLink is compliant with the regulations put forth by the Education Law §2-d and the Personal Privacy Protection Law (PPPL), Article 6-A of the Public Officers Law.  
   
@@ -414,17 +423,20 @@ In addition to the above guiding principles on personal data:
 *   [Parents’ Bill of Rights](http://www.nysed.gov/common/nysed/files/programs/data-privacy-security/parents-bill-of-rights_1.pdf): ClassLink includes the Parents’ Bill of Rights with every ClassLink contract in New York State.  
     
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e554622cedd80bdb3811ed2_Utah%20DPA%20Badge.png)
+![Utah DPA Badge](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5e554622cedd80bdb3811ed2_Utah%20DPA%20Badge.png)
 
-**Utah – Data Privacy Agreement**
+Utah – Data Privacy Agreement
+-----------------------------
 
 ClassLink is compliant with the regulations put forth for third-party contractors by Title 53E-9-309. This legislation requires schools to include student data privacy provisions in all third-party agreements that receive student personally identifiable information (PII). ClassLink contracts with educational agencies in Utah are governed by and construed in accordance with the laws of the State of Utah. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.  
 
-**Links to other websites**  
+Links to other websites
+-----------------------
 
 Our ClassLink system and company website contain links to other websites. Once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
 
-**How we use cookies**  
+How we use cookies
+------------------
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
   
@@ -457,11 +469,11 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 *   [News](https://www.classlink.com/company/news)
 *   [About Us](https://www.classlink.com/company/about)
 *   [Privacy](https://www.classlink.com/company/privacy)
+*   [Security](https://www.classlink.com/company/security)
 *   [Trust](http://status.classlink.com/)
 *   [Awards](https://www.classlink.com/company/awards)
 *   [Partners](https://www.classlink.com/company/partners)
 *   [Careers](https://www.classlink.com/company/careers)
-*   [Contact](https://www.classlink.com/request-demo)
 
 ### Resources
 
@@ -471,11 +483,13 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 *   [Blog](https://www.classlink.com/resources/blog)
 *   [Support](http://docs.classlink.com/)
 *   [Webinars](https://www.classlink.com/resources/webinars)
+*   [LinkedUp Podcasts](https://www.classlink.com/resources/linkedup)
+*   [Deal Registration](https://www.classlink.com/resources/deal-registration)
 *   [BYOD Central](https://www.classlink.com/resources/byod)
 
-![](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061dfa3081aaf9_classlink%20white.svg)
+![ClassLink](https://assets-global.website-files.com/5d6db64572061db9c481aaeb/60182c7af9d0c02baea938e7_classlink-logo-main-white.png)
 
-© 2020 ClassLink – More Time Learning | [Privacy Policy](https://www.classlink.com/company/privacy)  
+© 2021 ClassLink – More Time Learning | [Privacy Policy](https://www.classlink.com/company/privacy)  
 
 [
 

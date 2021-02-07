@@ -269,7 +269,7 @@ _This agreement is effective as of May 6th, 2016 and replaces any previous terms
 
 These terms of service set forth the terms of the use of the Masked Cards Solutions service. The brand names of the solutions that allow you make Masked cards include “Blur” “MaskMe” and “DoNotTrackMe” (together referred to as “Masked Card Solutions” (MCS).
 
-If you do not agree to these terms, please cancel and refund the remaining balances of any Masked Cards you have made, calling us at 800-928-1987 or notify us in writing at Abine, Inc. attention Masked Card Dept., PO Box 410009, Cambridge, MA 02141 if necessary.
+If you do not agree to these terms, please cancel and refund the remaining balances of any Masked Cards you have made, calling us at 800-928-1987 or notify us in writing at Abine, Inc. attention Masked Card Dept., 18 Bow Street, #55, Somerville, MA 02143 if necessary.
 
 By using the Masked Cards Solutions service, or allowing someone else to use the Masked Cards service through your account, you agree to the terms.
 
@@ -584,9 +584,9 @@ If you have any questions about this policy, please contact us at legal@getabine
 
 #### Abine Inc. - The Online Privacy Company
 
-Abine, Inc., PO Box 410009 Cambridge, MA 02141
+Abine, Inc., 18 Bow Street, #55, Somerville, MA 02143
 
-© Abine, Inc. 2019
+© Abine, Inc. 2021
 
 [Do not sell my personal information](https://abine.com/legal.html#ccpa)
 

@@ -15,6 +15,8 @@
 *   [Data](https://www.citsci.org/CWIS438/Websites/CitSci/Data.php?WebSiteID=7 "Browse CitSci.org citizen science data")
 *   [Blog](https://blog.citsci.org/ "Read our blog")
 
+**New Year. New CitSci.** Positive changes are coming soon. ×
+
 Privacy Policy
 ==============
 
@@ -28,7 +30,7 @@ As a policy, the names, emails, and addresses of all CitSci.org participants **_
 
 ### Collaboration and Data Sharing
 
-As a policy, CitSci.org shares the names and emails of **_project managers only_**, and essential project metadata such as title, description, purpose, goals, topics, participant tasks, image and profile URLs, and keywords with [SciStarter](http://scistarter.com/) for all projects created on CitSci.org. This sharing of basic project information across databases facilitates the broader understanding about citizen science globally. However, [SciStarter](http://scistarter.com/) **_shall not share this information with anyone, for any purpose_** except as in accordance with their privacy policy and shall display this information **_only if you opt-in_** and signify that you wish for this information to be displayed publically on [SciStarter](http://scistarter.com/) to help recruit participants and advance science and research. We default this option to '**_do not publish on SciStarter_**' unless you **_opt-in_** for this free service.
+As a policy, CitSci.org shares the names and emails of **_project managers only_**, and essential project metadata such as title, description, purpose, goals, topics, participant tasks, image and profile URLs, and keywords with [SciStarter](http://scistarter.org/) for all projects created on CitSci.org. This sharing of basic project information across databases facilitates the broader understanding about citizen science globally. However, [SciStarter](http://scistarter.org/) **_shall not share this information with anyone, for any purpose_** except as in accordance with their privacy policy and shall display this information **_only if you opt-in_** and signify that you wish for this information to be displayed publically on [SciStarter](http://scistarter.org/) to help recruit participants and advance science and research. We default this option to '**_do not publish on SciStarter_**' unless you **_opt-in_** for this free service.
 
 ### Additional Policies
 

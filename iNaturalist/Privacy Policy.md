@@ -240,7 +240,7 @@ English Toggle Dropdown
 *   [български](https://www.inaturalist.org/set_locale?locale=bg "Bulgarian")
 *   [Breton](https://www.inaturalist.org/set_locale?locale=br "Breton")
 *   [Català](https://www.inaturalist.org/set_locale?locale=ca "Catalan")
-*   [český](https://www.inaturalist.org/set_locale?locale=cs "Czech")
+*   [česky](https://www.inaturalist.org/set_locale?locale=cs "Czech")
 *   [Dansk](https://www.inaturalist.org/set_locale?locale=da "Danish")
 *   [Deutsch](https://www.inaturalist.org/set_locale?locale=de "German")
 *   [Ελληνικά](https://www.inaturalist.org/set_locale?locale=el "Greek")
@@ -275,6 +275,7 @@ English Toggle Dropdown
 *   [Shqip](https://www.inaturalist.org/set_locale?locale=sq "Albanian")
 *   [Svenska](https://www.inaturalist.org/set_locale?locale=sv "Swedish")
 *   [Türkçe](https://www.inaturalist.org/set_locale?locale=tr "Turkish")
+*   [Ukrainian](https://www.inaturalist.org/set_locale?locale=uk "Ukrainian")
 *   [简体中文](https://www.inaturalist.org/set_locale?locale=zh-CN "Chinese (simplified)")
 *   [繁體中文](https://www.inaturalist.org/set_locale?locale=zh-TW "Chinese (traditional)")
 

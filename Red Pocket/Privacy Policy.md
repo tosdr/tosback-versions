@@ -131,7 +131,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 *   [Wireless Plans](https://www.redpocket.com/plans)
 *   [Transfer Your Number](https://www.redpocket.com/activate)
-*   [Check International Rates](https://www.redpocket.com/international-calling)
+*   [Free International Calling](https://www.redpocket.com/international-calling)
 
 ### Get Started
 

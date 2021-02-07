@@ -170,7 +170,7 @@ Credit cards
 *   Compare by category
     -------------------
     
-*   [Best credit cards of 2020](http://www.bankrate.com/finance/credit-cards/todays-best-credit-cards/)
+*   [Best credit cards of 2021](http://www.bankrate.com/finance/credit-cards/todays-best-credit-cards/)
 *   [Rewards](http://www.bankrate.com/finance/credit-cards/rewards/)
 *   [Travel](http://www.bankrate.com/finance/credit-cards/travel/)
 *   [Airline](http://www.bankrate.com/finance/credit-cards/airline/)
@@ -178,6 +178,7 @@ Credit cards
 *   [No annual fee](http://www.bankrate.com/finance/credit-cards/no-annual-fee/)
 *   [Balance transfer](http://www.bankrate.com/finance/credit-cards/balance-transfer/)
 *   [0% APR](http://www.bankrate.com/finance/credit-cards/zero-interest/)
+*   [Business](http://www.bankrate.com/finance/credit-cards/business/)
 *   [Student](http://www.bankrate.com/finance/credit-cards/student/)
 
 *   Compare by credit needed
@@ -506,7 +507,11 @@ Submit
 
 settings = "eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC5vbmV0cnVzdC5jb20vcmVxdWVzdC92MS9wcml2YWN5Tm90aWNlcy9zdGF0cy92aWV3cyJ9"; OneTrust.NoticeApi.Initialized.then(function() { OneTrust.NoticeApi.LoadNotices(\["https://appds8093.blob.core.windows.net/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/privacy-notices/250d0faf-aa37-492a-a504-82487768c73d.json"\]); });
 
-svg4everybody(); baseUrl = "https://www.bankrate.com"; (function() { function injectEmailSignup() { const script = document.createElement('script'); const prior = document.getElementsByTagName('script')\[0\]; script.async = true; script.defer = true; script.src = "https://www.bankrate.com/v1.193.0/js/opt-in-monster/email-signup.js"; prior.parentNode.insertBefore(script, prior); } function injectOIM() { const script = document.createElement("script"); const prior = document.getElementsByTagName("script")\[0\]; script.async = true; script.defer = true; script.src = "https://a.omappapi.com/app/js/api.min.js"; script.dataset.account = "74974"; script.dataset.user = "66676"; prior.parentNode.insertBefore(script, prior); } if (window.oimInjected) { return; } window.oimInjected = true; injectEmailSignup(); injectOIM(); })() 
+###### Cookie Policy
+
+Bankrate uses cookies to ensure that you get the best experience on our website. By clicking on or navigating this site, you accept our use of cookies as described in our [privacy policy](http://www.bankrate.com/privacy/).
+
+svg4everybody(); baseUrl = "https://www.bankrate.com"; (function() { function injectEmailSignup() { const script = document.createElement('script'); const prior = document.getElementsByTagName('script')\[0\]; script.async = true; script.defer = true; script.src = "https://www.bankrate.com/v2.33.0/js/opt-in-monster/email-signup.js"; prior.parentNode.insertBefore(script, prior); } function injectOIM() { const script = document.createElement("script"); const prior = document.getElementsByTagName("script")\[0\]; script.async = true; script.defer = true; script.src = "https://a.omappapi.com/app/js/api.min.js"; script.dataset.account = "74974"; script.dataset.user = "66676"; prior.parentNode.insertBefore(script, prior); } if (window.oimInjected) { return; } window.oimInjected = true; injectEmailSignup(); injectOIM(); })() 
 
 [Bankrate](https://www.bankrate.com/)
 -------------------------------------
@@ -530,6 +535,7 @@ svg4everybody(); baseUrl = "https://www.bankrate.com"; (function() { function in
 ### Legal
 
 *   [Privacy policy / California privacy policy](https://www.bankrate.com/privacy/)
+*   Cookie Settings
 *   [Do not sell my info](https://privacyportal-cdn.onetrust.com/dsarwebform/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/0af1ccab-7383-4201-b4a4-333ac115f721.html)
 *   [Understanding Bankrate’s averages](https://www.bankrate.com/understanding-bankrates-rate-averages/)
 *   [Terms of use](https://www.bankrate.com/terms/)

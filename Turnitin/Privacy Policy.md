@@ -629,7 +629,7 @@ We are always ready to answer any question or concerns you may have. Please writ
 
 [Back to Support Center](https://supportcenter.turnitin.com/s/)
 
-*   Copyright © 2020 Turnitin, LLC. All rights reserved.
+*   Copyright © 2021 Turnitin, LLC. All rights reserved.
 
 *   [Turnitin.com](https://www.turnitin.com/)
 *   [Release Notes](https://help.turnitin.com/release-notes.htm)

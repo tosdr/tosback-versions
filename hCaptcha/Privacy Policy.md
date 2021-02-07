@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated: July 22, 2020_
+_Last updated: February 4, 2021_
 
 Welcome to hCaptcha! This Privacy Policy describes the practices of Intuition Machines, Inc. ("IMI", "we" or "us") regarding our collection, use, and disclosure of information (including Personal Information, defined below) through our website at [www.hcaptcha.com](https://hcaptcha.com/) and [www.botstop.com](https://www.botstop.com/) (the "Sites") and the hCaptcha application program interface and related software and materials (collectively, the "Service").
 
@@ -11,7 +11,13 @@ A Note to Customers Outside the United States. IMI is based in the United States
   
 A Note to California Residents. Please see our "Notice to California Residents" section related to your rights under the California Consumer Privacy Act ("CCPA").  
   
-A Note to European Economic Area Residents. Please see our "Notice to EU Data Subjects" section related to your rights under the General Data Protection Regulation ("GDPR") and our "EU-US Privacy Shield and Swiss-U.S. Privacy Shield" section related to IMI's Privacy Shield certification. Note that IMI is the controller of your personal information, except where we process personal information on behalf of our Integrators in connection with the provision of our Service, in which case we are the processor of personal information, and those Integrators are the controllers of the personal information. Where we act as a processor for our Integrators, we do not use the data collected for any purpose other than as reasonably necessary to provide our Service, and our processing will be governed by the contracts that we have in place with our Integrators, not this Privacy Policy.  
+A Note to European Economic Area Residents. Please see our "Notice to EU Data Subjects" section related to your rights under the General Data Protection Regulation ("GDPR") and our "EU-US Privacy Shield and Swiss-U.S. Privacy Shield" section related to IMI's Privacy Shield certification. Although Privacy Shield is no longer in force, IMI has not withdrawn from the program at this time, and thus references to it remain within this document in compliance with FTC guidelines.  
+  
+Note that IMI is the controller of your personal information, except where we process personal information on behalf of our Integrators in connection with the provision of our Service, in which case we are the processor of personal information, and those Integrators are the controllers of the personal information.  
+  
+Where we act as a processor for our Integrators, we do not use the data collected for any purpose other than as reasonably necessary to provide our Service, and our processing will be governed by the contracts that we have in place with our Integrators, not this Privacy Policy.  
+  
+Processing of EU Data Subject data operates under the legal basis of the Standard Contractual Clauses (SCCs) integrated within the Data Processing Addendum to our Terms of Service or Data Processing Agreements with our Integrators.  
   
 If you have any questions or concerns about how such data is handled or would like to exercise your rights, you should contact the person or entity (i.e., the data controller) who has contracted with us to use the Service to process this data. We will, however, provide assistance to our Integrators to address any concerns you may have, in accordance with the terms of our contract with them.  
   
@@ -95,38 +101,36 @@ This section provides additional details about the personal information we colle
   
 For the categories of personal information we have collected from you in the preceding 12 months, please see the "Information We Collect" section above. We collect this information for the business and commercial purposes described in the "How We Use Personal Information" section above. In the preceding 12 months, we have shared the following categories of information with third parties for a business purpose:  
 
-‍  
-
 Category of Personal Information
-
-Examples of Personal Information Shared
-
-Categories of Third-Party Recipients
 
 Identifiers.
 
-A real name, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
-
-Service Providers
-
 Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
-
-A name, credit card number, debit card number, or any other financial information.
-
-Service Providers
 
 Commercial information.
 
-Records of products or services purchased, obtained, or considered.
-
-Service Providers
-
 Internet or other electronic network activity.
+
+Examples of Personal Information Shared
+
+A real name, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+
+A name, credit card number, debit card number, or any other financial information.
+
+Records of products or services purchased, obtained, or considered.
 
 Browsing history, information on a consumer's interaction with an internet website, application, or advertisement.
 
+Categories of Third-Party Recipients
+
+Service Providers
+
+Service Providers
+
+Service Providers
+
 Service Providers  
-  
+
 Note: Fraud risk associated with an individual IP address may be shared with an Integrator upon request.
 
 The Company does not "sell" (as this term is defined in the CCPA) the personal information we collect. Please refer to the "Third Party Analytics and Tracking Technologies" section above for more information regarding the types of third-party cookies, if any, that we use.  

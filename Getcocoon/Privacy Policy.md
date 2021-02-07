@@ -110,7 +110,7 @@ var \_gaq = \_gaq || \[\]; \_gaq.push(\['\_setAccount', 'UA-17738953-1'\]); \_ga
     *   ![Icon youtube 16 aabfebde5f5bd8d3aa88087eee55157d5fa8943e020c8fec6bb2e64ab0018d73](/assets/icons/icon_youtube_16-aabfebde5f5bd8d3aa88087eee55157d5fa8943e020c8fec6bb2e64ab0018d73.png)[YouTube](http://www.youtube.com/user/getCocoon)
     *   ![Icon linkedin 16 3ac189f199d42ed8384e1403794e855898c27c57ad16effd49e2832a17a74fb7](/assets/icons/icon_linkedin_16-3ac189f199d42ed8384e1403794e855898c27c57ad16effd49e2832a17a74fb7.png)[LinkedIn](https://www.linkedin.com/company/getcocoon)
 
-©[2020 Virtual World Computing, LLC](http://vworldc.com/)[
+©[2021 Virtual World Computing, LLC](http://vworldc.com/)[
 
 ](http://www.bbb.org/santa-barbara/business-reviews/computers-hardware-software-and-services/virtual-world-computing-llc-in-santa-barbara-ca-532300)
 
@@ -143,7 +143,7 @@ Company
 *   [Privacy Policy](https://getcocoon.com/privacy_policy)
 *   [Contact](https://support.getcocoon.com/hc/en-us/requests/new)
 
-©[2020 Virtual World Computing, LLC](http://vworldc.com/)
+©[2021 Virtual World Computing, LLC](http://vworldc.com/)
 
 *   [![Facebookicon 6048c8db4b6958c379127dc09dc3ee7d3e359393a03ca3fac7716cf029cbf166](/assets/icons/FacebookIcon-6048c8db4b6958c379127dc09dc3ee7d3e359393a03ca3fac7716cf029cbf166.png)](http://www.facebook.com/pages/GetCocoon/114227871990315)
 *   [![Youtubeicon b75380984a0e943db61561e9fcbe612f551a56139657e08143056fb6579686b1](/assets/icons/YoutubeIcon-b75380984a0e943db61561e9fcbe612f551a56139657e08143056fb6579686b1.png)](http://www.youtube.com/user/getCocoon)

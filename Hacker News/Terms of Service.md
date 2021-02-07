@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-Last Updated January 1, 2020
+Last Updated January 15, 2021
 
 For California residents, please [click here](#calprivacy) to learn more about your privacy rights.
 
@@ -18,11 +18,11 @@ We collect information that alone or in combination with other information in ou
 
 **Hacker News Information**: If you create a Hacker News profile, we may collect your username (please note that references to your username in this Privacy Policy include your Hacker News ID or another username that you are permitted to create in connection with the Site, depending on the circumstances), password, email address (only if you choose to provide it), the date you created your account, your karma (HN points accumulated by your account in response to submissions and comments you post), any information you choose to provide in the “about” field, and any submissions or comments that you have publicly posted to the Hacker News site (“**HN Information**”).
 
-**Event Information**: If you attend one of our events, or if you are an investor and you sign up to attend Demo Day, you will be asked to provide Personal Information, including your name, the name and a description of your company or your fund, your contact information and other information that we will use to manage and administer your participation in our various events (“**Event Information**”).
+**Event Information**: If you attend one of our events, or if you are an investor and you sign up to attend Demo Day, we will collect Personal Information, which includes your name, email address, occupation, LinkedIn profile, location (city and country), interest-based data, the name and a description of your company or your fund and other information that we will use to manage, optimize and administer your participation in our various events (“**Event Information**”).
 
-**Work at a Startup Information**: If you sign up for our Work at a Startup program (“**WaaS**”), we will collect your name, email, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“**WaaS Information**”).
+**Work at a Startup Information**: If you sign up for our Work at a Startup program (“**WaaS**”), we will collect Personal Information, which includes your name, email address, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“**WaaS Information**”).
 
-**Startup School Information**: If you sign up for our Startup School program (“**SUS**”), we will collect you name, email, location (city and country), LinkedIn profile, gender, education, area of expertise, company information, and cofounder email addresses (“**SUS Information**”).
+**Startup School Information**: If you sign up for our Startup School program (“**SUS**”), we will collect Personal Information, which includes your name, email, location (city and country), LinkedIn profile, gender, education, area of expertise, company information, and cofounder email addresses and other information that we will use to manage, optimize and administer your participation in SUS (“**SUS Information**”).
 
 **Application Information**: If you submit an application to Y Combinator, Personal Information related to your application is governed by our Application Privacy Policy available at [https://www.ycombinator.com/apply/privacy/](https://www.ycombinator.com/apply/privacy/). In the event of any conflict between the Applications Privacy Policy and any other portion of this Privacy Policy or our Terms of Use, the Applications Privacy Policy will control.
 
@@ -72,6 +72,10 @@ We may use Personal Information for the following purposes:
     
 *   To grant access to and track attendance at our events;
     
+*   To inform you about services or events we believe might be of interest to you;
+    
+*   To administer promotions and surveys you choose to participate in, as required by applicable law (for example, to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey;
+    
 *   To respond to your inquiries, comments, feedback, or questions;
     
 *   To send administrative information to you, for example, information regarding the Service and changes to our terms, conditions, and policies;
@@ -115,9 +119,9 @@ The following disclosures are intended to provide additional information about (
 | Category of Personal Information | Sources Of Personal Information | Use of Personal Information | Disclosure of Personal Information |
 | --- | --- | --- | --- |
 | HN Information | We collect HN Information directly from you. | We use HN Information for logging you into your account and granting you access to the Services, to enforce our community norms and policies, to monitor the Site for security purposes, and in some cases, for password recovery requested by you. | We do not disclose HN Information to third parties, but certain of your HN Information is publicly available on the Internet. |
-| Event Information | We collect Event Information directly from you. | We use Event Information to grant access to, and administer your participation in, our events. | We disclose Event Information to our affiliates and the companies participating in and the vendors helping to host our events. |
+| Event Information | We collect Event Information directly from you. | We use Event Information to grant access to, and administer your participation in, our events and to inform you about services or events we believe might be of interest to you. | We disclose Event Information to our affiliates and the companies participating in and the vendors helping to host our events. |
 | WaaS Information | We collect WaaS Information from you. | We use WaaS Information to help WaaS applicants get jobs at Y Combinator-funded companies. | We disclose WaaS Information to our affiliates and Y Combinator-funded companies. |
-| SUS Information | We collect SUS Information directly from you. | We use SUS Information to evaluate SUS applications, to provide access to the SUS forums and network, to compile and publish aggregated and anonymized statistics, and to track applicants, investments, and companies. | We disclose SUS Information to our affiliates. We reserve the right to disclose SuS Information to third parties in connection with evaluating SUS companies, but we have no specific plans to do so. We make reasonable efforts to treat your SUS Information confidentially, but given the volume of applications we receive we disclaim all responsibility for preventing misuse or unauthorized disclosure of or access to SUS Information. |
+| SUS Information | We collect SUS Information directly from you. | We use SUS Information to evaluate SUS applications, to provide access to the SUS forums and network, to compile and publish aggregated and anonymized statistics, and to track applicants, investments, and companies and to administer promotions and surveys that you choose to participate in.. | We disclose SUS Information to our affiliates. We reserve the right to disclose SuS Information to third parties in connection with evaluating SUS companies, but we have no specific plans to do so. We make reasonable efforts to treat your SUS Information confidentially, but given the volume of applications we receive we disclaim all responsibility for preventing misuse or unauthorized disclosure of or access to SUS Information. |
 | Social Information | We collect Social Information from you when you interact with our Social Media Pages. | We use Social Information to perform analytics and to communicate with you. | We disclose Social Information to our affiliates. |
 | Communication Information | We collect Communication Information directly from you. | We use Communication Information for providing our Services and responding to you. | We disclose Communication Information to our affiliates and communication services providers. |
 | Technical Information | We collect Technical Information from you. | We use Technical Information for analytics and in some cases, for moderation and prevention of fraud and malicious activity by users of our Services. | We disclose Technical Information to our affiliates and analytics provider. |

@@ -30,6 +30,7 @@ Other Services
 *   [Political Principles](https://riseup.net/en/about-us/politics)
 *   [Press](https://riseup.net/en/about-us/press)
 *   [Projects](https://riseup.net/en/about-us/projects)
+*   [Propaganda](https://riseup.net/en/about-us/propaganda)
 
  
 

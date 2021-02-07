@@ -1,4 +1,4 @@
- [![OpenWrt Forum](https://forum.openwrt.org/uploads/default/original/2X/c/cefd23e3c0d85883f3994c2926facc273ea70bc0.png)](https://forum.openwrt.org/) 
+ [![OpenWrt Forum](https://forum.openwrt.org/uploads/default/original/3X/6/8/683302b5dac2617ce24fa17662d560d62c18e4b7.png)](https://forum.openwrt.org/) 
 
 *   [About](https://forum.openwrt.org/about)
 *   [Guidelines](https://forum.openwrt.org/guidelines)

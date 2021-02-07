@@ -64,7 +64,7 @@ For help or information about how to make a report:
     
 
 To contact us by email:  
-![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=2&_nc_sid=ad8a9d&_nc_ohc=9ylgz5YSlpsAX_GepG0&_nc_ht=scontent-frt3-1.xx&oh=cb527896308b8cb14187ed3af3bef942&oe=6043F685)  
+![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/10574689_373883339436400_1359386031_n.png?_nc_cat=107&ccb=2&_nc_sid=ad8a9d&_nc_ohc=9ylgz5YSlpsAX_GepG0&_nc_ht=scontent-frt3-1.xx&oh=4ef29a255aaa5ed74809a7d71211c247&oe=6047EB05)  
 
 **Information for the state media authorities**
 

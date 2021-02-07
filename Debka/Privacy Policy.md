@@ -2,7 +2,7 @@ var vpb = window.vpb || {}; apstag.init({pubID: '3461f73b-6362-4745-8a10-f16ffbd
 
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-FI\_tag'); });
 
-Sunday, February 7, 2021  
+Monday, February 8, 2021  
 
  [![DEBKAfile](https://www.debka.com/wp-content/uploads/2017/09/debka_logo.jpg)](https://www.debka.com/ "DEBKAfile") 
 
@@ -57,6 +57,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 ### [Breaking news](https://www.debka.com/mivzakim/)
 
+*   [Biden will not lift sanctions until Iran stops enriching uranium](https://www.debka.com/mivzak/biden-will-not-lift-sanctions-until-iran-stops-enriching-uranium/)
+    
+    Feb 07, 2021 @ 19:15
+    
 *   [As lockdown winds down, Prof Ash concerned by high covid figures](https://www.debka.com/mivzak/as-lockdown-winds-down-prof-ash-concerned-by-high-covid-figures/)
     
     Feb 07, 2021 @ 12:42
@@ -84,12 +88,12 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Israel closes airport and points of entry for extended period](https://www.debka.com/mivzak/israel-closes-airport-and-points-of-entry-for-extended-period/)
     
     Feb 03, 2021 @ 14:16
-    
-*   [Vaccinations to be made available to all as covid figures stay high](https://www.debka.com/mivzak/vaccinations-to-be-made-available-to-all-as-covid-figures-stay-high/)
-    
-    Feb 03, 2021 @ 10:08
     
 
+*   [Biden will not lift sanctions until Iran stops enriching uranium](https://www.debka.com/mivzak/biden-will-not-lift-sanctions-until-iran-stops-enriching-uranium/)
+    
+    Feb 07, 2021 @ 19:15
+    
 *   [As lockdown winds down, Prof Ash concerned by high covid figures](https://www.debka.com/mivzak/as-lockdown-winds-down-prof-ash-concerned-by-high-covid-figures/)
     
     Feb 07, 2021 @ 12:42
@@ -117,10 +121,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 *   [Israel closes airport and points of entry for extended period](https://www.debka.com/mivzak/israel-closes-airport-and-points-of-entry-for-extended-period/)
     
     Feb 03, 2021 @ 14:16
-    
-*   [Vaccinations to be made available to all as covid figures stay high](https://www.debka.com/mivzak/vaccinations-to-be-made-available-to-all-as-covid-figures-stay-high/)
-    
-    Feb 03, 2021 @ 10:08
     
 
 jQuery(function($) { /\*$('#mivzakim').vTicker('init', { speed: 5000, pause: 0, showItems: 3, padding:4, });\*/ function openMivzak(url) { window.open(url,'popUp','height=600,width=840,left=300,top=50,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes,resizable=yes'); } /\* remove #mivzakim\_rem after some time and replace it with #mivzakim. \*/ function start\_mivzakim() { $("#mivzakim\_rem").closest(".bx-viewport").hide(); $('#mivzakim').show(); $('#mivzakim').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, speed: 40000, ticker: true, tickerHover: true, useCSS: false }); } setTimeout(function(){ start\_mivzakim(); }, 5000); $('#mivzakim\_rem').bxSlider({ mode: 'vertical', maxSlides: 4, minSlides: 4, autoStart: false }); /\*$(".click\_mivzak").click(function() { var url = $(this).attr("href"); openMivzak(url); return false; });\*/ });

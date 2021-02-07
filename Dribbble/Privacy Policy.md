@@ -1,5 +1,3 @@
- [![close](https://cdn.dribbble.com/assets/icon-shot-x-light-2x-3fa782b8178e9cf00f28bf7f9758a80bd0883a9c26e4b41fb16d19bbd14c05be.png)](#) 
-
 Updated October 4, 2019
 -----------------------
 

@@ -1,7 +1,7 @@
 COVID-19 Update
 ---------------
 
-TekSavvy is monitoring the COVID-19 situation carefully and working to help our customers stay connected. We are waiving overage charges for current customers on limited plans until January 31, 2021. Our team is here to help through self-serve in the MySavvy customer portal, or by phone at 1-877-779-1575. New customers may experience longer hardware delivery or installation timelines. Stay safe. Stay home. Stay healthy.
+TekSavvy is monitoring the COVID-19 situation carefully and working to help our customers stay connected. We are waiving overage charges for current customers on limited plans until February 15, 2021. Our team is here to help through self-serve in the MySavvy customer portal, or by phone at 1-877-779-1575. New customers may experience longer hardware delivery or installation timelines. Stay safe. Stay home. Stay healthy.
 
 [Login to MySavvy or register here](https://mysavvy.teksavvy.com/)
 
@@ -41,6 +41,7 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
     
     *   [Choice Words Blog](https://blogs.teksavvy.com/topic/choice-words)
     *   [Services Blog](https://blogs.teksavvy.com/)
+    *   [Press Releases](https://www.teksavvy.com/in-the-news/)
     
     New
     
@@ -75,6 +76,7 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
     [ ]  Open Menu
     *   [Choice Words Blog](https://blogs.teksavvy.com/topic/choice-words)
     *   [Services Blog](https://blogs.teksavvy.com/)
+    *   [Press Releases](https://www.teksavvy.com/in-the-news/)
 *   [Business Solutions](https://business.teksavvy.com/)
 *   [Policies](https://www.teksavvy.com/policies/) [ ]  Open Policies Menu
     *   [Privacy Policy](https://www.teksavvy.com/policies/legal-stuff/privacy-policy/)
@@ -485,7 +487,7 @@ Connect With Us
 
 Sign up for our TekSavvy Buzz newsletter to stay up to date with our deals, contests, tech tips and much more.
 
-[Sign me up](https://www.teksavvy.com/newsletter-signup/)
+[Sign up](https://www.teksavvy.com/newsletter-signup/)
 
 * * *
 

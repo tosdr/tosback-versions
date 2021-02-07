@@ -176,6 +176,6 @@ If a portion of these Terms are deemed invalid, illegal, or incapable of being e
 
 (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
-© 2020 Brick Hill. All rights reserved.
+© 2021 Brick Hill. All rights reserved.
 
 [Terms of Service](https://www.brick-hill.com/terms) | [Privacy Policy](https://www.brick-hill.com/privacy) | [Staff](https://www.brick-hill.com/staff)

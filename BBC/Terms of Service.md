@@ -3,7 +3,7 @@ Terms of Use
 Terms of Use for the BBC’s digital services
 ===========================================
 
-Page updated: 20 April 2020 Version 1.5
+Page updated: 25 January 2021 Version 1.6
 
 *   [Download the BBC Terms of Use as a PDF](https://downloads.bbc.co.uk/usingthebbc/bbc_terms_of_use.pdf "Download the BBC Terms of Use as a PDF")
 
@@ -168,7 +168,7 @@ What do we mean by that? This sort of thing:
 
 **c. Play it safe**
 
-When you watch or play an app or game, be aware of your surroundings and use your device safely.
+Be aware of your surroundings especially when you’re using our services or content on the move and always use your device safely.
 
 Don’t use our 360° and virtual reality apps if you:
 

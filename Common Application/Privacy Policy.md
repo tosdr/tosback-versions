@@ -318,7 +318,6 @@ We encourage you to review the Frequently Asked Questions for additional informa
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact the following Common Application representative by email, phone, or mail at the address below: 
 
-Jesse Raben  
 Privacy Compliance  
 The Common Application, Inc.  
 3003 Washington Blvd., Ste. 1000  
@@ -377,6 +376,6 @@ Connect with #commonapp
 *   [Privacy policy](https://www.commonapp.org/privacy-policy)
 *   [Application affirmations](https://www.commonapp.org/application-affirmations)
 
-© 2020 The Common Application, Inc
+© 2021 The Common Application, Inc
 
 if(true) { (function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); } if (typeof ga === "function") { ga('create', 'UA-65571605-1', 'auto', {}); }/\*<!\[CDATA\[\*/window.pagePath="/privacy-policy";/\*\]\]>\*//\*<!\[CDATA\[\*/window.\_\_\_chunkMapping={"polyfill":\["/polyfill-1154186495c2f01f045d.js"\],"app":\["/app-3545c9eadfd69e0895bc.js"\],"component---src-pages-404-js":\["/component---src-pages-404-js-f28c5bd543bcf9fbf1a8.js"\],"component---src-pages-contact-confirmation-js":\["/component---src-pages-contact-confirmation-js-5ee5b15469851f4afa4c.js"\],"component---src-pages-newsletter-confirmation-js":\["/component---src-pages-newsletter-confirmation-js-5841d047824b2f1e5243.js"\],"component---src-pages-search-js":\["/component---src-pages-search-js-3ce690e6ded31f8739f5.js"\],"component---src-templates-blog-post-js":\["/component---src-templates-blog-post-js-972523ebf32965df7988.js"\],"component---src-templates-event-js":\["/component---src-templates-event-js-677524c224876b6cf656.js"\],"component---src-templates-school-page-js":\["/component---src-templates-school-page-js-530860ee94a41989001c.js"\],"component---src-templates-text-page-js":\["/component---src-templates-text-page-js-83f28d345c961f8c72c3.js"\]};/\*\]\]>\*/

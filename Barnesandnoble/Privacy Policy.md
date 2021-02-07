@@ -1,4 +1,4 @@
-### Effective Date: June 25, 2020
+### Effective Date: February 1, 2021
 
 This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes & Noble enterprise, which consists of (a) Barnes & Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes & Noble"); (b) businesses and operations managed or operated by Barnes & Noble; (c) websites owned, operated and managed by Barnes & Noble, including each website that links to this Privacy Policy, and (collectively, "Barnes & Noble Websites"); and (d) Barnes & Noble and NOOK devices ("Devices"), content, software and mobile applications ("Apps").
 
@@ -283,6 +283,6 @@ Any dispute between you and us regarding the privacy of your personal informatio
 
 ### Contact Information
 
-If you have questions or concerns about this Privacy Policy or our privacy practices, you may contact us by emailing [privacy@barnesandnoble.com](mailto:privacy@barnesandnoble.com?subject=Privacy%20Policy). You may also mail inquiries and concerns to: Barnes & Noble 122 Fifth Avenue, New York, NY 10011.
+If you have questions or concerns about this Privacy Policy or our privacy practices, you may contact us by emailing [privacy@barnesandnoble.com](mailto:privacy@barnesandnoble.com?subject=Privacy%20Policy). You may also mail inquiries and concerns to: Barnes & Noble 33 East 17th Street, New York, NY 10003.
 
-Effective Date: June 25, 2020
+Effective Date: February 1, 2021

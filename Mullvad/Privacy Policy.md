@@ -4,14 +4,14 @@
 
 [My account](https://mullvad.net/en/account/) [Download](https://mullvad.net/en/download/)
 
-mullvad.updateNavbar()
+mullvad.navbarBurgerToggle()
 
 No-logging of user activity policy
 ==================================
 
 [POLICIES](https://mullvad.net/en/help/tag/policies/)
 
-Last updated: 3 November 2020
+Last updated: 20 January 2021
 
   
 
@@ -196,6 +196,21 @@ Our OpenVPN server log configuration:
 **Question:** How can you limit the maximum number of simultaneous connections if you're not logging that information?  
 **Answer:** Each VPN server reports to a central service. When a customer connects to a VPN server, the server asks the central service to validate the account number, whether or not the account has any remaining time, if the account has reached its allowed number of connections, and so on. Everything is performed in temporary memory only; none of this information is permanently stored to disk.
 
+Providing a reliable service
+----------------------------
+
+We want to ensure that everyone using our VPN experiences a reliable and stable service. Through the years we have implemented changes to ensure that even if our API fails we can still continue to provide a VPN that can be relied upon.
+
+This was a way of resolving [MUL-03-002 WP2 from our Infrastructure Audit](https://mullvad.net/blog/2021/1/20/no-pii-or-privacy-leaks-found-cure53s-infrastructure-audit/) in 2020.
+
+For our OpenVPN relays we have implemented Fail2ban to block non-authorized or malicious attempts at gaining account time.
+
+Fail2ban works by reading from a frequently wiped list of malicious unauthorized IP addresses in RAM (tmpfs). Regular paying customers and successful connections are not included in this, it is only to prevent any bruteforce attempts.
+
+**Question**: Does that mean if I try to authenticate to an OpenVPN server I will have my IP address logged?
+
+**Answer**: No. We do not log customers that have a valid account token. This blocking is limited to bad actors trying to gain free account time with non-existent, invalid account numbers.
+
 Other data that we do handle
 ----------------------------
 
@@ -271,12 +286,11 @@ Address
 Follow us
 =========
 
-*   [MullvadNet](https://www.facebook.com/MullvadNet/)
-
 *   [@mullvadnet](https://www.twitter.com/mullvadnet)
-
+*   [@mullvadnet](https://mastodon.online/@mullvadnet)
+*   [MullvadNet](https://www.facebook.com/MullvadNet/)
+*   [Mullvad VPN](https://www.youtube.com/channel/UC28cx7J7W23nhuSXMyYJjRQ)
 *   [mullvad](https://github.com/mullvad)
-
 *   [support@mullvad.net](mailto:support@mullvad.net) [GPG key](https://mullvad.net/media/mullvad-support-mail.asc)
 
   

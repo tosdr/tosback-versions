@@ -3,7 +3,7 @@
 [Privacy Policy](https://linux-user.gr/t/privacy-policy/6)
 ==========================================================
 
-[Ανακοινώσεις](https://linux-user.gr/c/CE91CEBDCEB1CEBACEBFCEB9CEBDCF8ECF83CEB5CEB9CF82/9) 
+[Ανακοινώσεις](https://linux-user.gr/c/ce91cebdceb1cebacebfceb9cebdcf8ecf83ceb5ceb9cf82/9) 
 
 [system](https://linux-user.gr/u/system)  Σεπτέμβριος 6, 2019, 9:21μμ  #1 
 

@@ -57,9 +57,9 @@ Mattel Online Privacy Statement
     *   [Українська (Україна)](http://www.fisher-price.com/uk-ua/privacy-statement-ua)
 *   [Cookies & Technologies](http://www.fisher-price.com/en-us/about-cookies-and-technologies)
 *   [Children's Privacy](http://www.fisher-price.com/en-us/childrens-privacy-statement)
-*   [Your Choices & Controls](http://www.fisher-price.com/privacy-statement#anchor-Your-Choices)
+*   [Your Choices & Controls](http://www.fisher-price.com/en-us/privacy-statement#anchor-Your-Choices)
 *   [Hot Wheels™ id FAQ](https://play.hotwheels.com/en-us/faq-id.html)
-*   [Your Privacy Rights](http://www.fisher-price.com/privacy-statement#anchor-Your-Privacy-Rights)
+*   [Your Privacy Rights](http://www.fisher-price.com/en-us/privacy-statement#anchor-Your-Privacy-Rights)
 *   [Contact Us](http://www.fisher-price.com/en-us/privacy-statement#anchor-Contact-Us)
 
 *   Menu
@@ -96,9 +96,9 @@ Mattel Online Privacy Statement
         *   [Українська (Україна)](http://www.fisher-price.com/uk-ua/privacy-statement-ua)
     *   [Cookies & Technologies](http://www.fisher-price.com/en-us/about-cookies-and-technologies)
     *   [Children's Privacy](http://www.fisher-price.com/en-us/childrens-privacy-statement)
-    *   [Your Choices & Controls](http://www.fisher-price.com/privacy-statement#anchor-Your-Choices)
+    *   [Your Choices & Controls](http://www.fisher-price.com/en-us/privacy-statement#anchor-Your-Choices)
     *   [Hot Wheels™ id FAQ](https://play.hotwheels.com/en-us/faq-id.html)
-    *   [Your Privacy Rights](http://www.fisher-price.com/privacy-statement#anchor-Your-Privacy-Rights)
+    *   [Your Privacy Rights](http://www.fisher-price.com/en-us/privacy-statement#anchor-Your-Privacy-Rights)
     *   [Contact Us](http://www.fisher-price.com/en-us/privacy-statement#anchor-Contact-Us)
 
 Mattel Online Privacy Statement
@@ -800,7 +800,7 @@ s5Z2MyOlF46r3PXZUl9hPiwU2cYK
 *   [![](/themes/mattel/mattel_mattelcom/img/privacy_certified_globe_bw.jpg)](https://www.esrb.org/confirm/mattel-confirmation.aspx)
 *   [Privacy Statement](http://corporate.mattel.com/privacy-statement.aspx?utm_source=mattel.com)
 *   [Cookies & Technologies](https://www.mattel.com/about-cookies-and-technologies)
-*   © 2020 Mattel.
+*   © 2021 Mattel.
 
 ##### Do you want to continue?
 
@@ -810,4 +810,4 @@ You are about to visit a website that operates under a separate privacy policy a
 
   
 
-{"path":{"baseUrl":"\\/","scriptPath":null,"pathPrefix":"en-us\\/","currentPath":"node\\/801","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\\u0003","trustarc":{"domain":"mattel.com","banner":{"selector":"body","insert\_method":"prepend"},"link":{"selector":"#footer-nav li:last-child","insert\_method":"before","wrapper":"li"}},"mattel\_config":{"tellium":{"account":"mattel","profile":"XXXX","environment":"dev"},"header":{"logo":"https:\\/\\/www.mattel.com\\/sites\\/mattel\_mattelcom\\/files\\/styles\\/main\_logo\\/public\\/images\\/logo.png?itok=vvgYscDI","logo\_alt":"Enchantimals Logo","logo\_position":"left","color":"#000000"},"footer":{"legal":"TRADEMARKS USED WITH PERMISSION OF THEIR RESPECTIVE OWNERS."},"video":{"pcode":"s5Z2MyOlF46r3PXZUl9hPiwU2cYK","ooplayerid":"eb2a4912cd64bc282805e03574a056c","nowplayingtext":"Now Playing"},"apps\_interstitial":{"main\_header\_text":"Do you want to continue?","main\_body\_text":"You are about to visit a website that operates under a separate privacy policy and other terms.","buy\_button\_text":"Buy Now"},"general\_interstitial":{"main\_header\_text":"Do you want to continue? ","main\_body\_text":"You are about to visit a website that operates under a separate privacy policy and other terms.","main\_image":"https:\\/\\/www.mattel.com\\/sites\\/mattel\_mattelcom\\/files\\/images\\/about-cda-min.jpg","desktop\_img\_url":"none","mobile\_img\_url":"none","leave\_url":"none","button\_cancel":"Cancel","button\_proceed":"Yes"},"js\_strings":{"games\_title":"Search Results","games\_refine":"Refine by Category","games\_home":"Home","games\_search":"Search: All","card\_title":"Filters"},"email\_signup":{"endpoint":"https:\\/\\/api.sdn.mattel.com\\/consumerinfo","api\_key":"wrfmad9753jkv9354fg8bkp9","requested\_by":"MRS","source\_id":"10753","css\_file\_name":"","client\_id":"465","client\_secret":""}},"user":{"uid":0,"permissionsHash":"6acac7f1879d643699ff9c31e0a105265c6ee918824c0d82093d6571558c917b"}} window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f3324f1f8b","applicationID":"144854623","transactionName":"Yl0EZEFVWxcABUAPDVsXJ1NHXVoKThZVAQdqWwdTW1E=","queueTime":0,"applicationTime":30,"atts":"ThoHEglPSBk=","errorBeacon":"bam.nr-data.net","agent":""}
+{"path":{"baseUrl":"\\/","scriptPath":null,"pathPrefix":"en-us\\/","currentPath":"node\\/801","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\\u0003","trustarc":{"domain":"mattel.com","banner":{"selector":"body","insert\_method":"prepend"},"link":{"selector":"#footer-nav li:last-child","insert\_method":"before","wrapper":"li"}},"mattel\_config":{"tellium":{"account":"mattel","profile":"XXXX","environment":"dev"},"header":{"logo":"https:\\/\\/www.mattel.com\\/sites\\/mattel\_mattelcom\\/files\\/styles\\/main\_logo\\/public\\/images\\/logo.png?itok=vvgYscDI","logo\_alt":"Enchantimals Logo","logo\_position":"left","color":"#000000"},"footer":{"legal":"TRADEMARKS USED WITH PERMISSION OF THEIR RESPECTIVE OWNERS."},"video":{"pcode":"s5Z2MyOlF46r3PXZUl9hPiwU2cYK","ooplayerid":"eb2a4912cd64bc282805e03574a056c","nowplayingtext":"Now Playing"},"apps\_interstitial":{"main\_header\_text":"Do you want to continue?","main\_body\_text":"You are about to visit a website that operates under a separate privacy policy and other terms.","buy\_button\_text":"Buy Now"},"general\_interstitial":{"main\_header\_text":"Do you want to continue? ","main\_body\_text":"You are about to visit a website that operates under a separate privacy policy and other terms.","main\_image":"https:\\/\\/www.mattel.com\\/sites\\/mattel\_mattelcom\\/files\\/images\\/about-cda-min.jpg","desktop\_img\_url":"none","mobile\_img\_url":"none","leave\_url":"none","button\_cancel":"Cancel","button\_proceed":"Yes"},"js\_strings":{"games\_title":"Search Results","games\_refine":"Refine by Category","games\_home":"Home","games\_search":"Search: All","card\_title":"Filters"},"email\_signup":{"endpoint":"https:\\/\\/api.sdn.mattel.com\\/consumerinfo","api\_key":"wrfmad9753jkv9354fg8bkp9","requested\_by":"MRS","source\_id":"10753","css\_file\_name":"","client\_id":"465","client\_secret":""}},"user":{"uid":0,"permissionsHash":"6acac7f1879d643699ff9c31e0a105265c6ee918824c0d82093d6571558c917b"}} window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f3324f1f8b","applicationID":"144854623","transactionName":"Yl0EZEFVWxcABUAPDVsXJ1NHXVoKThZVAQdqWwdTW1E=","queueTime":0,"applicationTime":31,"atts":"ThoHEglPSBk=","errorBeacon":"bam.nr-data.net","agent":""}

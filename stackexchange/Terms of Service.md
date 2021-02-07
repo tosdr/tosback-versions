@@ -39,8 +39,6 @@ Loading…
     [company blog](https://stackoverflow.blog/)
     
 
-By using our site, you acknowledge that you have read and understand our [Cookie Policy](https://stackoverflow.com/legal/cookie-policy), [Privacy Policy](https://stackoverflow.com/legal/privacy-policy), and our [Terms of Service](https://stackoverflow.com/legal/terms-of-service/public).
-
 StackExchange.ready(function () { StackExchange.topbar.init(); }); StackExchange.scrollPadding.setPaddingTop(50, 10);
 
 1.  [
@@ -147,6 +145,8 @@ Public Network Terms of Service
 8.  [Indemnification](#indemnification)
 9.  [Limitation of Liability](#liability)
 10.  [General Provisions](#provisions)
+
+By using our products, you agree to our Terms of Service.
 
 The Stack Overflow Network is a set of related Internet sites and other applications for questions and answers (also referred to herein as the “Network”), owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation. Stack Overflow welcomes you to the Network, the largest community of developers in the world, and invites you to participate in the community by sharing knowledge with your peers and colleagues. Like all communities, we ask that you participate in a manner that respects your fellow community members. To that end, we provide you with these terms of service to advise you of the legal obligations you assume when you engage with the Stack Overflow community or otherwise access or use the public Network or any services provided on the public Network (collectively, “Services”). These terms govern the use of the public Network (the “Public Network Terms”).
 
@@ -289,6 +289,7 @@ Last update: May 13, 2020
 *   [Work Here](https://stackoverflow.com/company/work-here)
 *   [Legal](https://stackoverflow.com/legal)
 *   [Privacy Policy](https://stackoverflow.com/legal/privacy-policy)
+*   [Terms of Service](https://stackoverflow.com/legal/terms-of-service)
 *   [Contact Us](https://stackoverflow.com/company/contact)
 
 [](#)
@@ -434,10 +435,10 @@ Network](https://stackexchange.com/)
 *   [LinkedIn](https://linkedin.com/company/stack-overflow)
 *   [Instagram](https://www.instagram.com/thestackoverflow)
 
-site design / logo © 2021 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2020.12.18.38240
+site design / logo © 2021 Stack Exchange Inc; user contributions licensed under [cc by-sa](https://stackoverflow.com/help/licensing). rev 2021.2.5.38499
 
 StackExchange.ready(function () { StackExchange.responsiveness.addSwitcher(); })
 
 Stack Overflow works best with JavaScript enabled ![](https://pixel.quantserve.com/pixel/p-c1rF4kxgLUzNc.gif)
 
-(function(i, s, o, g, r, a, m) { i\['GoogleAnalyticsObject'\] = r; i\[r\] = i\[r\] || function() { (i\[r\].q = i\[r\].q || \[\]).push(arguments) }, i\[r\].l = 1 \* new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)\[0\]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m); })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); StackExchange.ready(function () { StackExchange.ga.init({ sendTitles: true, tracker: window.ga, trackingCodes: \[ 'UA-108242619-1' \], checkDimension: 'dimension42' }); StackExchange.ga.setDimension('dimension3', 'Legal/PublicToS'); StackExchange.ga.trackPageView(); }); /\*\*/ var \_qevents = \_qevents || \[\], \_comscore = \_comscore || \[\]; (function() { var s = document.getElementsByTagName('script')\[0\], qc = document.createElement('script'); qc.async = true; qc.src = 'https://secure.quantserve.com/quant.js'; s.parentNode.insertBefore(qc, s); \_qevents.push({ qacct: "p-c1rF4kxgLUzNc" });/\*\*/ var sc = document.createElement('script'); sc.async = true; sc.src = 'https://sb.scorecardresearch.com/beacon.js'; s.parentNode.insertBefore(sc, s); \_comscore.push({ c1: "2", c2: "17440561" }); })();
+(function(i, s, o, g, r, a, m) { i\['GoogleAnalyticsObject'\] = r; i\[r\] = i\[r\] || function() { (i\[r\].q = i\[r\].q || \[\]).push(arguments) }, i\[r\].l = 1 \* new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)\[0\]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m); })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); StackExchange.ready(function () { StackExchange.ga.init({ autoLink: \["stackoverflow.blog","info.stackoverflowsolutions.com","stackoverflowsolutions.com"\], sendTitles: true, tracker: window.ga, trackingCodes: \[ 'UA-108242619-1' \], checkDimension: 'dimension42' }); StackExchange.ga.setDimension('dimension3', 'Legal/PublicToS'); StackExchange.ga.trackPageView(); }); var \_qevents = \_qevents || \[\], \_comscore = \_comscore || \[\]; (function() { var s = document.getElementsByTagName('script')\[0\], qc = document.createElement('script'); qc.async = true; qc.src = 'https://secure.quantserve.com/quant.js'; s.parentNode.insertBefore(qc, s); \_qevents.push({ qacct: "p-c1rF4kxgLUzNc" }); var sc = document.createElement('script'); sc.async = true; sc.src = 'https://sb.scorecardresearch.com/beacon.js'; s.parentNode.insertBefore(sc, s); \_comscore.push({ c1: "2", c2: "17440561" }); })(); #consent-footer-link { display: none; visibility: hidden; }

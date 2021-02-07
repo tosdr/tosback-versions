@@ -5,8 +5,8 @@ Privacy Policy
 
 Fandom, Inc. (“**Fandom**” “**we**,” “**us**,” and “**our**”) provides a home to explore, contribute to, and celebrate the world of pop culture. Our Privacy Policy (“**Privacy Policy**”) is designed to help you understand how we collect, use and share your personal information and to assist you in exercising the privacy rights available to you.
 
-**SCOPE**
----------
+Scope
+-----
 
 Fandom, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 130 Sutter Street, 4th Floor, San Francisco, CA 94104 and we are the data controller of the personal information that we collect from you as described in this Privacy Policy.
 
@@ -14,8 +14,8 @@ This Privacy Policy applies to personal information processed by us in our busin
 
 We respect your right to privacy. Our overall aim is to ensure that our collection and use of personal information is appropriate to the provision of the Services for our users, and is in accordance with applicable data protection laws.
 
-**PERSONAL INFORMATION WE COLLECT**
------------------------------------
+Personal information we collect
+-------------------------------
 
 The categories of personal information we collect depend on how you interact with our Services, and the requirements of applicable law. **Visitors** are people who access the Services. Visitors include **Registered Users** who access the Services through their accounts and **Non-Registered Users** who access the Services without using an account. We recognize that most Visitors are Non-Registered Users.
 
@@ -127,8 +127,8 @@ If you connect to a third-party service (such as Facebook, Twitter, or another t
 
 **Disclosure in the Event of Merger, Sale, or Other Asset Transfer.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
 
-**YOUR CHOICES**
-----------------
+Your choices
+------------
 
 **General**
 
@@ -154,32 +154,32 @@ The online advertising industry also provides websites from which you may opt ou
 
 Please note you must separately opt out in each browser and on each device.
 
-**DATA RETENTION**
-------------------
+Data retention
+--------------
 
 Subject to the user rights described below, we store the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. This information is held by us in the United States.
 
 We may also transfer the personal information that we collect about you to third party processors or to members of our group of companies in connection with the above purposes. We will take appropriate measures to ensure that the recipient protects your personal information adequately.
 
-**SECURITY OF YOUR INFORMATION**
---------------------------------
+Security of your information
+----------------------------
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.
 
 By using the Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Services, by mail or by sending an email to you.
 
-**CHILDREN’S INFORMATION**
+Information about children
 --------------------------
 
 The Services are not directed to children under 16 (applicable to users located in California and the EEA excluding the UK) or 13 (applicable to users located in the rest of the world), and we do not knowingly collect personal information from children.  If you learn that your child has provided us with personal information without your consent, you may contact us as set forth below. If we learn that we have collected a child’s personal information in violation of applicable law, we will promptly take steps to delete such information.
 
-**CHANGES TO OUR PRIVACY POLICY**
----------------------------------
+Changes to our privacy policy
+-----------------------------
 
 We may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use the Services after the new Privacy Policy takes effect.
 
-**ADDITIONAL PROVISIONS OF THIS PRIVACY POLICY THAT ARE APPLICABLE TO EEA AND UK RESIDENTS**
---------------------------------------------------------------------------------------------
+Additional provisions of this privacy policy that are applicable to EEA and UK residents
+----------------------------------------------------------------------------------------
 
 **What is our justification for handling your personal data?**
 
@@ -209,8 +209,8 @@ If we rely on our, or another person’s, legitimate interests for using your pe
 
 We process your personal information collected through the use of Operationally Necessary, Performance Related, and Functionality Related cookies (as described above) on the basis of our legitimate interests. We also rely on legitimate interests to use your personal information in order to provide you with access to the Services, and to make sure that they work properly, and to keep a record of who is accessing and making changes to the different parts of our Services.
 
-**Your Privacy Rights**
------------------------
+Your privacy rights
+-------------------
 
 Residents in the EEA and the UK have the rights to:
 
@@ -230,8 +230,8 @@ In addition, we keep a copy of requests submitted to us to comply with our own l
 
 In the EEA or the UK you may also make a complaint to our supervisory body for data protection matters (for example, the Information Commissioner’s Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-**ADDITIONAL PROVISIONS OF THIS PRIVACY POLICY THAT ARE APPLICABLE TO CALIFORNIA RESIDENTS**
---------------------------------------------------------------------------------------------
+Additional provisions of this privacy policy that are applicable to California residents
+----------------------------------------------------------------------------------------
 
 Under the California Consumer Privacy Act of 2018 (“**CCPA**”), California residents have certain rights around our collection, use, and sharing of their personal information.
 
@@ -263,8 +263,8 @@ In the table below, we identify each category of personal information we collect
 | Professional or employment-related information | Information you provide when applying for employment at Fandom. | Service providers. |
 | Inferences drawn from other personal information to create a profile about a consumer | Information about your likes and dislikes provided by you or derived from your activities on the Services. | Service providers, business partners, affiliates, third-party services, advertising partners. |
 
-**CONTACT US**
---------------
+Contact us
+----------
 
 If you have any questions about our privacy practices or this Privacy Policy, please contact us at:
 

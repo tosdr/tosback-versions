@@ -59,7 +59,7 @@ If you want to use certain features of the Service, such as making a post, comme
 
 To register an Account on the Service you will be required to confirm the following:
 
-*   that you are aged 16 or over,
+*   that you are aged 18 or over,
 *   that you agree to comply with these Terms & Conditions and the [**Community Guidelines**](https://support.bitchute.com/policy/guidelines),
 *   that you consent to the BitChute [**Privacy Policy**](https://support.bitchute.com/policy/privacy).
 
@@ -152,7 +152,7 @@ The Terms, and your relationship with BitChute under the Terms, shall be governe
 
 #### Was this article helpful?
 
-[2022](#) [187](#)
+[3522](#) [258](#)
 
 #### Related Questions:
 
@@ -176,7 +176,7 @@ Our customer support team is here for you.
 
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
-BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2020 Bit Chute Limited. United Kingdom. Company number 10637289.
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2021 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
 
 #### Definition by [Author](#)
 

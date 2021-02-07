@@ -161,7 +161,7 @@ Copyright © 2021 [Hawk Host](https://www.hawkhost.com/), All Rights Reserved
 
  [![Visa Accepted Here](https://www.hawkhost.com/img/payments/visa.png) ![Mastercard Accepted Here](https://www.hawkhost.com/img/payments/mastercard.png) ![American Express Accepted Here](https://www.hawkhost.com/img/payments/american-express.png) ![Paypal Accepted Here](https://www.hawkhost.com/img/payments/paypal.png) ![Bitcoin & Bitcoin Cash Accepted Here](https://www.hawkhost.com/img/payments/bitcoin.png) ![Alipay Accepted Here](https://www.hawkhost.com/img/payments/ali-pay.png) ![Ethereum Accepted Here](https://www.hawkhost.com/img/payments/ethereum.png)](https://www.hawkhost.com/Paymentmethod/index) 
 
-var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true; lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js'; var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(lc, s); })();
+window.addEventListener("load", function () { window.cookieconsent.initialise({ "palette": { "popup": { "background": "#000" }, "button": { "background": "#f1d600" } }, "cookie": { "domain": "hawkhost.com" }, "type": "opt-in", "content": { "href": "https://www.hawkhost.com/Legal/cookies" }, "position": "bottom-left", onInitialise: function (status) { var type = this.options.type; var didConsent = this.hasConsented(); if (type == 'opt-in' && didConsent) { ga('set', 'anonymizeIp', false); } if (type == 'opt-out' && !didConsent) { ga('set', 'anonymizeIp', true); } }, onStatusChange: function (status, chosenBefore) { var type = this.options.type; var didConsent = this.hasConsented(); if (type == 'opt-in' && didConsent) { ga('set', 'anonymizeIp', false); } if (type == 'opt-out' && !didConsent) { ga('set', 'anonymizeIp', true); } }, onRevokeChoice: function () { var type = this.options.type; if (type == 'opt-in') { ga('set', 'anonymizeIp', true); } if (type == 'opt-out') { ga('set', 'anonymizeIp', false); } }, }) }); var \_\_lc = {}; \_\_lc.license = 4638531; (function () { var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true; lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js'; var s = document.getElementsByTagName('script')\[0\]; s.parentNode.insertBefore(lc, s); })();
 
 ![Modal Close Button](https://www.hawkhost.com/img/close.png)
 
@@ -182,7 +182,7 @@ Close without getting coupon
 
 Coupon code for 30% off (recurring):
 
-HHI-14COPCCBP9
+HHI-028RTJJ3WX
 --------------
 
 USE MY COUPON

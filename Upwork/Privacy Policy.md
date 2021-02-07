@@ -114,14 +114,14 @@ You may not use, or encourage, promote, facilitate, or instruct, induce, or othe
 
 The following are examples of uses that are prohibited on the Site or when using the Site Services:
 
-*   Seeking, offering, promoting, or endorsing services, content, or activities that:
-    *   are defamatory, illegal, profane, vulgar, threatening, unlawfully discriminatory, illegal, pornographic, obscene, or sexually explicit in nature;
+*   Seeking, offering, promoting, supporting, or endorsing services, content, or activities that:
+    *   are defamatory, illegal, violent, profane, vulgar, threatening, unlawfully discriminatory, illegal, pornographic, obscene, or sexually explicit in nature;
     *   would violate the intellectual property rights, such as and including copyrights, of another person, entity, service, product, or website;
     *   would violate (a) Upwork’s Terms of Service, (b) the terms of service of another website or any similar contractual obligations, or (c) the academic policies of any educational institution;
     *   regard the creation, purchase, and/or publication of a review for a third-party website;
     *   regard the creation, publication, or distribution of “fake news”, “hoax news”, Deep Fake content or similar content, which is, in Upwork's sole discretion, determined to be intended to mislead recipients for personal, financial, political or other gain or advantage;
     *   regard or promote in any way any escort services, prostitution, or sexual acts; or
-    *   any conduct that is, in Upwork’s determination, harassing toward another person based on the person's inclusion in a protected class as defined by applicable law;
+    *   any conduct that is, in Upwork’s determination, violent or harassing toward another person or endorses or encourages violence or harassment towards others, including based on the individual's or group's inclusion in a protected class as defined by applicable law;
 *   Fraudulent or misleading uses or content, including:
     *   fraudulently billing or attempting to fraudulently bill any Client, including by (i) falsifying or manipulating or attempting to falsify or manipulate the hours, keystrokes, or mouse clicks recorded in the Upwork App, (ii) reporting, recording, or otherwise billing Clients for time that was not actually worked, or (iii) on an hourly contract, reporting, recording, or otherwise billing hours worked by another person as hours worked by you in a way that is misleading or false;
     *   misrepresenting your experience, skills, or information, including by representing another person’s profile, or parts of another person’s profile, as your own;
@@ -134,6 +134,7 @@ The following are examples of uses that are prohibited on the Site or when using
     *   falsely stating that one Freelancer will perform the work on a job when another will in fact perform the work, including submitting a proposal on behalf of a Freelancer that is unable, unwilling, or unavailable to do the work;  
         
 *   Expressing an unlawful preference in a job post or proposal or otherwise unlawfully discriminating on a protected basis;
+*   Inciting or encouraging violence;
 *   Posting identifying information concerning another person;
 *   Spamming other Users with proposals or invitations, including by making unsolicited contact of Users off the Upwork platform, or by posting the same job multiple times so that more than one version remains active at a given time;  
     

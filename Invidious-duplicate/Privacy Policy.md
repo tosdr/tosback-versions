@@ -33,4 +33,6 @@ Available instances
 *   [watch.nettohikari.com](https://watch.nettohikari.com/)
 
 *   [Home](https://www.invidio.us/)
-*   [JavaScript licenses](https://www.invidio.us/js-licenses.html)
+*   [Source code](https://git.sr.ht/~cadence/invidious-redirect)
+*   [Invidious project](https://github.com/iv-org/invidious)
+*   [JavaScript license](https://www.invidio.us/js-licenses.html)

@@ -232,6 +232,6 @@ _Last updated: October 2020_
         
     3.  October 2020 - updates to data transfers and legal bases
 
-©2020 Verizon Media. All Rights Reserved.
+©2021 Verizon Media. All Rights Reserved.
 
 var custKeys = {st\_sec:"us.oathpol",mrkt:mrktParm,lang:langParm,pt:pageType,pct:"story",paid:pageId,ver:"drupal7"}; var rapidConfig = { spaceid:spaceId, anonymized: true, keys:custKeys } ; var myRapidInstance = new YAHOO.i13n.Rapid(rapidConfig);

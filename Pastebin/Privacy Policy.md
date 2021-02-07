@@ -168,21 +168,25 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
+*   [openapi fiserv acc...](https://pastebin.com/PtMKqYSi)
+    
+    YAML | 4 sec ago
+    
 *   [E4\_2017](https://pastebin.com/PwfB6YFQ)
     
-    C | 8 min ago
+    C | 18 min ago
     
 *   [NewFaceGui](https://pastebin.com/EdqdAak4)
     
-    Python | 9 min ago
+    Python | 19 min ago
     
 *   [Ex 23 POO versiune...](https://pastebin.com/rzdDjWCz)
     
-    C | 17 min ago
+    C | 27 min ago
     
 *   [Untitled](https://pastebin.com/cLtrwpA7)
     
-    Java | 32 min ago
+    Java | 42 min ago
     
 *   [Untitled](https://pastebin.com/r94txHEZ)
     
@@ -195,10 +199,6 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 *   [Untitled](https://pastebin.com/iS3wKLvf)
     
     Java | 1 hour ago
-    
-*   [myguibox](https://pastebin.com/dRpsst8u)
-    
-    Python | 1 hour ago
     
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)   / [pro](https://pastebin.com/pro)  

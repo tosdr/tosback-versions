@@ -28,8 +28,8 @@
 
 [
 
-*   Your IP Address: 162.211.64.106
-*   Your ISP: Secure Dragon LLC.
+*   Your IP Address: 176.9.76.173
+*   Your ISP: Hetzner Online GmbH
 *   You are not protected
 *   Select plan »
 
@@ -57,13 +57,13 @@
 
  [![PIA](https://www.privateinternetaccess.com/assets/PIALogo1x-62b63f96feba002326935631a63b6411b7d8a000fcb824c56ccc5d3568d0e3d7.png "PIA")](https://www.privateinternetaccess.com/ "Home") 
 
-[Join Now](https://www.privateinternetaccess.com/pages/buy-vpn/)
+[Get PIA VPN](https://www.privateinternetaccess.com/pages/buy-vpn/)
 
 *   [How It Works](https://www.privateinternetaccess.com/pages/how-it-works/ "How It Works")
 *   [Download](https://www.privateinternetaccess.com/pages/download "Download")
 *   [Support](https://www.privateinternetaccess.com/helpdesk/ "Support")
 *   [My Account](https://www.privateinternetaccess.com/pages/client-control-panel "My Account")
-*   [Join Now](https://www.privateinternetaccess.com/pages/buy-vpn/ "Join Now")
+*   [Get PIA VPN](https://www.privateinternetaccess.com/pages/buy-vpn/ "Get PIA VPN")
 
 .privacy-policy h2 { text-align: center; margin-bottom: 1em; } .privacy-policy h2, .privacy-policy h3, b { font-weight: bold; } .privacy-policy section { margin-top: 2em; } .privacy-policy p { text-align: justify; margin-bottom: 1.5em; } .privacy-policy ul { padding-left: 2.2em; margin-bottom: 2em; } .privacy-policy li { padding-left: 1.5em; } address { padding-left: 2em; font-style: normal; } #last\_revised { margin-top: 3em; margin-bottom: 1em; color: #999; }
 

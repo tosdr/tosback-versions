@@ -1,4 +1,4 @@
-{"railsEnv":"production","inMailer":false,"i18nLocale":"en-us","i18nDefaultLocale":"en-us","rorVersion":"12.0.1","rorPro":false,"href":"https://www.vinted.com/terms\_and\_conditions","location":"/terms\_and\_conditions","scheme":"https","host":"www.vinted.com","port":null,"pathname":"/terms\_and\_conditions","search":null,"httpAcceptLanguage":"en","locale":"en-us","currency":"USD","portal":"us","flavour":"clothing","sandbox":false,"development":false,"catalogRootPath":"/clothes","serverSide":false}
+{"railsEnv":"production","inMailer":false,"i18nLocale":"en-us","i18nDefaultLocale":"en-us","rorVersion":"12.0.1","rorPro":false,"href":"https://www.vinted.com/terms\_and\_conditions","location":"/terms\_and\_conditions","scheme":"https","host":"www.vinted.com","port":null,"pathname":"/terms\_and\_conditions","search":null,"httpAcceptLanguage":"en","currency":"USD","portal":"us","flavour":"clothing","sandbox":false,"development":false,"catalogRootPath":"/clothes","serverSide":false}
 
 {"screen":"terms\_and\_conditions"}
 
@@ -303,5 +303,3 @@ THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTI
 **30\. CONTACT**
 
 For all support based enquiries, you can contact the team here:  **[Contact us](https://www.vinted.com/help)**. For all legal based enquiries, please contact us through **legal@vinted.com**
-
-* * *

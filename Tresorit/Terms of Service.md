@@ -3,13 +3,6 @@
 [For Businesses](https://tresorit.com/) [For Individuals](https://tresorit.com/individuals)
 
 *   [Business](https://tresorit.com/business)
-*   Products
-    
-    *   [Tresorit Enterprise A solution tailored for enterprises. Starts from 50 licenses.](https://tresorit.com/enterprise)
-    *   [Tresorit Business Safe collaboration with enhanced control and security](https://tresorit.com/business)
-    *   [Tresorit Personal Secure storage & sync for personal & work files](https://tresorit.com/solo)
-    *   [Tresorit Basic Secure file sync & sharing for FREE](https://tresorit.com/pricing/basic)
-    
 *   Solutions
     
     ### By use case
@@ -18,13 +11,13 @@
     
     *   [External collaboration Work together with external partners and clients in a secure environment](https://tresorit.com/external-collaborating-tools)
     *   [Legal Protect your practice with proven, zero-knowledge security](https://tresorit.com/business/secure-cloud-storage-for-lawyers)
-    *   [Encrypted storage & backup Store files in the cloud protected by end-to-end encryption](https://tresorit.com/online-storage-and-backup)
+    *   [Tresorit for Outlook Encrypt attachments & password protect files through Outlook](https://tresorit.com/tresorit-for-outlook)
     *   [Healthcare HIPAA compliant cloud storage to store and share patient data](https://tresorit.com/business/hipaa-compliant-cloud-storage)
-    *   [Secure file sharing Share files with permission control, revoke access anytime](https://tresorit.com/secure-file-sharing)
+    *   [Encrypted storage & backup Store files in the cloud protected by end-to-end encryption](https://tresorit.com/online-storage-and-backup)
     *   [Human resources Secure file management solution for HR teams](https://tresorit.com/business/tresorit-hr-toolkit)
-    *   [Mobility with secure access Access files anywhere securely from mobile devices](https://tresorit.com/mobility)
+    *   [Secure file sharing Share files with permission control, revoke access anytime](https://tresorit.com/secure-file-sharing)
     *   [Nonprofits Protect your cause and share files securely & easily](https://tresorit.com/nonprofit)
-    *   [GDPR ready cloud Tresorit helps your business towards GDPR compliance](https://tresorit.com/gdpr) [Migrate to the cloud Replace file servers with an equally secure solution in the cloud](https://tresorit.com/migration-from-on-premise-to-cloud)
+    *   [Mobility with secure access Access files anywhere securely from mobile devices](https://tresorit.com/mobility)
     *   [Education Secure file storage & sharing for educators, students & researchers](https://tresorit.com/remoteworking/education)
     *   [Migrate to the cloud Replace file servers with an equally secure solution in the cloud](https://tresorit.com/migration-from-on-premise-to-cloud)
     
@@ -1062,7 +1055,7 @@ Copyright © 2020 Tresorit. All rights reserved.
 *   [Terms & Privacy](https://tresorit.com/legal)
 *   Cookie Settings
 
- _![Chat](https://prodwebsiteassets.azureedge.net/webv9/img/common/userlike/bubble.589f1806.svg)_ 
+ _![Chat](https://cdn.tresorit.com/webv9/img/common/userlike/bubble.589f1806.svg)_ 
 
 Cookie and Privacy Settings
 ---------------------------

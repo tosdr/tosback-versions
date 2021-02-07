@@ -7,7 +7,7 @@ Privacy Policy
 *   [Blog](https://www.houseparty.com/blog)
 *   [Download](https://www.houseparty.com/index.html#download)
 
-if (window.location.pathname.endsWith('faq/') || window.location.pathname.endsWith('faq')) { !function(e,l,v,i,o,n){e\[i\]||(e\[i\]={}),e\[i\].account\_id=n;var g,h;g=l.createElement(v),g.type="text/javascript",g.async=1,g.src=o+n,h=l.getElementsByTagName(v)\[0\],h.parentNode.insertBefore(g,h);e\[i\].q=\[\];e\[i\].on=function(z,y){e\[i\].q.push(\[z,y\])}}(window,document,"script","\_elev","https://cdn.elev.io/sdk/bootloader/v4/elevio-bootloader.js?cid=","5d5545851506c"); window.\_elev.on('load', function(\_elev) { \_elev.setLanguage("en"); \_elev.open(); }); }
+if (window.location.pathname.endsWith('faq/') || window.location.pathname.endsWith('faq')) { !function(e,l,v,i,o,n){e\[i\]||(e\[i\]={}),e\[i\].account\_id=n;var g,h;g=l.createElement(v),g.type="text/javascript",g.async=1,g.src=o+n,h=l.getElementsByTagName(v)\[0\],h.parentNode.insertBefore(g,h);e\[i\].q=\[\];e\[i\].on=function(z,y){e\[i\].q.push(\[z,y\])}}(window,document,"script","\_elev","https://cdn.elev.io/sdk/bootloader/v4/elevio-bootloader.js?cid=","5d5545851506c"); window.\_elev.on('load', function(\_elev) { \_elev.setLanguage("en"); \_elev.setSettings( { kbLink: () => undefined } ); \_elev.open(); }); }
 
 *   [English](https://www.houseparty.com/privacy/)
 *   [Deutsch](https://www.houseparty.com/de/privacy/)
@@ -22,7 +22,7 @@ document.addEventListener("touchstart", function() {}, true);
 Houseparty Privacy Policy
 =========================
 
-Last Updated: July 22nd, 2020
+Last Updated: January 29th, 2021
 
 The Houseparty Privacy Policy is designed to help you understand the information we collect and the different ways we may use or share it.
 
@@ -41,7 +41,7 @@ You probably wonder what information we collect. This often depends on the exact
 
 > Houseparty uses this info to make the product better for you so you can focus on being present with your friends. We want to do the heavy lifting, utilizing tech to improve the experience.
 
-**We collect certain information when you link third party accounts or apps to Houseparty.** If you link social media accounts to Houseparty, we collect certain social media account information. If you link your contacts we collect information about your friends, like their phone numbers and addresses.
+**We collect certain information when you link third party accounts or apps to Houseparty.** If you link social media accounts to Houseparty, we collect certain social media account information. If you link your contacts we collect information about your friends, like their phone numbers and addresses. If you link an Epic Games account to Houseparty, we collect certain account information about you, and when a Houseparty room is integrated into a third-party game or application we will collect information about you and the other users in the room, including account, usage, and device information that we collect from all Houseparty users.
 
 **We collect location information.** For example, we may collect your zip code and state. Based on your IP address, we also derive location information.
 
@@ -70,7 +70,7 @@ Now that you know what we collect, we want to tell you why and what we do with t
 
 **We may also use push notifications in our mobile apps.** We may send you push notifications about updates and other information we think you will find interesting, for example to let you know when a friend is online.
 
-**Our basis for processing European information.** Our basis for processing your information for the reasons described above is typically to perform a contract, including responding to your requests. For example, this includes providing customer service. Where this applies, if you choose not to provide information, we may be unable to perform the contract or respond to your request. We also process information based on your consent. Where you have provided consent, you have the right to withdraw it. We also use information about you when we have a legitimate purpose in doing so. For example, this includes helping secure and improve Houseparty.
+**Our basis for processing European information.** Our basis for processing your information for the reasons described above is typically to perform a contract, including responding to your requests. . For example, this includes providing customer service. Where this applies, if you choose not to provide information, we may be unable to perform the contract or respond to your request. We also process information based on your consent. Where you have provided consent, you have the right to withdraw it. We also use information about you when we have a legitimate purpose in doing so. For example, this includes helping secure and improve Houseparty.
 
 **We also use information as otherwise permitted by law.**
 
@@ -85,11 +85,11 @@ Like many other companies, there are different ways that we collect information,
 
 > The information we gather helps us give you the best experience on Houseparty.
 
-**We get information about you from third parties.** Social media platforms and third-party apps may give us information about you. We may also collect information about you from other users. This might include your name, phone number, or email address if they invite or refer you to our app or if they have linked their contacts to their Houseparty account.
+**We get information about you from third parties, apps, platforms, and accounts you may link to Houseparty.** Social media or gaming platforms and third-party apps may give us information about you. We may also collect information about you from other users. This might include your name, phone number, or email address if they invite or refer you to our app or if they have linked their contacts to their Houseparty account.
 
-> What social platforms are we talking about? We might get information, for example, from Snapchat or Facebook if you choose to link your Houseparty account with these third-party platforms. Information they share with us includes certain details from your profile.
+> What platforms are we talking about? We might get information, for example, from Epic Games, Snapchat, or Facebook if you choose to link your Houseparty account with these platforms. Information they share with us includes certain details from your profile, but could include more than that depending on the platform features. If you link your Houseparty account to a platform that allows you to integrate Houseparty video chat, the information we receive can include audio and video content or friend information. Remember - audio and video content shared to make a Houseparty integration (like Fortnite Mode) operate is only shared in real-time to enable that integration – we use the information we get to make the experience possible. Except for the Facemails you choose to record, Houseparty does not record or store audio or video content from rooms on its servers.
 
-**We combine information.** Houseparty is an integrated social media platform, which means we may combine information that we have collected across devices, such as computers and mobile devices. We may also combine information we get from a third party with information we already have and combine information that we have collected from other third-party sites.
+**We combine information.** Houseparty is an integrated social media platform, which means we may combine information that we have collected across devices, such as computers and mobile devices. We may also combine information we get from a third party or our affiliates with information we already have and combine information that we have collected from other third-party sites or our affiliates.
 
 When We Share Information
 -------------------------
@@ -98,9 +98,9 @@ Houseparty is part of the digital community, and as part of our business there a
 
 **Sharing on Houseparty.** Houseparty is designed to let you join video chats with not only your connections but also the connections of others. If someone who is not your direct connection joins your video chat session you will get a notice. Your public profile is available to both your connections and their connections. Other users may also be able to view your name, username, and top Connections (i.e., who you speak to most often). Connections can see when you were online last and a list of some of your other Connections, and receive a notice when you go online and are “in the house.”
 
-> Houseparty exists to help you connect with the people you care about most.When you connect with your friends, they can see some of the profile information you’ve created on Houseparty. Want to change things up? Read about modifying your controls in the “your choices” section below.
+> Houseparty exists to help you connect with the people you care about most. When you connect with your friends, they can see some of the profile information you’ve created on Houseparty. Want to change things up? Read about modifying your controls in the “your choices” section below.
 
-**We share information with our vendors.** We may share information with trusted third parties, including companies who serve as our vendors and help us deliver our services and social media partners if you elect to use social media integration features. We may also share some information with companies that help operate our app or run a promotion.
+**We share information with our vendors.** We may share information with trusted companies who serve as our vendors and help us deliver our services and social media/gaming partners if you elect to use integration features. The information we share will depend on the integration features you enable. For example, when you connect an Epic Games account or use a Houseparty integration on another platform, we may share with that platform your Houseparty account information, user ID, room ID, media server data, and the audio/video content of your Houseparty room. We share this information to ensure Fortnite Mode works properly, to conduct individual and aggregate analytics, and to protect the user safety and enforce Houseparty’s Terms of Service. We may also share some information with companies that help operate our app or run a promotion. Remember - audio and video content shared to make a Houseparty integration (like Fortnite Mode) operate is only shared in real-time to enable that integration. Except for the Facemails you choose to record, Houseparty does not record or store audio or video content from rooms on its servers. Additionally, you can always make changes to your linked accounts and features by modifying your account controls. More information on that in the “your choices” section below.
 
 > What can we say? We can’t do it alone. Sometimes we have to work with other companies to help us deliver a great Houseparty experience. We are owned by Epic Games, this means that we might rely on them to help us out.
 
@@ -122,6 +122,8 @@ You have certain choices about how we use your information. Those are described 
 > We believe in respecting social norms. If one of your friends’ friends is about to join your Houseparty chat, you’ll receive a notice that they are joining. If you don’t want friends of friends joining your party, you can “lock” the conversation. Anyone in the room can unlock the group session to allow more people to join, just like at a real house party. You can learn more about this in our Party Guidelines in the app. You can also choose “Private Mode” to have your rooms always locked by default.
 
 **You can control certain notifications about being online.** If you don’t want your friends to know that you’ve launched the app, then you can “Sneak into the House.” This is a one-time selection. You can also select online notification preferences for yourself and friends in your notification settings. When you launch the app, you’re starting a party and others may be able to immediately join you unless you “lock” the room.
+
+**You can control your integrations with third party services and platforms.** If you link your Houseparty account to one of our social media/gaming partners like Facebook or Epic Games or through one of our integration features, you can un-link your accounts at any time in your Houseparty account settings. You may also be able to un-link your account through the settings made available to you by our partners on their platform, service, or app. Un-linking your accounts will not affect any information that we have already shared, but will stop future sharing with that partner.
 
 **You can control cookies and tracking tools.** Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html). Why? Because flash cookies cannot be controlled through your browser settings.
 

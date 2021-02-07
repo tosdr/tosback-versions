@@ -1,5 +1,7 @@
 var newPDP = true
 
+[Skip to Main Content](#main-content)
+
 .site-header .site-header-logo { max-width: 100px; flex-basis: 100px; } .logo > svg { width: 100px; } @media only screen and (max-width: 639px) { .logo > svg { width: 100%; max-width: 100px; } } .site-header, .show-for-large .topbar-nav > li { height: 60px; } @media only screen and (max-width: 639px) { .site-header, .show-for-large .topbar-nav > li { height: 60px; } } @media only screen and (min-width: 640px) { .header-searchbar .search-form .input-search.ss-ac-open + div\[ss-autocomplete\] { top: 60px; } } body > main { padding-top: 60px; } @media only screen and (max-width: 639px) { body > main { padding-top: 60px; } } .site-header .show-for-large .topbar-nav > li > a { font-family: Trade Gothic; color: #ffffff } .site-header .show-for-large .topbar-nav > li > a:hover, .site-header .show-for-large .topbar-nav > li > a.show { color: #ffffff; }
 
 *   [Our Catalog](https://gear.bethesda.net/collections/all)
@@ -70,7 +72,9 @@ var newPDP = true
 
  
 
-[](#swym-wishlist)[](#search)[](https://gear.bethesda.net/account/login "Gear Store Account")[0](https://gear.bethesda.net/cart)[](#menu)
+[Search](#search)[](#search)
+
+[](#swym-wishlist)[Search](#search) [Go to your Account Page](https://gear.bethesda.net/account/login "Gear Store Account") [Go to your Cart 0](https://gear.bethesda.net/cart)
 
 *   [Our Catalog](https://gear.bethesda.net/collections/all)
     
@@ -366,6 +370,8 @@ Support
 [Your Gear Account](https://gear.bethesda.net/account/login)
 
 [Customer Service](https://gear.bethesda.net/pages/customer-service)
+
+[Newsroom](https://development-plus-inc.prowly.com/)
 
 [Discounts & Promotions](https://gear.bethesda.net/pages/discounts-promotions-policy)
 

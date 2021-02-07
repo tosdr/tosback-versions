@@ -2,6 +2,8 @@
 
  [![NHL](//www-league.nhlstatic.com/images/logos/league-dark/133-flat.svg)](https://www.nhl.com/ "NHL.com") 
 
+ Enter Search Term. Use arrows to navigate between autocomplete results. If no results appear, use Enter to do a full site search.
+
 *   [Scores](https://www.nhl.com/scores)
     
 *   [News](https://www.nhl.com/news)
@@ -10,38 +12,36 @@
     ========
     
     *   [NHL Insider](https://www.nhl.com/news/t-277548856)
-    *   [NHL Draft](https://www.nhl.com/news/t-277764372)
-    *   [Free Agency](https://www.nhl.com/news/t-281072352)
-    *   [Trades & Transactions](https://www.nhl.com/news/t-278542340)
     *   [Fantasy Hockey](https://www.nhl.com/news/t-277729150)
-    *   [NHL Awards](https://www.nhl.com/news/t-280503612)
     *   [Super 16 Rankings](https://www.nhl.com/news/t-278386388)
     *   [Behind the Numbers](https://www.nhl.com/news/t-278387726)
-    *   [Coaches Room](https://www.nhl.com/news/t-292275938)
+    *   [Trades & Transactions](https://www.nhl.com/news/t-278542340)
+    *   [NHL Draft](https://www.nhl.com/news/t-277764372)
+    *   [Free Agency](https://www.nhl.com/news/t-281072352)
     *   [NHL Seattle](https://www.nhl.com/news/t-281011650)
     
     Spotlight
     =========
     
-    *   [Stanley Cup Playoffs](https://www.nhl.com/stanley-cup-playoffs/2020)
     *   [This is Hockey](https://www.nhl.com/info/nhl-declaration-of-principles/)
     *   [Hockey is for Everyone](https://www.nhl.com/community/hockey-is-for-everyone)
     *   [Color of Hockey](https://www.nhl.com/news/t-306702280)
     *   [Hockey Fights Cancer](https://www.nhl.com/hockeyfightscancer)
-    *   [Player Safety](https://www.nhl.com/news/t-277549076)
-    *   [NHL Situation Room](https://www.nhl.com/news/t-277729160)
     *   [NHL Green](https://www.nhl.com/info/nhl-green)
-    *   [NHL.com/Photos](https://www.nhl.com/fans/photos)
+    *   [Player Safety](https://www.nhl.com/news/t-277549076)
+    *   [Video Rulebook](https://www.nhl.com/info/video-rulebook)
+    *   [NHL Situation Room](https://www.nhl.com/news/t-277729160)
     *   [Podcasts](https://www.nhl.com/multimedia/podcasts)
+    *   [NHL.com/Photos](https://www.nhl.com/photos/2020-21-gallery/g-320532686)
     
 *   [Video](https://www.nhl.com/video)
     
     More Video
     ==========
     
-    *   [Stanley Cup Playoffs](https://www.nhl.com/video/t-306336916)
     *   [Most Popular](https://www.nhl.com/video/t-277350912)
     *   [Game Recaps](https://www.nhl.com/video/t-277753022)
+    *   [Video Rulebook](https://www.nhl.com/info/video-rulebook)
     *   [Situation Room](https://www.nhl.com/video/t-277781830)
     *   [Player Safety Decisions](https://www.nhl.com/video/t-277440360)
     *   [Live Game Video](https://subscribe.nhl.com/us?&affiliateId=NHLVIDEOMENU)
@@ -57,13 +57,7 @@
     *   [Best of NHL Network](https://www.nhl.com/video/t-277774708)
     *   [Fantasy Hockey](https://www.nhl.com/video/t-299508464)
     
-*   [Playoffs](https://www.nhl.com/stanley-cup-playoffs/2020)
-    
-    Playoffs
-    ========
-    
-    *   [Playoffs Coverage](https://www.nhl.com/stanley-cup-playoffs/2020)
-    *   [Bracket Challenge](https://bracketchallenge.nhl.com/dashboard)
+*   [Standings](https://www.nhl.com/standings)
     
 *   [Stats](http://www.nhl.com/stats/)
     
@@ -84,15 +78,12 @@
     Schedule
     ========
     
-    *   [NHL Draft](https://www.nhl.com/nhl-draft)
-    *   [Stanley Cup Playoffs](https://www.nhl.com/stanley-cup-playoffs/2020)
     *   [Future Events](https://www.nhl.com/info/nhl-events/2020-21)
     
     Spotlight
     =========
     
     *   [Betting Lines](https://www.nhl.com/odds)
-    *   [NHL Awards](https://www.nhl.com/fans/nhl-awards-event)
     *   [This Date in NHL History](https://www.nhl.com/news/t-279684992)
     
     [
@@ -123,7 +114,7 @@
     =======
     
     *   [NHL Tickets](https://www.nhl.com/tickets)
-    *   [NHL Ticket Exchange](https://www.ticketexchangebyticketmaster.com/?brand=nhl&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE&utm_content=TIX_PAGE_NAV)
+    *   [NHL Ticket Marketplace](https://www.ticketmaster.com/nhl?wt.mc_id=NHL_LEAGUE_TIX_NAV_DROP_DWN_BANNER&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE&utm_content=TIX_NAV_DROP_DWN_BANNER)
     
 *   [Fantasy](https://www.nhl.com/fans/fantasy-hockey)
     
@@ -132,13 +123,14 @@
     
     *   [NHL.com/Fantasy](https://www.nhl.com/fans/fantasy-hockey)
     *   [NHL Fantasy on Ice Podcast](https://www.nhl.com/multimedia/podcasts-nhl-fantasy-on-ice)
-    *   [Top 250 Rankings](https://www.nhl.com/news/nhl-fantasy-hockey-top-250-rankings-players-2019-20/c-281505474?tid=277729150)
+    *   [Top 200 Rankings](https://www.nhl.com/news/nhl-fantasy-hockey-top-250-rankings-players-2019-20/c-281505474?tid=277729150)
     *   [Top 100 Forwards](https://www.nhl.com/news/nhl-fantasy-hockey-top-100-forward-rankings-2019-20/c-282775028?tid=277729150)
     *   [Top 50 Defensemen](https://www.nhl.com/news/nhl-fantasy-hockey-top-50-defenseman-rankings-2019-20/c-282830728?tid=277729150)
     *   [Top 25 Goalies](https://www.nhl.com/news/nhl-fantasy-hockey-top-25-goaltender-rankings-2019-20/c-282860450?tid=277729150)
-    *   [Offseason News Roundup](https://www.nhl.com/news/c-318760190?tid=277729150)
+    *   [Power Rankings](https://www.nhl.com/news/nhl-power-rankings-fantasy-hockey-team-2020-21/c-299081864?tid=277729150)
+    *   [Daily Fantasy Picks](https://www.nhl.com/news/dfs-nhl-expert-picks-fantasy-hockey-daily-fanduel-targets-advice-tonight-today-2021/c-306672908?tid=277729150)
     *   [Fantasy Pool Cheat Sheet](https://www.nhl.com/news/nhl-fantasy-hockey-cheat-sheet-pools-draft-kit/c-282283006?tid=277729150)
-    *   [NHL Hat Trick Challenge](http://hattrick.nhl.com/#/picks?entry_id=mine)
+    *   [Play Season-Long Fantasy](https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23723289.293100197;dc_trk_aid=482562123;dc_trk_cid=141795615;u=$%7BdeployID%7D_$%7BhashAudience%7D;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D)
     
     [
     
@@ -174,26 +166,11 @@
     
 *   [Teams](https://www.nhl.com/info/teams)
     
-    Eastern Conference
-    ==================
-    
-    Atlantic
-    ========
+    MassMutual East
+    ===============
     
     *   [Boston](https://www.nhl.com/bruins)
     *   [Buffalo](https://www.nhl.com/sabres)
-    *   [Detroit](https://www.nhl.com/redwings)
-    *   [Florida](https://www.nhl.com/panthers)
-    *   [Montréal](https://www.nhl.com/canadiens)
-    *   [Ottawa](https://www.nhl.com/senators)
-    *   [Tampa Bay](https://www.nhl.com/lightning)
-    *   [Toronto](https://www.nhl.com/mapleleafs)
-    
-    Metropolitan
-    ============
-    
-    *   [Carolina](https://www.nhl.com/hurricanes)
-    *   [Columbus](https://www.nhl.com/bluejackets)
     *   [New Jersey](https://www.nhl.com/devils)
     *   [NY Islanders](https://www.nhl.com/islanders)
     *   [NY Rangers](https://www.nhl.com/rangers)
@@ -201,31 +178,40 @@
     *   [Pittsburgh](https://www.nhl.com/penguins)
     *   [Washington](https://www.nhl.com/capitals)
     
-    Western Conference
-    ==================
+    Discover Central
+    ================
     
-    Central
-    =======
-    
+    *   [Carolina](https://www.nhl.com/hurricanes)
     *   [Chicago](https://www.nhl.com/blackhawks)
-    *   [Colorado](https://www.nhl.com/avalanche)
+    *   [Columbus](https://www.nhl.com/bluejackets)
     *   [Dallas](https://www.nhl.com/stars)
-    *   [Minnesota](https://www.nhl.com/wild)
+    *   [Detroit](https://www.nhl.com/redwings)
+    *   [Florida](https://www.nhl.com/panthers)
     *   [Nashville](https://www.nhl.com/predators)
-    *   [St. Louis](https://www.nhl.com/blues)
-    *   [Winnipeg](https://www.nhl.com/jets)
+    *   [Tampa Bay](https://www.nhl.com/lightning)
     
-    Pacific
-    =======
+    Honda West
+    ==========
     
     *   [Anaheim](https://www.nhl.com/ducks)
     *   [Arizona](https://www.nhl.com/coyotes)
+    *   [Colorado](https://www.nhl.com/avalanche)
+    *   [Los Angeles](https://www.nhl.com/kings)
+    *   [Minnesota](https://www.nhl.com/wild)
+    *   [San Jose](https://www.nhl.com/sharks)
+    *   [St. Louis](https://www.nhl.com/blues)
+    *   [Vegas](https://www.nhl.com/goldenknights)
+    
+    Scotia North
+    ============
+    
     *   [Calgary](https://www.nhl.com/flames)
     *   [Edmonton](https://www.nhl.com/oilers)
-    *   [Los Angeles](https://www.nhl.com/kings)
-    *   [San Jose](https://www.nhl.com/sharks)
+    *   [Montréal](https://www.nhl.com/canadiens)
+    *   [Ottawa](https://www.nhl.com/senators)
+    *   [Toronto](https://www.nhl.com/mapleleafs)
     *   [Vancouver](https://www.nhl.com/canucks)
-    *   [Vegas](https://www.nhl.com/goldenknights)
+    *   [Winnipeg](https://www.nhl.com/jets)
     
     *    [![](//www-league.nhlstatic.com/images/logos/teams-current-light/55.svg) Seattle](https://www.nhl.com/kraken) Coming 2021-2022 Season 
     
@@ -596,9 +582,9 @@ About
 
  [![](//www-league.nhlstatic.com/images/logos/league-dark/133.svg)](https://www.nhl.com/ "NHL.com") 
 
-NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, the Stanley Cup Playoffs logo, the Stanley Cup Final logo, Center Ice name and logo, NHL Conference logos, NHL Winter Classic name, and The Biggest Assist Happens Off The Ice are registered trademarks and Stanley Cup Qualifiers name and logo, NHL.TV, Vintage Hockey word mark and logo, The Game Lives Where You Do, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL Stadium Series name and logo, NHL All-Star logo, NHL Face-Off name and logo, NHL. TV, NHL Premium, NHL After Dark, NHL GameCenter, NHL GameCenter LIVE, NHL Network name and logo, NHL Tonight name and logo, On The Fly, NHL Awards name and logo, NHL Draft name and logo, NHL Mascots, Hockey Fights Cancer, Because It's The Cup, NHL Green name and logo, NHL Vault, Hockey Is For Everyone, NHL Thanksgiving Showdown name and logo, NHL Centennial Classic name and logo, NHL Centennial Season logo, NHL100 Classic name and logo, NHL Global Series name and logo, NHL China Games name and logo, NHL Power Players name and logo, and Don't Miss A Moment are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL 2019. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA. The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc.© Frank J. Zamboni & Co., Inc. 2019. All Rights Reserved. Any other third party trademarks or copyrights are the property of their respective owners. All rights reserved.
+NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, the Stanley Cup Playoffs logo, the Stanley Cup Final logo, Center Ice name and logo, NHL Conference logos, NHL Winter Classic name, and The Biggest Assist Happens Off The Ice are registered trademarks and Stanley Cup Qualifiers name and logo, NHL.TV, Vintage Hockey word mark and logo, The Game Lives Where You Do, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL Stadium Series name and logo, NHL All-Star logo, NHL Face-Off name and logo, NHL. TV, NHL Premium, NHL After Dark, NHL GameCenter, NHL GameCenter LIVE, NHL Network name and logo, NHL Tonight name and logo, On The Fly, NHL Network Showdown name and logo, NHL Awards name and logo, NHL Draft name and logo, NHL Mascots, Hockey Fights Cancer, Because It's The Cup, NHL Green name and logo, NHL Vault, Hockey Is For Everyone, NHL Thanksgiving Showdown name and logo, NHL Centennial Classic name and logo, NHL Centennial Season logo, NHL100 Classic name and logo, NHL Global Series name and logo, NHL China Games name and logo, NHL Power Players name and logo, NHL Outdoors at Lake Tahoe name and logo, and Don't Miss A Moment are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL 2021. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA. The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc.© Frank J. Zamboni & Co., Inc. 2021. All Rights Reserved. Any other third party trademarks or copyrights are the property of their respective owners. All rights reserved.
 
-(function(window){ var getOrientation = function(){ var width = window.innerWidth || document.documentElement.clientWidth; var height = window.innerHeight || document.documentElement.clientHeight; var orientation = (height >= width) ? 'Portrait' : 'Landscape'; return orientation; }; var getParsedUserTokenId = function(){ var userToken = s.Util.cookieRead('Authorization'), spl; if (userToken === '') { return false; } else { spl = userToken.split('.'); return (spl.length > 1) ? JSON.parse(window.atob(spl\[1\])).userid : false; } }; var capitalize = function(str){ return str.charAt(0).toUpperCase() + str.substr(1); }; var trackingSectionName = 'microsites'; var trackingPageName = 'National Hockey League : ' + trackingSectionName + ' : Terms of Service'; var reportingSuiteIds = 'nhlglobal15,nhlcom15'; var s = window.adobeAnalytics = s\_gi(reportingSuiteIds); var contextDataAllCalls = { 'site.languageLocale' : 'en\_US', 'site.origin' : 'US', 'site.club' : 'nhl', 'user.ipid' : s.Util.cookieRead('ipid') || getParsedUserTokenId() || null, 'user.userAgent' : window.navigator.userAgent || null }; window.trackAsync = function( asyncContextDataObj ) { var s = s\_gi( reportingSuiteIds ); var linkTrackVars = \[\]; s.clearVars(); s.contextData = {}; // props taken from page load for ( var prop in contextDataAllCalls ) { s.contextData\[ prop \] = contextDataAllCalls\[ prop \]; } // Add dynamic props unless explicitly told not to. if ( ! asyncContextDataObj.notDynamic ) { s.contextData\[ 'dynamic.component' \] = null; s.contextData\[ 'dynamic.componentAction' \] = null; s.contextData\[ 'dynamic.componentLocation' \] = trackingPageName; s.contextData\[ 'dynamic.formfactorOrientation' \] = capitalize( window.getStartupDeviceTypeString() ) + ': ' + getOrientation(); s.contextData\[ 'dynamic.dynamicPageView' \] = ( parseInt( asyncContextDataObj\[ 'events.dynamicPageView' \] ) ) ? 'Dynamic Page View' : null; s.contextData\[ 'dynamic.ipid' \] = s.Util.cookieRead( 'ipid' ); s.contextData\['site.view'\] = 'web'; s.contextData\['adobe.url'\] = window.location.href; } // Generic replacements. if ( asyncContextDataObj\[ 'dynamic.componentLocation' \] === '@SITE\_GENERIC@' ) { asyncContextDataObj\[ 'dynamic.componentLocation' \] = trackingPageName; } if ( asyncContextDataObj\[ 'dynamic.formfactorOrientation' \] === '@SITE\_GENERIC@' ) { asyncContextDataObj\[ 'dynamic.formfactorOrientation' \] = capitalize( window.getStartupDeviceTypeString() ) + ': ' + getOrientation(); } var prop; for ( prop in asyncContextDataObj ) { s.contextData\[ prop \] = asyncContextDataObj\[ prop \]; } // ensure pagename; perform replacement if ( asyncContextDataObj\[ 'adobe.pagename' \] === '@SITE\_GENERIC@' || ! s.contextData\[ 'adobe.pagename' \] ) { s.contextData\[ 'adobe.pagename' \] = trackingPageName; } //Set s.linkTrackVars as comma-delimited string with all context data vars - prefix each with 'contextData.' for ( prop in s.contextData ) { if ( s.contextData\[ prop \] !== null ) { linkTrackVars.push( 'contextData.' + prop ); } } s.linkTrackVars = linkTrackVars.join(); var navigate = s.contextData.navigate; var sourceElem = s.contextData.sourceElem; // Remove non-tracking properties. delete s.contextData.wire; delete s.contextData.notDynamic; delete s.contextData.navigate; delete s.contextData.sourceElem; // async call if (navigate && sourceElem) { // https://marketing.adobe.com/resources/help/en\_US/sc/implement/link\_manual.html s.tl(sourceElem, 'o', 'http://myGenericURL', null, 'navigate'); } else { s.tl(true, 'o', 'http://myGenericURL'); } }; })(window); (function(window) { try { } catch (e) {} })(window); (function() { var siteJS = {"desktop":"site-all","tablet":"site-all","phone":"site-all","webview":"site-webview"} var sectionJS = {}; var pageJS = {"desktop":"info","tablet":"info","phone":"info"}; var pageAssetJS = \[\]; var type = getStartupDeviceTypeString(); var siteType = getStartupDeviceTypeString(); /\* site and section build=true \*/ var siteScripts = \[\]; var scripts = \[\]; if (siteJS\[siteType\]) { siteScripts.push('//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1607109300/scripts/'+siteJS\[siteType\]+'.js.gz'); } if (sectionJS\[type\]) { scripts.push('//www-league.nhlstatic.com/nhl.com/sections/microsites/builds/b10388ea036bc8f16005f3b62342e44dc355a7a0\_1598380194/scripts/'+sectionJS\[type\]+'.js.gz'); } if (pageJS\[type\]) { scripts.push('//www-league.nhlstatic.com/nhl.com/sections/microsites/builds/b10388ea036bc8f16005f3b62342e44dc355a7a0\_1598380194/scripts/'+pageJS\[type\]+'.js.gz'); } var loadPageAssets = function() { if (pageAssetJS && pageAssetJS.length) { var assetScripts = \[\]; pageAssetJS.forEach(function(assetObject) { var assetType = assetObject.type; var assetVersion = assetObject.version; var assetScript = '//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1607109300/scripts/' + assetType + '/' + assetVersion + '/' + assetType + '.js'; assetScripts.push(assetScript); }); requirejs.config({ waitSeconds: 18, baseUrl: '//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1607109300/bower\_components', config: { text: { useXhr: function (url, protocol, hostname, port) { return true; } } } }); requirejs(assetScripts); } } if (siteScripts.length) { requirejs.config({ waitSeconds: 18, paths : { "bam-video-bootstrap": "//www-league.nhlstatic.com/nhl.com/video/videocore/video" } }); requirejs(siteScripts, function(){ if (scripts.length) { requirejs(scripts, loadPageAssets); } else { loadPageAssets(); } }); } })();
+(function(window){ var getOrientation = function(){ var width = window.innerWidth || document.documentElement.clientWidth; var height = window.innerHeight || document.documentElement.clientHeight; var orientation = (height >= width) ? 'Portrait' : 'Landscape'; return orientation; }; var getParsedUserTokenId = function(){ var userToken = s.Util.cookieRead('Authorization'), spl; if (userToken === '') { return false; } else { spl = userToken.split('.'); return (spl.length > 1) ? JSON.parse(window.atob(spl\[1\])).userid : false; } }; var capitalize = function(str){ return str.charAt(0).toUpperCase() + str.substr(1); }; var trackingSectionName = 'microsites'; var trackingPageName = 'National Hockey League : ' + trackingSectionName + ' : Terms of Service'; var reportingSuiteIds = 'nhlglobal15,nhlcom15'; var s = window.adobeAnalytics = s\_gi(reportingSuiteIds); var contextDataAllCalls = { 'site.languageLocale' : 'en\_US', 'site.origin' : 'US', 'site.club' : 'nhl', 'user.ipid' : s.Util.cookieRead('ipid') || getParsedUserTokenId() || null, 'user.userAgent' : window.navigator.userAgent || null }; window.trackAsync = function( asyncContextDataObj ) { var s = s\_gi( reportingSuiteIds ); var linkTrackVars = \[\]; s.clearVars(); s.contextData = {}; // props taken from page load for ( var prop in contextDataAllCalls ) { s.contextData\[ prop \] = contextDataAllCalls\[ prop \]; } // Add dynamic props unless explicitly told not to. if ( ! asyncContextDataObj.notDynamic ) { s.contextData\[ 'dynamic.component' \] = null; s.contextData\[ 'dynamic.componentAction' \] = null; s.contextData\[ 'dynamic.componentLocation' \] = trackingPageName; s.contextData\[ 'dynamic.formfactorOrientation' \] = capitalize( window.getStartupDeviceTypeString() ) + ': ' + getOrientation(); s.contextData\[ 'dynamic.dynamicPageView' \] = ( parseInt( asyncContextDataObj\[ 'events.dynamicPageView' \] ) ) ? 'Dynamic Page View' : null; s.contextData\[ 'dynamic.ipid' \] = s.Util.cookieRead( 'ipid' ); s.contextData\['site.view'\] = 'web'; s.contextData\['adobe.url'\] = window.location.href; } // Generic replacements. if ( asyncContextDataObj\[ 'dynamic.componentLocation' \] === '@SITE\_GENERIC@' ) { asyncContextDataObj\[ 'dynamic.componentLocation' \] = trackingPageName; } if ( asyncContextDataObj\[ 'dynamic.formfactorOrientation' \] === '@SITE\_GENERIC@' ) { asyncContextDataObj\[ 'dynamic.formfactorOrientation' \] = capitalize( window.getStartupDeviceTypeString() ) + ': ' + getOrientation(); } var prop; for ( prop in asyncContextDataObj ) { s.contextData\[ prop \] = asyncContextDataObj\[ prop \]; } // ensure pagename; perform replacement if ( asyncContextDataObj\[ 'adobe.pagename' \] === '@SITE\_GENERIC@' || ! s.contextData\[ 'adobe.pagename' \] ) { s.contextData\[ 'adobe.pagename' \] = trackingPageName; } //Set s.linkTrackVars as comma-delimited string with all context data vars - prefix each with 'contextData.' for ( prop in s.contextData ) { if ( s.contextData\[ prop \] !== null ) { linkTrackVars.push( 'contextData.' + prop ); } } s.linkTrackVars = linkTrackVars.join(); var navigate = s.contextData.navigate; var sourceElem = s.contextData.sourceElem; // Remove non-tracking properties. delete s.contextData.wire; delete s.contextData.notDynamic; delete s.contextData.navigate; delete s.contextData.sourceElem; // async call if (navigate && sourceElem) { // https://marketing.adobe.com/resources/help/en\_US/sc/implement/link\_manual.html s.tl(sourceElem, 'o', 'http://myGenericURL', null, 'navigate'); } else { s.tl(true, 'o', 'http://myGenericURL'); } }; })(window); (function(window) { try { } catch (e) {} })(window); (function() { var siteJS = {"desktop":"site-all","tablet":"site-all","phone":"site-all","webview":"site-webview"} var sectionJS = {}; var pageJS = {"desktop":"info","tablet":"info","phone":"info"}; var pageAssetJS = \[\]; var type = getStartupDeviceTypeString(); var siteType = getStartupDeviceTypeString(); /\* site and section build=true \*/ var siteScripts = \[\]; var scripts = \[\]; if (siteJS\[siteType\]) { siteScripts.push('//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1611085602/scripts/'+siteJS\[siteType\]+'.js.gz'); } if (sectionJS\[type\]) { scripts.push('//www-league.nhlstatic.com/nhl.com/sections/microsites/builds/b10388ea036bc8f16005f3b62342e44dc355a7a0\_1598380194/scripts/'+sectionJS\[type\]+'.js.gz'); } if (pageJS\[type\]) { scripts.push('//www-league.nhlstatic.com/nhl.com/sections/microsites/builds/b10388ea036bc8f16005f3b62342e44dc355a7a0\_1598380194/scripts/'+pageJS\[type\]+'.js.gz'); } var loadPageAssets = function() { if (pageAssetJS && pageAssetJS.length) { var assetScripts = \[\]; pageAssetJS.forEach(function(assetObject) { var assetType = assetObject.type; var assetVersion = assetObject.version; var assetScript = '//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1611085602/scripts/' + assetType + '/' + assetVersion + '/' + assetType + '.js'; assetScripts.push(assetScript); }); requirejs.config({ waitSeconds: 18, baseUrl: '//www-league.nhlstatic.com/nhl.com/builds/site-core/ca54874675e19f3e4263b4710af695409cb804a5\_1611085602/bower\_components', config: { text: { useXhr: function (url, protocol, hostname, port) { return true; } } } }); requirejs(assetScripts); } } if (siteScripts.length) { requirejs.config({ waitSeconds: 18, paths : { "bam-video-bootstrap": "//www-league.nhlstatic.com/nhl.com/video/videocore/video" } }); requirejs(siteScripts, function(){ if (scripts.length) { requirejs(scripts, loadPageAssets); } else { loadPageAssets(); } }); } })();
 
 (function(window){ var getOrientation = function(){ var width = window.innerWidth || document.documentElement.clientWidth; var height = window.innerHeight || document.documentElement.clientHeight; var orientation = (height >= width) ? 'Portrait' : 'Landscape'; return orientation; }; var getParsedUserTokenId = function(){ var userToken = s.Util.cookieRead('Authorization'), spl; if (userToken === '') { return false; } else { spl = userToken.split('.'); return (spl.length > 1) ? JSON.parse(window.atob(spl\[1\])).userid : false; } }; var capitalize = function(str){ return str.charAt(0).toUpperCase() + str.substr(1); }; var trackingSectionName = 'microsites'; var trackingPageName = 'National Hockey League : ' + trackingSectionName + ' : Terms of Service'; window.visitor = Visitor.getInstance('25823F955A99D5040A495C1D@AdobeOrg', { trackingServer : 'Bamtech.sc.omtrdc.net', trackingServerSecure : 'Bamtech.sc.omtrdc.net' }); var reportingSuiteIds = 'nhlglobal15,nhlcom15'; var s = window.adobeAnalytics = s\_gi(reportingSuiteIds); s.visitor = Visitor.getInstance('25823F955A99D5040A495C1D@AdobeOrg'); s.trackingServer = 'Bamtech.sc.omtrdc.net'; s.trackingServerSecure = 'Bamtech.sc.omtrdc.net'; s.trackDownloadLinks = true; s.trackExternalLinks = false; s.trackInlineStats = true; s.linkDownloadFileTypes = 'exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx,jpg'; s.linkInternalFilters = 'javascript:,nhl.com'; s.linkLeaveQueryString = false; s.linkTrackVars = 'None'; s.linkTrackEvents = 'None'; s.contextData.timestamp = new Date(); s.contextData\['adobe.rsids'\] = reportingSuiteIds; s.contextData\['adobe.svi'\] = 'D=s\_vi'; s.contextData\['site.sectionTitle'\] = 'Terms of Service'; s.contextData\['site.view'\] = 'web'; s.contextData\['site.formFactor'\] = capitalize( window.getStartupDeviceTypeString() ); s.contextData\['site.orientation'\] = getOrientation(); s.contextData\['site.formfactorOrientation'\] = capitalize( window.getStartupDeviceTypeString() ) + ': ' + getOrientation(); // used in page and async calls var contextDataAllCalls = { 'site.languageLocale' : 'en\_US', 'site.origin' : 'US', 'site.club' : 'nhl', 'user.ipid' : s.Util.cookieRead('ipid') || getParsedUserTokenId() || null, 'user.userAgent' : window.navigator.userAgent || null }; for (var prop in contextDataAllCalls) { s.contextData\[prop\] = contextDataAllCalls\[prop\]; } window.adobe = window.adobe || {}; // Section level adobe overrides. // TODO - Pagename vars are backwards video: Multimedia s.contextData\['adobe.pagename'\] = window.adobe.pagename = trackingPageName; s.contextData\['adobe.channel'\] = window.adobe.channel = trackingSectionName; s.contextData\['adobe.url'\] = window.location.href; // query params s.contextData\['qparam.affiliateId'\] = s.Util.getQueryParam('affiliateId'); s.contextData\['qparam.mlbkw'\] = s.Util.getQueryParam('mlbkw'); s.contextData\['qparam.partnerId'\] = s.Util.getQueryParam('partnerId'); s.contextData\['qparam.tcid'\] = s.Util.getQueryParam('tcid'); s.contextData\['qparam.tdl'\] = s.Util.getQueryParam('tdl'); s.contextData\['qparam.tfl'\] = s.Util.getQueryParam('tfl'); s.contextData\['qparam.vbID'\] = s.Util.getQueryParam('vbID'); s.contextData\['tcall.isSimPageView'\] = 1; // section level overrides // page level overrides // response overrides window.trackPageView = function( contextDataObj ) { var prop; for ( prop in contextDataObj ) { s.contextData\[ prop \] = contextDataObj\[ prop \]; } s.t(); }; // page view call trackPageView(); })(window); (function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-106053125-1', 'auto'); ga('send', 'pageview'); ! function(f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function() { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f.\_fbq) f.\_fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = \[\]; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)\[0\]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en\_US/fbevents.js'); fbq('init', '1921075634812764'); fbq('track', 'PageView');
 

@@ -95,7 +95,7 @@ Byte is not obligated to monitor access to or use of the Services or to review o
     Address: Byte, PO Box 611, New York, NY 10272
     
 
-[jobs](https://jobs.lever.co/byte-2)
+[jobs](https://jobs.lever.co/clashapp)
 
 [community](https://community.byte.co/)
 

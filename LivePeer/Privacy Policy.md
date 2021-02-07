@@ -190,4 +190,4 @@ Community
 
 Copyright © 2020 Livepeer, Inc. All rights reserved.
 
-{"props":{"pageProps":{}},"page":"/privacy-policy","query":{},"buildId":"NWPO38DlHCJ6anEDXACyw","runtimeConfig":{},"nextExport":true,"autoExport":true,"isFallback":false}
+{"props":{"pageProps":{}},"page":"/privacy-policy","query":{},"buildId":"DXTOrP1LI70-cHPmyynQJ","runtimeConfig":{},"nextExport":true,"autoExport":true,"isFallback":false}

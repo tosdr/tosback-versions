@@ -67,11 +67,13 @@ Or browse results titled :
 *   [sign up](#)
 *   [log in](https://bandcamp.com/login)
 
-[Bandcamp Gift Cards](https://bandcamp.com/gift_cards?from=header)
+[We’re hiring!](https://bandcamp.com/jobs)
+
+[We’re hiring!](https://bandcamp.com/jobs)
 
 Hey! Please verify your email by clicking the link we sent to . [Change email / Send again](#)
 
-[Bandcamp Gift Cards](https://bandcamp.com/gift_cards?from=header)
+[We’re hiring!](https://bandcamp.com/jobs)
 
 ×
 
@@ -176,11 +178,11 @@ Welcome to the non-legally-binding introductory paragraph to our Terms of Use! W
 
 OK, on to the legally binding portion!
 
-Please read these Terms of Use ("Agreement" or "Terms of Use") carefully before using the services offered by Bandcamp, Inc. ("Company," “we,” “us,” or “our”). This agreement sets forth the legally binding terms and conditions for your use of the Website at [www.bandcamp.com](http://www.bandcamp.com/) (the "Site") and the service owned and operated by company, including any mobile software applications offered or published by Company (collectively with the Site, the "Service"). By using the Site or Service in any manner, including but not limited to visiting or browsing the Site, you agree to be bound by these Terms of Use. These Terms of Use apply to all users of the Site or Service, including users who are also contributors of content, information, and other materials or services on the Site.
+Please read these Terms of Use ("Agreement" or "Terms of Use") carefully before using the services offered by Bandcamp, Inc. ("Company," “we,” “us,” or “our”). This agreement sets forth the legally binding terms and conditions for your use of the Website at [bandcamp.com](https://bandcamp.com/) (the "Site") and the service owned and operated by company, including any mobile software applications offered or published by Company (collectively with the Site, the "Service"). By using the Site or Service in any manner, including but not limited to visiting or browsing the Site, you agree to be bound by these Terms of Use. These Terms of Use apply to all users of the Site or Service, including users who are also contributors of content, information, and other materials or services on the Site.
 
 ### Acceptance of Terms.
 
-The Service is offered subject to acceptance without modification of all of the terms and conditions contained herein (the “Terms of Use”), which Terms of Use also incorporate the Privacy Policy available at [www.bandcamp.com/privacy.html](https://bandcamp.com/privacy), the Copyright Policy available at [www.bandcamp.com/copyright.html](https://bandcamp.com/copyright), and all other operating rules, policies and procedures that may be published from time to time on the Site by Company, each of which is incorporated by reference into these Terms of Use and each of which may be updated by Company from time to time without prior notice to you. In addition, some services offered through the Service may be subject to additional terms and conditions promulgated by Company from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference.
+The Service is offered subject to acceptance without modification of all of the terms and conditions contained herein (the “Terms of Use”), which Terms of Use also incorporate the Privacy Policy available at [bandcamp.com/privacy](https://bandcamp.com/privacy), the Copyright Policy available at [bandcamp.com/copyright](https://bandcamp.com/copyright), and all other operating rules, policies and procedures that may be published from time to time on the Site by Company, each of which is incorporated by reference into these Terms of Use and each of which may be updated by Company from time to time without prior notice to you. In addition, some services offered through the Service may be subject to additional terms and conditions promulgated by Company from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference.
 
 If you are using or opening an account on behalf of a company, entity or organization (including, but not limited to, a recording label) (each an “Artist Entity”), then you represent and warrant that you: (i) are an authorized representative of that Artist Entity and any recording artists represented by such Artist Entity (a “Represented Artist”) with the authority to bind such Artist Entity or Represented Artist to these Terms of Use and (ii) agree to be bound by these Terms of Use on behalf of such Artist Entity and/or Represented Artist.
 
@@ -257,7 +259,7 @@ You warrant that if you enter into a Transaction, then you shall be able to make
 
 You will set the prices for your products and services that are charged through Transactions (the “Prices”) through the Site, and you may change the Prices at your sole discretion. Notwithstanding the preceding sentence, Bandcamp may redistribute previously purchased copies of your products to users who have, in Bandcamp’s sole determination, received a corrupted copy of your product, an incorrect file format version of your product, an incomplete copy of your product, or suffered a loss of your product through hard drive failure, damage, theft or destruction, on a no-fee basis to the user (i.e., the user is not charged a new fee for the redistribution). Such redistribution may be effectuated by allowing a user to redownload a replacement copy themselves. A user that has a Fan Account will also be permitted to redownload any previously purchased Content from an Artist. In the event of any of the foregoing redistributions, no additional payments shall be made to you for such redistributions.
 
-Company shall be entitled to a share of the revenue you receive from Transactions (the “Revenue Share”), which shall be calculated on your gross revenue from Transactions, not including any Transactions for which you or we provide a refund, in accordance with the rate schedule set forth at [www.bandcamp.com/pricing](https://bandcamp.com/pricing). You shall be solely responsible and liable for, and Company shall have no responsibility or liability for, any Stripe fees (except for fees charged on Company’s Stripe account), PayPal fees (except for fees charged on Company’s PayPal account), credit card transaction fees (together, “Fees”), bad debts (such as credit card returns or fraud), disputed payments, and refunds, except as provided in this Agreement.
+Company shall be entitled to a share of the revenue you receive from Transactions (the “Revenue Share”), which shall be calculated on your gross revenue from Transactions, not including any Transactions for which you or we provide a refund, in accordance with the rate schedule set forth at [bandcamp.com/pricing](https://bandcamp.com/pricing). You shall be solely responsible and liable for, and Company shall have no responsibility or liability for, any Stripe fees (except for fees charged on Company’s Stripe account), PayPal fees (except for fees charged on Company’s PayPal account), credit card transaction fees (together, “Fees”), bad debts (such as credit card returns or fraud), disputed payments, and refunds, except as provided in this Agreement.
 
 Bandcamp may withhold any taxes, duties, charges or levies on payments by Bandcamp to you pursuant to this Agreement as may be required by applicable law, rule or regulation. Bandcamp shall remit any such withheld taxes, duties, charges or levies to the appropriate tax authority.
 

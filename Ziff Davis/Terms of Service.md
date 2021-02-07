@@ -48,11 +48,12 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [TechBargains](http://www.techbargains.com/)
 *   [Mashable](http://www.mashable.com/)
 *   [Offers.com](http://www.offers.com/)
-*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [Tippit](http://www.tippit.com/)
+*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [CouponCodes.com](http://www.couponcodes.com/)
 *   [Black Friday](http://www.blackfriday.com/)
 *   [Best Black Friday](http://www.bestblackfriday.com/)
+*   [Retail Me Not](https://www.retailmenot.com/)
 *   [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
 *   [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
 *   [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
@@ -64,6 +65,7 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [The Black Friday](https://theblackfriday.com/)
 *   [PCMag Shop](https://shop.pcmag.com/)
 *   [Offers Shop](https://shop.offers.com/)
+*   [Mashable Shop](https://shop.mashable.com/)
 *   [IGN Store](https://store.ign.com/)
 
 Applications:

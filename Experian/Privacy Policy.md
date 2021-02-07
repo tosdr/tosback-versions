@@ -75,7 +75,7 @@ Toggle navigation
 *   Industries
     *   *   [Automotive](http://www.experian.com/automotive/auto-data)
         *   [Banks](https://www.experian.com/banks/)
-        *   [Communications](http://www.experian.com/business-services/communication-energy)
+        *   [Communications](https://www.experian.com/telecommunications/)
         *   [Credit Unions](https://www.experian.com/credit-unions/)
         *   [Debt Recovery](http://www.experian.com/business-services/debt-recovery)
         *   [Energy/Utilities](https://www.experian.com/utilities/)
@@ -241,10 +241,10 @@ Please note: This privacy policy applies only to this on-line Web site and appli
 *   [Investor Relations](http://www.experianplc.com/ "Investor Relations")
 *   [Contact Us](https://www.experian.com/contact/corporate-contacts.html "Contact Us")
 
-©2020 Experian Information Solutions, Inc. All rights reserved.
+©2021 Experian Information Solutions, Inc. All rights reserved.
 
 Experian and the Experian trademarks used herein are trademarks or registered trademarks of Experian. Other product or company names mentioned herein are the property of their respective owners.
 
 .restrict-col .contentBlock{ padding-left:15px !important; padding-right:15px !important; } @media (max-width:576px) { .bannerLayout .hero-image{ height: auto !important; } .bannerLayout .hero-marquee .mobile-bg{ height:200px !important; } }
 
-var expChannel = 'Enterprise', expBUPartner = 'Privacy', expBUSegment = '', expPageGrp = '', expPageOwner = 'Legal'; \_satellite.pageBottom();
+var expChannel = 'Corporate', expBUPartner = 'Legal', expBUSegment = '', expPageGrp = '', expPageOwner = 'Legal'; \_satellite.pageBottom();

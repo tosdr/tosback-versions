@@ -91,57 +91,55 @@ Not Safe For Life (NSFL) is equivalent to the [**British Board of Film Classific
 Prohibited Content
 ------------------
 
-Posting, endorsing, promoting or linking to content that falls within the following categories is strictly prohibited on the BitChute platform. Repeated offences will lead to account termination.
+Any individuals, organisations or other entities that are engaged in the following activities are not permitted to have a presence on the platform.
 
-If you discover any such material on the BitChute platform, then we expect you to report it to us immediately using the [**Flagging & Reporting**](https://support.bitchute.com/policy/content-moderation#flagging--reporting) tools provided.
+Any material that is produced by, endorsing, empowering or otherwise promoting individuals, organisations or any other entity engaging in the following activities is not permitted on the platform.
+
+Posting, celebrating, endorsing, glorifying, denying the existence of, linking to or otherwise promoting content containing the following activities is strictly prohibited on the platform. Repeated offences will lead to account suspension or termination.
+
+If you discover any such material on BitChute, then we expect you to report it to us immediately using the [**Flagging & Reporting**](https://support.bitchute.com/policy/content-moderation#flagging--reporting) tools provided.
+
+We acknowledge that showing and/or referencing instances of the following activities may be necessary to hold the perpetrators to account. If this your objective then you must clearly state this within the content, be respectful to victims and ensure that your content cannot be exploited to endorse, empower or otherwise promote individuals, organisations or any other entity engaging in such activities.
 
 #### Abhorrent Violence
 
-We define abhorrent violence as real-life non-consensual acts of kidnapping, attempted murder, murder, mutilation, rape or torture.
-
-Any individuals, organisations or other entities that are engaged in abhorrent violence are not permitted to have a presence on the platform.
-
-Any material that is produced by, endorsing, promoting or empowering individuals, organisations or any other entity engaging in abhorrent violence is not permitted and will not be tolerated on the platform.
-
-We acknowledge that showing and/or referencing acts of abhorrent violence may be necessary to hold the perpetrators to account. If this your objective then you must clearly state this within the content, be respectful to victims and ensure that your content cannot be exploited to endorse, promote or empower individuals, organisations or any other entity engaging in abhorrent violence.
+Defined as real-life non-consensual acts of kidnapping, attempted murder, murder, mutilation, rape or torture.
 
 #### Animal Cruelty
 
-Any material threatening, inciting, promoting, endorsing, encouraging or celebrating cruelty to animals is not permitted and will not be tolerated on the platform.
+As defined in the Prevention of Harm section of the [**UK Animal Welfare Act 2006**](https://www.legislation.gov.uk/ukpga/2006/45/crossheading/prevention-of-harm).
 
 #### Child Abuse or Endangerment
 
-Any material threatening, inciting, promoting, endorsing, encouraging or celebrating the abuse, sexualisation, endangerment or exploitation of children is not permitted and will not be tolerated on the platform.
+Defined as the abuse, sexualisation, endangerment, exploitation of children or any offence defined within the [**UK Children and Young Persons Act 1933**](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/contents).
 
 #### Harassment
 
-Any harassment that is determined to be unlawful within the domiciles of either the originator or the target is not permitted and will not be tolerated on the platform.
-
-Any material disclosing sensitive personal information without permission of the individual is not permitted and will not be tolerated on the platform. This includes but is not limited to addresses, social security numbers, passport numbers, phone numbers or bank account numbers.
+Defined as any harassment that is determined to be unlawful within the domiciles of either the originator or the target. This includes disclosure of sensitive personal information without permission of the individual, including but not limited to addresses, social security numbers, passport numbers, phone numbers or bank account numbers.
 
 #### Harmful Activities
 
-Any material promoting, endorsing, encouraging or celebrating activities that are likely to lead to someone getting badly hurt or worse is not permitted and will not be tolerated on the platform. This includes but is not limited to injection or ingestion of dangerous substances, self-harm and suicide.
+Defined as the injection / ingestion of dangerous substances, self-harm, suicide and other activities that are intended to lead to someone getting badly hurt or worse.
+
+#### Incitement to Hatred (UK, EU & EEA users)
+
+As defined in the [**UK Audio-visual Media Services Regulations 2020**](https://www.legislation.gov.uk/uksi/2020/1062/made), this applies to hatred against a group of persons or a member of a group of persons based on any of the grounds referred to in Article 21 of the [**Charter of Fundamental Rights of the European Union**](https://www.europarl.europa.eu/charter/pdf/text_en.pdf).
+
+There should be a reasonable probability that the content would succeed in inciting actual action against the target, recognizing that such causation should be rather direct.
 
 #### Sexually Explicit
 
-Any material that is sexually explicit, portraying sexual acts or showing sexual arousal is not permitted and will not be tolerated on the platform. If this describes your content, especially if it is of yourself, then do not post it on BitChute.
+Defined as real, simulated or otherwise portrayed content containing sexual intercourse, sexual acts or sexual arousal.
 
 #### Terrorism & Violent Extremism
 
-We define terrorism and violent extremism as any act of violence or intimidation carried out with the intention of furthering a religious, political or any other ideological objective.
-
-Any individuals, organisations or other entities that are engaged in terrorism or violent extremism are not permitted to have a presence on the platform.
-
-Any material that is produced by, endorsing, promoting or empowering individuals, organisations or any other entity engaging in terrorism or violent extremism is not permitted and will not be tolerated on the platform.
+Defined as any act of violence or intimidation carried out with the intention of furthering a religious, political or any other ideological objective.
 
 BitChute maintains and publishes a [**Proscribed Terrorist & Violent Extremist List**](https://support.bitchute.com/policy/proscribed-terrorist-violent-extremist) that is utilised when identifying terrorist and violent extremist material. As this list will evolve over time, we suggest that all users regularly check it to ensure they are not breaching the guidelines.
 
-We acknowledge that showing and/or referencing acts of terrorist and/or violent extremism may be necessary to hold the perpetrators to account. If this your objective then you must clearly state this within the content, be respectful to victims and ensure that your content cannot be exploited to endorse, promote or empower individuals, organisations or any other entity engaging in terrorism or extreme violence.
-
 #### Threats or Incitement to Violence
 
-Any material containing credible threats of violence or incitement to violence is not permitted and will not be tolerated on the platform.
+Defined as credible threats of violence or incitement to violence where there is a reasonable probability that the content would succeed in actual action against the target, recognizing that such causation should be rather direct.
 
 Platform Misuse
 ---------------
@@ -162,7 +160,7 @@ Misuse of the platform and/or the functionality provided is not permitted and sh
 
 #### Was this article helpful?
 
-[2560](#) [353](#)
+[3685](#) [426](#)
 
 #### Related Questions:
 
@@ -186,7 +184,7 @@ Our customer support team is here for you.
 
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
-BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2020 Bit Chute Limited. United Kingdom. Company number 10637289.
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2021 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
 
 #### Definition by [Author](#)
 

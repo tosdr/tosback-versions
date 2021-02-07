@@ -1,4 +1,4 @@
-Cover Your Tracks Cover Your Tracks | Privacy Policy         
+Cover Your Tracks Cover Your Tracks | Privacy Policy              
 
 ![EFF logo](/static/images/eff-logo-red.svg) A Project of the [Electronic Frontier Foundation](https://www.eff.org/) 
 

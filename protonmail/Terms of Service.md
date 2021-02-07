@@ -80,7 +80,7 @@ If the Company chooses to issue a refund for any reason, the Company is only obl
 
 The Company has the right to discontinue service immediately if a fraudulent payment is detected, such as the use of a stolen credit card, and such cases may be further referred to the competent authorities.
 
-You authorize the Company to charge any credit card supplied on a monthly or annually re-occurring basis. Credit balances will also automatically be deducted on a monthly or annual basis. You are responsible for keeping card information up to date.
+You authorize the Company to charge any credit card supplied on a monthly, bi-annually, or annually re-occurring basis (depending on your selection). Credit balances will also automatically be deducted on a monthly, bi-annual, or annual basis. You are responsible for keeping card information up to date.
 
 If you fail to fulfill your obligation of payment as a user of a paid account, we may suspend your account or delete it after an extended period of default.
 

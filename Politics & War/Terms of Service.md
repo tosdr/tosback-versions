@@ -265,4 +265,4 @@ Yellowstone Digital Media LLC
 Billings, MT 59105  
 United States
 
-yellowstonedigit[\[email protected\]](https://politicsandwar.com/cdn-cgi/l/email-protection)
+[\[email protected\]](https://politicsandwar.com/cdn-cgi/l/email-protection)

@@ -9,6 +9,8 @@ TekSavvy is monitoring the COVID-19 situation carefully.  Learn More
 
 [Skip to main content](#main)
 
+![f](https://www.facebook.com/tr?id=1025372454151815&ev=PageView&noscript=1)
+
 *   [Personal](https://www.teksavvy.com/)  |  [Business](https://business.teksavvy.com/)
 *   Check Availability ![...](/wp-content/themes/teksavvy/assets/img/update-loader.gif)   |  [FR](https://www.teksavvy.com/fr/politiques/section-juridique/politique-sur-la-protection-des-renseignements-personnels/ "View this website in French") 
 

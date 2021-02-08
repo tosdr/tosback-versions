@@ -6,8 +6,6 @@
 
 [Login](https://pastebin.com/login) [Sign up](https://pastebin.com/signup)
 
-if (screen && screen.width > 1024){var script=document.createElement('script'); script.src='//served-by.pixfuture.com/www/delivery/headerbid.js'; script.setAttribute("slotId","16063x728x90x2778x\_ADSLOT1"); script.setAttribute("refreshInterval",30); script.setAttribute("refreshTime",5); document.getElementById("16063x728x90x2778x\_ADSLOT1").appendChild(script);}
-
 Pastebin.com Terms of Service UPDATED
 
 Come into effect 12th Nov 2020  
@@ -328,44 +326,40 @@ Nothing in these Terms creates an agency, partnership, joint venture, employer-e
 **6\. Contact Information**  
 If you have any questions about these Terms, the Service, or your account, please email us at [support@pastebin.com](mailto:support@pastebin.com).
 
-if (screen && screen.width > 1024){var script=document.createElement('script'); script.src='//served-by.pixfuture.com/www/delivery/headerbid\_sticky\_refresh.js?v31'; script.setAttribute("slotId","PixFuture-16068x728x90x2778"); script.setAttribute("adUnitId","16068x728x90x2778x\_ADSLOT1"); script.setAttribute("refreshInterval",60); script.setAttribute("refreshTime",5); document.getElementById("PixFuture-16068x728x90x2778").appendChild(script);}
-
 [Public Pastes](https://pastebin.com/archive)
 
-*   [DIOS ( firewall )](https://pastebin.com/3T4bmk8y)
+*   [TEMPORARY NODE MAK...](https://pastebin.com/uAFi9UbZ)
     
-    MySQL | 2 sec ago
+    Python | 22 min ago
     
-*   [Untitled](https://pastebin.com/vTW4B7FJ)
+*   [Untitled](https://pastebin.com/K9xfKvXT)
     
-    Python | 53 sec ago
+    C# | 33 min ago
     
-*   [GeneticAlgorithm](https://pastebin.com/Chqy1rxE)
+*   [DebugHardware](https://pastebin.com/sSYFMTBU)
     
-    Lua | 2 min ago
+    C++ | 59 min ago
     
-*   [IDC 2013](https://pastebin.com/hCcCjc9c)
+*   [Brute Force Zip (...](https://pastebin.com/uMLwkdGM)
     
-    C++ | 3 min ago
+    Python | 1 hour ago
     
-*   [Untitled](https://pastebin.com/i9uTu0xQ)
+*   [XSS](https://pastebin.com/SbCdWekq)
     
-    Python | 4 min ago
+    C++ | 1 hour ago
     
-*   [SkillTree](https://pastebin.com/jAixHrgH)
+*   [filter](https://pastebin.com/D50uC410)
     
-    Lua | 5 min ago
+    Lua | 1 hour ago
     
-*   [SkillHandler](https://pastebin.com/UVS5Sk3w)
+*   [Untitled](https://pastebin.com/eyFaSwV5)
     
-    Lua | 5 min ago
+    Python | 1 hour ago
     
-*   [My Log File](https://pastebin.com/j1gbdfEh)
+*   [SQL](https://pastebin.com/3T4bmk8y)
     
-    HTML 5 | 8 min ago
+    MySQL | 1 hour ago
     
-
-if (screen && screen.width > 1024){var script=document.createElement('script'); script.src='//served-by.pixfuture.com/www/delivery/headerbid.js'; script.setAttribute("slotId","16043x160x600x2778x\_ADSLOT1"); script.setAttribute("refreshInterval",30); script.setAttribute("refreshTime",5); document.getElementById("16043x160x600x2778x\_ADSLOT1").appendChild(script);}
 
 [create new paste](https://pastebin.com/)  /  [syntax languages](https://pastebin.com/languages)  /  [archive](https://pastebin.com/archive)  /  [faq](https://pastebin.com/faq)  /  [tools](https://pastebin.com/tools)  /  [night mode](https://pastebin.com/night_mode)  /  [api](https://pastebin.com/doc_api)  /  [scraping api](https://pastebin.com/doc_scraping_api)   / [pro](https://pastebin.com/pro)  
 [privacy statement](https://pastebin.com/doc_privacy_statement)  /  [cookies policy](https://pastebin.com/doc_cookies_policy)  /  [terms of service](https://pastebin.com/doc_terms_of_service)updated  /  [security disclosure](https://pastebin.com/doc_security_disclosure)  /  [dmca](https://pastebin.com/dmca)  /  [report abuse](https://pastebin.com/report-abuse)  /  [contact](https://pastebin.com/contact)  

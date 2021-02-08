@@ -182,7 +182,7 @@ The Terms may be modified from time to time. The date of the most recent revisio
 
 #### Contact
 
-We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at [\[email protected\]](https://www.backblaze.com/cdn-cgi/l/email-protection)  
+We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at [\[email protected\]](https://www.backblaze.com/cdn-cgi/l/email-protection)e.com.  
   
 Previous Version(s):
 

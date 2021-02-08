@@ -341,4 +341,4 @@ this.customElements||document.write('<script src="https://www.ikea.com/us/en/hea
 
 ![](https://www.facebook.com/tr?id=335459029990995&ev=PageView&noscript=1)
 
-var acs\_cs = 'aS5oJ4tF3hO4kD6sL2lU0sK8eD7iE3rL5uS8hY4yL6tX8yX3oL'; var acs\_ui = '454ce02c-ec47-4880-9c7c-032a9bfce429'; var acs\_url = 'https://api.ingka.ikea.com/customerv2/webinteractionv2/'; window.Krux || ((Krux = function () { Krux.q.push(arguments); }).q = \[\]); var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resources/09e8443f82rn184e8c9dacb578e9b461'\]);
+var acs\_cs = 'aS5oJ4tF3hO4kD6sL2lU0sK8eD7iE3rL5uS8hY4yL6tX8yX3oL'; var acs\_ui = '454ce02c-ec47-4880-9c7c-032a9bfce429'; var acs\_url = 'https://api.ingka.ikea.com/customerv2/webinteractionv2/'; window.Krux || ((Krux = function () { Krux.q.push(arguments); }).q = \[\]); var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resources/3b6e898425rn184e8c9dacb578e9b461'\]);

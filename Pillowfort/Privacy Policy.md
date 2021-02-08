@@ -1,6 +1,4 @@
-[Pillowfort](https://www.pillowfort.social/home) [P](https://www.pillowfort.social/home)[](https://www.pillowfort.social/privacypolicy)[](https://www.pillowfort.social/privacypolicy)
-
-[Login](https://www.pillowfort.social/users/sign_in)
+Pillowfort is currently in a "read-only" mode while we attend to some structural issues with the site. You can read more about the situation  [here](https://www.pillowfort.social/).
 
 .scroll-height{ overflow-y: scroll; }
 
